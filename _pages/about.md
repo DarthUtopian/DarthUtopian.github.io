@@ -20,14 +20,17 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+# Uncomment this when having some posts
+# latest_posts:
+#   enabled: true
+#   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+#   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a Masters Student at the [Robotics Institute](https://www.ri.cmu.edu) at [Carnegie Mellon University](https://www.ri.cmu.edu), advised by Prof. [Guanya Shi](https://www.gshi.me) and Prof. [Jeff Schneider](https://www.cs.cmu.edu/~schneide/). I received my Bachelor's degree in Machanical Engineering at [Xingjian College](https://www.xjc.tsinghua.edu.cn/en/About.htm), [Tsinghua University](https://www.tsinghua.edu.cn/en/index.htm). I was advised by Prof. [Shengbo Li](http://www.idlab-tsinghua.com/thulab/labweb/dpeople.html?11). I also worked at [MSCLab](https://msc.berkeley.edu) at UC Berkeley as a research intern, advised by Prof. [Masayoshi Tomizuka](https://me.berkeley.edu/people/masayoshi-tomizuka/).
+I'm a Masters Student at the [Robotics Institute](https://www.ri.cmu.edu) at [Carnegie Mellon University](https://www.ri.cmu.edu), advised by Prof. [Guanya Shi](https://www.gshi.me) and Prof. [Jeff Schneider](https://www.cs.cmu.edu/~schneide/). I received my Bachelor's degree in Machanical Engineering at [Xingjian College](https://www.xjc.tsinghua.edu.cn/en/About.htm) of [Tsinghua University](https://www.tsinghua.edu.cn/en/index.htm), advised by Prof. [Shengbo Li](http://www.idlab-tsinghua.com/thulab/labweb/dpeople.html?11). I also worked at [MSCLab](https://msc.berkeley.edu) at UC Berkeley as a research intern, advised by Prof. [Masayoshi Tomizuka](https://me.berkeley.edu/people/masayoshi-tomizuka/).
 
 I am interested in reinforcement learning for robotics that not to solve continuous control problems, but improving intellegence for foundation models. I worked on sample-effecient MBRL and real-work RL for VLA self-improvement, I also worked on behavior modeling in autonomous driving. 
 
-I am also am ameteur photographer, checkout my [UnSplash profile](https://unsplash.com/@darth_u).
+I am also love photography, checkout my [Unsplash profile](https://unsplash.com/@darth_u).
+
+Email: vlin3 [AT] andrew.cmu.edu
