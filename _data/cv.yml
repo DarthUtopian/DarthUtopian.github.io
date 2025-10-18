@@ -15,6 +15,10 @@
       institution: Xingjian College, Tsinghua University
       year: 2019 - 2023
 
+    - title: Master of Science in Robotics, Carnegie Mellon University
+      institution: Robotics Institute, Carnegie Mellon University
+      year: 2024 - now
+
 - title: Experience
   type: time_table
   contents:
@@ -23,15 +27,20 @@
       year: 2025 - now
 
     - title: Research Intern
+      institution: Tsinghua University
+      year: 2023 - 2024
+
+    - title: Research Intern
       institution: UC Berkeley
       year: 2023
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+# TODO: Add open source projects and honors and awards
+# - title: Open Source Projects
+#   type: time_table
+#   contents:
+#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#       year: 2015-now
+#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 # - title: Honors and Awards
 #   type: time_table
