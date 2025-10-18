@@ -6,7 +6,7 @@ subtitle: # <a href='link'>Robotics Institute, Carnegie Mellon University</a>.
 
 profile:
   align: right
-  image: lht.jpg
+  image: graduation.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>5000 Forbes Avenue</p>
