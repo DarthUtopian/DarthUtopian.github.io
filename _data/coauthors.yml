@@ -1,7 +1,3 @@
-"wang":
-  - firstname: ["Yixiao", "Y.", "Y. W.", "Yixiao Wang"]
-    url: https://yixiaowang7.github.io/
-
 "xiao":
   - firstname: ["Wenli", "W.", "W. X.", "Wenli Xiao"]
     url: https://www.wenlixiao.com
@@ -10,9 +6,20 @@
   - firstname: ["Guanya", "G.", "G. S.", "Guanya Shi"]
     url: https://www.gshi.me
 
+"zhu":
+  - firstname: ["Yuke", "Y.", "Y. Z.", "Yuke Zhu"]
+    url: https://yukezhu.me
+
+"fan":
+  - firstname: ["Jim", "J.", "J. F.", "Jim Fan"]
+    url: https://jimfan.me
+
 "wang":
   - firstname: ["Pengcheng", "P.", "P. P.", "Pengcheng Wang"]
     url: https://scholar.google.com/citations?user=fi3BdtEAAAAJ
+  - firstname: ["Yixiao", "Y.", "Y. W.", "Yixiao Wang"]
+    url: https://yixiaowang7.github.io
+
 
 "schneider":
   - firstname: ["Jeff", "J.", "J. S.", "Jeff Schneider"]
@@ -35,9 +42,17 @@
   - firstname: ["Zhiyuan", "Z.", "Z. L.", "Zhiyuan Liu"]
     url: https://scholar.google.com/citations?user=3y2SXWMAAAAJ&hl=en
 
-"Xu":
+"xu":
   - firstname: ["Chenfeng", "C.", "C. F.", "Chenfeng Xu"]
     url: https://www.chenfengx.com
+
+"xue":
+  - firstname: ["Haoru", "H.", "H. X.", "Haoru Xue"]
+    url: https://haoruxue.github.io
+
+"he":
+  - firstname: ["Tairan", "T.", "T. H.", "Tairan He"]
+    url: https://tairanhe.com
 
 
 # "podolsky":
