@@ -2,16 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: # <a href='link'>Robotics Institute, Carnegie Mellon University</a>.
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: lht.jpg
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>5000 Forbes Avenue</p>
+    <p>Pittsburgh, PA 15213</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +26,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm a Masters Student at the [Robotics Institute](https://www.ri.cmu.edu) at [Carnegie Mellon University](https://www.ri.cmu.edu), advised by Prof. [Guanya Shi](https://www.gshi.me) and Prof. [Jeff Schneider](https://www.cs.cmu.edu/~schneide/). I received my Bachelor's degree in Machanical Engineering at [Xingjian College](https://www.xjc.tsinghua.edu.cn/en/About.htm), [Tsinghua University](https://www.tsinghua.edu.cn/en/index.htm). I was advised by Prof. [Shengbo Li](http://www.idlab-tsinghua.com/thulab/labweb/dpeople.html?11). I also worked at [MSCLab](https://msc.berkeley.edu) at UC Berkeley as a research intern, advised by Prof. [Masayoshi Tomizuka](https://me.berkeley.edu/people/masayoshi-tomizuka/).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am interested in reinforcement learning for robotics that not to solve continuous control problems, but improving intellegence for foundation models. I worked on sample-effecient MBRL and real-work RL for VLA self-improvement, I also worked on behavior modeling in autonomous driving. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am also am ameteur photographer, checkout my [UnSplash profile](https://unsplash.com/@darth_u).
