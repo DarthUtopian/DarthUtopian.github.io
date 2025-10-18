@@ -1,6 +1,23 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Yixiao":
+  - firstname: ["Yixiao", "Y.", "Y. W.", "Yixiao Wang"]
+    url: https://yixiaowang7.github.io/
+
+"Wenli":
+  - firstname: ["Wenli", "W.", "W. X.", "Wenli Xiao"]
+    url: https://www.wenlixiao.com
+
+"Guanya":
+  - firstname: ["Guanya", "G.", "G. S.", "Guanya Shi"]
+    url: https://www.gshi.me
+
+"Pengcheng":
+  - firstname: ["Pengcheng", "P.", "P. P.", "Pengcheng Peng"]
+    url: https://scholar.google.com/citations?user=fi3BdtEAAAAJ
+
+"Jeff":
+  - firstname: ["Jeff", "J.", "J. S.", "Jeff Schneider"]
+    url: https://www.cs.cmu.edu/~schneide/
+
 
 # "podolsky":
 #   - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
