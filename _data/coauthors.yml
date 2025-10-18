@@ -1,22 +1,43 @@
-"Yixiao":
+"wang":
   - firstname: ["Yixiao", "Y.", "Y. W.", "Yixiao Wang"]
     url: https://yixiaowang7.github.io/
 
-"Wenli":
+"xiao":
   - firstname: ["Wenli", "W.", "W. X.", "Wenli Xiao"]
     url: https://www.wenlixiao.com
 
-"Guanya":
+"shi":
   - firstname: ["Guanya", "G.", "G. S.", "Guanya Shi"]
     url: https://www.gshi.me
 
-"Pengcheng":
-  - firstname: ["Pengcheng", "P.", "P. P.", "Pengcheng Peng"]
+"wang":
+  - firstname: ["Pengcheng", "P.", "P. P.", "Pengcheng Wang"]
     url: https://scholar.google.com/citations?user=fi3BdtEAAAAJ
 
-"Jeff":
+"schneider":
   - firstname: ["Jeff", "J.", "J. S.", "Jeff Schneider"]
     url: https://www.cs.cmu.edu/~schneide/
+
+# Add more coauthors that appear in your papers
+"huo":
+  - firstname: ["Mingxiao", "M.", "M. H.", "Mingxiao Huo"]
+    url: https://anthonyhuo.github.io
+
+"peng":
+  - firstname: ["Chensheng", "C.", "C. P.", "Chensheng Peng"]
+    url: https://pengchensheng.com
+
+"tomizuka":
+  - firstname: ["Masayoshi", "M.", "M. T.", "Masayoshi Tomizuka"]
+    url: https://me.berkeley.edu/people/masayoshi-tomizuka/
+
+"liu":
+  - firstname: ["Zhiyuan", "Z.", "Z. L.", "Zhiyuan Liu"]
+    url: https://scholar.google.com/citations?user=3y2SXWMAAAAJ&hl=en
+
+"Xu":
+  - firstname: ["Chenfeng", "C.", "C. F.", "Chenfeng Xu"]
+    url: https://www.chenfengx.com
 
 
 # "podolsky":
