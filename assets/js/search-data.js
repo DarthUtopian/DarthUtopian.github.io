@@ -471,7 +471,7 @@ ninja.data = [{
         title: 'Unsplash',
         section: 'Socials',
         handler: () => {
-          window.open("https://unsplash.com/@DarthUtopian", "_blank");
+          window.open("https://unsplash.com/@darth_u", "_blank");
         },
       },{
         id: 'social-x',
