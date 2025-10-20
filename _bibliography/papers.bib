@@ -5,7 +5,15 @@
   author={Wenli Xiao* and Haotian Lin* and Haoru Xue and Tairan He and Zhengyi Luo and Yuqi Xie and Fengyuan Hu and Andy Peng and Guanya Shi and Jim Fan and Yuke Zhu},
   year={2025},
   selected={true},
-  abstract={true},
+  abstract={Supervised fine-tuning (SFT) has become the de facto post-training strategy for large vision-language-action (VLA) models, but its reliance on costly human demonstrations limits scalability and generalization. 
+  We propose Probe, Learn, Distill PLD, a plug-and-play framework that improves VLAs through residual reinforcement learning and distribution-aware data collection. 
+  In Stage~1 (specialist acquisition), we freeze the VLA backbone and train lightweight residual actors via off-policy RL. 
+  These specialists take over in states where the base policy fails, thereby probing failure regions of the generalist. 
+  In Stage~2 (data collection), we employ a hybrid rollout scheme that biases residual interventions toward states frequently visited by the base policy, aligning collected trajectories with the generalist’s deployment distribution while capturing recovery behaviors. 
+  In Stage~3 (fine-tuning), these curated trajectories are distilled back into the generalist with standard SFT, applicable to both flow-matching and autoregressive heads. 
+  We evaluate PLD across diverse settings: it achieves a near-saturated 99 % task success rate on the LIBERO benchmark, delivers over 50 % performance gains in SimplerEnv, and demonstrates practicality on real-world Franka arm manipulation tasks. 
+  We further provide ablations showing that residual policy probing and distribution-aware replay are key to collecting deployment-aligned data that improves VLAs’ capabilities on both seen and unseen tasks. 
+  Our results demonstrate that RL-generated, policy-aligned data can surpass teleoperation-only demonstrations, offering a scalable path toward self-improving VLA models.},
   note={In submission},
   annotation={* Equal contribution}
 }
@@ -16,7 +24,11 @@
   journal={arXiv preprint arXiv:2502.03550},
   year={2025},
   selected={true},
-  abstract={true},
+  abstract={Model-based reinforcement learning (MBRL) algorithms that integrate model predictive control with learned value or policy priors have shown great potential to solve complex continuous control problems.
+However, existing practice relies on online planning to collect high-quality data, resulting in value learning that is entirely dependent on off-policy experiences. Contrary to the belief that value learned from model-free policy iteration within this framework is sufficiently accurate and expressive, we found that severe value overestimation bias occurs, especially in high-dimensional tasks.
+Through both theoretical analysis and empirical evaluations, we identify that this overestimation stems from a structural policy mismatch: the divergence between the exploration policy induced by the model-based planner and the exploitation policy evaluated by the value prior.
+To improve value learning, we emphasize conservatism that mitigates out-of-distribution queries. The proposed method, TD-M(PC)\(^2\), addresses this by applying a soft-constrained policy update—a minimalist yet effective solution that can be seamlessly integrated into the existing plan-based MBRL pipeline without incurring additional computational overhead.  
+Extensive experiments demonstrate that the proposed approach improves performance over baselines by large margins, particularly in 61-DoF humanoid control tasks.},
   bibtex_show={true},
   preview={TDMPC_square.gif},
   website={https://darthutopian.github.io/tdmpc_square},
@@ -31,7 +43,13 @@
   journal={arXiv preprint arXiv:2510.05213},
   year={2025},
   selected={true},
-  abstract={true},
+  abstract={Pretrained vision foundation models (VFMs) advance robotic learning via rich visual representations, yet individual VFMs typically excel only in specific domains, limiting generality across tasks. 
+  Distilling multiple VFMs into a unified representation for policy can mitigate this limitation but often yields inflexible task-specific feature selection and requires costly full re-training to incorporate robot-domain knowledge. 
+  We propose VER, a Vision Expert transformer for Robot learning. 
+  During pretraining, VER distills multiple VFMs into a vision expert library. It then fine-tunes only a lightweight routing network (fewer than 0.4% of parameters) to dynamically select task-relevant experts from the pretrained library for downstream robot tasks. 
+  We further introduce Patchwise Expert Routing with Curriculum Top-K Annealing to improve both flexibility and precision of dynamic expert selection. 
+  Moreover, VER supports parameter-efficient finetuning for scalable expert utilization and adaptive robot-domain knowledge integration. 
+  Across 17 diverse robotic tasks and multiple policy heads, VER achieves state-of-the-art performance. We find that VER reduces large-norm outliers in task-irrelevant regions (e.g., background) and concentrates on task-critical regions. },
   bibtex_show={true},
   preview={VER.pdf},
   website={https://yixiaowang7.github.io/ver_page/},
@@ -45,7 +63,6 @@
   author={Liu, Zhiyuan and Li, Leheng and Wang, Yuning and Lin, Haotian and Liu, Zhizhe and He, Lei and Wang, Jianqiang},
   journal={arXiv preprint arXiv:2409.15135},
   year={2024},
-  abstract={true},
   bibtex_show={true},
   preview={llm_traffic_iros25.png},
   arxiv={2409.15135},
@@ -61,7 +78,13 @@
   year={2024},
   organization={IEEE},
   selected={true},
-  abstract={true},
+  abstract={Joint pedestrian trajectory prediction has long grappled with the inherent unpredictability of human behaviors. 
+  Recent works employing conditional diffusion models in trajectory prediction have exhibited notable success. 
+  Nevertheless, the heavy dependence on accurate historical data results in their vulnerability to noise disturbances and data incompleteness. 
+  To improve the robustness and reliability, we introduce the Guided Full Trajectory Diffuser (GFTD), a novel diffusion-based framework that translates prediction as the inverse problem of spatial-temporal inpainting and models the full joint trajectory distribution which includes both history and the future. 
+  By learning from the full trajectory and leveraging flexible posterior sampling methods, GFTD can produce accurate predictions while improving the robustness that can generalize to scenarios with noise perturbation or incomplete historical data. 
+  Moreover, the pre-trained model enables controllable generation without an additional training budget. 
+  Through rigorous experimental evaluation, GFTD exhibits superior performance in joint trajectory prediction with different data quality and in controllable generation tasks},
   bibtex_show={true},
   preview={joint_prediction_iros24.pdf},
   arxiv={2404.00237},
@@ -75,7 +98,6 @@
   pages={1--7},
   year={2023},
   organization={IEEE},
-  abstract={true},
   bibtex_show={true},
   preview={vif_gnn.png},
   pdf={vif_gnn.pdf},
