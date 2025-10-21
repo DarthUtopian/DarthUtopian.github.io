@@ -27,10 +27,11 @@ announcements:
 #   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a Masters Student at the [Robotics Institute](https://www.ri.cmu.edu) at [Carnegie Mellon University](https://www.ri.cmu.edu), advised by Prof. [Guanya Shi](https://www.gshi.me) and Prof. [Jeff Schneider](https://www.cs.cmu.edu/~schneide/). I received my Bachelor's degree in Machanical Engineering at [Xingjian College](https://www.xjc.tsinghua.edu.cn/en/About.htm) of [Tsinghua University](https://www.tsinghua.edu.cn/en/index.htm), advised by Prof. [Shengbo Li](http://www.idlab-tsinghua.com/thulab/labweb/dpeople.html?11). I also worked at [MSCLab](https://msc.berkeley.edu) at UC Berkeley as a research intern, advised by Prof. [Masayoshi Tomizuka](https://me.berkeley.edu/people/masayoshi-tomizuka/).
+I'm a Masters Student at the [Robotics Institute](https://www.ri.cmu.edu) of **Carnegie Mellon University**, advised by Prof. [Guanya Shi](https://www.gshi.me) and Prof. [Jeff Schneider](https://www.cs.cmu.edu/~schneide/). I received my Bachelor's degree at **Tsinghua University**, where I was advised by Prof. [Shengbo Li](http://www.idlab-tsinghua.com/thulab/labweb/dpeople.html?11). I also worked at [MSCLab](https://msc.berkeley.edu) at **UC Berkeley** as a research intern, advised by Prof. [Masayoshi Tomizuka](https://me.berkeley.edu/people/masayoshi-tomizuka/).
 
-I am interested in reinforcement learning for robotics that not to solve continuous control problems, but improving intellegence for foundation models. I worked on sample-effecient MBRL and real-world RL for VLA self-improvement, I also worked on behavior modeling in autonomous driving. 
+My research focuses on **reinforcement learning for robotics**, not only to solve continuous control problems, but also to **advance the intelligence of robot foundation models**.  
+I worked on **sample-efficient model-based RL (MBRL)**, **real-world RL for self-improving visual-language-action (VLA) policies**, and **behavior modeling in autonomous driving**.
 
-I also love photography 📸 ✈️, checkout my [Unsplash profile](https://unsplash.com/@darth_u).
+Outside of research, I love **photography and travel** 📸✈️ — check out my work on [Unsplash](https://unsplash.com/@darth_u).
 
 Email: vlin3 [AT] andrew.cmu.edu
