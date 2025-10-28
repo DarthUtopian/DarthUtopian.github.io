@@ -32,6 +32,6 @@ I'm a Masters Student at the [Robotics Institute](https://www.ri.cmu.edu) of **C
 My research focuses on **reinforcement learning for robotics**, not only to solve continuous control problems, but also to **advance the intelligence of robot foundation models**.  
 I worked on **sample-efficient model-based RL (MBRL)**, **real-world RL for self-improving visual-language-action (VLA) policies**, and **behavior modeling in autonomous driving**.
 
-Outside of research, I love **photography and travel** 📸✈️ — check out my work on [Unsplash](https://unsplash.com/@darth_u).
+Outside of research, I love **photography and travel** 📸✈️ — check out my work on [Unsplash](https://unsplash.com/@darth_u) (Top 10% contributor).
 
 Email: vlin3 [AT] andrew.cmu.edu
