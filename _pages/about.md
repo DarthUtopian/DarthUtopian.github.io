@@ -35,3 +35,5 @@ I worked on **sample-efficient model-based RL (MBRL)**, **real-world RL for self
 Outside of research, I love **photography and travel** 📸✈️ — check out my work on [Unsplash](https://unsplash.com/@darth_u) (Top 10% contributor).
 
 Email: vlin3 [AT] andrew.cmu.edu
+
+**I am actively seeking PhD opportunities starting in Fall 2026.**
