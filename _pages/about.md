@@ -29,7 +29,7 @@ announcements:
 
 I'm a Masters Student at the [Robotics Institute](https://www.ri.cmu.edu) of **Carnegie Mellon University**, advised by Prof. [Guanya Shi](https://www.gshi.me) and Prof. [Jeff Schneider](https://www.cs.cmu.edu/~schneide/). I received my Bachelor's degree at **Tsinghua University**, where I was advised by Prof. [Shengbo Li](http://www.idlab-tsinghua.com/thulab/labweb/dpeople.html?11). I also worked at [MSCLab](https://msc.berkeley.edu) at **UC Berkeley** as a research intern, advised by Prof. [Masayoshi Tomizuka](https://me.berkeley.edu/people/masayoshi-tomizuka/).
 
-My research focuses on **reinforcement learning** and **robotic foundation models**. I worked on sample-efficient model-based RL (MBRL), real-world RL for self-improving visual-language-action (VLA) policies, and behavior modeling in autonomous driving. In the long run, I aim at advancing generalist robotic foundation models, and empowering them with the ability to self-improve on data flywheel.
+I worked on RL for robotics and autonomous driving. As we step into “the Era of Experiences,” with more and more robots poised for commercialization and deployment in the wild, a pressing question is how to enable them to improve upon deployment and bootstrap the data flywheel. I am interested in **scalable RL algorithms** and **improving robotic foundation models with on-the-fly experience**. To this end, I am broadly exploring novel algorithms, architectures, and pre-training/post-training paradigms. Eventually, I aim to build scalable, self-improving, generalist robotic agents.
 
 Outside of research, I love **photography and travel** 📸✈️ — check out my work on [Unsplash](https://unsplash.com/@darth_u) (Top 10% contributor).
 
