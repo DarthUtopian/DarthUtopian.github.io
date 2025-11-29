@@ -10,7 +10,7 @@ nav_order: 4
 
 <div class="talk-item">
   <h4>Self-Improving Vision Language-Action Models with Data Generation via Residual RL</h4>
-  <p><em>Tsinghua IIIS</em> — November 22, 2025</p>
+  <p><em>Yao seminar, Tsinghua IIIS</em> — November 22, 2025</p>
   <p>Presented our recent work on VLA post-training that bootstraps on data flywheel.</p>
   <p>
     <a href="{{ site.baseurl }}/assets/pdf/PLD_talk.pdf" target="_blank">
