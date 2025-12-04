@@ -364,7 +364,7 @@ imagemagick:
     - ".jpeg"
     - ".png"
     - ".tiff"
-    - ".gif"
+    # - ".gif"  # Disabled: WebP conversion distorts animated GIFs
   output_formats:
     webp: "-quality 85"
 
