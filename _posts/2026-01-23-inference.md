@@ -5,7 +5,7 @@ title: Variational Inference for Policy Optimization
 date: 2026-01-23 11:12:00-0400
 description: an example of a blog post with some math
 tags: RL
-categories: sample-posts
+categories: notes
 related_posts: true
 related_publications: false
 citation: true
