@@ -21,13 +21,13 @@ announcements:
   limit: 2 # leave blank to include all the news in the `_news` folder
 
 # Uncomment this when having some posts
-# latest_posts:
-#   enabled: true
-#   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-#   limit: 3 # leave blank to include all the blog posts
+latest_posts:
+  enabled: true
+  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+  limit: 1 # leave blank to include all the blog posts
 ---
 
-I'm a Master's Student at the [Robotics Institute](https://www.ri.cmu.edu) of **Carnegie Mellon University**, advised by Prof. [Guanya Shi](https://www.gshi.me) and Prof. [Jeff Schneider](https://www.cs.cmu.edu/~schneide/). I received my Bachelor's degree at **Tsinghua University**, where I was advised by Prof. [Shengbo Li](http://www.idlab-tsinghua.com/thulab/labweb/dpeople.html?11). I also worked at [MSCLab](https://msc.berkeley.edu) at **UC Berkeley** as a research intern, advised by Prof. [Masayoshi Tomizuka](https://me.berkeley.edu/people/masayoshi-tomizuka/).
+I'm a Master's Student at the [Robotics Institute](https://www.ri.cmu.edu) of **Carnegie Mellon University**, advised by Prof. [Guanya Shi](https://www.gshi.me) and Prof. [Jeff Schneider](https://www.cs.cmu.edu/~schneide/). I received my Bachelor's degree at **Tsinghua University**, where I worked with Prof. [Shengbo Li](http://www.idlab-tsinghua.com/thulab/labweb/dpeople.html?11). I also worked at [MSCLab](https://msc.berkeley.edu) at **UC Berkeley** as a research intern, advised by Prof. [Masayoshi Tomizuka](https://me.berkeley.edu/people/masayoshi-tomizuka/).
 
 I worked on RL for robotics and autonomous driving. As we step into “the Era of Experiences,” with more and more robots poised for commercialization and deployment in the wild, a pressing question is how to enable them to improve upon deployment and bootstrap the data flywheel. I am interested in **scalable RL algorithms** and **improving robotic foundation models with on-the-fly experience**. 
 
