@@ -18,13 +18,13 @@ social: true # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 2 # leave blank to include all the news in the `_news` folder
+  limit: 3 # leave blank to include all the news in the `_news` folder
 
 # Uncomment this when having some posts
 latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 1 # leave blank to include all the blog posts
+  limit: 3 # leave blank to include all the blog posts
 ---
 
 I'm a Master's Student at the [Robotics Institute](https://www.ri.cmu.edu) of **Carnegie Mellon University**, advised by Prof. [Guanya Shi](https://www.gshi.me) and Prof. [Jeff Schneider](https://www.cs.cmu.edu/~schneide/). I received my Bachelor's degree at **Tsinghua University**, where I worked with Prof. [Shengbo Li](http://www.idlab-tsinghua.com/thulab/labweb/dpeople.html?11). I also worked at [MSCLab](https://msc.berkeley.edu) at **UC Berkeley** as a research intern, advised by Prof. [Masayoshi Tomizuka](https://me.berkeley.edu/people/masayoshi-tomizuka/).

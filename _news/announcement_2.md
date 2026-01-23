@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🦾Starting my Masters in Robotics at Carnegie Mellon University.
+🦾Starting my Masters in Robotics at Carnegie Mellon.
