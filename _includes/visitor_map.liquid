@@ -4,8 +4,6 @@
   {% assign height = visitor_map.height | default: 340 %}
   {% assign provider = visitor_map.provider | default: 'smallcounter' %}
   {% assign map_image = visitor_map.map_image | default: '/assets/img/world.svg' %}
-  {% assign visitor_dots = site.data.visitor_locations %}
-  {% assign total_visits = 0 %}
   {% assign tracking_url = '' %}
   {% assign details_url = '' %}
   {% assign refresh_ms = visitor_map.refresh_ms | default: 60000 %}
@@ -33,11 +31,6 @@
     {% assign tracking_url = pixel_url %}
   {% endif %}
 
-  {% for dot in visitor_dots %}
-    {% assign dot_visits = dot.visits | default: 1 %}
-    {% assign total_visits = total_visits | plus: dot_visits %}
-  {% endfor %}
-
   {% if map_image != '' %}
     <h2 id="visitor-map-heading">{{ title }}</h2>
     <div
@@ -58,30 +51,15 @@
       {% endif %}
       <div class="visitor-map-canvas" role="img" aria-label="World map showing visitor locations">
         <img class="visitor-map-base" src="{{ map_image | relative_url }}" alt="">
-        <div class="visitor-map-dots" data-visitor-map-dots>
-          {% for dot in visitor_dots %}
-            {% if dot.x and dot.y %}
-              {% assign dot_visits = dot.visits | default: 1 %}
-              {% capture dot_label %}{{ dot.label }}: {{ dot_visits }} visits{% if dot.last_visit %}; last visit {{ dot.last_visit }}{% endif %}{% endcapture %}
-              <span
-                class="visitor-map-dot"
-                style="left: {{ dot.x }}%; top: {{ dot.y }}%; --visitor-dot-size: {{ dot.size | default: 10 }}px"
-                title="{{ dot_label | strip | escape }}"
-                aria-hidden="true"
-              ></span>
-            {% endif %}
-          {% endfor %}
-        </div>
+        <div class="visitor-map-dots" data-visitor-map-dots></div>
       </div>
       {% if details_url != '' %}
         </a>
       {% endif %}
 
-      {% if total_visits > 0 %}
-        <div class="visitor-map-summary" data-visitor-map-summary>
-          {{ total_visits }} visits visualized from live tracked history.
-        </div>
-      {% endif %}
+      <div class="visitor-map-summary" data-visitor-map-summary>
+        Loading live visitor history...
+      </div>
 
       {% if tracking_url != '' %}
         <img
@@ -174,12 +152,15 @@
             }
 
             function renderLiveDots(root, entries) {
-              if (!entries.length) return;
               var layer = root.querySelector('[data-visitor-map-dots]');
               var summary = root.querySelector('[data-visitor-map-summary]');
               var total = 0;
               if (!layer) return;
               layer.innerHTML = '';
+              if (!entries.length) {
+                if (summary) summary.textContent = 'Live visitor history is not available yet.';
+                return;
+              }
               entries.forEach(function (entry) {
                 total += entry.visits || 0;
                 var dot = document.createElement('span');
@@ -202,7 +183,8 @@
               fetchFirst(statsUrls(source), 0).then(function (html) {
                 renderLiveDots(root, parseSmallCounterStats(html));
               }).catch(function () {
-                // Keep the static fallback dots if the external stats proxy is unavailable.
+                var summary = root.querySelector('[data-visitor-map-summary]');
+                if (summary) summary.textContent = 'Live visitor history is temporarily unavailable.';
               });
             }
 
