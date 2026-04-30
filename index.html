@@ -31,12 +31,133 @@
   <span class="na">year</span> <span class="p">=</span> <span class="s">{2024}</span><span class="p">,</span>
   <span class="na">organization</span> <span class="p">=</span> <span class="s">{IEEE}</span><span class="p">,</span>
   <span class="na">note</span> <span class="p">=</span> <span class="s">{IROS2024}</span>
-<span class="p">}</span></code></pre></figure> </div> </div> </div> </li> </ol> </div> <h2 id="visitor-map-heading">visitor map</h2> <div class="visitor-map visitor-map-image"> <a class="visitor-map-link" href="https://smallcounter.com/vmap/1777584151/" target="_blank" rel="external nofollow noopener" aria-label="Open visitor map details"> <div class="visitor-map-canvas" role="img" aria-label="World map showing visitor locations"> <img class="visitor-map-base" src="/assets/img/world.svg" alt=""> <span class="visitor-map-dot" style="left: 16.04%; top: 28.96%; --visitor-dot-size: 16px" title="Berkeley, California, United States: 36 visits; last visit 30-Apr-2026 22:37:58" aria-hidden="true"></span> </div> </a> <div class="visitor-map-summary"> 36 visits visualized from tracked history. </div> <img class="visitor-map-counter" width="1" height="1" data-visitor-map-src="https://smallcounter.com/map/view.php?type=180&amp;id=1777584151" alt=""> <noscript><img class="visitor-map-counter" width="1" height="1" src="https://smallcounter.com/map/view.php?type=180&amp;id=1777584151" alt=""></noscript> <script>
+<span class="p">}</span></code></pre></figure> </div> </div> </div> </li> </ol> </div> <h2 id="visitor-map-heading">visitor map</h2> <div class="visitor-map visitor-map-image" data-live-stats-url="https://smallcounter.com/vmap/1777584151/" data-live-refresh-ms="60000"> <a class="visitor-map-link" href="https://smallcounter.com/vmap/1777584151/" target="_blank" rel="external nofollow noopener" aria-label="Open visitor map details"> <div class="visitor-map-canvas" role="img" aria-label="World map showing visitor locations"> <img class="visitor-map-base" src="/assets/img/world.svg" alt=""> <div class="visitor-map-dots" data-visitor-map-dots> <span class="visitor-map-dot" style="left: 16.04%; top: 28.96%; --visitor-dot-size: 16px" title="Berkeley, California, United States: 47 visits; last visit 30-Apr-2026 23:07:26" aria-hidden="true"></span> </div> </div> </a> <div class="visitor-map-summary" data-visitor-map-summary> 47 visits visualized from live tracked history. </div> <img class="visitor-map-counter" width="1" height="1" data-visitor-map-src="https://smallcounter.com/map/view.php?type=180&amp;id=1777584151" alt=""> <noscript><img class="visitor-map-counter" width="1" height="1" src="https://smallcounter.com/map/view.php?type=180&amp;id=1777584151" alt=""></noscript> <script>
           (function () {
+            function withCacheBust(url) {
+              return url + (url.indexOf('?') === -1 ? '?' : '&') + 'cache_bust=' + Date.now();
+            }
+
+            function fetchWithTimeout(url, timeout) {
+              var controller = window.AbortController ? new AbortController() : null;
+              var timer = controller ? window.setTimeout(function () { controller.abort(); }, timeout) : null;
+              return fetch(url, {
+                cache: 'no-store',
+                signal: controller ? controller.signal : undefined
+              }).then(function (response) {
+                if (!response.ok) throw new Error('visitor stats request failed');
+                return response.text();
+              }).finally(function () {
+                if (timer) window.clearTimeout(timer);
+              });
+            }
+
+            function statsUrls(source) {
+              var freshSource = withCacheBust(source);
+              return [
+                'https://api.codetabs.com/v1/proxy?quest=' + encodeURIComponent(freshSource),
+                'https://api.allorigins.win/raw?url=' + encodeURIComponent(freshSource)
+              ];
+            }
+
+            function fetchFirst(urls, index) {
+              if (index >= urls.length) return Promise.reject(new Error('visitor stats unavailable'));
+              return fetchWithTimeout(urls[index], 4500).catch(function () {
+                return fetchFirst(urls, index + 1);
+              });
+            }
+
+            function decodeMarkerHtml(value) {
+              return value.replace(/\\\//g, '/').replace(/\\"/g, '"');
+            }
+
+            function textFromHtml(value) {
+              var node = document.createElement('div');
+              node.innerHTML = value.replace(/<br\s*\/?>/gi, '\n');
+              return node.textContent.replace(/\s+/g, ' ').trim();
+            }
+
+            function projectLongitude(longitude) {
+              return Math.max(0, Math.min(100, ((longitude + 180) / 360) * 100));
+            }
+
+            function projectLatitude(latitude) {
+              return Math.max(0, Math.min(100, ((90 - latitude) / 180) * 100));
+            }
+
+            function dotSize(visits) {
+              return Math.max(8, Math.min(18, 7 + Math.sqrt(visits || 1) * 1.6));
+            }
+
+            function parseSmallCounterStats(html) {
+              var entries = [];
+              var pattern = /var point = new GLatLng\(\s*([-\d.]+)\s*,\s*([-\d.]+)\s*\);\s*var marker = createMarker\(point,\s*"[^"]*",\s*"((?:\\.|[^"\\])*)"/g;
+              var match;
+              while ((match = pattern.exec(html)) !== null) {
+                var latitude = Number(match[1]);
+                var longitude = Number(match[2]);
+                var markerText = textFromHtml(decodeMarkerHtml(match[3]));
+                var visitsMatch = markerText.match(/Total\s*:\s*([\d,]+)/i);
+                var lastVisitMatch = markerText.match(/Last visit\s*:\s*(.+)$/i);
+                var visits = visitsMatch ? Number(visitsMatch[1].replace(/,/g, '')) : 1;
+                var label = markerText.replace(/\s*Total\s*:.*$/i, '').trim();
+                entries.push({
+                  label: label,
+                  visits: visits,
+                  lastVisit: lastVisitMatch ? lastVisitMatch[1].trim() : '',
+                  x: projectLongitude(longitude),
+                  y: projectLatitude(latitude),
+                  size: dotSize(visits)
+                });
+              }
+              return entries;
+            }
+
+            function renderLiveDots(root, entries) {
+              if (!entries.length) return;
+              var layer = root.querySelector('[data-visitor-map-dots]');
+              var summary = root.querySelector('[data-visitor-map-summary]');
+              var total = 0;
+              if (!layer) return;
+              layer.innerHTML = '';
+              entries.forEach(function (entry) {
+                total += entry.visits || 0;
+                var dot = document.createElement('span');
+                dot.className = 'visitor-map-dot';
+                dot.style.left = entry.x.toFixed(2) + '%';
+                dot.style.top = entry.y.toFixed(2) + '%';
+                dot.style.setProperty('--visitor-dot-size', entry.size.toFixed(1) + 'px');
+                dot.title = entry.label + ': ' + entry.visits + ' visits' + (entry.lastVisit ? '; last visit ' + entry.lastVisit : '');
+                dot.setAttribute('aria-hidden', 'true');
+                layer.appendChild(dot);
+              });
+              if (summary) {
+                summary.textContent = total + ' visits visualized from live tracked history.';
+              }
+            }
+
+            function refreshLiveStats(root) {
+              var source = root.getAttribute('data-live-stats-url');
+              if (!source) return;
+              fetchFirst(statsUrls(source), 0).then(function (html) {
+                renderLiveDots(root, parseSmallCounterStats(html));
+              }).catch(function () {
+                // Keep the static fallback dots if the external stats proxy is unavailable.
+              });
+            }
+
             var counters = document.querySelectorAll('.visitor-map-counter[data-visitor-map-src]');
             for (var i = 0; i < counters.length; i += 1) {
               var source = counters[i].getAttribute('data-visitor-map-src');
-              counters[i].src = source + '&cache_bust=' + Date.now();
+              counters[i].src = withCacheBust(source);
+            }
+
+            var liveMaps = document.querySelectorAll('.visitor-map[data-live-stats-url]');
+            for (var j = 0; j < liveMaps.length; j += 1) {
+              (function (root) {
+                var refreshMs = Number(root.getAttribute('data-live-refresh-ms')) || 60000;
+                window.setTimeout(function () { refreshLiveStats(root); }, 1200);
+                window.setInterval(function () { refreshLiveStats(root); }, refreshMs);
+              })(liveMaps[j]);
             }
           })();
         </script> <a class="visitor-map-credit" href="https://smallcounter.com/map/" target="_blank" rel="external nofollow noopener">tracked by SmallCounter</a> </div> </article> </div> </div> <footer class="sticky-bottom mt-5" role="contentinfo"> <div class="container"> © Copyright 2026 Haotian Lin. Built with <a href="https://jekyllrb.com/" target="_blank" rel="external nofollow noopener">Jekyll</a> and hosted by <a href="https://pages.github.com/" target="_blank" rel="external nofollow noopener">GitHub Pages</a>. </div> </footer> <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script> <script src="/assets/js/bootstrap.bundle.min.js"></script> <script src="https://cdn.jsdelivr.net/npm/mdbootstrap@4.20.0/js/mdb.min.js" integrity="sha256-NdbiivsvWt7VYCt6hYNT3h/th9vSTL4EDWeGs5SN3DA=" crossorigin="anonymous"></script> <script defer src="https://cdn.jsdelivr.net/npm/masonry-layout@4.2.2/dist/masonry.pkgd.min.js" integrity="sha256-Nn1q/fx0H7SNLZMQ5Hw5JLaTRZp0yILA/FRexe19VdI=" crossorigin="anonymous"></script> <script defer src="https://cdn.jsdelivr.net/npm/imagesloaded@5.0.0/imagesloaded.pkgd.min.js" integrity="sha256-htrLFfZJ6v5udOG+3kNLINIKh2gvoKqwEhHYfTTMICc=" crossorigin="anonymous"></script> <script defer src="/assets/js/masonry.js?a0db7e5d5c70cc3252b3138b0c91dcaf" type="text/javascript"></script> <script defer src="https://cdn.jsdelivr.net/npm/medium-zoom@1.1.0/dist/medium-zoom.min.js" integrity="sha256-ZgMyDAIYDYGxbcpJcfUnYwNevG/xi9OHKaR/8GK+jWc=" crossorigin="anonymous"></script> <script defer src="/assets/js/zoom.js?85ddb88934d28b74e78031fd54cf8308"></script> <script src="/assets/js/no_defer.js?2781658a0a2b13ed609542042a859126"></script> <script defer src="/assets/js/common.js?e0514a05c5c95ac1a93a8dfd5249b92e"></script> <script defer src="/assets/js/copy_code.js?c8a01c11a92744d44b093fc3bda915df" type="text/javascript"></script> <script defer src="/assets/js/jupyter_new_tab.js?d9f17b6adc2311cbabd747f4538bb15f"></script> <script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script> <script async src="https://badge.dimensions.ai/badge.js"></script> <script defer type="text/javascript" id="MathJax-script" src="https://cdn.jsdelivr.net/npm/mathjax@3.2.2/es5/tex-mml-chtml.js" integrity="sha256-MASABpB4tYktI2Oitl4t+78w/lyA+D7b/s9GEP0JOGI=" crossorigin="anonymous"></script> <script src="/assets/js/mathjax-setup.js?a5bb4e6a542c546dd929b24b8b236dfd"></script> <script defer src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6" crossorigin="anonymous"></script> <script defer src="/assets/js/progress-bar.js?2f30e0e6801ea8f5036fa66e1ab0a71a" type="text/javascript"></script> <script src="/assets/js/vanilla-back-to-top.min.js?f40d453793ff4f64e238e420181a1d17"></script> <script>
