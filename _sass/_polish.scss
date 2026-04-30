@@ -447,6 +447,12 @@ body.fixed-top-nav {
   filter: drop-shadow(0 8px 18px rgba(31, 41, 51, 0.08));
 }
 
+.visitor-map-dots {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+}
+
 .visitor-map-dot {
   position: absolute;
   width: var(--visitor-dot-size, 10px);

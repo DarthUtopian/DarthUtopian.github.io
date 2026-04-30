@@ -86,6 +86,7 @@ visitor_map:
   map_image: /assets/img/world.svg
   counter_id: 1777584151
   counter_type: 180
+  refresh_ms: 60000
   embed_url:
   widget_id:
   pixel_id:
