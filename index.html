@@ -31,7 +31,7 @@
   <span class="na">year</span> <span class="p">=</span> <span class="s">{2024}</span><span class="p">,</span>
   <span class="na">organization</span> <span class="p">=</span> <span class="s">{IEEE}</span><span class="p">,</span>
   <span class="na">note</span> <span class="p">=</span> <span class="s">{IROS2024}</span>
-<span class="p">}</span></code></pre></figure> </div> </div> </div> </li> </ol> </div> <h2 id="visitor-map-heading">visitor map</h2> <div class="visitor-map visitor-map-image" data-live-stats-url="https://smallcounter.com/vmap/1777584151/" data-live-refresh-ms="60000"> <a class="visitor-map-link" href="https://smallcounter.com/vmap/1777584151/" target="_blank" rel="external nofollow noopener" aria-label="Open visitor map details"> <div class="visitor-map-canvas" role="img" aria-label="World map showing visitor locations"> <img class="visitor-map-base" src="/assets/img/world.svg" alt=""> <div class="visitor-map-dots" data-visitor-map-dots> <span class="visitor-map-dot" style="left: 16.04%; top: 28.96%; --visitor-dot-size: 16px" title="Berkeley, California, United States: 47 visits; last visit 30-Apr-2026 23:07:26" aria-hidden="true"></span> </div> </div> </a> <div class="visitor-map-summary" data-visitor-map-summary> 47 visits visualized from live tracked history. </div> <img class="visitor-map-counter" width="1" height="1" data-visitor-map-src="https://smallcounter.com/map/view.php?type=180&amp;id=1777584151" alt=""> <noscript><img class="visitor-map-counter" width="1" height="1" src="https://smallcounter.com/map/view.php?type=180&amp;id=1777584151" alt=""></noscript> <script>
+<span class="p">}</span></code></pre></figure> </div> </div> </div> </li> </ol> </div> <h2 id="visitor-map-heading">visitor map</h2> <div class="visitor-map visitor-map-image" data-live-stats-url="https://smallcounter.com/vmap/1777584151/" data-live-refresh-ms="60000"> <a class="visitor-map-link" href="https://smallcounter.com/vmap/1777584151/" target="_blank" rel="external nofollow noopener" aria-label="Open visitor map details"> <div class="visitor-map-canvas" role="img" aria-label="World map showing visitor locations"> <img class="visitor-map-base" src="/assets/img/world.svg" alt=""> <div class="visitor-map-dots" data-visitor-map-dots></div> </div> </a> <div class="visitor-map-summary" data-visitor-map-summary> Loading live visitor history... </div> <img class="visitor-map-counter" width="1" height="1" data-visitor-map-src="https://smallcounter.com/map/view.php?type=180&amp;id=1777584151" alt=""> <noscript><img class="visitor-map-counter" width="1" height="1" src="https://smallcounter.com/map/view.php?type=180&amp;id=1777584151" alt=""></noscript> <script>
           (function () {
             function withCacheBust(url) {
               return url + (url.indexOf('?') === -1 ? '?' : '&') + 'cache_bust=' + Date.now();
@@ -113,12 +113,15 @@
             }
 
             function renderLiveDots(root, entries) {
-              if (!entries.length) return;
               var layer = root.querySelector('[data-visitor-map-dots]');
               var summary = root.querySelector('[data-visitor-map-summary]');
               var total = 0;
               if (!layer) return;
               layer.innerHTML = '';
+              if (!entries.length) {
+                if (summary) summary.textContent = 'Live visitor history is not available yet.';
+                return;
+              }
               entries.forEach(function (entry) {
                 total += entry.visits || 0;
                 var dot = document.createElement('span');
@@ -141,7 +144,8 @@
               fetchFirst(statsUrls(source), 0).then(function (html) {
                 renderLiveDots(root, parseSmallCounterStats(html));
               }).catch(function () {
-                // Keep the static fallback dots if the external stats proxy is unavailable.
+                var summary = root.querySelector('[data-visitor-map-summary]');
+                if (summary) summary.textContent = 'Live visitor history is temporarily unavailable.';
               });
             }
 
