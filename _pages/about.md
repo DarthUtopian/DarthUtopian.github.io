@@ -7,12 +7,14 @@ subtitle: # <a href='link'>Robotics Institute, Carnegie Mellon University</a>.
 profile:
   align: right
   image: graduation.jpg
-  image_circular: true # crops the image to make it circular
+  hover_image: lht.jpg
+  image_circular: false # crops the image to make it circular
   more_info: >
-    <p>5000 Forbes Avenue</p>
-    <p>Pittsburgh, PA 15213</p>
+    <p>Robotics Institute, CMU</p>
+    <p>Pittsburgh, PA</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
+visitor_map: true # renders the configured visitor statistics map
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -20,17 +22,16 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 3 # leave blank to include all the news in the `_news` folder
 
-# Uncomment this when having some posts
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a Master's Student at the [Robotics Institute](https://www.ri.cmu.edu) of **Carnegie Mellon University**, advised by Prof. [Guanya Shi](https://www.gshi.me) and Prof. [Jeff Schneider](https://www.cs.cmu.edu/~schneide/). I received my Bachelor's degree at **Tsinghua University**. I also worked at **UC Berkeley** as a research intern worked with Prof. [Masayoshi Tomizuka](https://me.berkeley.edu/people/masayoshi-tomizuka/).
+I am a Master's student at the [Robotics Institute](https://www.ri.cmu.edu) of **Carnegie Mellon University**, advised by Prof. [Guanya Shi](https://www.gshi.me) and Prof. [Jeff Schneider](https://www.cs.cmu.edu/~schneide/). I received my Bachelor's degree from **Tsinghua University** and worked at **UC Berkeley** as a research intern with Prof. [Masayoshi Tomizuka](https://me.berkeley.edu/people/masayoshi-tomizuka/).
 
-I worked on RL for robotics and autonomous driving. As we step into “the Era of Experiences,” a pressing question is how to enable them to explore and improve upon deployment and bootstrap the data flywheel. I am interested in developing **efficient & scalable RL pipeline** with minimal external supervision and improving **robotic foundation models** with on-the-fly experience. 
+My research focuses on reinforcement learning for robotics and autonomous driving. As embodied systems enter the era of experience-driven improvement, I am interested in building **efficient and scalable RL pipelines** that learn with minimal external supervision and improve **robotic foundation models** from on-the-fly interaction.
 
-Outside of research, I love **photography and travel** 📸✈️ — check out my work on [Unsplash](https://unsplash.com/@darth_u) (Top 10% contributor).
+Outside of research, I enjoy **photography and travel**. You can find some of my work on [Unsplash](https://unsplash.com/@darth_u), where I am a Top 10% contributor.
 
 Email: vlin3 [AT] andrew.cmu.edu

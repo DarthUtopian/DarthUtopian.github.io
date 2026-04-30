@@ -1,0 +1,122 @@
+{% assign visitor_map = site.visitor_map %}
+{% if visitor_map and visitor_map.enabled %}
+  {% assign title = visitor_map.title | default: 'visitor map' %}
+  {% assign height = visitor_map.height | default: 340 %}
+  {% assign provider = visitor_map.provider | default: 'smallcounter' %}
+  {% assign map_image = visitor_map.map_image | default: '/assets/img/world.svg' %}
+  {% assign visitor_dots = site.data.visitor_locations %}
+  {% assign total_visits = 0 %}
+  {% assign tracking_url = '' %}
+  {% assign details_url = '' %}
+
+  {% if provider == 'smallcounter' and visitor_map.counter_id %}
+    {% assign counter_type = visitor_map.counter_type | default: 1600 %}
+    {% capture tracking_url %}https://smallcounter.com/map/view.php?type={{ counter_type }}&id={{ visitor_map.counter_id }}{% endcapture %}
+    {% capture details_url %}https://smallcounter.com/vmap/{{ visitor_map.counter_id }}/{% endcapture %}
+    {% assign tracking_url = tracking_url | strip %}
+    {% assign details_url = details_url | strip %}
+  {% endif %}
+
+  {% assign embed_url = visitor_map.embed_url | default: '' | strip %}
+  {% if embed_url == '' and provider == 'mapmyvisitors' and visitor_map.widget_id %}
+    {% capture embed_url %}https://mapmyvisitors.com/web/{{ visitor_map.widget_id }}{% endcapture %}
+    {% assign embed_url = embed_url | strip %}
+  {% endif %}
+
+  {% assign pixel_url = visitor_map.pixel_url | default: '' | strip %}
+  {% if pixel_url == '' and provider == 'mapmyvisitors' and visitor_map.pixel_id %}
+    {% capture pixel_url %}https://mapmyvisitors.com/map.png?d={{ visitor_map.pixel_id }}&cl=ffffff{% endcapture %}
+    {% assign pixel_url = pixel_url | strip %}
+  {% endif %}
+  {% if tracking_url == '' and pixel_url != '' %}
+    {% assign tracking_url = pixel_url %}
+  {% endif %}
+
+  {% for dot in visitor_dots %}
+    {% assign dot_visits = dot.visits | default: 1 %}
+    {% assign total_visits = total_visits | plus: dot_visits %}
+  {% endfor %}
+
+  {% if map_image != '' %}
+    <h2 id="visitor-map-heading">{{ title }}</h2>
+    <div class="visitor-map visitor-map-image">
+      {% if details_url != '' %}
+        <a
+          class="visitor-map-link"
+          href="{{ details_url }}"
+          target="_blank"
+          rel="external nofollow noopener"
+          aria-label="Open visitor map details"
+        >
+      {% endif %}
+      <div class="visitor-map-canvas" role="img" aria-label="World map showing visitor locations">
+        <img class="visitor-map-base" src="{{ map_image | relative_url }}" alt="">
+        {% for dot in visitor_dots %}
+          {% if dot.x and dot.y %}
+            {% assign dot_visits = dot.visits | default: 1 %}
+            {% capture dot_label %}{{ dot.label }}: {{ dot_visits }} visits{% if dot.last_visit %}; last visit {{ dot.last_visit }}{% endif %}{% endcapture %}
+            <span
+              class="visitor-map-dot"
+              style="left: {{ dot.x }}%; top: {{ dot.y }}%; --visitor-dot-size: {{ dot.size | default: 10 }}px"
+              title="{{ dot_label | strip | escape }}"
+              aria-hidden="true"
+            ></span>
+          {% endif %}
+        {% endfor %}
+      </div>
+      {% if details_url != '' %}
+        </a>
+      {% endif %}
+
+      {% if total_visits > 0 %}
+        <div class="visitor-map-summary">
+          {{ total_visits }} visits visualized from tracked history.
+        </div>
+      {% endif %}
+
+      {% if tracking_url != '' %}
+        <img
+          class="visitor-map-counter"
+          width="1"
+          height="1"
+          data-visitor-map-src="{{ tracking_url }}"
+          alt=""
+        >
+        <noscript><img class="visitor-map-counter" width="1" height="1" src="{{ tracking_url }}" alt=""></noscript>
+        <script>
+          (function () {
+            var counters = document.querySelectorAll('.visitor-map-counter[data-visitor-map-src]');
+            for (var i = 0; i < counters.length; i += 1) {
+              var source = counters[i].getAttribute('data-visitor-map-src');
+              counters[i].src = source + '&cache_bust=' + Date.now();
+            }
+          })();
+        </script>
+      {% endif %}
+
+      {% if provider == 'smallcounter' %}
+        <a class="visitor-map-credit" href="https://smallcounter.com/map/" target="_blank" rel="external nofollow noopener">tracked by SmallCounter</a>
+      {% endif %}
+    </div>
+  {% elsif embed_url != '' or visitor_map.script_url %}
+    <h2 id="visitor-map-heading">{{ title }}</h2>
+    <div class="visitor-map" style="--visitor-map-height: {{ height }}px">
+      {% if visitor_map.script_url %}
+        <div class="visitor-map-script">
+          <script src="{{ visitor_map.script_url }}"></script>
+        </div>
+      {% else %}
+        <iframe
+          title="{{ title }}"
+          src="{{ embed_url }}"
+          loading="lazy"
+          referrerpolicy="strict-origin-when-cross-origin"
+        ></iframe>
+      {% endif %}
+
+      {% if pixel_url != '' %}
+        <img class="visitor-map-pixel" width="1" height="1" src="{{ pixel_url }}" alt="">
+      {% endif %}
+    </div>
+  {% endif %}
+{% endif %}

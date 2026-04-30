@@ -1,0 +1,11 @@
+# Dots rendered on the high-resolution local visitor map.
+# Source: SmallCounter full stats page for counter_id 1777584151.
+# x/y are percentages over assets/img/world.svg.
+- label: "Berkeley, California, United States"
+  visits: 36
+  last_visit: "30-Apr-2026 22:37:58"
+  latitude: 37.8668
+  longitude: -122.2536
+  x: 16.04
+  y: 28.96
+  size: 16

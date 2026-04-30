@@ -11,15 +11,16 @@
     url: https://yukezhu.me
 
 "fan":
-  - firstname: ["Jim", "J.", "J. F.", "Jim Fan"]
+  - firstname: ["Linxi", "Jim", "J.", "J. F.", "Linxi Fan", "Jim Fan", 'Linxi "Jim" Fan']
     url: https://jimfan.me
 
 "wang":
   - firstname: ["Pengcheng", "P.", "P. P.", "Pengcheng Wang"]
-    url: https://scholar.google.com/citations?user=fi3BdtEAAAAJ
+    url: https://outsider86.github.io
   - firstname: ["Yixiao", "Y.", "Y. W.", "Yixiao Wang"]
     url: https://yixiaowang7.github.io
-
+  - firstname: ["Jianqiang", "J.", "J. W.", "Jianqiang Wang"]
+    url: https://eng.svm.tsinghua.edu.cn/info/1025/1125.htm
 
 "schneider":
   - firstname: ["Jeff", "J.", "J. S.", "Jeff Schneider"]
@@ -31,6 +32,8 @@
     url: https://anthonyhuo.github.io
 
 "peng":
+  - firstname: ["Andy", "A.", "A. P.", "Andy Peng"]
+    url: https://andypeng05.github.io
   - firstname: ["Chensheng", "C.", "C. P.", "Chensheng Peng"]
     url: https://pengchensheng.com
 
@@ -39,12 +42,48 @@
     url: https://me.berkeley.edu/people/masayoshi-tomizuka/
 
 "liu":
+  - firstname: ["Qinghang", "Q.", "Q. L.", "Qinghang Liu"]
+    url: https://qinghangliu.github.io
   - firstname: ["Zhiyuan", "Z.", "Z. L.", "Zhiyuan Liu"]
     url: https://scholar.google.com/citations?user=3y2SXWMAAAAJ&hl=en
 
-"Luo":
+"luo":
   - firstname: ["Zhengyi", "Z.", "Z. L.", "Zhengyi Luo"]
     url: https://www.zhengyiluo.com
+
+"li":
+  - firstname: ["Yiheng", "Y.", "Y. L.", "Yiheng Li"]
+    url: https://yihengli.com
+  - firstname: ["Leheng", "L.", "L. L.", "Leheng Li"]
+    url: https://len-li.github.io
+
+"zhan":
+  - firstname: ["Guojian", "G.", "G. Z.", "Guojian Zhan"]
+    url: https://molumitu.github.io
+
+"ding":
+  - firstname: ["Mingyu", "M.", "M. D.", "Mingyu Ding"]
+    url: https://dingmyu.github.io
+
+"liang":
+  - firstname: ["Zhixuan", "Z.", "Z. L.", "Zhixuan Liang"]
+    url: https://liang-zx.github.io
+
+"du":
+  - firstname: ["Yushi", "Y.", "Y. D.", "Yushi Du"]
+    url: https://yushi-du.github.io
+
+"sun":
+  - firstname: ["Lingfeng", "L.", "L. S.", "Lingfeng Sun"]
+    url: https://lingfeng.moe
+
+"shang":
+  - firstname: ["Jinghuan", "J.", "J. S.", "Jinghuan Shang"]
+    url: https://elicassion.github.io
+
+"bansal":
+  - firstname: ["Mohit", "M.", "M. B.", "Mohit Bansal"]
+    url: https://www.cs.unc.edu/~mbansal/
 
 "xu":
   - firstname: ["Chenfeng", "C.", "C. F.", "Chenfeng Xu"]
@@ -57,8 +96,20 @@
 "he":
   - firstname: ["Tairan", "T.", "T. H.", "Tairan He"]
     url: https://tairanhe.com
+  - firstname: ["Lei", "L.", "L. H.", "Lei He"]
+    url: https://eng.svm.tsinghua.edu.cn/info/1025/1115.htm
 
+"xie":
+  - firstname: ["Yuqi", "Y.", "Y. X.", "Yuqi Xie"]
+    url: https://xieleo5.github.io
 
+"hu":
+  - firstname: ["Fengyuan", "F.", "F. H.", "Fengyuan Hu"]
+    url: https://sled.eecs.umich.edu/author/fengyuan-hu/
+
+"wu":
+  - firstname: ["Jimmy", "J.", "J. W.", "Jimmy Wu"]
+    url: https://jimmyyhwu.github.io
 # "podolsky":
 #   - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
 #     url: https://en.wikipedia.org/wiki/Boris_Podolsky
