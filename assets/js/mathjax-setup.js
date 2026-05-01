@@ -1,6 +1,9 @@
 window.MathJax = {
   tex: {
     tags: "ams",
+    macros: {
+      coloneqq: "\\mathrel{:=}",
+    },
     inlineMath: [
       ["$", "$"],
       ["\\(", "\\)"],

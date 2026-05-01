@@ -1,9 +1,9 @@
 ---
-published: True
+published: true
 layout: post
-title: Variational Inference for Policy Optimization 
+title: Variational Inference for Policy Optimization
 date: 2026-01-23 11:12:00-0400
-description: an example of a blog post with some math
+description: Notes on variational inference perspectives for policy optimization
 tags: RL
 categories: notes
 related_posts: true
@@ -16,27 +16,23 @@ authors:
       name: Carnegie Mellon University
 ---
 
-$$
-\newcommand{\coloneqq}{\mathrel{\vcenter{:}}=}
-$$
-
 This blog is mainly inspired by [MPO](https://arxiv.org/abs/1806.06920), an off-policy RL framework based on coordinate ascent on a relative entropy objective. We will briefly discuss how this framework relates to various RL paradigms, including trust-region policy optimization (TRPO) families and Max-Ent RL algorithms (More discussion can be found in this amazing [tutorial paper](https://arxiv.org/pdf/1805.00909)).
 
 
 ## RL as Structured Variational Inference.
 
-In **structured variational inference**, the goal is to approximate a distribution with another similar distribution (density estimation). In general, the reinforcement learning objective can be viewed as optimizing an expectation over a **parameterized distribution** given an MDP  $\mathcal{M}(S, A, \gamma, p, R)$:
+In **structured variational inference**, the goal is to approximate a distribution with another similar distribution (density estimation). In general, the reinforcement learning objective can be viewed as optimizing an expectation over a **parameterized distribution** given an MDP $\mathcal{M}(S, A, \gamma, p, R)$:
 
 $$
 \arg\max_\theta \mathbb{E}_{\tau \sim \pi_\theta}\Big[\sum_{t=1} \gamma^{t-1} r_t \Big] \tag{1}
 $$
 
-Denote  $\tau$ as a trajectory and  $\pi$ as a existing distribution of trajectories (current policy), consider translating this target as maximizing the likelihood of $\tau \sim \pi$ being optimal. We first introduce a binary-value variable $O$ that describes the optimality of a given trajectory $\tau$(1 indicates $\tau$ being optimal and 0 on the opposite). Define the prior probability of a trajectory being optimal as $p(O=1|\tau)\propto \exp^{\frac{1}{\alpha}\Sigma_\tau r(s_t, a_t)}$ 
+Denote $\tau$ as a trajectory and $\pi$ as an existing distribution of trajectories (current policy), and consider translating this target as maximizing the likelihood of $\tau \sim \pi$ being optimal. We first introduce a binary-valued variable $O$ that describes the optimality of a given trajectory $\tau$ (1 indicates $\tau$ being optimal and 0 indicates the opposite). Define the prior probability of a trajectory being optimal as $p(O=1 \mid \tau) \propto \exp\left(\frac{1}{\alpha}\sum_t r(s_t, a_t)\right)$.
 
-NOTE: For an infinite horizon MDP, consider discounted return:   $\Sigma_t \gamma^{t-1} r(s_t, a_t)$). We omit the normalization constant of the prior distribution, as it is independent of the optimization variables and therefore does not affect the resulting objective. Moreover, we set the temperature coefficient $\alpha = 1$ without loss of generality for now.
+NOTE: For an infinite horizon MDP, consider discounted return $\sum_t \gamma^{t-1} r(s_t, a_t)$. We omit the normalization constant of the prior distribution, as it is independent of the optimization variables and therefore does not affect the resulting objective. Moreover, we set the temperature coefficient $\alpha = 1$ without loss of generality for now.
 
 $$
-\begin{aligned} \log p_\pi(O) & \coloneqq \log \int_\tau p(O | \tau) \pi(\tau) d\tau \\      &\geq \mathbb{E}_{q}\left[ \log p(O|\tau) - \log\frac{q(\tau)}{\pi(\tau)} \right] \\    &= \mathbb{E}_q[\log p(O|\tau)] - \mathbf{D}_{KL}(q(\tau) \Vert \pi(\tau)) \\ &= \sum_t  \mathbb{E}_{(s_t, a_t)\sim q}[r(s_t, a_t)] - \mathbb{E}_{s_t \sim q}\mathbf{KL}(q(\cdot |s_t)\Vert \pi(\cdot|s_t)) \end{aligned} \tag{2}
+\begin{aligned} \log p_\pi(O) & \coloneqq \log \int_\tau p(O \mid \tau) \pi(\tau) d\tau \\      &\geq \mathbb{E}_{q}\left[ \log p(O\mid\tau) - \log\frac{q(\tau)}{\pi(\tau)} \right] \\    &= \mathbb{E}_q[\log p(O\mid\tau)] - \mathbf{D}_{KL}(q(\tau) \Vert \pi(\tau)) \\ &= \sum_t  \mathbb{E}_{(s_t, a_t)\sim q}[r(s_t, a_t)] - \mathbb{E}_{s_t \sim q}\mathbf{D}_{KL}(q(\cdot \mid s_t)\Vert \pi(\cdot\mid s_t)) \end{aligned} \tag{2}
 $$
 
 Here, we introduce an auxiliary distribution $q$, which can be translated into another policy.
@@ -48,21 +44,21 @@ Next, consider optimizing this lower bound through **coordinate ascent**.
 The objective of $q$ is the KL-regularized return (not caring about the partition):
 
 $$
-J_q (s_0) = \mathbb{E}_{q(\tau | s_0)} \left[ \sum_t \gamma^t r(s_t, a_t) - \mathbf{D}_{KL}(q(a_T | s_t) \Vert \pi(a_t | s_t)  \right] \tag{3}
+J_q (s_0) = \mathbb{E}_{q(\tau \mid s_0)} \left[ \sum_t \gamma^t r(s_t, a_t) - \mathbf{D}_{KL}(q(a_t \mid s_t) \Vert \pi(a_t \mid s_t)) \right] \tag{3}
 $$
 
 $$
-J_q (s_0) = \mathbb{E}_{q(\tau | s_0)} \left[ \sum_t \gamma^t r(s_t, a_t) + \mathbf{H}[q(a_t | s_t)]  \right] \tag{4}
+J_q (s_0) = \mathbb{E}_{q(\tau \mid s_0)} \left[ \sum_t \gamma^t r(s_t, a_t) + \mathcal{H}[q(a_t \mid s_t)]  \right] \tag{4}
 $$
 
-Another comparision is:
+Another comparison is:
 
 $$
-J_q (s_0) = \mathbb{E}_{q(\tau | s_0)} \left[ \sum_t \gamma^t r(s_t, a_t) - \log q(a_T | s_t) + \log \pi(a_t | s_t)  \right] \tag{5}
+J_q (s_0) = \mathbb{E}_{q(\tau \mid s_0)} \left[ \sum_t \gamma^t r(s_t, a_t) - \log q(a_t \mid s_t) + \log \pi(a_t \mid s_t)  \right] \tag{5}
 $$
 
 $$
-J_q (s_0) = \mathbb{E}_{q(\tau | s_0)} \left[ \sum_t \gamma^t r(s_t, a_t) - \log q(a_T | s_t)  \right] \tag{6}
+J_q (s_0) = \mathbb{E}_{q(\tau \mid s_0)} \left[ \sum_t \gamma^t r(s_t, a_t) - \log q(a_t \mid s_t)  \right] \tag{6}
 $$
 
 Thus, define the action value function and the value KL-regularized Bellman function as:
