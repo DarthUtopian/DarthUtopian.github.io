@@ -1,16 +1,25 @@
 <div class="news">
   {% if site.news != blank %}
     {% assign news_size = site.news | size %}
+    {% assign news_visible_rows = page.announcements.limit %}
+    {% if news_visible_rows == blank %}
+      {% assign news_visible_rows = 3 %}
+    {% endif %}
+    {% assign news_window_height = news_visible_rows | times: 3.25 %}
     <div
       class="table-responsive"
-      {% if include.limit and page.announcements.scrollable and news_size > 3 %}
-        style="max-height: 60vw"
+      {% if include.limit and page.announcements.scrollable and news_size > news_visible_rows %}
+        style="max-height: {{ news_window_height }}rem; overflow-y: auto"
       {% endif %}
     >
       <table class="table table-sm table-borderless">
         {% assign news = site.news | reverse %}
         {% if include.limit and page.announcements.limit %}
-          {% assign news_limit = page.announcements.limit %}
+          {% if page.announcements.scrollable %}
+            {% assign news_limit = news_size %}
+          {% else %}
+            {% assign news_limit = page.announcements.limit %}
+          {% endif %}
         {% else %}
           {% assign news_limit = news_size %}
         {% endif %}
