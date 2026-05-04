@@ -6,8 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Haotian
 middle_name:
 last_name: Lin
-contact_note: >
-  Email is the best way to reach me for research questions and collaboration.
+contact_note:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Haotian Lin is a Master's student at the Robotics Institute, Carnegie Mellon University, working on reinforcement learning, robotics, and autonomous driving.
 footer_text: >
@@ -160,8 +159,6 @@ newsletter:
 # -----------------------------------------------------------------------------
 
 collections:
-  books:
-    output: false
   news:
     defaults:
       layout: post
@@ -272,9 +269,6 @@ jekyll-archives:
       year: "/blog/:year/"
       tags: "/blog/:type/:name/"
       categories: "/blog/:type/:name/"
-  books:
-    enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
-
 display_tags: ["RL", "robotics", "random"] # these tags will be displayed on the front page of your blog
 display_categories: ["research", "tutorials", "notes"] # these categories will be displayed on the front page of your blog
 
