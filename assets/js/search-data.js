@@ -44,12 +44,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{id: "news-one-paper-accepted-by-iros2024",
+        },{id: "news-one-paper-accepted-by-iros2024",
           title: '🎉One paper accepted by IROS2024.',
           description: "",
           section: "News",},{id: "news-graduated-from-tsinghua-university",
