@@ -6,6 +6,26 @@
 # Required fields: title, alt, thumb, full.
 # Optional fields: description, source_url, location, year, width, height.
 
+- title: "Crenel"
+  alt: "Crenel detail photographed in Puerto Rico."
+  description: "Crenel detail photographed in Puerto Rico."
+  thumb: "https://images.unsplash.com/photo-1777936755705-57612aaa2b07?auto=format&fit=crop&w=640&h=640&q=75"
+  full: "https://images.unsplash.com/photo-1777936755705-57612aaa2b07?auto=format&fit=max&w=2400&q=85"
+  source_url: "https://unsplash.com/photos/vf55dypn_dc"
+  location: "Puerto Rico"
+  width: 2400
+  height: 2400
+
+- title: "Trolley in San Francisco"
+  alt: "A trolley in San Francisco."
+  description: "A trolley in San Francisco."
+  thumb: "https://images.unsplash.com/photo-1777933671018-6bbb84eb2a45?auto=format&fit=crop&w=640&h=640&q=75"
+  full: "https://images.unsplash.com/photo-1777933671018-6bbb84eb2a45?auto=format&fit=max&w=2400&q=85"
+  source_url: "https://unsplash.com/photos/QsJntPjIqhI"
+  location: "San Francisco, CA"
+  width: 2400
+  height: 3460
+
 - title: "City of Guangzhou"
   alt: "City view of Guangzhou."
   description: "City view of Guangzhou."
