@@ -150,19 +150,19 @@
   width: 2400
   height: 3536
 
-- title: "Golden Gate Bridge Structural Detail"
-  alt: "A close view of the Golden Gate Bridge structure."
-  description: "A close view of the Golden Gate Bridge structure."
+- title: "Underneath"
+  alt: "A close view of the Jialing River Bridge structure."
+  description: "A close view of the Jialing River Bridge structure."
   thumb: "https://images.unsplash.com/photo-1760813974384-f81d8887f0be?auto=format&fit=crop&w=640&h=640&q=75"
   full: "https://images.unsplash.com/photo-1760813974384-f81d8887f0be?auto=format&fit=max&w=2400&q=85"
   source_url: "https://unsplash.com/photos/e82ZifgANa8"
-  location: "San Francisco, CA"
+  location: "Chongqing, China"
   width: 2400
   height: 1686
 
-- title: "Hazy Chongqing Tower"
-  alt: "A tall tower rises above a hazy Chongqing skyline."
-  description: "A tall tower rises above a hazy Chongqing skyline."
+- title: "California Bay"
+  alt: "Skyline of San Francisco Bay."
+  description: "Skyline of San Francisco Bay."
   thumb: "https://images.unsplash.com/photo-1761681052027-ace804a7a567?auto=format&fit=crop&w=640&h=640&q=75"
   full: "https://images.unsplash.com/photo-1761681052027-ace804a7a567?auto=format&fit=max&w=2400&q=85"
   source_url: "https://unsplash.com/photos/j8aqMSJwKGk"
@@ -170,22 +170,12 @@
   width: 2400
   height: 1021
 
-- title: "Sunset Skyline Across Water"
-  alt: "A city skyline stretches across the water at sunset."
-  description: "A city skyline stretches across the water at sunset."
-  thumb: "https://images.unsplash.com/photo-1667889066867-23943296c529?auto=format&fit=crop&w=640&h=640&q=75"
-  full: "https://images.unsplash.com/photo-1667889066867-23943296c529?auto=format&fit=max&w=2400&q=85"
-  source_url: "https://unsplash.com/photos/kzJZDA1yG_g"
-  width: 2400
-  height: 3700
-
-- title: "City Skyline Across Water"
-  alt: "A large body of water with the city skyline in the background."
-  description: "A large body of water with the city skyline in the background."
+- title: "Houhai Skyline"
+  alt: "Houhai Skyline."
+  description: "Houhai Skyline."
   thumb: "https://images.unsplash.com/photo-1633567809270-79dfbdf7eccd?auto=format&fit=crop&w=640&h=640&q=75"
   full: "https://images.unsplash.com/photo-1633567809270-79dfbdf7eccd?auto=format&fit=max&w=2400&q=85"
-  source_url: "https://unsplash.com/photos/a-large-body-of-water-with-a-city-in-the-background-SzJBtVUMHWY"
-  location: "Beijing, China"
-  year: "2021"
+  source_url: "https://unsplash.com/photos/houhai-skyline-SzJBtVUMHWY"
+  location: "Chongqing, China"
   width: 2400
   height: 3597
