@@ -30,6 +30,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/talks/";
           },
+        },{id: "nav-gallery",
+          title: "gallery",
+          description: "Photography from my travels and city walks.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/gallery/";
+          },
         },{id: "nav-cv",
           title: "cv",
           description: "Curriculum Vitae",
