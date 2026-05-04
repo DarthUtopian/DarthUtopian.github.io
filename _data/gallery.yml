@@ -6,16 +6,15 @@
 # Required fields: title, alt, thumb, full.
 # Optional fields: description, source_url, location, year, width, height.
 
-- title: "Sunlit City Street with Outdoor Dining"
-  alt: "Sunlight spills across a city street with outdoor dining tables."
-  description: "Sunlight spills across a city street with outdoor dining tables."
-  thumb: "https://images.unsplash.com/photo-1760763370836-698cc42e28a6?auto=format&fit=crop&w=640&h=640&q=75"
-  full: "https://images.unsplash.com/photo-1760763370836-698cc42e28a6?auto=format&fit=max&w=2400&q=85"
-  source_url: "https://unsplash.com/es/fotos/la-luz-del-sol-fluye-por-una-calle-de-la-ciudad-con-cenas-al-aire-libre-tBt6Z9ujB7E"
-  location: "Philadelphia, PA"
-  year: "2025"
+- title: "City of Guangzhou"
+  alt: "City view of Guangzhou."
+  description: "City view of Guangzhou."
+  thumb: "https://images.unsplash.com/photo-1664523779066-8444874aa533?auto=format&fit=crop&w=640&h=640&q=75"
+  full: "https://images.unsplash.com/photo-1664523779066-8444874aa533?auto=format&fit=max&w=2400&q=85"
+  source_url: "https://unsplash.com/photos/a-river-with-buildings-along-it-55vzdZA3RgQ"
+  location: "Guangzhou, China"
   width: 2400
-  height: 3524
+  height: 3348
 
 - title: "Modern Architecture with Overhead Bridge"
   alt: "Modern city architecture with a large bridge crossing overhead."
@@ -38,6 +37,17 @@
   year: "2022"
   width: 2400
   height: 3632
+
+- title: "Sunlit City Street with Outdoor Dining"
+  alt: "Sunlight spills across a city street with outdoor dining tables."
+  description: "Sunlight spills across a city street with outdoor dining tables."
+  thumb: "https://images.unsplash.com/photo-1760763370836-698cc42e28a6?auto=format&fit=crop&w=640&h=640&q=75"
+  full: "https://images.unsplash.com/photo-1760763370836-698cc42e28a6?auto=format&fit=max&w=2400&q=85"
+  source_url: "https://unsplash.com/es/fotos/la-luz-del-sol-fluye-por-una-calle-de-la-ciudad-con-cenas-al-aire-libre-tBt6Z9ujB7E"
+  location: "Philadelphia, PA"
+  year: "2025"
+  width: 2400
+  height: 3524
 
 - title: "Sunlit City Street Between Tall Buildings"
   alt: "Sunlight illuminating a city street between tall buildings."
@@ -113,15 +123,6 @@
   width: 2400
   height: 3600
 
-- title: "River with Buildings Along It"
-  alt: "A river with buildings along it."
-  description: "A river flows past buildings along the waterfront."
-  thumb: "https://images.unsplash.com/photo-1664523779066-8444874aa533?auto=format&fit=crop&w=640&h=640&q=75"
-  full: "https://images.unsplash.com/photo-1664523779066-8444874aa533?auto=format&fit=max&w=2400&q=85"
-  source_url: "https://unsplash.com/photos/a-river-with-buildings-along-it-55vzdZA3RgQ"
-  width: 2400
-  height: 3348
-
 - title: "City Night Overlook"
   alt: "A city at night from a high point of view."
   description: "A city at night viewed from a high point."
@@ -166,7 +167,7 @@
   thumb: "https://images.unsplash.com/photo-1761681052027-ace804a7a567?auto=format&fit=crop&w=640&h=640&q=75"
   full: "https://images.unsplash.com/photo-1761681052027-ace804a7a567?auto=format&fit=max&w=2400&q=85"
   source_url: "https://unsplash.com/photos/j8aqMSJwKGk"
-  location: "Chongqing, China"
+  location: "Berkeley, CA"
   width: 2400
   height: 1021
 
@@ -176,6 +177,6 @@
   thumb: "https://images.unsplash.com/photo-1633567809270-79dfbdf7eccd?auto=format&fit=crop&w=640&h=640&q=75"
   full: "https://images.unsplash.com/photo-1633567809270-79dfbdf7eccd?auto=format&fit=max&w=2400&q=85"
   source_url: "https://unsplash.com/photos/houhai-skyline-SzJBtVUMHWY"
-  location: "Chongqing, China"
+  location: "Beijing, China"
   width: 2400
   height: 3597
