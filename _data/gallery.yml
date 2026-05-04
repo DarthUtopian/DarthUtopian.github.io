@@ -4,10 +4,11 @@
 # file for thumb and full.
 #
 # Required fields: title, alt, thumb, full.
-# Optional fields: source_url, location, year, width, height.
+# Optional fields: description, source_url, location, year, width, height.
 
-- title: "Golden Hour in Philadelphia"
-  alt: "Sunlight spilling across a city street in Philadelphia."
+- title: "Sunlit City Street with Outdoor Dining"
+  alt: "Sunlight spills across a city street with outdoor dining tables."
+  description: "Sunlight spills across a city street with outdoor dining tables."
   thumb: "https://images.unsplash.com/photo-1760763370836-698cc42e28a6?auto=format&fit=crop&w=640&h=640&q=75"
   full: "https://images.unsplash.com/photo-1760763370836-698cc42e28a6?auto=format&fit=max&w=2400&q=85"
   source_url: "https://unsplash.com/es/fotos/la-luz-del-sol-fluye-por-una-calle-de-la-ciudad-con-cenas-al-aire-libre-tBt6Z9ujB7E"
@@ -16,8 +17,9 @@
   width: 2400
   height: 3524
 
-- title: "Chongqing Overpass"
-  alt: "Modern Chongqing architecture framed by an overhead bridge."
+- title: "Modern Architecture with Overhead Bridge"
+  alt: "Modern city architecture with a large bridge crossing overhead."
+  description: "Modern city architecture is framed by a large bridge crossing overhead."
   thumb: "https://images.unsplash.com/photo-1761680521985-0727e6bb586b?auto=format&fit=crop&w=640&h=640&q=75"
   full: "https://images.unsplash.com/photo-1761680521985-0727e6bb586b?auto=format&fit=max&w=2400&q=85"
   source_url: "https://unsplash.com/id/foto/arsitektur-modern-dengan-jembatan-besar-di-atas-kepala-s4ge8WVeF6I"
@@ -26,8 +28,9 @@
   width: 2400
   height: 3716
 
-- title: "Cable Car Among Towers"
-  alt: "A cable car moving between tall city buildings in Chongqing."
+- title: "Cable Car Through Tall Buildings"
+  alt: "A cable car travels through a dense city skyline of tall buildings."
+  description: "A cable car travels through a dense city skyline of tall buildings."
   thumb: "https://images.unsplash.com/photo-1644136322465-fc1a30e444ff?auto=format&fit=crop&w=640&h=640&q=75"
   full: "https://images.unsplash.com/photo-1644136322465-fc1a30e444ff?auto=format&fit=max&w=2400&q=85"
   source_url: "https://unsplash.com/photos/a-cable-car-going-through-a-city-with-tall-buildings-8IIkhaVxZDE"
@@ -36,16 +39,18 @@
   width: 2400
   height: 3632
 
-- title: "Sunlit Towers"
+- title: "Sunlit City Street Between Tall Buildings"
   alt: "Sunlight illuminating a city street between tall buildings."
+  description: "Sunlight illuminates a city street between tall buildings."
   thumb: "https://images.unsplash.com/photo-1769735208808-ee2d782c619b?auto=format&fit=crop&w=640&h=640&q=75"
   full: "https://images.unsplash.com/photo-1769735208808-ee2d782c619b?auto=format&fit=max&w=2400&q=85"
   source_url: "https://unsplash.com/photos/sunlight-illuminates-a-city-street-between-tall-buildings-3PAlyTVyqEQ"
   width: 2400
   height: 3533
 
-- title: "City Bus at Dusk"
+- title: "Bus on City Street at Dusk"
   alt: "A bus driving down a city street at dusk."
+  description: "A bus drives down a city street at dusk."
   thumb: "https://images.unsplash.com/photo-1760763074550-b576f5dadfb8?auto=format&fit=crop&w=640&h=640&q=75"
   full: "https://images.unsplash.com/photo-1760763074550-b576f5dadfb8?auto=format&fit=max&w=2400&q=85"
   source_url: "https://unsplash.com/photos/a-bus-drives-down-a-city-street-at-dusk-JakAQ18nIqY"
@@ -54,6 +59,7 @@
 
 - title: "Golden Gate at Sunset"
   alt: "Golden Gate Bridge at sunset with distant hills."
+  description: "Golden Gate Bridge at sunset with distant hills."
   thumb: "https://images.unsplash.com/photo-1760814142861-1b9f869269a1?auto=format&fit=crop&w=640&h=640&q=75"
   full: "https://images.unsplash.com/photo-1760814142861-1b9f869269a1?auto=format&fit=max&w=2400&q=85"
   source_url: "https://unsplash.com/photos/golden-gate-bridge-at-sunset-with-distant-hills-wg7jIz_d_Dk"
@@ -63,6 +69,7 @@
 
 - title: "Golden Gate at Night"
   alt: "The Golden Gate Bridge lit up at night."
+  description: "The Golden Gate Bridge is lit up at night."
   thumb: "https://images.unsplash.com/photo-1696043232757-a803d62baab1?auto=format&fit=crop&w=640&h=640&q=75"
   full: "https://images.unsplash.com/photo-1696043232757-a803d62baab1?auto=format&fit=max&w=2400&q=85"
   source_url: "https://unsplash.com/photos/the-golden-gate-bridge-is-lit-up-at-night-3MVKmy0tfwk"
@@ -70,72 +77,82 @@
   width: 2400
   height: 1456
 
-- title: "Bridge Reflection"
+- title: "Bridge Reflected in Glass Door"
   alt: "A bridge reflected in a glass door with signage."
+  description: "A bridge is reflected in a glass door with signage."
   thumb: "https://images.unsplash.com/photo-1760763730907-9cfb644eae53?auto=format&fit=crop&w=640&h=640&q=75"
   full: "https://images.unsplash.com/photo-1760763730907-9cfb644eae53?auto=format&fit=max&w=2400&q=85"
   source_url: "https://unsplash.com/photos/bridge-reflected-in-a-glass-door-with-sign-AVD7VbGz31I"
   width: 2400
   height: 3842
 
-- title: "Gothic Frame"
+- title: "Cityscape Through Gothic Window"
   alt: "A cityscape viewed through a gothic window frame."
+  description: "A cityscape is viewed through a gothic window frame."
   thumb: "https://images.unsplash.com/photo-1769734944352-0748597b4b6b?auto=format&fit=crop&w=640&h=640&q=75"
   full: "https://images.unsplash.com/photo-1769734944352-0748597b4b6b?auto=format&fit=max&w=2400&q=85"
   source_url: "https://unsplash.com/photos/cityscape-viewed-through-a-gothic-window-frame-aKRr9tHW3Zs"
   width: 2400
   height: 3470
 
-- title: "Dragon Rooftop"
+- title: "Dragon Atop Building at Night"
   alt: "A dragon perched atop a building at night."
+  description: "A dragon is perched atop a building at night."
   thumb: "https://images.unsplash.com/photo-1760766340022-04da03904d4d?auto=format&fit=crop&w=640&h=640&q=75"
   full: "https://images.unsplash.com/photo-1760766340022-04da03904d4d?auto=format&fit=max&w=2400&q=85"
   source_url: "https://unsplash.com/photos/dragon-perched-atop-a-building-at-night-5Y5wqgWYYJc"
   width: 2400
   height: 3443
 
-- title: "Spiral Staircase"
+- title: "Spiral Staircase Close-up"
   alt: "A close-up view of a spiral staircase in a building."
+  description: "A close-up view of a spiral staircase inside a building."
   thumb: "https://images.unsplash.com/photo-1645104439616-86cebeee7ebe?auto=format&fit=crop&w=640&h=640&q=75"
   full: "https://images.unsplash.com/photo-1645104439616-86cebeee7ebe?auto=format&fit=max&w=2400&q=85"
   source_url: "https://unsplash.com/photos/a-close-up-of-a-spiral-staircase-in-a-building-gVG2kSmKS0k"
   width: 2400
   height: 3600
 
-- title: "Riverfront Buildings"
+- title: "River with Buildings Along It"
   alt: "A river with buildings along it."
+  description: "A river flows past buildings along the waterfront."
   thumb: "https://images.unsplash.com/photo-1664523779066-8444874aa533?auto=format&fit=crop&w=640&h=640&q=75"
   full: "https://images.unsplash.com/photo-1664523779066-8444874aa533?auto=format&fit=max&w=2400&q=85"
   source_url: "https://unsplash.com/photos/a-river-with-buildings-along-it-55vzdZA3RgQ"
   width: 2400
   height: 3348
 
-- title: "Night Overlook"
+- title: "City Night Overlook"
   alt: "A city at night from a high point of view."
+  description: "A city at night viewed from a high point."
   thumb: "https://images.unsplash.com/photo-1644647960409-6adedde677ec?auto=format&fit=crop&w=640&h=640&q=75"
   full: "https://images.unsplash.com/photo-1644647960409-6adedde677ec?auto=format&fit=max&w=2400&q=85"
   source_url: "https://unsplash.com/photos/a-view-of-a-city-at-night-from-a-high-point-of-view-cqKYdIipMv0"
   width: 2400
   height: 1600
 
-- title: "Glass Walkway"
-  alt: "Architectural walkway details with glass and steel."
+- title: "Church Statue in China"
+  alt: "A statue and church facade detail photographed in China."
+  description: "A church facade with a statue and architectural details in China."
   thumb: "https://images.unsplash.com/photo-1645612113748-c7f0283b74f6?auto=format&fit=crop&w=640&h=640&q=75"
   full: "https://images.unsplash.com/photo-1645612113748-c7f0283b74f6?auto=format&fit=max&w=2400&q=85"
   source_url: "https://unsplash.com/photos/IgaYF-bW0qE"
+  location: "Beijing, China"
   width: 2400
   height: 3721
 
-- title: "Neon Night"
-  alt: "Night architecture with neon reflections."
+- title: "White Building Against Blue Sky"
+  alt: "A white building facade photographed against a clear blue sky."
+  description: "A white building facade is photographed against a clear blue sky."
   thumb: "https://images.unsplash.com/photo-1653570380198-c4b512e24a97?auto=format&fit=crop&w=640&h=640&q=75"
   full: "https://images.unsplash.com/photo-1653570380198-c4b512e24a97?auto=format&fit=max&w=2400&q=85"
   source_url: "https://unsplash.com/photos/ZC9q1PGZwQU"
   width: 2400
   height: 3536
 
-- title: "Golden Gate Detail"
-  alt: "A detailed view near the Golden Gate Bridge."
+- title: "Golden Gate Bridge Structural Detail"
+  alt: "A close view of the Golden Gate Bridge structure."
+  description: "A close view of the Golden Gate Bridge structure."
   thumb: "https://images.unsplash.com/photo-1760813974384-f81d8887f0be?auto=format&fit=crop&w=640&h=640&q=75"
   full: "https://images.unsplash.com/photo-1760813974384-f81d8887f0be?auto=format&fit=max&w=2400&q=85"
   source_url: "https://unsplash.com/photos/e82ZifgANa8"
@@ -143,8 +160,9 @@
   width: 2400
   height: 1686
 
-- title: "Chongqing Tower"
-  alt: "A panoramic view of a tower and city structure in Chongqing."
+- title: "Hazy Chongqing Tower"
+  alt: "A tall tower rises above a hazy Chongqing skyline."
+  description: "A tall tower rises above a hazy Chongqing skyline."
   thumb: "https://images.unsplash.com/photo-1761681052027-ace804a7a567?auto=format&fit=crop&w=640&h=640&q=75"
   full: "https://images.unsplash.com/photo-1761681052027-ace804a7a567?auto=format&fit=max&w=2400&q=85"
   source_url: "https://unsplash.com/photos/j8aqMSJwKGk"
@@ -152,16 +170,18 @@
   width: 2400
   height: 1021
 
-- title: "River at Night"
-  alt: "A night scene over a river with surrounding lights."
+- title: "Sunset Skyline Across Water"
+  alt: "A city skyline stretches across the water at sunset."
+  description: "A city skyline stretches across the water at sunset."
   thumb: "https://images.unsplash.com/photo-1667889066867-23943296c529?auto=format&fit=crop&w=640&h=640&q=75"
   full: "https://images.unsplash.com/photo-1667889066867-23943296c529?auto=format&fit=max&w=2400&q=85"
   source_url: "https://unsplash.com/photos/kzJZDA1yG_g"
   width: 2400
   height: 3700
 
-- title: "Houhai Skyline"
+- title: "City Skyline Across Water"
   alt: "A large body of water with the city skyline in the background."
+  description: "A large body of water with the city skyline in the background."
   thumb: "https://images.unsplash.com/photo-1633567809270-79dfbdf7eccd?auto=format&fit=crop&w=640&h=640&q=75"
   full: "https://images.unsplash.com/photo-1633567809270-79dfbdf7eccd?auto=format&fit=max&w=2400&q=85"
   source_url: "https://unsplash.com/photos/a-large-body-of-water-with-a-city-in-the-background-SzJBtVUMHWY"

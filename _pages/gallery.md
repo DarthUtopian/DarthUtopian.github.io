@@ -142,6 +142,21 @@ _styles: >
     font-size: 0.9rem;
   }
 
+  .gallery-viewer-description {
+    margin-top: 0.55rem;
+    line-height: 1.55;
+  }
+
+  .gallery-viewer-meta {
+    margin-top: 0.85rem;
+    font-size: 0.82rem;
+  }
+
+  .gallery-viewer-description:empty,
+  .gallery-viewer-meta:empty {
+    display: none;
+  }
+
   .gallery-viewer-source {
     display: inline-flex;
     align-items: center;
@@ -270,6 +285,7 @@ _styles: >
           data-full="{{ full_src }}"
           data-title="{{ photo.title | escape }}"
           data-alt="{{ photo.alt | default: photo.title | escape }}"
+          data-description="{{ photo.description | default: photo.alt | default: photo.title | escape }}"
           data-meta="{{ photo_meta | strip | escape }}"
           data-source="{{ photo.source_url }}"
           aria-label="Open {{ photo.title }}"
@@ -313,7 +329,8 @@ _styles: >
     <div class="gallery-viewer-info">
       <div>
         <h2 id="gallery-viewer-title"></h2>
-        <p id="gallery-viewer-meta"></p>
+        <p id="gallery-viewer-description" class="gallery-viewer-description"></p>
+        <p id="gallery-viewer-meta" class="gallery-viewer-meta"></p>
       </div>
       <a id="gallery-viewer-source" class="gallery-viewer-source" href="https://unsplash.com/@darth_u" target="_blank" rel="external nofollow noopener">
         <i class="fa-brands fa-unsplash"></i>
@@ -330,6 +347,7 @@ _styles: >
 
     const image = document.getElementById("gallery-viewer-image");
     const title = document.getElementById("gallery-viewer-title");
+    const description = document.getElementById("gallery-viewer-description");
     const meta = document.getElementById("gallery-viewer-meta");
     const source = document.getElementById("gallery-viewer-source");
     const closeButton = viewer.querySelector("[data-gallery-close]");
@@ -340,6 +358,7 @@ _styles: >
       image.src = trigger.dataset.full;
       image.alt = trigger.dataset.alt || trigger.dataset.title || "";
       title.textContent = trigger.dataset.title || "";
+      description.textContent = trigger.dataset.description || "";
       meta.textContent = trigger.dataset.meta || "";
       if (trigger.dataset.source) {
         source.href = trigger.dataset.source;
