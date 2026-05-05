@@ -219,3 +219,13 @@
   year: "2023"
   width: 2400
   height: 3597
+
+- title: "Graduation Day"
+  alt: "A graduate stands with open arms on a university lawn."
+  description: "A graduation day portrait on campus."
+  thumb: "/assets/img/gallery/thu_grad_day.jpg"
+  full: "/assets/img/gallery/thu_grad_day.jpg"
+  location: "Beijing, China"
+  year: "2024"
+  width: 1745
+  height: 1080
