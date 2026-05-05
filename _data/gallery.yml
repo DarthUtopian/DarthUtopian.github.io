@@ -13,6 +13,7 @@
   full: "https://images.unsplash.com/photo-1777936755705-57612aaa2b07?auto=format&fit=max&w=2400&q=85"
   source_url: "https://unsplash.com/photos/vf55dypn_dc"
   location: "Puerto Rico"
+  year: "2026"
   width: 2400
   height: 2400
 
@@ -23,6 +24,7 @@
   full: "https://images.unsplash.com/photo-1777933671018-6bbb84eb2a45?auto=format&fit=max&w=2400&q=85"
   source_url: "https://unsplash.com/photos/QsJntPjIqhI"
   location: "San Francisco, CA"
+  year: "2023"
   width: 2400
   height: 3460
 
@@ -33,6 +35,7 @@
   full: "https://images.unsplash.com/photo-1664523779066-8444874aa533?auto=format&fit=max&w=2400&q=85"
   source_url: "https://unsplash.com/photos/a-river-with-buildings-along-it-55vzdZA3RgQ"
   location: "Guangzhou, China"
+  year: "2023"
   width: 2400
   height: 3348
 
@@ -43,7 +46,7 @@
   full: "https://images.unsplash.com/photo-1761680521985-0727e6bb586b?auto=format&fit=max&w=2400&q=85"
   source_url: "https://unsplash.com/id/foto/arsitektur-modern-dengan-jembatan-besar-di-atas-kepala-s4ge8WVeF6I"
   location: "Chongqing, China"
-  year: "2025"
+  year: "2023"
   width: 2400
   height: 3716
 
@@ -54,7 +57,7 @@
   full: "https://images.unsplash.com/photo-1644136322465-fc1a30e444ff?auto=format&fit=max&w=2400&q=85"
   source_url: "https://unsplash.com/photos/a-cable-car-going-through-a-city-with-tall-buildings-8IIkhaVxZDE"
   location: "Chongqing, China"
-  year: "2022"
+  year: "2023"
   width: 2400
   height: 3632
 
@@ -104,15 +107,18 @@
   full: "https://images.unsplash.com/photo-1696043232757-a803d62baab1?auto=format&fit=max&w=2400&q=85"
   source_url: "https://unsplash.com/photos/the-golden-gate-bridge-is-lit-up-at-night-3MVKmy0tfwk"
   location: "San Francisco, CA"
+  year: "2023"
   width: 2400
   height: 1456
 
-- title: "Bridge Reflected in Glass Door"
+- title: "Reflection"
   alt: "A bridge reflected in a glass door with signage."
   description: "A bridge is reflected in a glass door with signage."
   thumb: "https://images.unsplash.com/photo-1760763730907-9cfb644eae53?auto=format&fit=crop&w=640&h=640&q=75"
   full: "https://images.unsplash.com/photo-1760763730907-9cfb644eae53?auto=format&fit=max&w=2400&q=85"
   source_url: "https://unsplash.com/photos/bridge-reflected-in-a-glass-door-with-sign-AVD7VbGz31I"
+  location: "Philadelphia, PA"
+  year: "2025"
   width: 2400
   height: 3842
 
@@ -122,6 +128,8 @@
   thumb: "https://images.unsplash.com/photo-1769734944352-0748597b4b6b?auto=format&fit=crop&w=640&h=640&q=75"
   full: "https://images.unsplash.com/photo-1769734944352-0748597b4b6b?auto=format&fit=max&w=2400&q=85"
   source_url: "https://unsplash.com/photos/cityscape-viewed-through-a-gothic-window-frame-aKRr9tHW3Zs"
+  location: "Pittsburgh, PA"
+  year: "2026"
   width: 2400
   height: 3470
 
@@ -131,6 +139,8 @@
   thumb: "https://images.unsplash.com/photo-1760766340022-04da03904d4d?auto=format&fit=crop&w=640&h=640&q=75"
   full: "https://images.unsplash.com/photo-1760766340022-04da03904d4d?auto=format&fit=max&w=2400&q=85"
   source_url: "https://unsplash.com/photos/dragon-perched-atop-a-building-at-night-5Y5wqgWYYJc"
+  location: "Orlando, FL"
+  year: "2025"
   width: 2400
   height: 3443
 
@@ -140,6 +150,8 @@
   thumb: "https://images.unsplash.com/photo-1645104439616-86cebeee7ebe?auto=format&fit=crop&w=640&h=640&q=75"
   full: "https://images.unsplash.com/photo-1645104439616-86cebeee7ebe?auto=format&fit=max&w=2400&q=85"
   source_url: "https://unsplash.com/photos/a-close-up-of-a-spiral-staircase-in-a-building-gVG2kSmKS0k"
+  location: "Beijing, China"
+  year: "2022"
   width: 2400
   height: 3600
 
@@ -149,25 +161,30 @@
   thumb: "https://images.unsplash.com/photo-1644647960409-6adedde677ec?auto=format&fit=crop&w=640&h=640&q=75"
   full: "https://images.unsplash.com/photo-1644647960409-6adedde677ec?auto=format&fit=max&w=2400&q=85"
   source_url: "https://unsplash.com/photos/a-view-of-a-city-at-night-from-a-high-point-of-view-cqKYdIipMv0"
+  location: "Chongqing, China"
+  year: "2023"
   width: 2400
   height: 1600
 
-- title: "Church Statue in China"
+- title: "Holy Statue"
   alt: "A statue and church facade detail photographed in China."
   description: "A church facade with a statue and architectural details in China."
   thumb: "https://images.unsplash.com/photo-1645612113748-c7f0283b74f6?auto=format&fit=crop&w=640&h=640&q=75"
   full: "https://images.unsplash.com/photo-1645612113748-c7f0283b74f6?auto=format&fit=max&w=2400&q=85"
   source_url: "https://unsplash.com/photos/IgaYF-bW0qE"
   location: "Beijing, China"
+  year: "2023"
   width: 2400
   height: 3721
 
-- title: "White Building Against Blue Sky"
-  alt: "A white building facade photographed against a clear blue sky."
-  description: "A white building facade is photographed against a clear blue sky."
+- title: "Tsinghua"
+  alt: "Old campus of Tsinghua University."
+  description: "Old campus of Tsinghua University."
   thumb: "https://images.unsplash.com/photo-1653570380198-c4b512e24a97?auto=format&fit=crop&w=640&h=640&q=75"
   full: "https://images.unsplash.com/photo-1653570380198-c4b512e24a97?auto=format&fit=max&w=2400&q=85"
   source_url: "https://unsplash.com/photos/ZC9q1PGZwQU"
+  location: "Beijing, China"
+  year: "2023"
   width: 2400
   height: 3536
 
@@ -188,6 +205,7 @@
   full: "https://images.unsplash.com/photo-1761681052027-ace804a7a567?auto=format&fit=max&w=2400&q=85"
   source_url: "https://unsplash.com/photos/j8aqMSJwKGk"
   location: "Berkeley, CA"
+  year: "2023"
   width: 2400
   height: 1021
 
@@ -198,5 +216,6 @@
   full: "https://images.unsplash.com/photo-1633567809270-79dfbdf7eccd?auto=format&fit=max&w=2400&q=85"
   source_url: "https://unsplash.com/photos/houhai-skyline-SzJBtVUMHWY"
   location: "Beijing, China"
+  year: "2023"
   width: 2400
   height: 3597
