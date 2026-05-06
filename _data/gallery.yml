@@ -16,6 +16,28 @@
   year: "2026"
   width: 2400
   height: 2400
+  
+- title: "Temple"
+  alt: "Tibetan temple at Chuanxi"
+  description: "Tibetan temple at Chuanxi"
+  thumb: "https://images.unsplash.com/photo-1778046577466-c7505e83d15e?auto=format&fit=crop&w=640&h=640&q=75"
+  full: "https://images.unsplash.com/photo-1778046577466-c7505e83d15e?auto=format&fit=max&w=2400&q=85"
+  source_url: "https://unsplash.com/photos/nj8tFfhQzxM"
+  location: "Aba, Sichuan, China"
+  year: "2024"
+  width: 6121
+  height: 9181
+
+- title: "Beam & Pillars"
+  alt: "Hongyanchun Bridge of Jialing River."
+  description: "Hongyanchun Bridge of Jialing River in Chongqing."
+  thumb: "https://images.unsplash.com/photo-1761680521985-0727e6bb586b?auto=format&fit=crop&w=640&h=640&q=75"
+  full: "https://images.unsplash.com/photo-1761680521985-0727e6bb586b?auto=format&fit=max&w=2400&q=85"
+  source_url: "https://unsplash.com/photos/beam-and-pillars-detail-photographed-in-chongqing-s4ge8WVeF6I"
+  location: "Chongqing, China"
+  year: "2023"
+  width: 2400 
+  height: 3716
 
 - title: "Trolley in San Francisco"
   alt: "A trolley in San Francisco."
@@ -39,16 +61,16 @@
   width: 2400
   height: 3348
 
-- title: "Modern Architecture with Overhead Bridge"
-  alt: "Modern city architecture with a large bridge crossing overhead."
-  description: "Modern city architecture is framed by a large bridge crossing overhead."
-  thumb: "https://images.unsplash.com/photo-1761680521985-0727e6bb586b?auto=format&fit=crop&w=640&h=640&q=75"
-  full: "https://images.unsplash.com/photo-1761680521985-0727e6bb586b?auto=format&fit=max&w=2400&q=85"
-  source_url: "https://unsplash.com/id/foto/arsitektur-modern-dengan-jembatan-besar-di-atas-kepala-s4ge8WVeF6I"
-  location: "Chongqing, China"
-  year: "2023"
-  width: 2400
-  height: 3716
+- title: "Snow"
+  alt: "Snow in Shanghai"
+  description: "Snow"
+  thumb: "https://images.unsplash.com/photo-1778046408998-91be98d03cde?auto=format&fit=crop&w=640&h=640&q=75"
+  full: "https://images.unsplash.com/photo-1778046408998-91be98d03cde?auto=format&fit=max&w=2400&q=85"
+  source_url: "https://unsplash.com/photos/_td5UJPkVuE"
+  location: "Shanghai, China"
+  year: "2026"
+  width: 5930
+  height: 9005
 
 - title: "Cable Car Through Tall Buildings"
   alt: "A cable car travels through a dense city skyline of tall buildings."
