@@ -17,16 +17,17 @@
   width: 5881
   height: 8366
 
-- title: "Laid-back Afternoon"
-  alt: "A laid-back afternoon in a village in Puerto Rico."
-  description: "Laid-back Afternoon."
-  thumb: "https://images.unsplash.com/photo-1779057456430-622b996e2cfe?auto=format&fit=crop&w=640&h=640&q=75"
-  full: "https://images.unsplash.com/photo-1779057456430-622b996e2cfe?auto=format&fit=max&w=2400&q=85"
-  source_url: "https://unsplash.com/photos/kVkrd9QxYbo"
+
+- title: "Cottage Upon the Caribbean"
+  alt: "A cottage by the Caribbean sea."
+  description: "Cottage Upon the Caribbean."
+  thumb: "https://images.unsplash.com/photo-1779059680674-bfc462ab85d9?auto=format&fit=crop&w=640&h=640&q=75"
+  full: "https://images.unsplash.com/photo-1779059680674-bfc462ab85d9?auto=format&fit=max&w=2400&q=85"
+  source_url: "https://unsplash.com/photos/jSWHvc4MhT4"
   location: "Puerto Rico"
   year: "2026"
-  width: 9504
-  height: 5137
+  width: 7386
+  height: 5498
 
 - title: "Crenel"
   alt: "Crenel detail photographed in Puerto Rico."
@@ -177,12 +178,23 @@
   width: 2400
   height: 3470
 
-- title: "Dragon Atop Building at Night"
-  alt: "A dragon perched atop a building at night."
-  description: "A dragon is perched atop a building at night."
+- title: "Laid-back Afternoon"
+  alt: "A laid-back afternoon in a village in Puerto Rico."
+  description: "Laid-back Afternoon."
+  thumb: "https://images.unsplash.com/photo-1779057456430-622b996e2cfe?auto=format&fit=crop&w=640&h=640&q=75"
+  full: "https://images.unsplash.com/photo-1779057456430-622b996e2cfe?auto=format&fit=max&w=2400&q=85"
+  source_url: "https://unsplash.com/photos/kVkrd9QxYbo"
+  location: "Puerto Rico"
+  year: "2026"
+  width: 9504
+  height: 5137
+
+- title: "Diagon Alley"
+  alt: "Diagon Alley at night."
+  description: "Diagon Alley at night."
   thumb: "https://images.unsplash.com/photo-1760766340022-04da03904d4d?auto=format&fit=crop&w=640&h=640&q=75"
   full: "https://images.unsplash.com/photo-1760766340022-04da03904d4d?auto=format&fit=max&w=2400&q=85"
-  source_url: "https://unsplash.com/photos/dragon-perched-atop-a-building-at-night-5Y5wqgWYYJc"
+  source_url: "https://unsplash.com/photos/diagonal-alley-at-night-5Y5wqgWYYJc"
   location: "Orlando, FL"
   year: "2025"
   width: 2400
@@ -191,13 +203,13 @@
 - title: "Spiral"
   alt: "Spiral structure at LiZe Center."
   description: "Spiral structure at LiZe Center."
-  thumb: "https://images.unsplash.com/photo-1645104439616-86cebeee7ebe?auto=format&fit=crop&w=640&h=640&q=75"
-  full: "https://images.unsplash.com/photo-1645104439616-86cebeee7ebe?auto=format&fit=max&w=2400&q=85"
-  source_url: "https://unsplash.com/photos/spiral-staircase-at-lize-center-gVG2kSmKS0k"
+  thumb: "https://images.unsplash.com/photo-1631023777074-8a85f27bf67d?auto=format&fit=crop&w=640&h=640&q=75"
+  full: "https://images.unsplash.com/photo-1631023777074-8a85f27bf67d?auto=format&fit=max&w=2400&q=85"
+  source_url: "https://unsplash.com/photos/low-angle-photography-of-brown-and-black-building-interior-dCtPTIl9d3U"
   location: "Beijing, China"
   year: "2022"
-  width: 3600
-  height: 2400
+  width: 5074
+  height: 3072
 
 - title: "Spiral Staircase Close-up"
   alt: "A close-up view of a spiral staircase in a building."
