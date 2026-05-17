@@ -32,6 +32,8 @@ I am a Master's student at the [Robotics Institute](https://www.ri.cmu.edu) of *
 
 My research focuses on reinforcement learning for robotics and autonomous driving. As embodied systems enter the era of experience-driven improvement, I am interested in building **efficient and scalable RL pipelines** that learn with minimal external supervision and improve **robotic foundation models** from on-the-fly interaction.
 
-Outside of research, I enjoy **photography and travel**. You can find some of my work on [Unsplash](https://unsplash.com/@darth_u), where I am a Top 10% contributor.
+I'll be joining NVIDIA's [GEAR Lab](https://research.nvidia.com/labs/gear/) as a research scientist intern this summer.
+
+Outside of research, I enjoy **photography and travel**. You can find my works on [Unsplash](https://unsplash.com/@darth_u) \(Top 10% contributor\)
 
 Email: vlin3 [AT] andrew.cmu.edu
