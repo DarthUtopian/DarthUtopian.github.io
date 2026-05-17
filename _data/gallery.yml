@@ -6,6 +6,28 @@
 # Required fields: title, alt, thumb, full.
 # Optional fields: description, source_url, location, year, width, height.
 
+- title: "Old San Juan Street"
+  alt: "A beautiful sunset in San Juan, Puerto Rico."
+  description: "Otro sunset bonito que veo en San Juan."
+  thumb: "https://images.unsplash.com/photo-1779057109187-195276600311?auto=format&fit=crop&w=640&h=640&q=75"
+  full: "https://images.unsplash.com/photo-1779057109187-195276600311?auto=format&fit=max&w=2400&q=85"
+  source_url: "https://unsplash.com/photos/chlO1oUJMk0"
+  location: "San Juan, Puerto Rico"
+  year: "2026"
+  width: 5881
+  height: 8366
+
+- title: "Laid-back Afternoon"
+  alt: "A laid-back afternoon in a village in Puerto Rico."
+  description: "Laid-back Afternoon."
+  thumb: "https://images.unsplash.com/photo-1779057456430-622b996e2cfe?auto=format&fit=crop&w=640&h=640&q=75"
+  full: "https://images.unsplash.com/photo-1779057456430-622b996e2cfe?auto=format&fit=max&w=2400&q=85"
+  source_url: "https://unsplash.com/photos/kVkrd9QxYbo"
+  location: "Puerto Rico"
+  year: "2026"
+  width: 9504
+  height: 5137
+
 - title: "Crenel"
   alt: "Crenel detail photographed in Puerto Rico."
   description: "Crenel detail photographed in Puerto Rico."
