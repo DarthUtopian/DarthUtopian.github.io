@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /gallery/
-title: Gallery
+title: gallery
 description: Welcome to My World
 nav: true
 nav_order: 4.5
