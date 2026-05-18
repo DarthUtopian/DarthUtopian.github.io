@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /gallery/
-title: gallery
-description: Photography from my travels and city walks.
+title: Gallery
+description: Welcome to My World
 nav: true
 nav_order: 4.5
 _styles: >
@@ -212,6 +212,45 @@ _styles: >
     opacity: 0.84;
   }
 
+  .gallery-inscription {
+    text-align: center;
+    margin: 0.5rem auto 2rem;
+    padding: 1.5rem 1rem;
+    max-width: 480px;
+    color: var(--global-text-color-light);
+  }
+
+  .gallery-inscription blockquote {
+    border: none;
+    margin: 0;
+    padding: 0;
+    font-family: 'EB Garamond', 'Garamond', 'Georgia', serif;
+    font-style: italic;
+    font-size: 1.15rem;
+    line-height: 1.7;
+    letter-spacing: 0.01em;
+    color: var(--global-text-color);
+  }
+
+  .gallery-inscription cite {
+    display: block;
+    margin-top: 0.6rem;
+    font-family: 'EB Garamond', 'Garamond', 'Georgia', serif;
+    font-style: normal;
+    font-size: 0.9rem;
+    letter-spacing: 0.04em;
+    color: var(--global-text-color-light);
+  }
+
+  .gallery-inscription .inscription-ornament {
+    display: block;
+    margin: 0.8rem auto;
+    font-size: 0.7rem;
+    letter-spacing: 0.45em;
+    color: var(--global-text-color-light);
+    opacity: 0.5;
+  }
+
   .gallery-empty {
     padding: 2rem 0;
     color: var(--global-text-color-light);
@@ -258,6 +297,15 @@ _styles: >
       <i class="fa-brands fa-unsplash"></i>
       <span>Unsplash</span>
     </a>
+  </div>
+
+  <div class="gallery-inscription">
+    <span class="inscription-ornament">&#10022; &middot; &#10022; &middot; &#10022;</span>
+    <blockquote>
+      &ldquo;The real voyage of discovery consists not in seeking new landscapes, but in having new eyes.&rdquo;
+    </blockquote>
+    <cite>&mdash; Marcel Proust</cite>
+    <span class="inscription-ornament">&#10022; &middot; &#10022; &middot; &#10022;</span>
   </div>
 
 {% if site.data.gallery and site.data.gallery.size > 0 %}
