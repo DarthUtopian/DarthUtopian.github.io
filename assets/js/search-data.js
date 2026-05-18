@@ -31,7 +31,7 @@ ninja.data = [{
             window.location.href = "/talks/";
           },
         },{id: "nav-gallery",
-          title: "Gallery",
+          title: "gallery",
           description: "Welcome to My World",
           section: "Navigation",
           handler: () => {
