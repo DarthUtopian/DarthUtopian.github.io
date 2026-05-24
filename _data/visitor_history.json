@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-05-24T11:36:59+00:00",
-  "total_visits": 108,
-  "location_count": 36,
+  "updated_at": "2026-05-24T16:56:15+00:00",
+  "total_visits": 109,
+  "location_count": 37,
   "locations": [
     {
       "lat": 37.7749,
@@ -361,6 +361,16 @@
       "last_visit": "21-May-2026 02:40:06",
       "x": 16.007,
       "y": 23.816,
+      "size": 8.6
+    },
+    {
+      "lat": 21.45,
+      "lng": 105.85,
+      "label": "Vietnam, Thai Nguyen, Ph� Y�n",
+      "visits": 1,
+      "last_visit": "24-May-2026 16:43:47",
+      "x": 79.403,
+      "y": 38.083,
       "size": 8.6
     }
   ]
