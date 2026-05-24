@@ -1,0 +1,52 @@
+name: Update visitor history
+
+# SmallCounter's free map endpoint only exposes the most recent ~100 visits.
+# This workflow scrapes that map on a schedule and merges new markers into
+# _data/visitor_history.json so the rendered visitor map reflects every visitor
+# ever captured, not just the last 100.
+
+on:
+  schedule:
+    # Every 30 minutes. GitHub may delay scheduled runs during high load.
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: write # required to dispatch the deploy workflow after committing
+
+concurrency:
+  group: visitor-history
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: Scrape and merge SmallCounter history
+        run: python3 _scripts/update_visitor_history.py
+
+      - name: Commit changes
+        id: commit
+        uses: stefanzweifel/git-auto-commit-action@v5.0.1
+        with:
+          commit_message: "Update visitor history"
+          file_pattern: _data/visitor_history.json
+
+      - name: Trigger deploy
+        # The auto-commit above uses GITHUB_TOKEN, which on its own does not
+        # trigger push-based workflows. Dispatching deploy.yml explicitly via
+        # workflow_dispatch is the documented exception that does fire.
+        if: steps.commit.outputs.changes_detected == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh workflow run deploy.yml --ref ${{ github.ref_name }}

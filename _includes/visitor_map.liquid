@@ -6,7 +6,6 @@
   {% assign map_image = visitor_map.map_image | default: '/assets/img/world.svg' %}
   {% assign tracking_url = '' %}
   {% assign details_url = '' %}
-  {% assign refresh_ms = visitor_map.refresh_ms | default: 60000 %}
 
   {% if provider == 'smallcounter' and visitor_map.counter_id %}
     {% assign counter_type = visitor_map.counter_type | default: 1600 %}
@@ -32,14 +31,9 @@
   {% endif %}
 
   {% if map_image != '' %}
+    {% assign history = site.data.visitor_history %}
     <h2 id="visitor-map-heading">{{ title }}</h2>
-    <div
-      class="visitor-map visitor-map-image"
-      {% if details_url != '' %}
-        data-live-stats-url="{{ details_url }}"
-        data-live-refresh-ms="{{ refresh_ms }}"
-      {% endif %}
-    >
+    <div class="visitor-map visitor-map-image">
       {% if details_url != '' %}
         <a
           class="visitor-map-link"
@@ -51,14 +45,29 @@
       {% endif %}
       <div class="visitor-map-canvas" role="img" aria-label="World map showing visitor locations">
         <img class="visitor-map-base" src="{{ map_image | relative_url }}" alt="">
-        <div class="visitor-map-dots" data-visitor-map-dots></div>
+        <div class="visitor-map-dots">
+          {% if history and history.locations %}
+            {% for loc in history.locations %}
+              <span
+                class="visitor-map-dot"
+                style="left: {{ loc.x }}%; top: {{ loc.y }}%; --visitor-dot-size: {{ loc.size }}px;"
+                title="{{ loc.label | escape }}: {{ loc.visits }} visits{% if loc.last_visit != '' %}; last visit {{ loc.last_visit }}{% endif %}"
+                aria-hidden="true"
+              ></span>
+            {% endfor %}
+          {% endif %}
+        </div>
       </div>
       {% if details_url != '' %}
         </a>
       {% endif %}
 
-      <div class="visitor-map-summary" data-visitor-map-summary>
-        Loading live visitor history...
+      <div class="visitor-map-summary">
+        {% if history and history.locations.size > 0 %}
+          {{ history.total_visits }} visits from {{ history.location_count }} locations.
+        {% else %}
+          Visitor history will appear here after the first scheduled update.
+        {% endif %}
       </div>
 
       {% if tracking_url != '' %}
@@ -72,135 +81,11 @@
         <noscript><img class="visitor-map-counter" width="1" height="1" src="{{ tracking_url }}" alt=""></noscript>
         <script>
           (function () {
-            function withCacheBust(url) {
-              return url + (url.indexOf('?') === -1 ? '?' : '&') + 'cache_bust=' + Date.now();
-            }
-
-            function fetchWithTimeout(url, timeout) {
-              var controller = window.AbortController ? new AbortController() : null;
-              var timer = controller ? window.setTimeout(function () { controller.abort(); }, timeout) : null;
-              return fetch(url, {
-                cache: 'no-store',
-                signal: controller ? controller.signal : undefined
-              }).then(function (response) {
-                if (!response.ok) throw new Error('visitor stats request failed');
-                return response.text();
-              }).finally(function () {
-                if (timer) window.clearTimeout(timer);
-              });
-            }
-
-            function statsUrls(source) {
-              var freshSource = withCacheBust(source);
-              return [
-                'https://api.codetabs.com/v1/proxy?quest=' + encodeURIComponent(freshSource),
-                'https://api.allorigins.win/raw?url=' + encodeURIComponent(freshSource)
-              ];
-            }
-
-            function fetchFirst(urls, index) {
-              if (index >= urls.length) return Promise.reject(new Error('visitor stats unavailable'));
-              return fetchWithTimeout(urls[index], 4500).catch(function () {
-                return fetchFirst(urls, index + 1);
-              });
-            }
-
-            function decodeMarkerHtml(value) {
-              return value.replace(/\\\//g, '/').replace(/\\"/g, '"');
-            }
-
-            function textFromHtml(value) {
-              var node = document.createElement('div');
-              node.innerHTML = value.replace(/<br\s*\/?>/gi, '\n');
-              return node.textContent.replace(/\s+/g, ' ').trim();
-            }
-
-            function projectLongitude(longitude) {
-              return Math.max(0, Math.min(100, ((longitude + 180) / 360) * 100));
-            }
-
-            function projectLatitude(latitude) {
-              return Math.max(0, Math.min(100, ((90 - latitude) / 180) * 100));
-            }
-
-            function dotSize(visits) {
-              return Math.max(8, Math.min(18, 7 + Math.sqrt(visits || 1) * 1.6));
-            }
-
-            function parseSmallCounterStats(html) {
-              var entries = [];
-              var pattern = /var point = new GLatLng\(\s*([-\d.]+)\s*,\s*([-\d.]+)\s*\);\s*var marker = createMarker\(point,\s*"[^"]*",\s*"((?:\\.|[^"\\])*)"/g;
-              var match;
-              while ((match = pattern.exec(html)) !== null) {
-                var latitude = Number(match[1]);
-                var longitude = Number(match[2]);
-                var markerText = textFromHtml(decodeMarkerHtml(match[3]));
-                var visitsMatch = markerText.match(/Total\s*:\s*([\d,]+)/i);
-                var lastVisitMatch = markerText.match(/Last visit\s*:\s*(.+)$/i);
-                var visits = visitsMatch ? Number(visitsMatch[1].replace(/,/g, '')) : 1;
-                var label = markerText.replace(/\s*Total\s*:.*$/i, '').trim();
-                entries.push({
-                  label: label,
-                  visits: visits,
-                  lastVisit: lastVisitMatch ? lastVisitMatch[1].trim() : '',
-                  x: projectLongitude(longitude),
-                  y: projectLatitude(latitude),
-                  size: dotSize(visits)
-                });
-              }
-              return entries;
-            }
-
-            function renderLiveDots(root, entries) {
-              var layer = root.querySelector('[data-visitor-map-dots]');
-              var summary = root.querySelector('[data-visitor-map-summary]');
-              var total = 0;
-              if (!layer) return;
-              layer.innerHTML = '';
-              if (!entries.length) {
-                if (summary) summary.textContent = 'Live visitor history is not available yet.';
-                return;
-              }
-              entries.forEach(function (entry) {
-                total += entry.visits || 0;
-                var dot = document.createElement('span');
-                dot.className = 'visitor-map-dot';
-                dot.style.left = entry.x.toFixed(2) + '%';
-                dot.style.top = entry.y.toFixed(2) + '%';
-                dot.style.setProperty('--visitor-dot-size', entry.size.toFixed(1) + 'px');
-                dot.title = entry.label + ': ' + entry.visits + ' visits' + (entry.lastVisit ? '; last visit ' + entry.lastVisit : '');
-                dot.setAttribute('aria-hidden', 'true');
-                layer.appendChild(dot);
-              });
-              if (summary) {
-                summary.textContent = total + ' visits visualized from live tracked history.';
-              }
-            }
-
-            function refreshLiveStats(root) {
-              var source = root.getAttribute('data-live-stats-url');
-              if (!source) return;
-              fetchFirst(statsUrls(source), 0).then(function (html) {
-                renderLiveDots(root, parseSmallCounterStats(html));
-              }).catch(function () {
-                var summary = root.querySelector('[data-visitor-map-summary]');
-                if (summary) summary.textContent = 'Live visitor history is temporarily unavailable.';
-              });
-            }
-
             var counters = document.querySelectorAll('.visitor-map-counter[data-visitor-map-src]');
             for (var i = 0; i < counters.length; i += 1) {
               var source = counters[i].getAttribute('data-visitor-map-src');
-              counters[i].src = withCacheBust(source);
-            }
-
-            var liveMaps = document.querySelectorAll('.visitor-map[data-live-stats-url]');
-            for (var j = 0; j < liveMaps.length; j += 1) {
-              (function (root) {
-                var refreshMs = Number(root.getAttribute('data-live-refresh-ms')) || 60000;
-                window.setTimeout(function () { refreshLiveStats(root); }, 1200);
-                window.setInterval(function () { refreshLiveStats(root); }, refreshMs);
-              })(liveMaps[j]);
+              var bust = (source.indexOf('?') === -1 ? '?' : '&') + 'cache_bust=' + Date.now();
+              counters[i].src = source + bust;
             }
           })();
         </script>

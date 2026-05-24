@@ -1,0 +1,367 @@
+{
+  "updated_at": "2026-05-24T09:02:17+00:00",
+  "total_visits": 108,
+  "location_count": 36,
+  "locations": [
+    {
+      "lat": 37.7749,
+      "lng": -122.4194,
+      "label": "United States, California, San Francisco",
+      "visits": 35,
+      "last_visit": "24-May-2026 08:34:13",
+      "x": 15.995,
+      "y": 29.014,
+      "size": 16.47
+    },
+    {
+      "lat": 37.3394,
+      "lng": -121.895,
+      "label": "United States, California, San Jose",
+      "visits": 20,
+      "last_visit": "23-May-2026 02:27:36",
+      "x": 16.14,
+      "y": 29.256,
+      "size": 14.16
+    },
+    {
+      "lat": 39.9289,
+      "lng": 116.3883,
+      "label": "China, Beijing, Beijing",
+      "visits": 9,
+      "last_visit": "22-May-2026 09:11:03",
+      "x": 82.33,
+      "y": 27.817,
+      "size": 11.8
+    },
+    {
+      "lat": 50.7333,
+      "lng": 7.1,
+      "label": "Germany, Nordrhein-Westfalen, Bonn",
+      "visits": 4,
+      "last_visit": "18-May-2026 10:32:52",
+      "x": 51.972,
+      "y": 21.815,
+      "size": 10.2
+    },
+    {
+      "lat": 38.0,
+      "lng": -97.0,
+      "label": "United States, ,",
+      "visits": 4,
+      "last_visit": "24-May-2026 02:31:15",
+      "x": 23.056,
+      "y": 28.889,
+      "size": 10.2
+    },
+    {
+      "lat": 28.6,
+      "lng": 77.2,
+      "label": "India, Delhi, New Delhi",
+      "visits": 2,
+      "last_visit": "18-May-2026 19:34:38",
+      "x": 71.444,
+      "y": 34.111,
+      "size": 9.26
+    },
+    {
+      "lat": 36.0,
+      "lng": 138.0,
+      "label": "Japan, ,",
+      "visits": 2,
+      "last_visit": "22-May-2026 22:40:38",
+      "x": 88.333,
+      "y": 30.0,
+      "size": 9.26
+    },
+    {
+      "lat": 37.5985,
+      "lng": 126.9783,
+      "label": "Korea, Republic of, Seoul-t'ukpyolsi, Seoul",
+      "visits": 2,
+      "last_visit": "23-May-2026 03:15:58",
+      "x": 85.272,
+      "y": 29.112,
+      "size": 9.26
+    },
+    {
+      "lat": 42.5051,
+      "lng": -71.2047,
+      "label": "United States, Massachusetts, Burlington",
+      "visits": 2,
+      "last_visit": "21-May-2026 14:34:49",
+      "x": 30.221,
+      "y": 26.386,
+      "size": 9.26
+    },
+    {
+      "lat": 40.5465,
+      "lng": -80.0525,
+      "label": "United States, Pennsylvania, Pittsburgh",
+      "visits": 2,
+      "last_visit": "18-May-2026 04:23:04",
+      "x": 27.763,
+      "y": 27.474,
+      "size": 9.26
+    },
+    {
+      "lat": 45.45,
+      "lng": -73.5667,
+      "label": "Canada, Quebec, Verdun",
+      "visits": 1,
+      "last_visit": "21-May-2026 12:35:03",
+      "x": 29.565,
+      "y": 24.75,
+      "size": 8.6
+    },
+    {
+      "lat": 35.0,
+      "lng": 105.0,
+      "label": "China, ,",
+      "visits": 1,
+      "last_visit": "24-May-2026 00:36:39",
+      "x": 79.167,
+      "y": 30.556,
+      "size": 8.6
+    },
+    {
+      "lat": 28.1792,
+      "lng": 113.1136,
+      "label": "China, Hunan, Changsha",
+      "visits": 1,
+      "last_visit": "19-May-2026 09:41:51",
+      "x": 81.42,
+      "y": 34.345,
+      "size": 8.6
+    },
+    {
+      "lat": 36.6683,
+      "lng": 116.9972,
+      "label": "China, Shandong, Jinan",
+      "visits": 1,
+      "last_visit": "19-May-2026 23:52:24",
+      "x": 82.499,
+      "y": 29.629,
+      "size": 8.6
+    },
+    {
+      "lat": 31.0456,
+      "lng": 121.3997,
+      "label": "China, Shanghai, Shanghai",
+      "visits": 1,
+      "last_visit": "21-May-2026 04:02:37",
+      "x": 83.722,
+      "y": 32.752,
+      "size": 8.6
+    },
+    {
+      "lat": 47.0,
+      "lng": 8.0,
+      "label": "Europe, ,",
+      "visits": 1,
+      "last_visit": "18-May-2026 23:50:23",
+      "x": 52.222,
+      "y": 23.889,
+      "size": 8.6
+    },
+    {
+      "lat": 32.0,
+      "lng": 53.0,
+      "label": "Iran, Islamic Republic of, ,",
+      "visits": 1,
+      "last_visit": "23-May-2026 14:18:46",
+      "x": 64.722,
+      "y": 32.222,
+      "size": 8.6
+    },
+    {
+      "lat": 62.0,
+      "lng": 15.0,
+      "label": "Sweden, ,",
+      "visits": 1,
+      "last_visit": "23-May-2026 15:37:19",
+      "x": 54.167,
+      "y": 15.556,
+      "size": 8.6
+    },
+    {
+      "lat": 51.5142,
+      "lng": -0.093099999999993,
+      "label": "United Kingdom, London, City of, London",
+      "visits": 1,
+      "last_visit": "20-May-2026 10:33:20",
+      "x": 49.974,
+      "y": 21.381,
+      "size": 8.6
+    },
+    {
+      "lat": 52.0333,
+      "lng": -0.69999999999999,
+      "label": "United Kingdom, Milton Keynes, Milton Keynes",
+      "visits": 1,
+      "last_visit": "20-May-2026 09:35:24",
+      "x": 49.806,
+      "y": 21.093,
+      "size": 8.6
+    },
+    {
+      "lat": 33.1192,
+      "lng": -117.0864,
+      "label": "United States, California, Escondido",
+      "visits": 1,
+      "last_visit": "23-May-2026 17:32:42",
+      "x": 17.476,
+      "y": 31.6,
+      "size": 8.6
+    },
+    {
+      "lat": 33.6403,
+      "lng": -117.7694,
+      "label": "United States, California, Irvine",
+      "visits": 1,
+      "last_visit": "20-May-2026 03:09:25",
+      "x": 17.286,
+      "y": 31.311,
+      "size": 8.6
+    },
+    {
+      "lat": 39.9674,
+      "lng": -121.0022,
+      "label": "United States, California, Quincy",
+      "visits": 1,
+      "last_visit": "18-May-2026 02:20:50",
+      "x": 16.388,
+      "y": 27.796,
+      "size": 8.6
+    },
+    {
+      "lat": 32.7153,
+      "lng": -117.1573,
+      "label": "United States, California, San Diego",
+      "visits": 1,
+      "last_visit": "21-May-2026 16:42:19",
+      "x": 17.456,
+      "y": 31.825,
+      "size": 8.6
+    },
+    {
+      "lat": 37.7799,
+      "lng": -121.978,
+      "label": "United States, California, San Ramon",
+      "visits": 1,
+      "last_visit": "23-May-2026 18:31:15",
+      "x": 16.117,
+      "y": 29.011,
+      "size": 8.6
+    },
+    {
+      "lat": 37.4178,
+      "lng": -122.172,
+      "label": "United States, California, Stanford",
+      "visits": 1,
+      "last_visit": "18-May-2026 10:34:00",
+      "x": 16.063,
+      "y": 29.212,
+      "size": 8.6
+    },
+    {
+      "lat": 33.749,
+      "lng": -84.388,
+      "label": "United States, Georgia, Atlanta",
+      "visits": 1,
+      "last_visit": "21-May-2026 09:26:06",
+      "x": 26.559,
+      "y": 31.251,
+      "size": 8.6
+    },
+    {
+      "lat": 39.1535,
+      "lng": -77.0753,
+      "label": "United States, Maryland, Olney",
+      "visits": 1,
+      "last_visit": "24-May-2026 05:54:11",
+      "x": 28.59,
+      "y": 28.248,
+      "size": 8.6
+    },
+    {
+      "lat": 43.0139,
+      "lng": -71.4352,
+      "label": "United States, New Hampshire, Manchester",
+      "visits": 1,
+      "last_visit": "21-May-2026 13:07:22",
+      "x": 30.157,
+      "y": 26.103,
+      "size": 8.6
+    },
+    {
+      "lat": 39.9649,
+      "lng": -83.1383,
+      "label": "United States, Ohio, Columbus",
+      "visits": 1,
+      "last_visit": "23-May-2026 05:24:22",
+      "x": 26.906,
+      "y": 27.797,
+      "size": 8.6
+    },
+    {
+      "lat": 40.4998,
+      "lng": -80.1842,
+      "label": "United States, Pennsylvania, Coraopolis",
+      "visits": 1,
+      "last_visit": "24-May-2026 06:19:10",
+      "x": 27.727,
+      "y": 27.5,
+      "size": 8.6
+    },
+    {
+      "lat": 40.4439,
+      "lng": -79.9561,
+      "label": "United States, Pennsylvania, Pittsburgh",
+      "visits": 1,
+      "last_visit": "20-May-2026 19:13:36",
+      "x": 27.79,
+      "y": 27.531,
+      "size": 8.6
+    },
+    {
+      "lat": 29.6997,
+      "lng": -95.5858,
+      "label": "United States, Texas, Houston",
+      "visits": 1,
+      "last_visit": "22-May-2026 23:54:39",
+      "x": 23.448,
+      "y": 33.5,
+      "size": 8.6
+    },
+    {
+      "lat": 47.6062,
+      "lng": -122.3321,
+      "label": "United States, Washington, Seattle",
+      "visits": 1,
+      "last_visit": "22-May-2026 03:25:45",
+      "x": 16.019,
+      "y": 23.552,
+      "size": 8.6
+    },
+    {
+      "lat": 47.4323,
+      "lng": -121.8034,
+      "label": "United States, Washington, Seattle",
+      "visits": 1,
+      "last_visit": "19-May-2026 02:34:10",
+      "x": 16.166,
+      "y": 23.649,
+      "size": 8.6
+    },
+    {
+      "lat": 47.1315,
+      "lng": -122.3754,
+      "label": "United States, Washington, Tacoma",
+      "visits": 1,
+      "last_visit": "21-May-2026 02:40:06",
+      "x": 16.007,
+      "y": 23.816,
+      "size": 8.6
+    }
+  ]
+}
