@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-05-25T16:49:23+00:00",
-  "total_visits": 115,
-  "location_count": 40,
+  "updated_at": "2026-05-25T20:36:30+00:00",
+  "total_visits": 116,
+  "location_count": 41,
   "locations": [
     {
       "lat": 37.7749,
@@ -112,6 +112,16 @@
       "x": 27.763,
       "y": 27.474,
       "size": 9.26
+    },
+    {
+      "lat": 49.25,
+      "lng": -123.1333,
+      "label": "Canada, British Columbia,",
+      "visits": 1,
+      "last_visit": "25-May-2026 20:30:37",
+      "x": 15.796,
+      "y": 22.639,
+      "size": 8.6
     },
     {
       "lat": 45.45,
