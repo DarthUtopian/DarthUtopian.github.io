@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-05-25T02:25:23+00:00",
-  "total_visits": 111,
-  "location_count": 38,
+  "updated_at": "2026-05-25T03:49:10+00:00",
+  "total_visits": 114,
+  "location_count": 39,
   "locations": [
     {
       "lat": 37.7749,
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
-      "visits": 36,
-      "last_visit": "25-May-2026 01:46:21",
+      "visits": 37,
+      "last_visit": "25-May-2026 03:37:30",
       "x": 15.995,
       "y": 29.014,
-      "size": 16.6
+      "size": 16.73
     },
     {
       "lat": 37.3394,
@@ -52,6 +52,16 @@
       "x": 23.056,
       "y": 28.889,
       "size": 10.2
+    },
+    {
+      "lat": 31.0456,
+      "lng": 121.3997,
+      "label": "China, Shanghai, Shanghai",
+      "visits": 2,
+      "last_visit": "25-May-2026 03:15:19",
+      "x": 83.722,
+      "y": 32.752,
+      "size": 9.26
     },
     {
       "lat": 28.6,
@@ -141,16 +151,6 @@
       "last_visit": "19-May-2026 23:52:24",
       "x": 82.499,
       "y": 29.629,
-      "size": 8.6
-    },
-    {
-      "lat": 31.0456,
-      "lng": 121.3997,
-      "label": "China, Shanghai, Shanghai",
-      "visits": 1,
-      "last_visit": "21-May-2026 04:02:37",
-      "x": 83.722,
-      "y": 32.752,
       "size": 8.6
     },
     {
@@ -331,6 +331,16 @@
       "last_visit": "22-May-2026 23:54:39",
       "x": 23.448,
       "y": 33.5,
+      "size": 8.6
+    },
+    {
+      "lat": 38.881,
+      "lng": -77.1043,
+      "label": "United States, Virginia, Arlington",
+      "visits": 1,
+      "last_visit": "25-May-2026 03:25:29",
+      "x": 28.582,
+      "y": 28.399,
       "size": 8.6
     },
     {
