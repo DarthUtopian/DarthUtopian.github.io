@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-05-26T03:48:25+00:00",
-  "total_visits": 120,
-  "location_count": 41,
+  "updated_at": "2026-05-26T05:28:40+00:00",
+  "total_visits": 121,
+  "location_count": 42,
   "locations": [
     {
       "lat": 37.7749,
@@ -191,6 +191,16 @@
       "last_visit": "18-May-2026 23:50:23",
       "x": 52.222,
       "y": 23.889,
+      "size": 8.6
+    },
+    {
+      "lat": 23.2667,
+      "lng": 77.4,
+      "label": "India, Madhya Pradesh, Bhopal",
+      "visits": 1,
+      "last_visit": "26-May-2026 03:49:56",
+      "x": 71.5,
+      "y": 37.074,
       "size": 8.6
     },
     {
