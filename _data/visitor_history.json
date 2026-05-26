@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-26T01:11:48+00:00",
-  "total_visits": 116,
+  "updated_at": "2026-05-26T02:24:09+00:00",
+  "total_visits": 117,
   "location_count": 41,
   "locations": [
     {
@@ -91,6 +91,16 @@
       "last_visit": "23-May-2026 03:15:58",
       "x": 85.272,
       "y": 29.112,
+      "size": 9.26
+    },
+    {
+      "lat": 33.1192,
+      "lng": -117.0864,
+      "label": "United States, California, Escondido",
+      "visits": 2,
+      "last_visit": "26-May-2026 02:09:37",
+      "x": 17.476,
+      "y": 31.6,
       "size": 9.26
     },
     {
@@ -214,16 +224,6 @@
       "size": 8.6
     },
     {
-      "lat": 33.1192,
-      "lng": -117.0864,
-      "label": "United States, California, Escondido",
-      "visits": 1,
-      "last_visit": "26-May-2026 01:08:51",
-      "x": 17.476,
-      "y": 31.6,
-      "size": 8.6
-    },
-    {
       "lat": 33.6403,
       "lng": -117.7694,
       "label": "United States, California, Irvine",
@@ -248,7 +248,7 @@
       "lng": -117.1573,
       "label": "United States, California, San Diego",
       "visits": 1,
-      "last_visit": "21-May-2026 16:42:19",
+      "last_visit": "26-May-2026 01:40:45",
       "x": 17.456,
       "y": 31.825,
       "size": 8.6
