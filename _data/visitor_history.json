@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-05-26T05:28:40+00:00",
-  "total_visits": 121,
-  "location_count": 42,
+  "updated_at": "2026-05-26T06:52:59+00:00",
+  "total_visits": 122,
+  "location_count": 43,
   "locations": [
     {
       "lat": 37.7749,
@@ -221,6 +221,16 @@
       "last_visit": "23-May-2026 15:37:19",
       "x": 54.167,
       "y": 15.556,
+      "size": 8.6
+    },
+    {
+      "lat": 25.0392,
+      "lng": 121.525,
+      "label": "Taiwan, T'ai-pei, Taipei",
+      "visits": 1,
+      "last_visit": "26-May-2026 05:46:54",
+      "x": 83.757,
+      "y": 36.089,
       "size": 8.6
     },
     {
