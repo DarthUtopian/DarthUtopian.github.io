@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-05-26T08:19:04+00:00",
-  "total_visits": 124,
+  "updated_at": "2026-05-26T13:37:20+00:00",
+  "total_visits": 132,
   "location_count": 43,
   "locations": [
     {
       "lat": 37.7749,
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
-      "visits": 41,
-      "last_visit": "26-May-2026 07:48:33",
+      "visits": 49,
+      "last_visit": "26-May-2026 10:12:27",
       "x": 15.995,
       "y": 29.014,
-      "size": 17.24
+      "size": 18.0
     },
     {
       "lat": 37.3394,
@@ -88,7 +88,7 @@
       "lng": 126.9783,
       "label": "Korea, Republic of, Seoul-t'ukpyolsi, Seoul",
       "visits": 2,
-      "last_visit": "23-May-2026 03:15:58",
+      "last_visit": "26-May-2026 12:06:42",
       "x": 85.272,
       "y": 29.112,
       "size": 9.26
