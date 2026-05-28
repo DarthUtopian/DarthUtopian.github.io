@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-05-28T18:27:09+00:00",
-  "total_visits": 189,
+  "updated_at": "2026-05-28T19:28:15+00:00",
+  "total_visits": 191,
   "location_count": 48,
   "locations": [
     {
       "lat": 37.7749,
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
-      "visits": 100,
-      "last_visit": "28-May-2026 17:25:04",
+      "visits": 101,
+      "last_visit": "28-May-2026 18:52:18",
       "x": 15.995,
       "y": 29.014,
       "size": 18.0
@@ -121,6 +121,16 @@
       "last_visit": "21-May-2026 14:34:49",
       "x": 30.221,
       "y": 26.386,
+      "size": 9.26
+    },
+    {
+      "lat": 40.9777,
+      "lng": -73.6935,
+      "label": "United States, New York, Rye",
+      "visits": 2,
+      "last_visit": "28-May-2026 18:44:24",
+      "x": 29.53,
+      "y": 27.235,
       "size": 9.26
     },
     {
@@ -381,16 +391,6 @@
       "last_visit": "21-May-2026 13:07:22",
       "x": 30.157,
       "y": 26.103,
-      "size": 8.6
-    },
-    {
-      "lat": 40.9777,
-      "lng": -73.6935,
-      "label": "United States, New York, Rye",
-      "visits": 1,
-      "last_visit": "28-May-2026 14:47:25",
-      "x": 29.53,
-      "y": 27.235,
       "size": 8.6
     },
     {
