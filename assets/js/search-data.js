@@ -37,13 +37,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/gallery/";
           },
-        },{id: "nav-cv",
-          title: "cv",
-          description: "Curriculum Vitae",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
-          },
         },{id: "news-one-paper-accepted-by-iros2024",
           title: '🎉One paper accepted by IROS2024.',
           description: "",
