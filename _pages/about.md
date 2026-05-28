@@ -14,6 +14,8 @@ profile:
     <p>Pittsburgh, PA</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
+education: true # renders the education timeline from _data/education.yml
+experience: true # renders the experience timeline from _data/experience.yml
 visitor_map: true # renders the configured visitor statistics map
 social: true # includes social icons at the bottom of the page
 

@@ -88,6 +88,16 @@ layout: default
       {% include selected_papers.liquid %}
     {% endif %}
 
+    <!-- Education -->
+    {% if page.education %}
+      {% include timeline.liquid entries=site.data.education heading="education" section_id="education-heading" %}
+    {% endif %}
+
+    <!-- Experience -->
+    {% if page.experience %}
+      {% include timeline.liquid entries=site.data.experience heading="experience" section_id="experience-heading" %}
+    {% endif %}
+
     <!-- Visitor map -->
     {% if page.visitor_map %}
       {% include visitor_map.liquid %}

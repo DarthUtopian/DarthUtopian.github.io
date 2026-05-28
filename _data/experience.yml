@@ -1,0 +1,31 @@
+# Research positions rendered as a timeline under the Experience section.
+# Most recent (or upcoming) first. `url` links the title to the lab page.
+# `advisor` is optional and rendered as a third line under the role.
+# Date strings are quoted so YAML doesn't reinterpret things like "2024.10"
+# as the float 2024.1 and drop the trailing zero.
+- title: GEAR Lab, NVIDIA
+  url: https://research.nvidia.com/labs/gear/
+  role: Research Scientist Intern
+  start: "2026.6"
+  logo: logo_nvidia.svg
+
+- title: LeCAR Lab & Auton Lab, Carnegie Mellon University
+  url: https://lecar-lab.github.io/
+  role: Research Assistant
+  start: "2024.10"
+  logos:
+    - file: logo_lecar.png
+      alt: LeCAR Lab
+      url: https://lecar-lab.github.io/
+    - file: logo_auton.png
+      alt: Auton Lab
+      url: https://www.autonlab.org/
+  advisor: "Co-advised by Prof. <a href='https://www.gshi.me'>Guanya Shi</a> and Prof. <a href='https://www.cs.cmu.edu/~schneide/'>Jeff Schneider</a>"
+
+- title: MSC Lab, UC Berkeley
+  url: https://msc.berkeley.edu/
+  role: Research Intern
+  start: "2023.7"
+  end: "2024.4"
+  logo: logo_msc.jpg
+  advisor: "Advised by Prof. <a href='https://me.berkeley.edu/people/masayoshi-tomizuka/'>Masayoshi Tomizuka</a>"

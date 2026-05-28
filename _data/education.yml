@@ -1,0 +1,16 @@
+# Degrees rendered as a timeline under the Education section. Most recent first.
+# `url` links the title to the institution. Field shape is shared with
+# _data/experience.yml so the same `timeline.liquid` include renders both.
+- title: Carnegie Mellon University
+  url: https://www.ri.cmu.edu/
+  role: Master of Science in Robotics
+  start: "2024.8"
+  end: "2026.5"
+  logo: seal_cmu.svg
+
+- title: Tsinghua University
+  url: https://www.tsinghua.edu.cn/en/
+  role: Bachelor of Science
+  start: "2020.9"
+  end: "2024.6"
+  logo: seal_tsinghua.svg

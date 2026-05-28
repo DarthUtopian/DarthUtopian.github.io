@@ -1,0 +1,62 @@
+{% comment %}
+  Renders a timeline section. Caller supplies `entries` (an array from a site
+  data file) plus a `heading` and `section_id`.
+
+  Each entry supports: title, role, start, end, url, logo, advisor.
+{% endcomment %}
+{% if include.entries and include.entries.size > 0 %}
+  <h2 id="{{ include.section_id }}">{{ include.heading }}</h2>
+  <ol class="timeline">
+    {% for entry in include.entries %}
+      <li class="timeline-item">
+        <div class="timeline-logo{% if entry.logos and entry.logos.size > 1 %} timeline-logo--multi{% endif %}">
+          {% if entry.logos %}
+            {% for l in entry.logos %}
+              {% assign logo_src = l.file | prepend: '/assets/img/' | relative_url %}
+              {% assign logo_alt = l.alt | default: entry.title | append: ' logo' %}
+              {% if l.url %}
+                <a href="{{ l.url }}" target="_blank" rel="external noopener" aria-label="{{ logo_alt | escape }}">
+                  <img src="{{ logo_src }}" alt="{{ logo_alt | escape }}" loading="lazy">
+                </a>
+              {% else %}
+                <img src="{{ logo_src }}" alt="{{ logo_alt | escape }}" loading="lazy">
+              {% endif %}
+              {% unless forloop.last %}
+                <span class="timeline-logo-sep" aria-hidden="true">&amp;</span>
+              {% endunless %}
+            {% endfor %}
+          {% elsif entry.logo %}
+            <img src="{{ entry.logo | prepend: '/assets/img/' | relative_url }}" alt="{{ entry.title | escape }} logo" loading="lazy">
+          {% endif %}
+        </div>
+        <div class="timeline-content">
+          <div class="timeline-header">
+            <h3 class="timeline-title">
+              {% if entry.url %}
+                <a href="{{ entry.url }}" target="_blank" rel="external noopener">{{ entry.title }}</a>
+              {% else %}
+                {{ entry.title }}
+              {% endif %}
+            </h3>
+            <span class="timeline-dates">
+              {%- if entry.end and entry.end != '' -%}
+                {{ entry.start }} – {{ entry.end }}
+              {%- elsif entry.start -%}
+                from {{ entry.start }}
+              {%- endif -%}
+            </span>
+          </div>
+          {% if entry.role %}
+            <div class="timeline-role">{{ entry.role }}</div>
+          {% endif %}
+          {% if entry.advisor %}
+            <div class="timeline-advisor">{{ entry.advisor }}</div>
+          {% endif %}
+          {% if entry.description %}
+            <div class="timeline-description">{{ entry.description | markdownify }}</div>
+          {% endif %}
+        </div>
+      </li>
+    {% endfor %}
+  </ol>
+{% endif %}
