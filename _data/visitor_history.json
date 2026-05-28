@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-05-28T17:23:39+00:00",
-  "total_visits": 188,
+  "updated_at": "2026-05-28T18:27:09+00:00",
+  "total_visits": 189,
   "location_count": 48,
   "locations": [
     {
       "lat": 37.7749,
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
-      "visits": 99,
-      "last_visit": "28-May-2026 17:21:34",
+      "visits": 100,
+      "last_visit": "28-May-2026 17:25:04",
       "x": 15.995,
       "y": 29.014,
       "size": 18.0
@@ -418,7 +418,7 @@
       "lng": -79.9561,
       "label": "United States, Pennsylvania, Pittsburgh",
       "visits": 1,
-      "last_visit": "20-May-2026 19:13:36",
+      "last_visit": "28-May-2026 17:50:21",
       "x": 27.79,
       "y": 27.531,
       "size": 8.6
