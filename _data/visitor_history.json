@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-05-29T10:48:34+00:00",
-  "total_visits": 202,
-  "location_count": 49,
+  "updated_at": "2026-05-29T13:39:16+00:00",
+  "total_visits": 203,
+  "location_count": 50,
   "locations": [
     {
       "lat": 37.7749,
@@ -231,6 +231,16 @@
       "last_visit": "23-May-2026 14:18:46",
       "x": 64.722,
       "y": 32.222,
+      "size": 8.6
+    },
+    {
+      "lat": 35.685,
+      "lng": 139.7514,
+      "label": "Japan, Tokyo, Tokyo",
+      "visits": 1,
+      "last_visit": "29-May-2026 13:28:26",
+      "x": 88.82,
+      "y": 30.175,
       "size": 8.6
     },
     {
