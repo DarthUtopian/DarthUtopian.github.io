@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-05-29T05:35:19+00:00",
-  "total_visits": 195,
-  "location_count": 48,
+  "updated_at": "2026-05-29T07:32:29+00:00",
+  "total_visits": 198,
+  "location_count": 49,
   "locations": [
     {
       "lat": 37.7749,
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
-      "visits": 105,
-      "last_visit": "29-May-2026 05:32:27",
+      "visits": 107,
+      "last_visit": "29-May-2026 05:53:57",
       "x": 15.995,
       "y": 29.014,
       "size": 18.0
@@ -341,6 +341,16 @@
       "last_visit": "18-May-2026 10:34:00",
       "x": 16.063,
       "y": 29.212,
+      "size": 8.6
+    },
+    {
+      "lat": 41.1412,
+      "lng": -73.2637,
+      "label": "United States, Connecticut, Fairfield",
+      "visits": 1,
+      "last_visit": "29-May-2026 05:35:24",
+      "x": 29.649,
+      "y": 27.144,
       "size": 8.6
     },
     {
