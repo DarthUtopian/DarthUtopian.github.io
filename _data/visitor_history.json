@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-05-30T19:34:44+00:00",
-  "total_visits": 207,
-  "location_count": 51,
+  "updated_at": "2026-05-30T23:27:12+00:00",
+  "total_visits": 208,
+  "location_count": 52,
   "locations": [
     {
       "lat": 37.7749,
@@ -211,6 +211,16 @@
       "last_visit": "19-May-2026 23:52:24",
       "x": 82.499,
       "y": 29.629,
+      "size": 8.6
+    },
+    {
+      "lat": 49.6833,
+      "lng": 18.35,
+      "label": "Czech Republic, Moravskoslezsky Kraj, Frydek-mistek",
+      "visits": 1,
+      "last_visit": "30-May-2026 23:24:04",
+      "x": 55.097,
+      "y": 22.398,
       "size": 8.6
     },
     {
