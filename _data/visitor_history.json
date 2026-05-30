@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-30T01:02:50+00:00",
-  "total_visits": 205,
+  "updated_at": "2026-05-30T06:34:54+00:00",
+  "total_visits": 206,
   "location_count": 50,
   "locations": [
     {
@@ -114,6 +114,16 @@
       "size": 9.26
     },
     {
+      "lat": 32.7153,
+      "lng": -117.1573,
+      "label": "United States, California, San Diego",
+      "visits": 2,
+      "last_visit": "30-May-2026 05:07:45",
+      "x": 17.456,
+      "y": 31.825,
+      "size": 9.26
+    },
+    {
       "lat": 42.5051,
       "lng": -71.2047,
       "label": "United States, Massachusetts, Burlington",
@@ -178,7 +188,7 @@
       "lng": 105.0,
       "label": "China, ,",
       "visits": 1,
-      "last_visit": "24-May-2026 00:36:39",
+      "last_visit": "30-May-2026 06:31:15",
       "x": 79.167,
       "y": 30.556,
       "size": 8.6
@@ -321,16 +331,6 @@
       "last_visit": "18-May-2026 02:20:50",
       "x": 16.388,
       "y": 27.796,
-      "size": 8.6
-    },
-    {
-      "lat": 32.7153,
-      "lng": -117.1573,
-      "label": "United States, California, San Diego",
-      "visits": 1,
-      "last_visit": "26-May-2026 01:40:45",
-      "x": 17.456,
-      "y": 31.825,
       "size": 8.6
     },
     {
