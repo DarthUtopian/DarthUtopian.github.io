@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-06-01T12:24:54+00:00",
-  "total_visits": 212,
-  "location_count": 54,
+  "updated_at": "2026-06-01T18:59:47+00:00",
+  "total_visits": 213,
+  "location_count": 55,
   "locations": [
     {
       "lat": 37.7749,
@@ -152,6 +152,16 @@
       "x": 16.007,
       "y": 23.816,
       "size": 9.26
+    },
+    {
+      "lat": 51.0833,
+      "lng": -114.0833,
+      "label": "Canada, Alberta, Calgary",
+      "visits": 1,
+      "last_visit": "01-Jun-2026 18:07:25",
+      "x": 18.31,
+      "y": 21.62,
+      "size": 8.6
     },
     {
       "lat": 49.25,
@@ -478,7 +488,7 @@
       "lng": -79.9561,
       "label": "United States, Pennsylvania, Pittsburgh",
       "visits": 1,
-      "last_visit": "28-May-2026 17:50:21",
+      "last_visit": "01-Jun-2026 18:56:27",
       "x": 27.79,
       "y": 27.531,
       "size": 8.6
