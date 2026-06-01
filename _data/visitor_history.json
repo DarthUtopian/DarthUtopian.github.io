@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-06-01T08:01:31+00:00",
-  "total_visits": 211,
-  "location_count": 53,
+  "updated_at": "2026-06-01T10:19:36+00:00",
+  "total_visits": 212,
+  "location_count": 54,
   "locations": [
     {
       "lat": 37.7749,
@@ -391,6 +391,16 @@
       "last_visit": "21-May-2026 09:26:06",
       "x": 26.559,
       "y": 31.251,
+      "size": 8.6
+    },
+    {
+      "lat": 33.871,
+      "lng": -84.4635,
+      "label": "United States, Georgia, Atlanta",
+      "visits": 1,
+      "last_visit": "01-Jun-2026 08:11:59",
+      "x": 26.538,
+      "y": 31.183,
       "size": 8.6
     },
     {
