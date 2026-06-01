@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-01T03:49:28+00:00",
+  "updated_at": "2026-06-01T08:01:31+00:00",
   "total_visits": 211,
   "location_count": 53,
   "locations": [
@@ -268,7 +268,7 @@
       "lng": 139.7514,
       "label": "Japan, Tokyo, Tokyo",
       "visits": 1,
-      "last_visit": "29-May-2026 13:28:26",
+      "last_visit": "01-Jun-2026 07:50:08",
       "x": 88.82,
       "y": 30.175,
       "size": 8.6
@@ -358,7 +358,7 @@
       "lng": -121.978,
       "label": "United States, California, San Ramon",
       "visits": 1,
-      "last_visit": "23-May-2026 18:31:15",
+      "last_visit": "01-Jun-2026 07:42:21",
       "x": 16.117,
       "y": 29.011,
       "size": 8.6
