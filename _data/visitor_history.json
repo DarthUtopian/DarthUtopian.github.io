@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-06-02T07:51:15+00:00",
-  "total_visits": 219,
-  "location_count": 59,
+  "updated_at": "2026-06-02T09:37:02+00:00",
+  "total_visits": 220,
+  "location_count": 60,
   "locations": [
     {
       "lat": 37.7749,
@@ -261,6 +261,16 @@
       "last_visit": "30-May-2026 13:01:12",
       "x": 81.713,
       "y": 37.639,
+      "size": 8.6
+    },
+    {
+      "lat": 22.2833,
+      "lng": 114.15,
+      "label": "Hong Kong, , Central District",
+      "visits": 1,
+      "last_visit": "02-Jun-2026 08:25:00",
+      "x": 81.708,
+      "y": 37.62,
       "size": 8.6
     },
     {
