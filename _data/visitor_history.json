@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-06-04T21:37:30+00:00",
-  "total_visits": 233,
-  "location_count": 67,
+  "updated_at": "2026-06-04T22:36:37+00:00",
+  "total_visits": 234,
+  "location_count": 68,
   "locations": [
     {
       "lat": 37.7749,
@@ -561,6 +561,16 @@
       "last_visit": "25-May-2026 10:04:40",
       "x": 30.249,
       "y": 26.464,
+      "size": 8.6
+    },
+    {
+      "lat": 42.9634,
+      "lng": -85.6681,
+      "label": "United States, Michigan, Grand Rapids",
+      "visits": 1,
+      "last_visit": "04-Jun-2026 21:47:08",
+      "x": 26.203,
+      "y": 26.131,
       "size": 8.6
     },
     {
