@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-06-04T07:49:11+00:00",
-  "total_visits": 229,
-  "location_count": 64,
+  "updated_at": "2026-06-04T09:28:25+00:00",
+  "total_visits": 230,
+  "location_count": 65,
   "locations": [
     {
       "lat": 37.7749,
@@ -251,6 +251,16 @@
       "last_visit": "19-May-2026 23:52:24",
       "x": 82.499,
       "y": 29.629,
+      "size": 8.6
+    },
+    {
+      "lat": 25.0389,
+      "lng": 102.7183,
+      "label": "China, Yunnan, Kunming",
+      "visits": 1,
+      "last_visit": "04-Jun-2026 07:58:32",
+      "x": 78.533,
+      "y": 36.09,
       "size": 8.6
     },
     {
