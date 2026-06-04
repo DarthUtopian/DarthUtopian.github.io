@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-06-04T01:17:29+00:00",
-  "total_visits": 228,
-  "location_count": 63,
+  "updated_at": "2026-06-04T07:49:11+00:00",
+  "total_visits": 229,
+  "location_count": 64,
   "locations": [
     {
       "lat": 37.7749,
@@ -28,7 +28,7 @@
       "lng": 116.3883,
       "label": "China, Beijing, Beijing",
       "visits": 9,
-      "last_visit": "01-Jun-2026 10:53:42",
+      "last_visit": "04-Jun-2026 05:53:51",
       "x": 82.33,
       "y": 27.817,
       "size": 11.8
@@ -191,6 +191,16 @@
       "last_visit": "29-May-2026 17:48:50",
       "x": 15.796,
       "y": 22.639,
+      "size": 8.6
+    },
+    {
+      "lat": 45.4167,
+      "lng": -75.7,
+      "label": "Canada, Ontario, Ottawa",
+      "visits": 1,
+      "last_visit": "04-Jun-2026 06:59:31",
+      "x": 28.972,
+      "y": 24.769,
       "size": 8.6
     },
     {
