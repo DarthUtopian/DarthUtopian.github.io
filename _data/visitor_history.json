@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-06T03:48:11+00:00",
-  "total_visits": 239,
+  "updated_at": "2026-06-06T05:24:39+00:00",
+  "total_visits": 240,
   "location_count": 70,
   "locations": [
     {
@@ -101,6 +101,16 @@
       "last_visit": "26-May-2026 12:06:42",
       "x": 85.272,
       "y": 29.112,
+      "size": 9.26
+    },
+    {
+      "lat": 25.0392,
+      "lng": 121.525,
+      "label": "Taiwan, T'ai-pei, Taipei",
+      "visits": 2,
+      "last_visit": "06-Jun-2026 05:11:55",
+      "x": 83.757,
+      "y": 36.089,
       "size": 9.26
     },
     {
@@ -361,16 +371,6 @@
       "last_visit": "02-Jun-2026 00:25:05",
       "x": 54.167,
       "y": 15.556,
-      "size": 8.6
-    },
-    {
-      "lat": 25.0392,
-      "lng": 121.525,
-      "label": "Taiwan, T'ai-pei, Taipei",
-      "visits": 1,
-      "last_visit": "06-Jun-2026 03:45:55",
-      "x": 83.757,
-      "y": 36.089,
       "size": 8.6
     },
     {
