@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-06-07T09:10:47+00:00",
-  "total_visits": 242,
-  "location_count": 70,
+  "updated_at": "2026-06-07T16:39:00+00:00",
+  "total_visits": 243,
+  "location_count": 71,
   "locations": [
     {
       "lat": 37.7749,
@@ -401,6 +401,16 @@
       "last_visit": "20-May-2026 09:35:24",
       "x": 49.806,
       "y": 21.093,
+      "size": 8.6
+    },
+    {
+      "lat": 37.5671,
+      "lng": -122.371,
+      "label": "United States, California, Burlingame",
+      "visits": 1,
+      "last_visit": "07-Jun-2026 14:50:25",
+      "x": 16.008,
+      "y": 29.129,
       "size": 8.6
     },
     {
