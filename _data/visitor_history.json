@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-06-08T03:49:16+00:00",
-  "total_visits": 246,
-  "location_count": 73,
+  "updated_at": "2026-06-08T09:48:55+00:00",
+  "total_visits": 247,
+  "location_count": 74,
   "locations": [
     {
       "lat": 37.7749,
@@ -331,6 +331,16 @@
       "last_visit": "02-Jun-2026 08:25:00",
       "x": 81.708,
       "y": 37.62,
+      "size": 8.6
+    },
+    {
+      "lat": 12.9833,
+      "lng": 77.5833,
+      "label": "India, Karnataka, Bangalore",
+      "visits": 1,
+      "last_visit": "08-Jun-2026 07:57:24",
+      "x": 71.551,
+      "y": 42.787,
       "size": 8.6
     },
     {
@@ -708,7 +718,7 @@
       "lng": -122.3321,
       "label": "United States, Washington, Seattle",
       "visits": 1,
-      "last_visit": "31-May-2026 19:30:27",
+      "last_visit": "08-Jun-2026 04:12:32",
       "x": 16.019,
       "y": 23.552,
       "size": 8.6
