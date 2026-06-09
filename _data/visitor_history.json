@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-06-09T07:25:41+00:00",
-  "total_visits": 247,
-  "location_count": 74,
+  "updated_at": "2026-06-09T08:41:38+00:00",
+  "total_visits": 248,
+  "location_count": 75,
   "locations": [
     {
       "lat": 37.7749,
@@ -731,6 +731,16 @@
       "last_visit": "19-May-2026 02:34:10",
       "x": 16.166,
       "y": 23.649,
+      "size": 8.6
+    },
+    {
+      "lat": 47.6145,
+      "lng": -122.348,
+      "label": "United States, Washington, Seattle",
+      "visits": 1,
+      "last_visit": "09-Jun-2026 07:26:10",
+      "x": 16.014,
+      "y": 23.547,
       "size": 8.6
     },
     {
