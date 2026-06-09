@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-06-09T10:19:55+00:00",
-  "total_visits": 248,
-  "location_count": 75,
+  "updated_at": "2026-06-09T15:35:43+00:00",
+  "total_visits": 249,
+  "location_count": 76,
   "locations": [
     {
       "lat": 37.7749,
@@ -428,9 +428,19 @@
       "lng": -122.371,
       "label": "United States, California, Burlingame",
       "visits": 1,
-      "last_visit": "07-Jun-2026 14:50:25",
+      "last_visit": "09-Jun-2026 14:48:50",
       "x": 16.008,
       "y": 29.129,
+      "size": 8.6
+    },
+    {
+      "lat": 32.6401,
+      "lng": -117.0842,
+      "label": "United States, California, Chula Vista",
+      "visits": 1,
+      "last_visit": "09-Jun-2026 15:17:09",
+      "x": 17.477,
+      "y": 31.867,
       "size": 8.6
     },
     {
