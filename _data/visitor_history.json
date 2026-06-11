@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-06-10T23:05:13+00:00",
-  "total_visits": 255,
-  "location_count": 77,
+  "updated_at": "2026-06-11T00:01:16+00:00",
+  "total_visits": 256,
+  "location_count": 78,
   "locations": [
     {
       "lat": 37.7749,
@@ -601,6 +601,16 @@
       "last_visit": "28-May-2026 09:41:10",
       "x": 25.659,
       "y": 26.735,
+      "size": 8.6
+    },
+    {
+      "lat": 41.9968,
+      "lng": -87.7562,
+      "label": "United States, Illinois, Chicago",
+      "visits": 1,
+      "last_visit": "10-Jun-2026 23:19:33",
+      "x": 25.623,
+      "y": 26.668,
       "size": 8.6
     },
     {
