@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-06-12T03:49:06+00:00",
-  "total_visits": 264,
-  "location_count": 82,
+  "updated_at": "2026-06-12T09:33:32+00:00",
+  "total_visits": 265,
+  "location_count": 83,
   "locations": [
     {
       "lat": 37.7749,
@@ -48,7 +48,7 @@
       "lng": -97.0,
       "label": "United States, ,",
       "visits": 4,
-      "last_visit": "10-Jun-2026 19:51:50",
+      "last_visit": "12-Jun-2026 08:54:41",
       "x": 23.056,
       "y": 28.889,
       "size": 10.2
@@ -421,6 +421,16 @@
       "last_visit": "02-Jun-2026 00:25:05",
       "x": 54.167,
       "y": 15.556,
+      "size": 8.6
+    },
+    {
+      "lat": 23.7092,
+      "lng": 120.5422,
+      "label": "Taiwan, T'ai-wan, Y�nlin",
+      "visits": 1,
+      "last_visit": "12-Jun-2026 09:01:46",
+      "x": 83.484,
+      "y": 36.828,
       "size": 8.6
     },
     {
