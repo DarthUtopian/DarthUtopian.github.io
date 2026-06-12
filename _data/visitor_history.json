@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-06-12T01:13:22+00:00",
-  "total_visits": 260,
-  "location_count": 81,
+  "updated_at": "2026-06-12T03:49:06+00:00",
+  "total_visits": 264,
+  "location_count": 82,
   "locations": [
     {
       "lat": 37.7749,
@@ -71,6 +71,26 @@
       "last_visit": "28-May-2026 13:47:11",
       "x": 27.763,
       "y": 27.474,
+      "size": 9.77
+    },
+    {
+      "lat": 40.4406,
+      "lng": -79.9959,
+      "label": "United States, Pennsylvania, Pittsburgh",
+      "visits": 3,
+      "last_visit": "12-Jun-2026 03:01:30",
+      "x": 27.779,
+      "y": 27.533,
+      "size": 9.77
+    },
+    {
+      "lat": 21.0333,
+      "lng": 105.85,
+      "label": "Vietnam, Dac Lac, Hanoi",
+      "visits": 3,
+      "last_visit": "12-Jun-2026 02:16:05",
+      "x": 79.403,
+      "y": 38.315,
       "size": 9.77
     },
     {
@@ -171,16 +191,6 @@
       "last_visit": "28-May-2026 18:44:24",
       "x": 29.53,
       "y": 27.235,
-      "size": 9.26
-    },
-    {
-      "lat": 40.4406,
-      "lng": -79.9959,
-      "label": "United States, Pennsylvania, Pittsburgh",
-      "visits": 2,
-      "last_visit": "11-Jun-2026 14:06:03",
-      "x": 27.779,
-      "y": 27.533,
       "size": 9.26
     },
     {
