@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-06-12T09:33:32+00:00",
-  "total_visits": 265,
-  "location_count": 83,
+  "updated_at": "2026-06-12T12:37:40+00:00",
+  "total_visits": 266,
+  "location_count": 84,
   "locations": [
     {
       "lat": 37.7749,
@@ -701,6 +701,16 @@
       "last_visit": "04-Jun-2026 21:47:08",
       "x": 26.203,
       "y": 26.131,
+      "size": 8.6
+    },
+    {
+      "lat": 42.2924,
+      "lng": -85.6908,
+      "label": "United States, Michigan, Kalamazoo",
+      "visits": 1,
+      "last_visit": "12-Jun-2026 11:43:39",
+      "x": 26.197,
+      "y": 26.504,
       "size": 8.6
     },
     {
