@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-12T12:37:40+00:00",
+  "updated_at": "2026-06-12T15:41:01+00:00",
   "total_visits": 266,
   "location_count": 84,
   "locations": [
@@ -78,7 +78,7 @@
       "lng": -79.9959,
       "label": "United States, Pennsylvania, Pittsburgh",
       "visits": 3,
-      "last_visit": "12-Jun-2026 03:01:30",
+      "last_visit": "12-Jun-2026 15:04:10",
       "x": 27.779,
       "y": 27.533,
       "size": 9.77
