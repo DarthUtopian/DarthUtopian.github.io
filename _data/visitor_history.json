@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-06-13T06:50:27+00:00",
-  "total_visits": 268,
-  "location_count": 86,
+  "updated_at": "2026-06-13T08:11:18+00:00",
+  "total_visits": 273,
+  "location_count": 87,
   "locations": [
     {
       "lat": 37.7749,
@@ -32,6 +32,16 @@
       "x": 82.33,
       "y": 27.817,
       "size": 11.8
+    },
+    {
+      "lat": 37.4404,
+      "lng": -121.8705,
+      "label": "United States, California, Milpitas",
+      "visits": 5,
+      "last_visit": "13-Jun-2026 08:02:34",
+      "x": 16.147,
+      "y": 29.2,
+      "size": 10.58
     },
     {
       "lat": 50.7333,
