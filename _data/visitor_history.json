@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-06-14T05:42:03+00:00",
-  "total_visits": 278,
-  "location_count": 90,
+  "updated_at": "2026-06-14T09:13:50+00:00",
+  "total_visits": 280,
+  "location_count": 91,
   "locations": [
     {
       "lat": 37.7749,
@@ -58,7 +58,7 @@
       "lng": -97.0,
       "label": "United States, ,",
       "visits": 4,
-      "last_visit": "12-Jun-2026 08:54:41",
+      "last_visit": "14-Jun-2026 06:40:08",
       "x": 23.056,
       "y": 28.889,
       "size": 10.2
@@ -191,6 +191,16 @@
       "last_visit": "05-Jun-2026 10:10:15",
       "x": 16.021,
       "y": 29.132,
+      "size": 9.26
+    },
+    {
+      "lat": 38.5369,
+      "lng": -122.8123,
+      "label": "United States, California, Windsor",
+      "visits": 2,
+      "last_visit": "14-Jun-2026 07:42:35",
+      "x": 15.885,
+      "y": 28.591,
       "size": 9.26
     },
     {
