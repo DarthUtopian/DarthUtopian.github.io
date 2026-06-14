@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-06-14T09:13:50+00:00",
-  "total_visits": 280,
-  "location_count": 91,
+  "updated_at": "2026-06-14T10:35:39+00:00",
+  "total_visits": 281,
+  "location_count": 92,
   "locations": [
     {
       "lat": 37.7749,
@@ -242,6 +242,16 @@
       "x": 16.007,
       "y": 23.816,
       "size": 9.26
+    },
+    {
+      "lat": -27.0,
+      "lng": 133.0,
+      "label": "Australia, ,",
+      "visits": 1,
+      "last_visit": "14-Jun-2026 10:34:47",
+      "x": 86.944,
+      "y": 65.0,
+      "size": 8.6
     },
     {
       "lat": 51.0833,
