@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-14T13:38:27+00:00",
-  "total_visits": 281,
+  "updated_at": "2026-06-14T17:34:11+00:00",
+  "total_visits": 282,
   "location_count": 92,
   "locations": [
     {
@@ -64,6 +64,16 @@
       "size": 10.2
     },
     {
+      "lat": 40.4406,
+      "lng": -79.9959,
+      "label": "United States, Pennsylvania, Pittsburgh",
+      "visits": 4,
+      "last_visit": "14-Jun-2026 17:28:23",
+      "x": 27.779,
+      "y": 27.533,
+      "size": 10.2
+    },
+    {
       "lat": 37.5985,
       "lng": 126.9783,
       "label": "Korea, Republic of, Seoul-t'ukpyolsi, Seoul",
@@ -81,16 +91,6 @@
       "last_visit": "28-May-2026 13:47:11",
       "x": 27.763,
       "y": 27.474,
-      "size": 9.77
-    },
-    {
-      "lat": 40.4406,
-      "lng": -79.9959,
-      "label": "United States, Pennsylvania, Pittsburgh",
-      "visits": 3,
-      "last_visit": "12-Jun-2026 15:04:10",
-      "x": 27.779,
-      "y": 27.533,
       "size": 9.77
     },
     {
