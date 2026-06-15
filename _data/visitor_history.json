@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-06-15T03:49:33+00:00",
-  "total_visits": 283,
-  "location_count": 93,
+  "updated_at": "2026-06-15T05:57:06+00:00",
+  "total_visits": 284,
+  "location_count": 94,
   "locations": [
     {
       "lat": 37.7749,
@@ -251,6 +251,16 @@
       "last_visit": "14-Jun-2026 10:34:47",
       "x": 86.944,
       "y": 65.0,
+      "size": 8.6
+    },
+    {
+      "lat": -37.7806,
+      "lng": 145.5683,
+      "label": "Australia, Victoria, Launching Place",
+      "visits": 1,
+      "last_visit": "15-Jun-2026 04:19:26",
+      "x": 90.436,
+      "y": 70.989,
       "size": 8.6
     },
     {
@@ -658,7 +668,7 @@
       "lng": -104.9878,
       "label": "United States, Colorado, Englewood",
       "visits": 1,
-      "last_visit": "13-Jun-2026 02:21:50",
+      "last_visit": "15-Jun-2026 04:27:02",
       "x": 20.837,
       "y": 27.973,
       "size": 8.6
