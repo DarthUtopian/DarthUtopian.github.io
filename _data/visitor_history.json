@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-15T19:26:37+00:00",
-  "total_visits": 291,
-  "location_count": 97,
+  "updated_at": "2026-06-15T22:48:11+00:00",
+  "total_visits": 293,
+  "location_count": 99,
   "locations": [
     {
       "lat": 37.7749,
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
       "visits": 131,
-      "last_visit": "14-Jun-2026 19:33:32",
+      "last_visit": "15-Jun-2026 21:18:12",
       "x": 15.995,
       "y": 29.014,
       "size": 18.0
@@ -18,7 +18,7 @@
       "lng": -121.895,
       "label": "United States, California, San Jose",
       "visits": 20,
-      "last_visit": "15-Jun-2026 19:01:17",
+      "last_visit": "15-Jun-2026 22:39:12",
       "x": 16.14,
       "y": 29.256,
       "size": 14.16
@@ -774,6 +774,16 @@
       "size": 8.6
     },
     {
+      "lat": 37.9887,
+      "lng": -84.4777,
+      "label": "United States, Kentucky, Lexington",
+      "visits": 1,
+      "last_visit": "15-Jun-2026 21:42:13",
+      "x": 26.534,
+      "y": 28.895,
+      "size": 8.6
+    },
+    {
       "lat": 39.1535,
       "lng": -77.0753,
       "label": "United States, Maryland, Olney",
@@ -911,6 +921,16 @@
       "last_visit": "22-May-2026 23:54:39",
       "x": 23.448,
       "y": 33.5,
+      "size": 8.6
+    },
+    {
+      "lat": 29.7176,
+      "lng": -95.4188,
+      "label": "United States, Texas, Houston",
+      "visits": 1,
+      "last_visit": "15-Jun-2026 22:02:05",
+      "x": 23.495,
+      "y": 33.49,
       "size": 8.6
     },
     {
