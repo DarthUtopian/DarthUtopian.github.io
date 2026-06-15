@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-06-15T01:15:48+00:00",
-  "total_visits": 282,
-  "location_count": 92,
+  "updated_at": "2026-06-15T03:49:33+00:00",
+  "total_visits": 283,
+  "location_count": 93,
   "locations": [
     {
       "lat": 37.7749,
@@ -841,6 +841,16 @@
       "last_visit": "24-May-2026 06:19:10",
       "x": 27.727,
       "y": 27.5,
+      "size": 8.6
+    },
+    {
+      "lat": 40.5447,
+      "lng": -79.9288,
+      "label": "United States, Pennsylvania, Glenshaw",
+      "visits": 1,
+      "last_visit": "15-Jun-2026 02:53:51",
+      "x": 27.798,
+      "y": 27.475,
       "size": 8.6
     },
     {
