@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-15T08:22:19+00:00",
-  "total_visits": 285,
+  "updated_at": "2026-06-15T13:07:43+00:00",
+  "total_visits": 287,
   "location_count": 95,
   "locations": [
     {
@@ -74,11 +74,21 @@
       "size": 10.2
     },
     {
+      "lat": 55.3935,
+      "lng": 10.3949,
+      "label": "Denmark, Syddanmark, Odense",
+      "visits": 3,
+      "last_visit": "15-Jun-2026 12:23:01",
+      "x": 52.887,
+      "y": 19.226,
+      "size": 9.77
+    },
+    {
       "lat": 37.5985,
       "lng": 126.9783,
       "label": "Korea, Republic of, Seoul-t'ukpyolsi, Seoul",
       "visits": 3,
-      "last_visit": "07-Jun-2026 06:24:43",
+      "last_visit": "15-Jun-2026 12:41:32",
       "x": 85.272,
       "y": 29.112,
       "size": 9.77
@@ -381,16 +391,6 @@
       "last_visit": "30-May-2026 23:24:04",
       "x": 55.097,
       "y": 22.398,
-      "size": 8.6
-    },
-    {
-      "lat": 55.3935,
-      "lng": 10.3949,
-      "label": "Denmark, Syddanmark, Odense",
-      "visits": 1,
-      "last_visit": "15-Jun-2026 07:24:46",
-      "x": 52.887,
-      "y": 19.226,
       "size": 8.6
     },
     {
