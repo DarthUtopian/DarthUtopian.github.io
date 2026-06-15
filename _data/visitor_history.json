@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-15T22:48:11+00:00",
-  "total_visits": 293,
+  "updated_at": "2026-06-15T23:39:22+00:00",
+  "total_visits": 295,
   "location_count": 99,
   "locations": [
     {
@@ -18,7 +18,7 @@
       "lng": -121.895,
       "label": "United States, California, San Jose",
       "visits": 20,
-      "last_visit": "15-Jun-2026 22:39:12",
+      "last_visit": "15-Jun-2026 23:26:55",
       "x": 16.14,
       "y": 29.256,
       "size": 14.16
@@ -91,6 +91,16 @@
       "last_visit": "15-Jun-2026 12:41:32",
       "x": 85.272,
       "y": 29.112,
+      "size": 9.77
+    },
+    {
+      "lat": 37.9887,
+      "lng": -84.4777,
+      "label": "United States, Kentucky, Lexington",
+      "visits": 3,
+      "last_visit": "15-Jun-2026 23:04:36",
+      "x": 26.534,
+      "y": 28.895,
       "size": 9.77
     },
     {
@@ -771,16 +781,6 @@
       "last_visit": "11-Jun-2026 15:18:21",
       "x": 25.857,
       "y": 27.542,
-      "size": 8.6
-    },
-    {
-      "lat": 37.9887,
-      "lng": -84.4777,
-      "label": "United States, Kentucky, Lexington",
-      "visits": 1,
-      "last_visit": "15-Jun-2026 21:42:13",
-      "x": 26.534,
-      "y": 28.895,
       "size": 8.6
     },
     {
