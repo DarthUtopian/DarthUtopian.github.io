@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-06-16T22:18:12+00:00",
-  "total_visits": 320,
-  "location_count": 118,
+  "updated_at": "2026-06-16T23:03:46+00:00",
+  "total_visits": 324,
+  "location_count": 120,
   "locations": [
     {
       "lat": 37.7749,
@@ -91,6 +91,16 @@
       "last_visit": "15-Jun-2026 12:41:32",
       "x": 85.272,
       "y": 29.112,
+      "size": 9.77
+    },
+    {
+      "lat": 32.8073,
+      "lng": -117.1324,
+      "label": "United States, California, San Diego",
+      "visits": 3,
+      "last_visit": "16-Jun-2026 22:50:13",
+      "x": 17.463,
+      "y": 31.774,
       "size": 9.77
     },
     {
@@ -511,6 +521,16 @@
       "last_visit": "28-May-2026 03:55:58",
       "x": 52.222,
       "y": 23.889,
+      "size": 8.6
+    },
+    {
+      "lat": 46.0,
+      "lng": 2.0,
+      "label": "France, ,",
+      "visits": 1,
+      "last_visit": "16-Jun-2026 22:55:43",
+      "x": 50.556,
+      "y": 24.444,
       "size": 8.6
     },
     {
@@ -1148,7 +1168,7 @@
       "lng": -122.3321,
       "label": "United States, Washington, Seattle",
       "visits": 1,
-      "last_visit": "08-Jun-2026 04:12:32",
+      "last_visit": "16-Jun-2026 22:34:35",
       "x": 16.019,
       "y": 23.552,
       "size": 8.6
