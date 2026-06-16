@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-16T18:11:04+00:00",
-  "total_visits": 301,
-  "location_count": 105,
+  "updated_at": "2026-06-16T21:07:22+00:00",
+  "total_visits": 319,
+  "location_count": 117,
   "locations": [
     {
       "lat": 37.7749,
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
       "visits": 131,
-      "last_visit": "16-Jun-2026 17:21:19",
+      "last_visit": "16-Jun-2026 21:06:14",
       "x": 15.995,
       "y": 29.014,
       "size": 18.0
@@ -18,7 +18,7 @@
       "lng": -121.895,
       "label": "United States, California, San Jose",
       "visits": 20,
-      "last_visit": "15-Jun-2026 23:26:55",
+      "last_visit": "16-Jun-2026 19:51:23",
       "x": 16.14,
       "y": 29.256,
       "size": 14.16
@@ -37,11 +37,11 @@
       "lat": 37.4404,
       "lng": -121.8705,
       "label": "United States, California, Milpitas",
-      "visits": 5,
-      "last_visit": "13-Jun-2026 08:02:34",
+      "visits": 6,
+      "last_visit": "16-Jun-2026 19:21:27",
       "x": 16.147,
       "y": 29.2,
-      "size": 10.58
+      "size": 10.92
     },
     {
       "lat": 50.7333,
@@ -58,7 +58,7 @@
       "lng": -97.0,
       "label": "United States, ,",
       "visits": 4,
-      "last_visit": "16-Jun-2026 18:01:37",
+      "last_visit": "16-Jun-2026 20:57:59",
       "x": 23.056,
       "y": 28.889,
       "size": 10.2
@@ -174,6 +174,16 @@
       "size": 9.26
     },
     {
+      "lat": 51.75,
+      "lng": -1.25,
+      "label": "United Kingdom, Oxfordshire, Oxford",
+      "visits": 2,
+      "last_visit": "16-Jun-2026 19:09:24",
+      "x": 49.653,
+      "y": 21.25,
+      "size": 9.26
+    },
+    {
       "lat": 37.5671,
       "lng": -122.371,
       "label": "United States, California, Burlingame",
@@ -224,6 +234,16 @@
       "size": 9.26
     },
     {
+      "lat": 37.4178,
+      "lng": -122.172,
+      "label": "United States, California, Stanford",
+      "visits": 2,
+      "last_visit": "16-Jun-2026 20:50:40",
+      "x": 16.063,
+      "y": 29.212,
+      "size": 9.26
+    },
+    {
       "lat": 38.5369,
       "lng": -122.8123,
       "label": "United States, California, Windsor",
@@ -238,7 +258,7 @@
       "lng": -84.398,
       "label": "United States, Georgia, Atlanta",
       "visits": 2,
-      "last_visit": "13-Jun-2026 23:21:13",
+      "last_visit": "16-Jun-2026 21:00:40",
       "x": 26.556,
       "y": 31.235,
       "size": 9.26
@@ -271,6 +291,36 @@
       "last_visit": "28-May-2026 18:44:24",
       "x": 29.53,
       "y": 27.235,
+      "size": 9.26
+    },
+    {
+      "lat": 35.994,
+      "lng": -78.8986,
+      "label": "United States, North Carolina, Durham",
+      "visits": 2,
+      "last_visit": "16-Jun-2026 19:46:45",
+      "x": 28.084,
+      "y": 30.003,
+      "size": 9.26
+    },
+    {
+      "lat": 40.4439,
+      "lng": -79.9561,
+      "label": "United States, Pennsylvania, Pittsburgh",
+      "visits": 2,
+      "last_visit": "16-Jun-2026 21:03:37",
+      "x": 27.79,
+      "y": 27.531,
+      "size": 9.26
+    },
+    {
+      "lat": 40.4242,
+      "lng": -79.8913,
+      "label": "United States, Pennsylvania, Pittsburgh",
+      "visits": 2,
+      "last_visit": "16-Jun-2026 20:22:14",
+      "x": 27.808,
+      "y": 27.542,
       "size": 9.26
     },
     {
@@ -314,6 +364,16 @@
       "size": 8.6
     },
     {
+      "lat": 49.1667,
+      "lng": -122.9667,
+      "label": "Canada, British Columbia, Richmond",
+      "visits": 1,
+      "last_visit": "16-Jun-2026 18:42:37",
+      "x": 15.843,
+      "y": 22.685,
+      "size": 8.6
+    },
+    {
       "lat": 49.25,
       "lng": -123.1333,
       "label": "Canada, British Columbia, Vancouver",
@@ -338,7 +398,7 @@
       "lng": -75.7,
       "label": "Canada, Ontario, Ottawa",
       "visits": 1,
-      "last_visit": "04-Jun-2026 06:59:31",
+      "last_visit": "16-Jun-2026 20:31:51",
       "x": 28.972,
       "y": 24.769,
       "size": 8.6
@@ -538,7 +598,7 @@
       "lng": 15.0,
       "label": "Sweden, ,",
       "visits": 1,
-      "last_visit": "02-Jun-2026 00:25:05",
+      "last_visit": "16-Jun-2026 18:30:09",
       "x": 54.167,
       "y": 15.556,
       "size": 8.6
@@ -604,6 +664,26 @@
       "size": 8.6
     },
     {
+      "lat": 33.8161,
+      "lng": -117.9794,
+      "label": "United States, California, Anaheim",
+      "visits": 1,
+      "last_visit": "16-Jun-2026 20:39:21",
+      "x": 17.228,
+      "y": 31.213,
+      "size": 8.6
+    },
+    {
+      "lat": 37.8668,
+      "lng": -122.2536,
+      "label": "United States, California, Berkeley",
+      "visits": 1,
+      "last_visit": "16-Jun-2026 18:14:33",
+      "x": 16.041,
+      "y": 28.963,
+      "size": 8.6
+    },
+    {
       "lat": 32.6401,
       "lng": -117.0842,
       "label": "United States, California, Chula Vista",
@@ -621,6 +701,16 @@
       "last_visit": "03-Jun-2026 01:08:42",
       "x": 17.248,
       "y": 31.289,
+      "size": 8.6
+    },
+    {
+      "lat": 37.5483,
+      "lng": -121.9886,
+      "label": "United States, California, Fremont",
+      "visits": 1,
+      "last_visit": "16-Jun-2026 18:39:31",
+      "x": 16.114,
+      "y": 29.14,
       "size": 8.6
     },
     {
@@ -644,6 +734,16 @@
       "size": 8.6
     },
     {
+      "lat": 33.7866,
+      "lng": -118.2987,
+      "label": "United States, California, Los Angeles",
+      "visits": 1,
+      "last_visit": "16-Jun-2026 19:16:07",
+      "x": 17.139,
+      "y": 31.23,
+      "size": 8.6
+    },
+    {
       "lat": 37.4538,
       "lng": -122.1822,
       "label": "United States, California, Menlo Park",
@@ -651,6 +751,16 @@
       "last_visit": "28-May-2026 03:55:27",
       "x": 16.061,
       "y": 29.192,
+      "size": 8.6
+    },
+    {
+      "lat": 37.5147,
+      "lng": -122.0423,
+      "label": "United States, California, Newark",
+      "visits": 1,
+      "last_visit": "16-Jun-2026 18:27:49",
+      "x": 16.099,
+      "y": 29.159,
       "size": 8.6
     },
     {
@@ -724,16 +834,6 @@
       "size": 8.6
     },
     {
-      "lat": 37.4178,
-      "lng": -122.172,
-      "label": "United States, California, Stanford",
-      "visits": 1,
-      "last_visit": "16-Jun-2026 04:27:24",
-      "x": 16.063,
-      "y": 29.212,
-      "size": 8.6
-    },
-    {
       "lat": 33.53,
       "lng": -117.1035,
       "label": "United States, California, Temecula",
@@ -741,6 +841,16 @@
       "last_visit": "01-Jun-2026 19:02:46",
       "x": 17.471,
       "y": 31.372,
+      "size": 8.6
+    },
+    {
+      "lat": 38.3507,
+      "lng": -121.9326,
+      "label": "United States, California, Vacaville",
+      "visits": 1,
+      "last_visit": "16-Jun-2026 19:32:35",
+      "x": 16.13,
+      "y": 28.694,
       "size": 8.6
     },
     {
@@ -811,6 +921,16 @@
       "last_visit": "10-Jun-2026 23:19:33",
       "x": 25.623,
       "y": 26.668,
+      "size": 8.6
+    },
+    {
+      "lat": 41.8661,
+      "lng": -88.107,
+      "label": "United States, Illinois, Wheaton",
+      "visits": 1,
+      "last_visit": "16-Jun-2026 19:25:10",
+      "x": 25.526,
+      "y": 26.741,
       "size": 8.6
     },
     {
@@ -944,26 +1064,6 @@
       "size": 8.6
     },
     {
-      "lat": 40.4439,
-      "lng": -79.9561,
-      "label": "United States, Pennsylvania, Pittsburgh",
-      "visits": 1,
-      "last_visit": "16-Jun-2026 16:05:13",
-      "x": 27.79,
-      "y": 27.531,
-      "size": 8.6
-    },
-    {
-      "lat": 40.4242,
-      "lng": -79.8913,
-      "label": "United States, Pennsylvania, Pittsburgh",
-      "visits": 1,
-      "last_visit": "16-Jun-2026 17:52:09",
-      "x": 27.808,
-      "y": 27.542,
-      "size": 8.6
-    },
-    {
       "lat": 29.6997,
       "lng": -95.5858,
       "label": "United States, Texas, Houston",
@@ -1004,6 +1104,16 @@
       "size": 8.6
     },
     {
+      "lat": 38.8357,
+      "lng": -77.3375,
+      "label": "United States, Virginia, Fairfax",
+      "visits": 1,
+      "last_visit": "16-Jun-2026 20:22:33",
+      "x": 28.517,
+      "y": 28.425,
+      "size": 8.6
+    },
+    {
       "lat": 48.1625,
       "lng": -122.4954,
       "label": "United States, Washington, Camano Island",
@@ -1011,6 +1121,16 @@
       "last_visit": "25-May-2026 01:38:21",
       "x": 15.973,
       "y": 23.243,
+      "size": 8.6
+    },
+    {
+      "lat": 47.674,
+      "lng": -122.1215,
+      "label": "United States, Washington, Redmond",
+      "visits": 1,
+      "last_visit": "16-Jun-2026 19:52:03",
+      "x": 16.077,
+      "y": 23.514,
       "size": 8.6
     },
     {
@@ -1038,7 +1158,7 @@
       "lng": -122.348,
       "label": "United States, Washington, Seattle",
       "visits": 1,
-      "last_visit": "09-Jun-2026 07:26:10",
+      "last_visit": "16-Jun-2026 20:10:34",
       "x": 16.014,
       "y": 23.547,
       "size": 8.6
