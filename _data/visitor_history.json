@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-16T16:07:15+00:00",
-  "total_visits": 297,
-  "location_count": 101,
+  "updated_at": "2026-06-16T18:11:04+00:00",
+  "total_visits": 301,
+  "location_count": 105,
   "locations": [
     {
       "lat": 37.7749,
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
       "visits": 131,
-      "last_visit": "15-Jun-2026 21:18:12",
+      "last_visit": "16-Jun-2026 17:21:19",
       "x": 15.995,
       "y": 29.014,
       "size": 18.0
@@ -58,7 +58,7 @@
       "lng": -97.0,
       "label": "United States, ,",
       "visits": 4,
-      "last_visit": "15-Jun-2026 00:53:01",
+      "last_visit": "16-Jun-2026 18:01:37",
       "x": 23.056,
       "y": 28.889,
       "size": 10.2
@@ -324,6 +324,16 @@
       "size": 8.6
     },
     {
+      "lat": 43.6,
+      "lng": -79.65,
+      "label": "Canada, Ontario, Mississauga",
+      "visits": 1,
+      "last_visit": "16-Jun-2026 17:05:00",
+      "x": 27.875,
+      "y": 25.778,
+      "size": 8.6
+    },
+    {
       "lat": 45.4167,
       "lng": -75.7,
       "label": "Canada, Ontario, Ottawa",
@@ -338,7 +348,7 @@
       "lng": -79.4167,
       "label": "Canada, Ontario, Toronto",
       "visits": 1,
-      "last_visit": "28-May-2026 06:24:57",
+      "last_visit": "16-Jun-2026 17:04:09",
       "x": 27.94,
       "y": 25.741,
       "size": 8.6
@@ -704,6 +714,16 @@
       "size": 8.6
     },
     {
+      "lat": 37.3486,
+      "lng": -121.951,
+      "label": "United States, California, Santa Clara",
+      "visits": 1,
+      "last_visit": "16-Jun-2026 16:41:24",
+      "x": 16.125,
+      "y": 29.251,
+      "size": 8.6
+    },
+    {
       "lat": 37.4178,
       "lng": -122.172,
       "label": "United States, California, Stanford",
@@ -868,7 +888,7 @@
       "lng": -75.0307,
       "label": "United States, New Jersey, Cherry Hill",
       "visits": 1,
-      "last_visit": "01-Jun-2026 02:43:49",
+      "last_visit": "16-Jun-2026 16:24:09",
       "x": 29.158,
       "y": 27.814,
       "size": 8.6
@@ -934,6 +954,16 @@
       "size": 8.6
     },
     {
+      "lat": 40.4242,
+      "lng": -79.8913,
+      "label": "United States, Pennsylvania, Pittsburgh",
+      "visits": 1,
+      "last_visit": "16-Jun-2026 17:52:09",
+      "x": 27.808,
+      "y": 27.542,
+      "size": 8.6
+    },
+    {
       "lat": 29.6997,
       "lng": -95.5858,
       "label": "United States, Texas, Houston",
@@ -951,6 +981,16 @@
       "last_visit": "15-Jun-2026 22:02:05",
       "x": 23.495,
       "y": 33.49,
+      "size": 8.6
+    },
+    {
+      "lat": 32.9482,
+      "lng": -96.7297,
+      "label": "United States, Texas, Richardson",
+      "visits": 1,
+      "last_visit": "16-Jun-2026 17:49:38",
+      "x": 23.131,
+      "y": 31.695,
       "size": 8.6
     },
     {
