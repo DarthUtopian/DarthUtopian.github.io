@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-16T21:07:22+00:00",
-  "total_visits": 319,
-  "location_count": 117,
+  "updated_at": "2026-06-16T22:18:12+00:00",
+  "total_visits": 320,
+  "location_count": 118,
   "locations": [
     {
       "lat": 37.7749,
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
       "visits": 131,
-      "last_visit": "16-Jun-2026 21:06:14",
+      "last_visit": "16-Jun-2026 22:02:09",
       "x": 15.995,
       "y": 29.014,
       "size": 18.0
@@ -721,6 +721,16 @@
       "last_visit": "20-May-2026 03:09:25",
       "x": 17.286,
       "y": 31.311,
+      "size": 8.6
+    },
+    {
+      "lat": 32.8807,
+      "lng": -117.2359,
+      "label": "United States, California, La Jolla",
+      "visits": 1,
+      "last_visit": "16-Jun-2026 21:55:58",
+      "x": 17.434,
+      "y": 31.733,
       "size": 8.6
     },
     {
