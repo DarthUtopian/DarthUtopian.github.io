@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-06-16T05:58:39+00:00",
-  "total_visits": 296,
-  "location_count": 100,
+  "updated_at": "2026-06-16T16:07:15+00:00",
+  "total_visits": 297,
+  "location_count": 101,
   "locations": [
     {
       "lat": 37.7749,
@@ -411,6 +411,16 @@
       "last_visit": "08-Jun-2026 02:42:22",
       "x": 83.378,
       "y": 33.17,
+      "size": 8.6
+    },
+    {
+      "lat": -4.3,
+      "lng": 15.3,
+      "label": "Congo, The Democratic Republic of the, Kinshasa, Kinshasa",
+      "visits": 1,
+      "last_visit": "16-Jun-2026 07:19:25",
+      "x": 54.25,
+      "y": 52.389,
       "size": 8.6
     },
     {
@@ -918,7 +928,7 @@
       "lng": -79.9561,
       "label": "United States, Pennsylvania, Pittsburgh",
       "visits": 1,
-      "last_visit": "10-Jun-2026 21:52:27",
+      "last_visit": "16-Jun-2026 16:05:13",
       "x": 27.79,
       "y": 27.531,
       "size": 8.6
