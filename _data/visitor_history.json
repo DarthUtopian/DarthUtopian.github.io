@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-06-16T02:24:30+00:00",
-  "total_visits": 295,
-  "location_count": 99,
+  "updated_at": "2026-06-16T05:58:39+00:00",
+  "total_visits": 296,
+  "location_count": 100,
   "locations": [
     {
       "lat": 37.7749,
@@ -664,6 +664,16 @@
       "size": 8.6
     },
     {
+      "lat": 37.3721,
+      "lng": -121.8643,
+      "label": "United States, California, San Jose",
+      "visits": 1,
+      "last_visit": "16-Jun-2026 03:37:33",
+      "x": 16.149,
+      "y": 29.238,
+      "size": 8.6
+    },
+    {
       "lat": 37.7083,
       "lng": -122.1282,
       "label": "United States, California, San Leandro",
@@ -688,7 +698,7 @@
       "lng": -122.172,
       "label": "United States, California, Stanford",
       "visits": 1,
-      "last_visit": "18-May-2026 10:34:00",
+      "last_visit": "16-Jun-2026 04:27:24",
       "x": 16.063,
       "y": 29.212,
       "size": 8.6
