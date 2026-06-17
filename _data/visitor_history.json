@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-06-17T21:17:45+00:00",
-  "total_visits": 351,
-  "location_count": 143,
+  "updated_at": "2026-06-17T22:12:52+00:00",
+  "total_visits": 365,
+  "location_count": 144,
   "locations": [
     {
       "lat": 37.7749,
@@ -24,6 +24,16 @@
       "size": 14.16
     },
     {
+      "lat": 38.0,
+      "lng": -97.0,
+      "label": "United States, ,",
+      "visits": 16,
+      "last_visit": "17-Jun-2026 21:55:24",
+      "x": 23.056,
+      "y": 28.889,
+      "size": 13.4
+    },
+    {
       "lat": 39.9289,
       "lng": 116.3883,
       "label": "China, Beijing, Beijing",
@@ -38,7 +48,7 @@
       "lng": -121.8705,
       "label": "United States, California, Milpitas",
       "visits": 6,
-      "last_visit": "16-Jun-2026 19:21:27",
+      "last_visit": "17-Jun-2026 21:24:14",
       "x": 16.147,
       "y": 29.2,
       "size": 10.92
@@ -51,16 +61,6 @@
       "last_visit": "09-Jun-2026 09:26:18",
       "x": 51.972,
       "y": 21.815,
-      "size": 10.2
-    },
-    {
-      "lat": 38.0,
-      "lng": -97.0,
-      "label": "United States, ,",
-      "visits": 4,
-      "last_visit": "17-Jun-2026 20:37:44",
-      "x": 23.056,
-      "y": 28.889,
       "size": 10.2
     },
     {
@@ -188,7 +188,7 @@
       "lng": 121.525,
       "label": "Taiwan, T'ai-pei, Taipei",
       "visits": 2,
-      "last_visit": "17-Jun-2026 01:34:27",
+      "last_visit": "17-Jun-2026 21:36:22",
       "x": 83.757,
       "y": 36.089,
       "size": 9.26
@@ -331,6 +331,16 @@
       "last_visit": "15-Jun-2026 19:21:33",
       "x": 23.676,
       "y": 24.538,
+      "size": 9.26
+    },
+    {
+      "lat": 40.0808,
+      "lng": -74.0492,
+      "label": "United States, New Jersey, Point Pleasant Beach",
+      "visits": 2,
+      "last_visit": "17-Jun-2026 21:59:18",
+      "x": 29.431,
+      "y": 27.733,
       "size": 9.26
     },
     {
@@ -954,6 +964,16 @@
       "size": 8.6
     },
     {
+      "lat": 37.7484,
+      "lng": -122.4156,
+      "label": "United States, California, San Francisco",
+      "visits": 1,
+      "last_visit": "17-Jun-2026 22:09:58",
+      "x": 15.996,
+      "y": 29.029,
+      "size": 8.6
+    },
+    {
       "lat": 37.3721,
       "lng": -121.8643,
       "label": "United States, California, San Jose",
@@ -1221,16 +1241,6 @@
       "last_visit": "09-Jun-2026 03:56:19",
       "x": 29.431,
       "y": 27.377,
-      "size": 8.6
-    },
-    {
-      "lat": 40.0808,
-      "lng": -74.0492,
-      "label": "United States, New Jersey, Point Pleasant Beach",
-      "visits": 1,
-      "last_visit": "17-Jun-2026 21:13:25",
-      "x": 29.431,
-      "y": 27.733,
       "size": 8.6
     },
     {
