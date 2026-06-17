@@ -3,14 +3,19 @@ layout: default
 ---
 <div class="post">
   <header class="post-header">
-    <h1 class="post-title">
-      {% if site.title == 'blank' %}
-        <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}
-        {{ site.last_name }}
-      {% else %}
-        {{ site.title }}
-      {% endif %}
-    </h1>
+    {% if site.title == 'blank' %}
+      {% capture full_name %}{{ site.first_name }}{% if site.middle_name %} {{ site.middle_name }}{% endif %} {{ site.last_name }}{% endcapture %}
+      <h1 class="post-title"
+          data-typing
+          data-typing-first="{{ site.first_name }}"
+          data-typing-middle="{{ site.middle_name | default: '' }}"
+          data-typing-last="{{ site.last_name }}"
+          aria-label="{{ full_name | strip }}">
+        <span class="typing-text" aria-hidden="true"><span class="font-weight-bold">{{ site.first_name }}</span>{% if site.middle_name %} {{ site.middle_name }}{% endif %} {{ site.last_name }}</span><span class="typing-cursor" aria-hidden="true"></span>
+      </h1>
+    {% else %}
+      <h1 class="post-title">{{ site.title }}</h1>
+    {% endif %}
     <p class="desc">{{ page.subtitle }}</p>
   </header>
 
@@ -51,7 +56,7 @@ layout: default
       </div>
     {% endif %}
 
-    <div class="clearfix">{{ content }}</div>
+    <div class="clearfix about-intro">{{ content }}</div>
 
     <!-- Social -->
     {% if page.social %}
@@ -83,7 +88,7 @@ layout: default
     <!-- Selected papers -->
     {% if page.selected_papers %}
       <h2>
-        <a href="{{ '/research/' | relative_url }}" style="color: inherit">selected research</a>
+        <a href="{{ '/research/' | relative_url }}" style="color: inherit">selected paper</a>
       </h2>
       {% include selected_papers.liquid %}
     {% endif %}
@@ -108,3 +113,55 @@ layout: default
     {% endif %}
   </article>
 </div>
+
+<script>
+  (function () {
+    const title = document.querySelector('h1.post-title[data-typing]');
+    if (!title) return;
+    const textHost = title.querySelector('.typing-text');
+    if (!textHost) return;
+    const reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    if (reduceMotion) {
+      title.classList.add('typing-done');
+      return;
+    }
+
+    const first = title.dataset.typingFirst || '';
+    const middle = title.dataset.typingMiddle || '';
+    const last = title.dataset.typingLast || '';
+    const segments = [];
+    if (first) segments.push({ text: first, bold: true });
+    if (middle) segments.push({ text: ' ' + middle, bold: false });
+    if (last) segments.push({ text: ' ' + last, bold: false });
+
+    const chars = [];
+    segments.forEach((s) => {
+      for (const c of s.text) chars.push({ c, bold: s.bold });
+    });
+
+    textHost.textContent = '';
+    title.classList.add('typing-active');
+
+    let i = 0;
+    function tick() {
+      if (i >= chars.length) {
+        title.classList.remove('typing-active');
+        title.classList.add('typing-done');
+        return;
+      }
+      const { c, bold } = chars[i];
+      const tag = bold ? 'STRONG' : 'SPAN';
+      let last = textHost.lastElementChild;
+      if (!last || last.tagName !== tag) {
+        last = document.createElement(bold ? 'strong' : 'span');
+        if (bold) last.className = 'font-weight-bold';
+        textHost.appendChild(last);
+      }
+      last.textContent += c;
+      i += 1;
+      const delay = c === ' ' ? 70 : 80 + Math.random() * 90;
+      setTimeout(tick, delay);
+    }
+    setTimeout(tick, 220);
+  })();
+</script>

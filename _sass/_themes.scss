@@ -80,21 +80,23 @@
 
 html[data-theme="dark"] {
   color-scheme: dark;
-  --global-bg-color: #111827;
-  --global-code-bg-color: #{$code-bg-color-dark};
-  --global-text-color: #e5e7eb;
-  --global-text-color-light: #9ca3af;
-  --global-theme-color: #67c3c8;
-  --global-hover-color: #8bd8dc;
+  // GitHub Dark palette — clean IDE / terminal feel
+  --global-bg-color: #0d1117;
+  --global-code-bg-color: #161b22;
+  --global-text-color: #e6edf3;
+  --global-text-color-light: #8b949e;
+  --global-theme-color: #58a6ff;
+  --global-hover-color: #79b8ff;
   --global-hover-text-color: #{$white-color};
-  --global-footer-bg-color: #0f172a;
-  --global-footer-text-color: #9ca3af;
-  --global-footer-link-color: #67c3c8;
+  --global-footer-bg-color: #010409;
+  --global-footer-text-color: #8b949e;
+  --global-footer-link-color: #58a6ff;
   --global-distill-app-color: #{$grey-color-light};
-  --global-divider-color: #263241;
-  --global-card-bg-color: #182231;
-  --global-muted-bg-color: #1f2a3a;
-  --global-soft-shadow: 0 16px 36px rgba(0, 0, 0, 0.3);
+  --global-divider-color: #30363d;
+  --global-card-bg-color: #161b22;
+  --global-highlight-color: #3fb950;
+  --global-muted-bg-color: #161b22;
+  --global-soft-shadow: 0 16px 36px rgba(0, 0, 0, 0.45);
   --global-back-to-top-bg-color: rgba(
     #{color.channel($white-color, "red", $space: rgb)},
     #{color.channel($white-color, "green", $space: rgb)},

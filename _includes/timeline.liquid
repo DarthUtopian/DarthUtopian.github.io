@@ -21,9 +21,6 @@
               {% else %}
                 <img src="{{ logo_src }}" alt="{{ logo_alt | escape }}" loading="lazy">
               {% endif %}
-              {% unless forloop.last %}
-                <span class="timeline-logo-sep" aria-hidden="true">&amp;</span>
-              {% endunless %}
             {% endfor %}
           {% elsif entry.logo %}
             <img src="{{ entry.logo | prepend: '/assets/img/' | relative_url }}" alt="{{ entry.title | escape }} logo" loading="lazy">

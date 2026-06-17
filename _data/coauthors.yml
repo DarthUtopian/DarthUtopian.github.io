@@ -21,6 +21,10 @@
     url: https://yixiaowang7.github.io
   - firstname: ["Jianqiang", "J.", "J. W.", "Jianqiang Wang"]
     url: https://eng.svm.tsinghua.edu.cn/info/1025/1125.htm
+  - firstname: ["Zi", "Z.", "Z. W.", "Zi Wang"]
+    url: https://ziwang1105.github.io
+  - firstname: ["Guanzhi", "G.", "G. W.", "Guanzhi Wang"]
+    url: https://guanzhi.me
 
 "schneider":
   - firstname: ["Jeff", "J.", "J. S.", "Jeff Schneider"]
@@ -102,6 +106,28 @@
 "xie":
   - firstname: ["Yuqi", "Y.", "Y. X.", "Yuqi Xie"]
     url: https://xieleo5.github.io
+  - firstname: ["Jia", "J.", "J. X.", "Jia Xie"]
+    url: https://jia-xie.com
+
+"zhang":
+  - firstname: ["Tonghe", "T.", "T. Z.", "Tonghe Zhang"]
+    url: https://tonghe-zhang.github.io
+
+"fu":
+  - firstname: ["Letian", "L.", "L. F.", "Letian Fu", "Letian Max Fu", "Max Fu"]
+    url: https://max-fu.github.io
+
+"dai":
+  - firstname: ["Cunxi", "C.", "C. D.", "Cunxi Dai"]
+    url: https://cunxid.github.io
+
+"sastry":
+  - firstname: ["S. Shankar", "S.", "S. S. S.", "Shankar", "Shankar Sastry", "S. Shankar Sastry"]
+    url: https://www2.eecs.berkeley.edu/Faculty/Homepages/sastry.html
+
+"goldberg":
+  - firstname: ["Ken", "K.", "K. G.", "Ken Goldberg"]
+    url: https://goldberg.berkeley.edu
 
 "hu":
   - firstname: ["Fengyuan", "F.", "F. H.", "Fengyuan Hu"]

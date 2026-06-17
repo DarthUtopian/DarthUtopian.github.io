@@ -2,9 +2,149 @@
  * Personal site polish
  ******************************************************************************/
 
+/* -- Typography -------------------------------------------------------------
+ * Body + display: Source Serif 4   (matches research.nvidia.com/labs/gear/enpire/
+ *                                   and physicalintelligence.company/blog)
+ * Mono:           JetBrains Mono   (venue tags, metadata, action buttons)
+ * --------------------------------------------------------------------------*/
+
+$font-serif: "Source Serif 4", Georgia, "Times New Roman", serif;
+$font-sans: $font-serif;     // alias kept for backwards-compat in this file
+$font-display: $font-serif;
+$font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+
 body {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-family: $font-serif;
+  font-optical-sizing: auto;
+  font-feature-settings: "kern", "liga", "onum" 1;
+  -webkit-font-smoothing: antialiased;
   line-height: 1.65;
+}
+
+h1, h2, h3, h4, h5, h6,
+.post-title,
+.post-header h1,
+.publications h2.year,
+.profile + article > .clearfix h1,
+.profile + article > .clearfix h2,
+.profile + article > .clearfix h3 {
+  font-family: $font-display;
+  font-optical-sizing: auto;
+  letter-spacing: -0.005em;
+  font-weight: 600;
+}
+
+/* Mono accents on venue tags, periodicals/notes, action buttons */
+.publications .abbr abbr,
+.publications .periodical,
+.publications .links a.btn,
+.publications h2.year,
+.cv .badge,
+.navbar .nav-link {
+  font-family: $font-mono;
+}
+
+.publications .abbr abbr {
+  font-weight: 500;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  font-size: 0.78rem;
+}
+
+.publications .links a.btn {
+  font-size: 0.78rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.publications .periodical {
+  font-size: 0.85rem;
+  letter-spacing: 0.01em;
+}
+
+/*
+ * Front-page selected list: hide the verbose journal/booktitle+year line
+ * (e.g. "arXiv preprint arXiv:2511.00091, 2025" or
+ *  "In 2024 IEEE/RSJ International Conference on Intelligent Robots..., 2024").
+ * The short venue tag from the entry's `note` field (rendered as the second
+ * .periodical) is kept and is enough for the overview.
+ *
+ * Implementation note: `:first-of-type` matches the first <div> sibling,
+ * not the first `.periodical`, so we use `:has(+ .periodical)` to identify
+ * a `.periodical` followed by another — that's always the verbose one,
+ * since the note is rendered second.
+ */
+.selected-papers .periodical:has(+ .periodical) {
+  display: none;
+}
+
+
+.navbar .nav-link {
+  font-size: 0.85rem !important;
+  letter-spacing: 0.02em;
+}
+
+/* -- Front-page intro: editorial serif prose (ENPIRE / PI blog style) ------ */
+.about-intro {
+  font-family: $font-serif;
+  font-optical-sizing: auto;
+  font-feature-settings: "kern", "liga", "onum" 1;
+  font-weight: 400;
+}
+
+.about-intro p {
+  font-size: 1.06rem;
+  line-height: 1.7;
+  margin-bottom: 1rem;
+  letter-spacing: 0;
+}
+
+/* Inline code, mono spans, and small UI labels inside the intro stay mono. */
+.about-intro code,
+.about-intro kbd,
+.about-intro samp,
+.about-intro pre {
+  font-family: $font-mono;
+}
+
+/* -- Typing effect for the front-page name --------------------------------- */
+.post-title[data-typing] {
+  // Prevent caret line-wrap and keep the cursor anchored to the last glyph.
+  white-space: nowrap;
+}
+
+.post-title[data-typing] .typing-text {
+  // Acts as inline run so the cursor sits flush with the last character.
+}
+
+.post-title[data-typing] .typing-cursor {
+  display: inline-block;
+  width: 0.08em;
+  min-width: 2px;
+  height: 0.85em;
+  margin-left: 0.08em;
+  vertical-align: -0.06em;
+  background-color: var(--global-theme-color);
+  animation: typing-cursor-blink 1s steps(2, start) infinite;
+  border-radius: 1px;
+}
+
+.post-title[data-typing].typing-done .typing-cursor {
+  // Slower, gentler blink once typing completes.
+  animation: typing-cursor-blink 1.15s steps(2, start) infinite;
+  opacity: 0.85;
+}
+
+@keyframes typing-cursor-blink {
+  0%   { opacity: 1; }
+  100% { opacity: 0; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .post-title[data-typing] .typing-cursor {
+    animation: none;
+    opacity: 0;
+  }
 }
 
 body.fixed-top-nav {
@@ -258,7 +398,7 @@ body.fixed-top-nav {
 
 .publications ol.bibliography li .preview {
   width: 100%;
-  aspect-ratio: 4 / 3;
+  aspect-ratio: 3 / 2;
   border: 1px solid var(--global-divider-color);
   border-radius: 8px !important;
   object-fit: cover;
@@ -299,7 +439,7 @@ body.fixed-top-nav {
 
 .publications ol.bibliography li .author a.author-homepage-link {
   position: relative;
-  border-bottom: 1px dotted color-mix(in srgb, var(--global-theme-color) 72%, transparent);
+  border-bottom: none;
   color: var(--global-text-color);
   font: inherit;
   font-weight: 600;
@@ -330,9 +470,10 @@ body.fixed-top-nav {
 
 .publications ol.bibliography li .author a.author-homepage-link:hover,
 .publications ol.bibliography li .author a.author-homepage-link:focus {
-  border-bottom-style: solid;
   color: var(--global-theme-color);
-  text-decoration: none;
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.2em;
 }
 
 .publications ol.bibliography li .author a.author-homepage-link:hover::after,
@@ -342,7 +483,7 @@ body.fixed-top-nav {
 }
 
 .publications ol.bibliography li .author em.author-self {
-  border-bottom: 1px solid color-mix(in srgb, var(--global-theme-color) 55%, transparent);
+  border-bottom: none;
   color: var(--global-text-color);
   font-style: normal;
   font-weight: 700;
@@ -417,15 +558,30 @@ body.fixed-top-nav {
   justify-content: center;
   gap: 0.5rem;
   background: var(--global-bg-color);
+  border-radius: 6px;
+  transition: background-color 0.15s ease;
 }
 
 /*
- * For entries with multiple logos: column grows slightly to hold both, each
- * image capped to a modest width so the pair doesn't dominate the row.
+ * Dark mode: most lab logos are dark-text on transparent/white, so they
+ * vanish on the GitHub-Dark background. Drop a soft off-white plate behind
+ * them — preserves brand color while keeping the marks legible.
+ */
+html[data-theme="dark"] .timeline-logo {
+  background: #f3f5f8;
+  padding: 0.35rem 0.5rem;
+  box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.04);
+}
+
+/*
+ * Multiple logos stack vertically: column width stays at 6rem (so text
+ * still aligns with single-logo rows), but the block grows taller so each
+ * logo can render close to single-logo size instead of being shrunk.
  */
 .timeline-logo--multi {
-  flex: 0 0 auto;
-  max-width: 13rem;
+  flex-direction: column;
+  gap: 0.5rem;
+  height: 9.5rem;
 }
 
 .timeline-logo img {
@@ -439,25 +595,19 @@ body.fixed-top-nav {
 }
 
 .timeline-logo--multi img {
-  max-width: 5rem;
-  max-height: 100%;
+  max-width: 100%;
+  max-height: 4rem;
 }
 
 .timeline-logo a {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  height: 100%;
+  max-width: 100%;
 }
 
-.timeline-logo-sep {
-  display: inline-flex;
-  align-items: center;
-  color: var(--global-text-color-light);
-  font-size: 1.35rem;
-  font-style: italic;
-  line-height: 1;
-  user-select: none;
+.timeline-logo--multi a {
+  height: auto;
 }
 
 .timeline-content {

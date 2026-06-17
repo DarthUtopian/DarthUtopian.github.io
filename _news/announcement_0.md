@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🎉Graduated from Tsinghua University.
+🎓Graduated from Tsinghua University.
