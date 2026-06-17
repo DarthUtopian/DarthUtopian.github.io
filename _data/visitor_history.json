@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-17T15:48:02+00:00",
-  "total_visits": 345,
-  "location_count": 139,
+  "updated_at": "2026-06-17T17:08:58+00:00",
+  "total_visits": 347,
+  "location_count": 141,
   "locations": [
     {
       "lat": 37.7749,
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
       "visits": 131,
-      "last_visit": "17-Jun-2026 03:34:43",
+      "last_visit": "17-Jun-2026 16:19:00",
       "x": 15.995,
       "y": 29.014,
       "size": 18.0
@@ -268,7 +268,7 @@
       "lng": -122.172,
       "label": "United States, California, Stanford",
       "visits": 2,
-      "last_visit": "16-Jun-2026 20:50:40",
+      "last_visit": "17-Jun-2026 16:16:16",
       "x": 16.063,
       "y": 29.212,
       "size": 9.26
@@ -664,6 +664,16 @@
       "size": 8.6
     },
     {
+      "lat": 31.0,
+      "lng": 36.0,
+      "label": "Jordan, ,",
+      "visits": 1,
+      "last_visit": "17-Jun-2026 16:40:22",
+      "x": 60.0,
+      "y": 32.778,
+      "size": 8.6
+    },
+    {
       "lat": 37.0,
       "lng": 127.5,
       "label": "Korea, Republic of, ,",
@@ -738,7 +748,7 @@
       "lng": -1.45,
       "label": "United Kingdom, Leeds, Seacroft",
       "visits": 1,
-      "last_visit": "17-Jun-2026 10:19:07",
+      "last_visit": "17-Jun-2026 16:53:40",
       "x": 49.597,
       "y": 20.102,
       "size": 8.6
@@ -1161,6 +1171,16 @@
       "last_visit": "12-Jun-2026 11:43:39",
       "x": 26.197,
       "y": 26.504,
+      "size": 8.6
+    },
+    {
+      "lat": 38.4231,
+      "lng": -90.4006,
+      "label": "United States, Missouri, Arnold",
+      "visits": 1,
+      "last_visit": "17-Jun-2026 16:20:23",
+      "x": 24.889,
+      "y": 28.654,
       "size": 8.6
     },
     {
