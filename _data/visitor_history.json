@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-16T23:03:46+00:00",
-  "total_visits": 324,
-  "location_count": 120,
+  "updated_at": "2026-06-17T00:00:50+00:00",
+  "total_visits": 325,
+  "location_count": 121,
   "locations": [
     {
       "lat": 37.7749,
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
       "visits": 131,
-      "last_visit": "16-Jun-2026 22:02:09",
+      "last_visit": "16-Jun-2026 23:18:07",
       "x": 15.995,
       "y": 29.014,
       "size": 18.0
@@ -18,7 +18,7 @@
       "lng": -121.895,
       "label": "United States, California, San Jose",
       "visits": 20,
-      "last_visit": "16-Jun-2026 19:51:23",
+      "last_visit": "16-Jun-2026 23:24:37",
       "x": 16.14,
       "y": 29.256,
       "size": 14.16
@@ -28,7 +28,7 @@
       "lng": 116.3883,
       "label": "China, Beijing, Beijing",
       "visits": 9,
-      "last_visit": "04-Jun-2026 05:53:51",
+      "last_visit": "16-Jun-2026 23:53:23",
       "x": 82.33,
       "y": 27.817,
       "size": 11.8
@@ -158,7 +158,7 @@
       "lng": 138.0,
       "label": "Japan, ,",
       "visits": 2,
-      "last_visit": "11-Jun-2026 13:03:40",
+      "last_visit": "16-Jun-2026 23:36:26",
       "x": 88.333,
       "y": 30.0,
       "size": 9.26
@@ -928,7 +928,7 @@
       "lng": -84.3771,
       "label": "United States, Georgia, Atlanta",
       "visits": 1,
-      "last_visit": "04-Jun-2026 19:53:45",
+      "last_visit": "16-Jun-2026 23:29:13",
       "x": 26.562,
       "y": 31.238,
       "size": 8.6
@@ -1054,11 +1054,21 @@
       "size": 8.6
     },
     {
+      "lat": 42.4485,
+      "lng": -76.4804,
+      "label": "United States, New York, Ithaca",
+      "visits": 1,
+      "last_visit": "16-Jun-2026 23:29:40",
+      "x": 28.755,
+      "y": 26.418,
+      "size": 8.6
+    },
+    {
       "lat": 39.9649,
       "lng": -83.1383,
       "label": "United States, Ohio, Columbus",
       "visits": 1,
-      "last_visit": "23-May-2026 05:24:22",
+      "last_visit": "16-Jun-2026 23:27:54",
       "x": 26.906,
       "y": 27.797,
       "size": 8.6
