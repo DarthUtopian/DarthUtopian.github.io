@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-06-17T12:50:01+00:00",
-  "total_visits": 341,
-  "location_count": 135,
+  "updated_at": "2026-06-17T14:15:55+00:00",
+  "total_visits": 343,
+  "location_count": 137,
   "locations": [
     {
       "lat": 37.7749,
@@ -328,7 +328,7 @@
       "lng": -78.8986,
       "label": "United States, North Carolina, Durham",
       "visits": 2,
-      "last_visit": "16-Jun-2026 19:46:45",
+      "last_visit": "17-Jun-2026 14:12:32",
       "x": 28.084,
       "y": 30.003,
       "size": 9.26
@@ -564,6 +564,16 @@
       "size": 8.6
     },
     {
+      "lat": 48.15,
+      "lng": 11.5833,
+      "label": "Germany, Bayern, Munich",
+      "visits": 1,
+      "last_visit": "17-Jun-2026 14:00:52",
+      "x": 53.218,
+      "y": 23.25,
+      "size": 8.6
+    },
+    {
       "lat": 49.5833,
       "lng": 10.6,
       "label": "Germany, Bayern, Neustadt",
@@ -631,6 +641,16 @@
       "last_visit": "26-May-2026 03:49:56",
       "x": 71.5,
       "y": 37.074,
+      "size": 8.6
+    },
+    {
+      "lat": 23.9167,
+      "lng": 87.5333,
+      "label": "India, West Bengal, Suri",
+      "visits": 1,
+      "last_visit": "17-Jun-2026 14:08:41",
+      "x": 74.315,
+      "y": 36.713,
       "size": 8.6
     },
     {
@@ -1208,7 +1228,7 @@
       "lng": -80.1842,
       "label": "United States, Pennsylvania, Coraopolis",
       "visits": 1,
-      "last_visit": "24-May-2026 06:19:10",
+      "last_visit": "17-Jun-2026 12:54:26",
       "x": 27.727,
       "y": 27.5,
       "size": 8.6
