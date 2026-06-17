@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-06-17T14:15:55+00:00",
-  "total_visits": 343,
-  "location_count": 137,
+  "updated_at": "2026-06-17T15:48:02+00:00",
+  "total_visits": 345,
+  "location_count": 139,
   "locations": [
     {
       "lat": 37.7749,
@@ -28,7 +28,7 @@
       "lng": 116.3883,
       "label": "China, Beijing, Beijing",
       "visits": 9,
-      "last_visit": "17-Jun-2026 07:28:51",
+      "last_visit": "17-Jun-2026 15:39:08",
       "x": 82.33,
       "y": 27.817,
       "size": 11.8
@@ -694,6 +694,16 @@
       "size": 8.6
     },
     {
+      "lat": 22.6333,
+      "lng": 120.35,
+      "label": "Taiwan, T'ai-wan, Kaohsiung",
+      "visits": 1,
+      "last_visit": "17-Jun-2026 14:24:17",
+      "x": 83.431,
+      "y": 37.426,
+      "size": 8.6
+    },
+    {
       "lat": 23.7092,
       "lng": 120.5422,
       "label": "Taiwan, T'ai-wan, Y�nlin",
@@ -991,6 +1001,16 @@
       "last_visit": "15-Jun-2026 04:27:02",
       "x": 20.837,
       "y": 27.973,
+      "size": 8.6
+    },
+    {
+      "lat": 39.6237,
+      "lng": -104.8738,
+      "label": "United States, Colorado, Englewood",
+      "visits": 1,
+      "last_visit": "17-Jun-2026 15:01:40",
+      "x": 20.868,
+      "y": 27.987,
       "size": 8.6
     },
     {
