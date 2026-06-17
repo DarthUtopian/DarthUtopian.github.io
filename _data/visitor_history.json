@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-06-17T05:13:13+00:00",
-  "total_visits": 333,
-  "location_count": 128,
+  "updated_at": "2026-06-17T07:17:55+00:00",
+  "total_visits": 337,
+  "location_count": 132,
   "locations": [
     {
       "lat": 37.7749,
@@ -18,7 +18,7 @@
       "lng": -121.895,
       "label": "United States, California, San Jose",
       "visits": 20,
-      "last_visit": "17-Jun-2026 03:33:56",
+      "last_visit": "17-Jun-2026 06:36:14",
       "x": 16.14,
       "y": 29.256,
       "size": 14.16
@@ -28,7 +28,7 @@
       "lng": 116.3883,
       "label": "China, Beijing, Beijing",
       "visits": 9,
-      "last_visit": "17-Jun-2026 01:41:40",
+      "last_visit": "17-Jun-2026 06:35:59",
       "x": 82.33,
       "y": 27.817,
       "size": 11.8
@@ -88,7 +88,7 @@
       "lng": 126.9783,
       "label": "Korea, Republic of, Seoul-t'ukpyolsi, Seoul",
       "visits": 3,
-      "last_visit": "15-Jun-2026 12:41:32",
+      "last_visit": "17-Jun-2026 05:19:23",
       "x": 85.272,
       "y": 29.112,
       "size": 9.77
@@ -554,6 +554,16 @@
       "size": 8.6
     },
     {
+      "lat": 39.0,
+      "lng": 22.0,
+      "label": "Greece, ,",
+      "visits": 1,
+      "last_visit": "17-Jun-2026 05:43:25",
+      "x": 56.111,
+      "y": 28.333,
+      "size": 8.6
+    },
+    {
       "lat": 22.25,
       "lng": 114.1667,
       "label": "Hong Kong, ,",
@@ -714,11 +724,21 @@
       "size": 8.6
     },
     {
+      "lat": 37.9668,
+      "lng": -121.7662,
+      "label": "United States, California, Antioch",
+      "visits": 1,
+      "last_visit": "17-Jun-2026 06:49:52",
+      "x": 16.176,
+      "y": 28.907,
+      "size": 8.6
+    },
+    {
       "lat": 37.8668,
       "lng": -122.2536,
       "label": "United States, California, Berkeley",
       "visits": 1,
-      "last_visit": "16-Jun-2026 18:14:33",
+      "last_visit": "17-Jun-2026 06:00:05",
       "x": 16.041,
       "y": 28.963,
       "size": 8.6
@@ -741,6 +761,16 @@
       "last_visit": "03-Jun-2026 01:08:42",
       "x": 17.248,
       "y": 31.289,
+      "size": 8.6
+    },
+    {
+      "lat": 37.8129,
+      "lng": -121.9743,
+      "label": "United States, California, Danville",
+      "visits": 1,
+      "last_visit": "17-Jun-2026 06:24:15",
+      "x": 16.118,
+      "y": 28.993,
       "size": 8.6
     },
     {
@@ -1231,6 +1261,16 @@
       "last_visit": "25-May-2026 01:38:21",
       "x": 15.973,
       "y": 23.243,
+      "size": 8.6
+    },
+    {
+      "lat": 47.106,
+      "lng": -121.6029,
+      "label": "United States, Washington, Enumclaw",
+      "visits": 1,
+      "last_visit": "17-Jun-2026 05:57:40",
+      "x": 16.221,
+      "y": 23.83,
       "size": 8.6
     },
     {
