@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-17T00:00:50+00:00",
-  "total_visits": 325,
-  "location_count": 121,
+  "updated_at": "2026-06-17T01:36:19+00:00",
+  "total_visits": 328,
+  "location_count": 124,
   "locations": [
     {
       "lat": 37.7749,
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
       "visits": 131,
-      "last_visit": "16-Jun-2026 23:18:07",
+      "last_visit": "17-Jun-2026 01:25:58",
       "x": 15.995,
       "y": 29.014,
       "size": 18.0
@@ -58,7 +58,7 @@
       "lng": -97.0,
       "label": "United States, ,",
       "visits": 4,
-      "last_visit": "16-Jun-2026 20:57:59",
+      "last_visit": "17-Jun-2026 00:35:29",
       "x": 23.056,
       "y": 28.889,
       "size": 10.2
@@ -168,7 +168,7 @@
       "lng": 121.525,
       "label": "Taiwan, T'ai-pei, Taipei",
       "visits": 2,
-      "last_visit": "13-Jun-2026 15:47:14",
+      "last_visit": "17-Jun-2026 01:34:27",
       "x": 83.757,
       "y": 36.089,
       "size": 9.26
@@ -564,6 +564,16 @@
       "size": 8.6
     },
     {
+      "lat": 28.4667,
+      "lng": 77.0333,
+      "label": "India, Haryana, Gurgaon",
+      "visits": 1,
+      "last_visit": "17-Jun-2026 01:21:39",
+      "x": 71.398,
+      "y": 34.185,
+      "size": 8.6
+    },
+    {
       "lat": 12.9833,
       "lng": 77.5833,
       "label": "India, Karnataka, Bangalore",
@@ -588,7 +598,7 @@
       "lng": 53.0,
       "label": "Iran, Islamic Republic of, ,",
       "visits": 1,
-      "last_visit": "23-May-2026 14:18:46",
+      "last_visit": "17-Jun-2026 01:17:25",
       "x": 64.722,
       "y": 32.222,
       "size": 8.6
@@ -848,7 +858,7 @@
       "lng": -121.978,
       "label": "United States, California, San Ramon",
       "visits": 1,
-      "last_visit": "15-Jun-2026 17:44:01",
+      "last_visit": "17-Jun-2026 00:03:44",
       "x": 16.117,
       "y": 29.011,
       "size": 8.6
@@ -994,6 +1004,16 @@
       "size": 8.6
     },
     {
+      "lat": 42.6105,
+      "lng": -71.2306,
+      "label": "United States, Massachusetts, Tewksbury",
+      "visits": 1,
+      "last_visit": "17-Jun-2026 01:11:07",
+      "x": 30.214,
+      "y": 26.327,
+      "size": 8.6
+    },
+    {
       "lat": 42.2734,
       "lng": -83.7133,
       "label": "United States, Michigan, Ann Arbor",
@@ -1061,6 +1081,16 @@
       "last_visit": "16-Jun-2026 23:29:40",
       "x": 28.755,
       "y": 26.418,
+      "size": 8.6
+    },
+    {
+      "lat": 40.7143,
+      "lng": -74.006,
+      "label": "United States, New York, New York",
+      "visits": 1,
+      "last_visit": "17-Jun-2026 00:40:37",
+      "x": 29.443,
+      "y": 27.381,
       "size": 8.6
     },
     {
