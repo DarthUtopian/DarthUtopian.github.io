@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-17T20:18:32+00:00",
-  "total_visits": 349,
-  "location_count": 142,
+  "updated_at": "2026-06-17T21:17:45+00:00",
+  "total_visits": 351,
+  "location_count": 143,
   "locations": [
     {
       "lat": 37.7749,
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
       "visits": 131,
-      "last_visit": "17-Jun-2026 19:47:59",
+      "last_visit": "17-Jun-2026 21:16:02",
       "x": 15.995,
       "y": 29.014,
       "size": 18.0
@@ -58,7 +58,7 @@
       "lng": -97.0,
       "label": "United States, ,",
       "visits": 4,
-      "last_visit": "17-Jun-2026 00:35:29",
+      "last_visit": "17-Jun-2026 20:37:44",
       "x": 23.056,
       "y": 28.889,
       "size": 10.2
@@ -121,6 +121,16 @@
       "last_visit": "28-May-2026 13:47:11",
       "x": 27.763,
       "y": 27.474,
+      "size": 9.77
+    },
+    {
+      "lat": 40.4439,
+      "lng": -79.9561,
+      "label": "United States, Pennsylvania, Pittsburgh",
+      "visits": 3,
+      "last_visit": "17-Jun-2026 21:07:22",
+      "x": 27.79,
+      "y": 27.531,
       "size": 9.77
     },
     {
@@ -341,16 +351,6 @@
       "last_visit": "17-Jun-2026 14:12:32",
       "x": 28.084,
       "y": 30.003,
-      "size": 9.26
-    },
-    {
-      "lat": 40.4439,
-      "lng": -79.9561,
-      "label": "United States, Pennsylvania, Pittsburgh",
-      "visits": 2,
-      "last_visit": "16-Jun-2026 21:03:37",
-      "x": 27.79,
-      "y": 27.531,
       "size": 9.26
     },
     {
@@ -1221,6 +1221,16 @@
       "last_visit": "09-Jun-2026 03:56:19",
       "x": 29.431,
       "y": 27.377,
+      "size": 8.6
+    },
+    {
+      "lat": 40.0808,
+      "lng": -74.0492,
+      "label": "United States, New Jersey, Point Pleasant Beach",
+      "visits": 1,
+      "last_visit": "17-Jun-2026 21:13:25",
+      "x": 29.431,
+      "y": 27.733,
       "size": 8.6
     },
     {
