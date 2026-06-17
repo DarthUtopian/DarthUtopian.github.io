@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-06-17T07:17:55+00:00",
-  "total_visits": 337,
-  "location_count": 132,
+  "updated_at": "2026-06-17T09:12:12+00:00",
+  "total_visits": 339,
+  "location_count": 134,
   "locations": [
     {
       "lat": 37.7749,
@@ -28,7 +28,7 @@
       "lng": 116.3883,
       "label": "China, Beijing, Beijing",
       "visits": 9,
-      "last_visit": "17-Jun-2026 06:35:59",
+      "last_visit": "17-Jun-2026 07:28:51",
       "x": 82.33,
       "y": 27.817,
       "size": 11.8
@@ -158,7 +158,7 @@
       "lng": 138.0,
       "label": "Japan, ,",
       "visits": 2,
-      "last_visit": "17-Jun-2026 03:50:50",
+      "last_visit": "17-Jun-2026 08:59:02",
       "x": 88.333,
       "y": 30.0,
       "size": 9.26
@@ -524,6 +524,16 @@
       "size": 8.6
     },
     {
+      "lat": 49.2167,
+      "lng": 17.6667,
+      "label": "Czech Republic, Zlinsky Kraj, Zlin",
+      "visits": 1,
+      "last_visit": "17-Jun-2026 07:43:51",
+      "x": 54.907,
+      "y": 22.657,
+      "size": 8.6
+    },
+    {
       "lat": 47.0,
       "lng": 8.0,
       "label": "Europe, ,",
@@ -641,6 +651,16 @@
       "last_visit": "16-Jun-2026 00:49:34",
       "x": 85.417,
       "y": 29.444,
+      "size": 8.6
+    },
+    {
+      "lat": 1.3158,
+      "lng": 103.7647,
+      "label": "Singapore, , Clementi",
+      "visits": 1,
+      "last_visit": "17-Jun-2026 08:48:09",
+      "x": 78.824,
+      "y": 49.269,
       "size": 8.6
     },
     {
