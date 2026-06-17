@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-06-17T09:12:12+00:00",
-  "total_visits": 339,
-  "location_count": 134,
+  "updated_at": "2026-06-17T11:15:10+00:00",
+  "total_visits": 340,
+  "location_count": 135,
   "locations": [
     {
       "lat": 37.7749,
@@ -358,7 +358,7 @@
       "lng": 133.0,
       "label": "Australia, ,",
       "visits": 1,
-      "last_visit": "14-Jun-2026 10:34:47",
+      "last_visit": "17-Jun-2026 09:59:42",
       "x": 86.944,
       "y": 65.0,
       "size": 8.6
@@ -701,6 +701,16 @@
       "last_visit": "13-Jun-2026 06:11:02",
       "x": 49.964,
       "y": 21.389,
+      "size": 8.6
+    },
+    {
+      "lat": 53.8167,
+      "lng": -1.45,
+      "label": "United Kingdom, Leeds, Seacroft",
+      "visits": 1,
+      "last_visit": "17-Jun-2026 10:19:07",
+      "x": 49.597,
+      "y": 20.102,
       "size": 8.6
     },
     {
