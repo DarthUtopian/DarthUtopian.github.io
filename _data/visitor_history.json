@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-17T23:02:18+00:00",
-  "total_visits": 366,
-  "location_count": 145,
+  "updated_at": "2026-06-18T01:33:33+00:00",
+  "total_visits": 368,
+  "location_count": 147,
   "locations": [
     {
       "lat": 37.7749,
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
       "visits": 131,
-      "last_visit": "17-Jun-2026 22:46:36",
+      "last_visit": "18-Jun-2026 00:26:28",
       "x": 15.995,
       "y": 29.014,
       "size": 18.0
@@ -28,7 +28,7 @@
       "lng": -97.0,
       "label": "United States, ,",
       "visits": 16,
-      "last_visit": "17-Jun-2026 21:55:24",
+      "last_visit": "18-Jun-2026 01:27:10",
       "x": 23.056,
       "y": 28.889,
       "size": 13.4
@@ -1191,6 +1191,26 @@
       "last_visit": "05-Jun-2026 05:41:41",
       "x": 26.746,
       "y": 26.515,
+      "size": 8.6
+    },
+    {
+      "lat": 42.2923,
+      "lng": -83.7145,
+      "label": "United States, Michigan, Ann Arbor",
+      "visits": 1,
+      "last_visit": "18-Jun-2026 01:06:56",
+      "x": 26.746,
+      "y": 26.504,
+      "size": 8.6
+    },
+    {
+      "lat": 42.6875,
+      "lng": -83.2341,
+      "label": "United States, Michigan, Auburn Hills",
+      "visits": 1,
+      "last_visit": "18-Jun-2026 01:22:27",
+      "x": 26.879,
+      "y": 26.285,
       "size": 8.6
     },
     {
