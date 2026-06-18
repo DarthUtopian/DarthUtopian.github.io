@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-06-18T18:04:23+00:00",
-  "total_visits": 371,
-  "location_count": 149,
+  "updated_at": "2026-06-18T20:19:55+00:00",
+  "total_visits": 372,
+  "location_count": 150,
   "locations": [
     {
       "lat": 37.7749,
@@ -28,7 +28,7 @@
       "lng": -97.0,
       "label": "United States, ,",
       "visits": 16,
-      "last_visit": "18-Jun-2026 05:05:11",
+      "last_visit": "18-Jun-2026 19:28:44",
       "x": 23.056,
       "y": 28.889,
       "size": 13.4
@@ -598,9 +598,19 @@
       "lng": 2.0,
       "label": "France, ,",
       "visits": 1,
-      "last_visit": "17-Jun-2026 11:43:48",
+      "last_visit": "18-Jun-2026 20:12:33",
       "x": 50.556,
       "y": 24.444,
+      "size": 8.6
+    },
+    {
+      "lat": 51.0,
+      "lng": 9.0,
+      "label": "Germany, ,",
+      "visits": 1,
+      "last_visit": "18-Jun-2026 20:07:02",
+      "x": 52.5,
+      "y": 21.667,
       "size": 8.6
     },
     {
