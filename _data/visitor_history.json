@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-18T03:18:01+00:00",
+  "updated_at": "2026-06-18T05:08:50+00:00",
   "total_visits": 368,
   "location_count": 147,
   "locations": [
@@ -28,7 +28,7 @@
       "lng": -97.0,
       "label": "United States, ,",
       "visits": 16,
-      "last_visit": "18-Jun-2026 03:09:27",
+      "last_visit": "18-Jun-2026 05:05:11",
       "x": 23.056,
       "y": 28.889,
       "size": 13.4
@@ -1438,7 +1438,7 @@
       "lng": -122.3321,
       "label": "United States, Washington, Seattle",
       "visits": 1,
-      "last_visit": "16-Jun-2026 22:34:35",
+      "last_visit": "18-Jun-2026 04:12:02",
       "x": 16.019,
       "y": 23.552,
       "size": 8.6
