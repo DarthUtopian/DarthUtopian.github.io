@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-18T10:59:28+00:00",
+  "updated_at": "2026-06-18T13:42:30+00:00",
   "total_visits": 371,
   "location_count": 149,
   "locations": [
@@ -8,7 +8,7 @@
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
       "visits": 131,
-      "last_visit": "18-Jun-2026 00:26:28",
+      "last_visit": "18-Jun-2026 12:59:01",
       "x": 15.995,
       "y": 29.014,
       "size": 18.0
