@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-06-18T05:08:50+00:00",
-  "total_visits": 368,
-  "location_count": 147,
+  "updated_at": "2026-06-18T07:10:40+00:00",
+  "total_visits": 371,
+  "location_count": 149,
   "locations": [
     {
       "lat": 37.7749,
@@ -38,7 +38,7 @@
       "lng": 116.3883,
       "label": "China, Beijing, Beijing",
       "visits": 9,
-      "last_visit": "17-Jun-2026 15:39:08",
+      "last_visit": "18-Jun-2026 06:37:15",
       "x": 82.33,
       "y": 27.817,
       "size": 11.8
@@ -244,6 +244,16 @@
       "size": 9.26
     },
     {
+      "lat": 33.7866,
+      "lng": -118.2987,
+      "label": "United States, California, Los Angeles",
+      "visits": 2,
+      "last_visit": "18-Jun-2026 06:13:32",
+      "x": 17.139,
+      "y": 31.23,
+      "size": 9.26
+    },
+    {
       "lat": 37.3762,
       "lng": -122.1826,
       "label": "United States, California, Palo Alto",
@@ -401,6 +411,16 @@
       "last_visit": "15-Jun-2026 04:19:26",
       "x": 90.436,
       "y": 70.989,
+      "size": 8.6
+    },
+    {
+      "lat": 47.3333,
+      "lng": 13.3333,
+      "label": "Austria, ,",
+      "visits": 1,
+      "last_visit": "18-Jun-2026 06:11:56",
+      "x": 53.704,
+      "y": 23.704,
       "size": 8.6
     },
     {
@@ -698,7 +718,7 @@
       "lng": 127.5,
       "label": "Korea, Republic of, ,",
       "visits": 1,
-      "last_visit": "16-Jun-2026 00:49:34",
+      "last_visit": "18-Jun-2026 05:27:58",
       "x": 85.417,
       "y": 29.444,
       "size": 8.6
@@ -904,16 +924,6 @@
       "size": 8.6
     },
     {
-      "lat": 33.7866,
-      "lng": -118.2987,
-      "label": "United States, California, Los Angeles",
-      "visits": 1,
-      "last_visit": "17-Jun-2026 03:15:49",
-      "x": 17.139,
-      "y": 31.23,
-      "size": 8.6
-    },
-    {
       "lat": 37.4538,
       "lng": -122.1822,
       "label": "United States, California, Menlo Park",
@@ -981,6 +991,16 @@
       "last_visit": "16-Jun-2026 03:37:33",
       "x": 16.149,
       "y": 29.238,
+      "size": 8.6
+    },
+    {
+      "lat": 37.425,
+      "lng": -121.946,
+      "label": "United States, California, San Jose",
+      "visits": 1,
+      "last_visit": "18-Jun-2026 05:24:05",
+      "x": 16.126,
+      "y": 29.208,
       "size": 8.6
     },
     {
