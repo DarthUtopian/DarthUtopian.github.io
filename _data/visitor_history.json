@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-06-19T09:13:34+00:00",
-  "total_visits": 378,
-  "location_count": 153,
+  "updated_at": "2026-06-19T11:04:11+00:00",
+  "total_visits": 379,
+  "location_count": 154,
   "locations": [
     {
       "lat": 37.7749,
@@ -1321,6 +1321,16 @@
       "last_visit": "17-Jun-2026 22:30:52",
       "x": 29.431,
       "y": 27.377,
+      "size": 8.6
+    },
+    {
+      "lat": 41.078,
+      "lng": -74.1764,
+      "label": "United States, New Jersey, Mahwah",
+      "visits": 1,
+      "last_visit": "19-Jun-2026 10:22:04",
+      "x": 29.395,
+      "y": 27.179,
       "size": 8.6
     },
     {
