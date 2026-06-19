@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-19T19:37:58+00:00",
+  "updated_at": "2026-06-19T20:37:14+00:00",
   "total_visits": 380,
   "location_count": 155,
   "locations": [
@@ -58,7 +58,7 @@
       "lng": -118.2987,
       "label": "United States, California, Los Angeles",
       "visits": 5,
-      "last_visit": "19-Jun-2026 19:34:47",
+      "last_visit": "19-Jun-2026 20:32:21",
       "x": 17.139,
       "y": 31.23,
       "size": 10.58
