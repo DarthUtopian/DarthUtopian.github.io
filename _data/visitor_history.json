@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-20T05:36:58+00:00",
+  "updated_at": "2026-06-20T10:22:21+00:00",
   "total_visits": 386,
   "location_count": 157,
   "locations": [
@@ -28,7 +28,7 @@
       "lng": -97.0,
       "label": "United States, ,",
       "visits": 16,
-      "last_visit": "19-Jun-2026 18:29:09",
+      "last_visit": "20-Jun-2026 06:21:43",
       "x": 23.056,
       "y": 28.889,
       "size": 13.4
@@ -38,7 +38,7 @@
       "lng": 116.3883,
       "label": "China, Beijing, Beijing",
       "visits": 9,
-      "last_visit": "18-Jun-2026 06:37:15",
+      "last_visit": "20-Jun-2026 10:04:44",
       "x": 82.33,
       "y": 27.817,
       "size": 11.8
@@ -1138,7 +1138,7 @@
       "lng": -84.4635,
       "label": "United States, Georgia, Atlanta",
       "visits": 1,
-      "last_visit": "17-Jun-2026 20:17:08",
+      "last_visit": "20-Jun-2026 06:39:43",
       "x": 26.538,
       "y": 31.183,
       "size": 8.6
