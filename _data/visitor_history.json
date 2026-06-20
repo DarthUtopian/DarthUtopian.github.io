@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-20T16:01:48+00:00",
-  "total_visits": 389,
-  "location_count": 159,
+  "updated_at": "2026-06-20T21:34:08+00:00",
+  "total_visits": 392,
+  "location_count": 160,
   "locations": [
     {
       "lat": 37.7749,
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
       "visits": 131,
-      "last_visit": "20-Jun-2026 00:53:37",
+      "last_visit": "20-Jun-2026 19:47:01",
       "x": 15.995,
       "y": 29.014,
       "size": 18.0
@@ -71,6 +71,16 @@
       "last_visit": "09-Jun-2026 09:26:18",
       "x": 51.972,
       "y": 21.815,
+      "size": 10.2
+    },
+    {
+      "lat": 40.0,
+      "lng": -4.0,
+      "label": "Spain, ,",
+      "visits": 4,
+      "last_visit": "20-Jun-2026 20:28:42",
+      "x": 48.889,
+      "y": 27.778,
       "size": 10.2
     },
     {
@@ -191,16 +201,6 @@
       "last_visit": "19-Jun-2026 07:45:31",
       "x": 88.333,
       "y": 30.0,
-      "size": 9.26
-    },
-    {
-      "lat": 40.0,
-      "lng": -4.0,
-      "label": "Spain, ,",
-      "visits": 2,
-      "last_visit": "20-Jun-2026 15:46:44",
-      "x": 48.889,
-      "y": 27.778,
       "size": 9.26
     },
     {
@@ -1171,6 +1171,16 @@
       "last_visit": "18-Jun-2026 09:12:30",
       "x": 26.562,
       "y": 31.238,
+      "size": 8.6
+    },
+    {
+      "lat": 33.2906,
+      "lng": -84.2659,
+      "label": "United States, Georgia, Griffin",
+      "visits": 1,
+      "last_visit": "20-Jun-2026 20:10:24",
+      "x": 26.593,
+      "y": 31.505,
       "size": 8.6
     },
     {
