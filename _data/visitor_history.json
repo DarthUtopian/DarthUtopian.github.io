@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-06-21T07:49:15+00:00",
-  "total_visits": 392,
-  "location_count": 160,
+  "updated_at": "2026-06-21T12:54:11+00:00",
+  "total_visits": 393,
+  "location_count": 161,
   "locations": [
     {
       "lat": 37.7749,
@@ -771,6 +771,16 @@
       "last_visit": "17-Jun-2026 08:48:09",
       "x": 78.824,
       "y": 49.269,
+      "size": 8.6
+    },
+    {
+      "lat": 1.2931,
+      "lng": 103.8558,
+      "label": "Singapore, , Singapore",
+      "visits": 1,
+      "last_visit": "21-Jun-2026 12:50:30",
+      "x": 78.849,
+      "y": 49.282,
       "size": 8.6
     },
     {
