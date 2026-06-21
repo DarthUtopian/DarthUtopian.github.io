@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-06-21T19:36:26+00:00",
-  "total_visits": 396,
-  "location_count": 162,
+  "updated_at": "2026-06-21T23:35:08+00:00",
+  "total_visits": 399,
+  "location_count": 163,
   "locations": [
     {
       "lat": 37.7749,
@@ -18,7 +18,7 @@
       "lng": -121.895,
       "label": "United States, California, San Jose",
       "visits": 20,
-      "last_visit": "17-Jun-2026 06:36:14",
+      "last_visit": "21-Jun-2026 23:06:39",
       "x": 16.14,
       "y": 29.256,
       "size": 14.16
@@ -354,6 +354,16 @@
       "size": 9.26
     },
     {
+      "lat": 40.7209,
+      "lng": -74.0468,
+      "label": "United States, New Jersey, Jersey City",
+      "visits": 2,
+      "last_visit": "21-Jun-2026 22:18:05",
+      "x": 29.431,
+      "y": 27.377,
+      "size": 9.26
+    },
+    {
       "lat": 40.0808,
       "lng": -74.0492,
       "label": "United States, New Jersey, Point Pleasant Beach",
@@ -391,6 +401,16 @@
       "last_visit": "16-Jun-2026 20:22:14",
       "x": 27.808,
       "y": 27.542,
+      "size": 9.26
+    },
+    {
+      "lat": 47.3624,
+      "lng": -122.1982,
+      "label": "United States, Washington, Kent",
+      "visits": 2,
+      "last_visit": "21-Jun-2026 21:40:09",
+      "x": 16.056,
+      "y": 23.688,
       "size": 9.26
     },
     {
@@ -1361,16 +1381,6 @@
       "last_visit": "16-Jun-2026 16:24:09",
       "x": 29.158,
       "y": 27.814,
-      "size": 8.6
-    },
-    {
-      "lat": 40.7209,
-      "lng": -74.0468,
-      "label": "United States, New Jersey, Jersey City",
-      "visits": 1,
-      "last_visit": "17-Jun-2026 22:30:52",
-      "x": 29.431,
-      "y": 27.377,
       "size": 8.6
     },
     {
