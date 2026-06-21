@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-20T21:34:08+00:00",
+  "updated_at": "2026-06-21T07:49:15+00:00",
   "total_visits": 392,
   "location_count": 160,
   "locations": [
@@ -46,9 +46,9 @@
     {
       "lat": 33.7866,
       "lng": -118.2987,
-      "label": "United States, California, Los Angeles",
+      "label": "United States, California, Burbank",
       "visits": 9,
-      "last_visit": "20-Jun-2026 01:32:20",
+      "last_visit": "21-Jun-2026 06:33:51",
       "x": 17.139,
       "y": 31.23,
       "size": 11.8
@@ -748,7 +748,7 @@
       "lng": 127.5,
       "label": "Korea, Republic of, ,",
       "visits": 1,
-      "last_visit": "18-Jun-2026 05:27:58",
+      "last_visit": "21-Jun-2026 05:46:53",
       "x": 85.417,
       "y": 29.444,
       "size": 8.6
