@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-21T12:54:11+00:00",
-  "total_visits": 393,
+  "updated_at": "2026-06-21T14:52:16+00:00",
+  "total_visits": 395,
   "location_count": 161,
   "locations": [
     {
@@ -54,6 +54,16 @@
       "size": 11.8
     },
     {
+      "lat": 40.0,
+      "lng": -4.0,
+      "label": "Spain, ,",
+      "visits": 6,
+      "last_visit": "21-Jun-2026 14:39:37",
+      "x": 48.889,
+      "y": 27.778,
+      "size": 10.92
+    },
+    {
       "lat": 37.4404,
       "lng": -121.8705,
       "label": "United States, California, Milpitas",
@@ -71,16 +81,6 @@
       "last_visit": "09-Jun-2026 09:26:18",
       "x": 51.972,
       "y": 21.815,
-      "size": 10.2
-    },
-    {
-      "lat": 40.0,
-      "lng": -4.0,
-      "label": "Spain, ,",
-      "visits": 4,
-      "last_visit": "20-Jun-2026 20:28:42",
-      "x": 48.889,
-      "y": 27.778,
       "size": 10.2
     },
     {
