@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-06-21T23:35:08+00:00",
-  "total_visits": 399,
-  "location_count": 163,
+  "updated_at": "2026-06-22T02:24:06+00:00",
+  "total_visits": 401,
+  "location_count": 164,
   "locations": [
     {
       "lat": 37.7749,
@@ -17,11 +17,11 @@
       "lat": 37.3394,
       "lng": -121.895,
       "label": "United States, California, San Jose",
-      "visits": 20,
-      "last_visit": "21-Jun-2026 23:06:39",
+      "visits": 21,
+      "last_visit": "22-Jun-2026 00:19:35",
       "x": 16.14,
       "y": 29.256,
-      "size": 14.16
+      "size": 14.33
     },
     {
       "lat": 38.0,
@@ -541,6 +541,16 @@
       "last_visit": "20-Jun-2026 00:53:27",
       "x": 78.831,
       "y": 29.969,
+      "size": 8.6
+    },
+    {
+      "lat": 30.5801,
+      "lng": 114.2734,
+      "label": "China, Hubei, Wuhan",
+      "visits": 1,
+      "last_visit": "22-Jun-2026 00:13:21",
+      "x": 81.743,
+      "y": 33.011,
       "size": 8.6
     },
     {
