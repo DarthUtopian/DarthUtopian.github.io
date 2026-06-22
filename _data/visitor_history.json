@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-22T18:26:14+00:00",
-  "total_visits": 418,
-  "location_count": 171,
+  "updated_at": "2026-06-22T21:06:07+00:00",
+  "total_visits": 424,
+  "location_count": 172,
   "locations": [
     {
       "lat": 37.7749,
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
       "visits": 131,
-      "last_visit": "20-Jun-2026 19:47:01",
+      "last_visit": "22-Jun-2026 19:19:37",
       "x": 15.995,
       "y": 29.014,
       "size": 18.0
@@ -17,11 +17,11 @@
       "lat": 37.3394,
       "lng": -121.895,
       "label": "United States, California, San Jose",
-      "visits": 22,
-      "last_visit": "22-Jun-2026 03:44:22",
+      "visits": 24,
+      "last_visit": "22-Jun-2026 20:30:26",
       "x": 16.14,
       "y": 29.256,
-      "size": 14.5
+      "size": 14.84
     },
     {
       "lat": 38.0,
@@ -82,6 +82,16 @@
       "x": 15.861,
       "y": 23.868,
       "size": 10.92
+    },
+    {
+      "lat": 40.4439,
+      "lng": -79.9561,
+      "label": "United States, Pennsylvania, Pittsburgh",
+      "visits": 5,
+      "last_visit": "22-Jun-2026 20:21:17",
+      "x": 27.79,
+      "y": 27.531,
+      "size": 10.58
     },
     {
       "lat": 50.7333,
@@ -148,19 +158,9 @@
       "lng": -80.0525,
       "label": "United States, Pennsylvania, Pittsburgh",
       "visits": 3,
-      "last_visit": "28-May-2026 13:47:11",
+      "last_visit": "22-Jun-2026 19:26:46",
       "x": 27.763,
       "y": 27.474,
-      "size": 9.77
-    },
-    {
-      "lat": 40.4439,
-      "lng": -79.9561,
-      "label": "United States, Pennsylvania, Pittsburgh",
-      "visits": 3,
-      "last_visit": "19-Jun-2026 19:27:00",
-      "x": 27.79,
-      "y": 27.531,
       "size": 9.77
     },
     {
@@ -394,6 +394,16 @@
       "size": 9.26
     },
     {
+      "lat": 40.7143,
+      "lng": -74.006,
+      "label": "United States, New York, New York",
+      "visits": 2,
+      "last_visit": "22-Jun-2026 20:03:57",
+      "x": 29.443,
+      "y": 27.381,
+      "size": 9.26
+    },
+    {
       "lat": 40.9777,
       "lng": -73.6935,
       "label": "United States, New York, Rye",
@@ -501,6 +511,16 @@
       "last_visit": "01-Jun-2026 18:07:25",
       "x": 18.31,
       "y": 21.62,
+      "size": 8.6
+    },
+    {
+      "lat": 49.25,
+      "lng": -122.95,
+      "label": "Canada, British Columbia, Burnaby",
+      "visits": 1,
+      "last_visit": "22-Jun-2026 19:19:37",
+      "x": 15.847,
+      "y": 22.639,
       "size": 8.6
     },
     {
@@ -1511,16 +1531,6 @@
       "last_visit": "16-Jun-2026 23:29:40",
       "x": 28.755,
       "y": 26.418,
-      "size": 8.6
-    },
-    {
-      "lat": 40.7143,
-      "lng": -74.006,
-      "label": "United States, New York, New York",
-      "visits": 1,
-      "last_visit": "17-Jun-2026 00:40:37",
-      "x": 29.443,
-      "y": 27.381,
       "size": 8.6
     },
     {
