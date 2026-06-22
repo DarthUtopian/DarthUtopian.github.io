@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-06-22T08:23:41+00:00",
-  "total_visits": 404,
-  "location_count": 166,
+  "updated_at": "2026-06-22T12:35:29+00:00",
+  "total_visits": 407,
+  "location_count": 167,
   "locations": [
     {
       "lat": 37.7749,
@@ -38,7 +38,7 @@
       "lng": 116.3883,
       "label": "China, Beijing, Beijing",
       "visits": 9,
-      "last_visit": "20-Jun-2026 10:04:44",
+      "last_visit": "22-Jun-2026 10:00:50",
       "x": 82.33,
       "y": 27.817,
       "size": 11.8
@@ -57,11 +57,11 @@
       "lat": 40.0,
       "lng": -4.0,
       "label": "Spain, ,",
-      "visits": 6,
-      "last_visit": "21-Jun-2026 14:39:37",
+      "visits": 7,
+      "last_visit": "22-Jun-2026 08:37:32",
       "x": 48.889,
       "y": 27.778,
-      "size": 10.92
+      "size": 11.23
     },
     {
       "lat": 37.4404,
@@ -238,7 +238,7 @@
       "lng": -122.371,
       "label": "United States, California, Burlingame",
       "visits": 2,
-      "last_visit": "22-Jun-2026 07:56:57",
+      "last_visit": "22-Jun-2026 08:26:19",
       "x": 16.008,
       "y": 29.129,
       "size": 9.26
@@ -404,6 +404,16 @@
       "size": 9.26
     },
     {
+      "lat": 29.6997,
+      "lng": -95.5858,
+      "label": "United States, Texas, Houston",
+      "visits": 2,
+      "last_visit": "22-Jun-2026 08:43:52",
+      "x": 23.448,
+      "y": 33.5,
+      "size": 9.26
+    },
+    {
       "lat": 47.3624,
       "lng": -122.1982,
       "label": "United States, Washington, Kent",
@@ -528,7 +538,7 @@
       "lng": 105.0,
       "label": "China, ,",
       "visits": 1,
-      "last_visit": "30-May-2026 06:31:15",
+      "last_visit": "22-Jun-2026 11:24:31",
       "x": 79.167,
       "y": 30.556,
       "size": 8.6
@@ -631,6 +641,16 @@
       "last_visit": "17-Jun-2026 07:43:51",
       "x": 54.907,
       "y": 22.657,
+      "size": 8.6
+    },
+    {
+      "lat": 56.1534,
+      "lng": 10.2255,
+      "label": "Denmark, Midtjyllen, Aarhus",
+      "visits": 1,
+      "last_visit": "22-Jun-2026 09:00:40",
+      "x": 52.84,
+      "y": 18.804,
       "size": 8.6
     },
     {
@@ -1158,7 +1178,7 @@
       "lng": -104.9878,
       "label": "United States, Colorado, Englewood",
       "visits": 1,
-      "last_visit": "15-Jun-2026 04:27:02",
+      "last_visit": "22-Jun-2026 09:21:22",
       "x": 20.837,
       "y": 27.973,
       "size": 8.6
@@ -1531,16 +1551,6 @@
       "last_visit": "19-Jun-2026 05:40:34",
       "x": 23.129,
       "y": 31.714,
-      "size": 8.6
-    },
-    {
-      "lat": 29.6997,
-      "lng": -95.5858,
-      "label": "United States, Texas, Houston",
-      "visits": 1,
-      "last_visit": "22-May-2026 23:54:39",
-      "x": 23.448,
-      "y": 33.5,
       "size": 8.6
     },
     {
