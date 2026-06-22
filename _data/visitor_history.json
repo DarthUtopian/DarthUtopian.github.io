@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-06-22T02:24:06+00:00",
-  "total_visits": 401,
-  "location_count": 164,
+  "updated_at": "2026-06-22T08:23:41+00:00",
+  "total_visits": 404,
+  "location_count": 166,
   "locations": [
     {
       "lat": 37.7749,
@@ -17,11 +17,11 @@
       "lat": 37.3394,
       "lng": -121.895,
       "label": "United States, California, San Jose",
-      "visits": 21,
-      "last_visit": "22-Jun-2026 00:19:35",
+      "visits": 22,
+      "last_visit": "22-Jun-2026 03:44:22",
       "x": 16.14,
       "y": 29.256,
-      "size": 14.33
+      "size": 14.5
     },
     {
       "lat": 38.0,
@@ -238,7 +238,7 @@
       "lng": -122.371,
       "label": "United States, California, Burlingame",
       "visits": 2,
-      "last_visit": "15-Jun-2026 18:12:45",
+      "last_visit": "22-Jun-2026 07:56:57",
       "x": 16.008,
       "y": 29.129,
       "size": 9.26
@@ -784,6 +784,16 @@
       "size": 8.6
     },
     {
+      "lat": 37.4536,
+      "lng": 126.7317,
+      "label": "Korea, Republic of, Inch'on-jikhalsi, Incheon",
+      "visits": 1,
+      "last_visit": "22-Jun-2026 07:25:10",
+      "x": 85.203,
+      "y": 29.192,
+      "size": 8.6
+    },
+    {
       "lat": 1.3667,
       "lng": 103.8,
       "label": "Singapore, ,",
@@ -1171,6 +1181,16 @@
       "last_visit": "06-Jun-2026 09:08:04",
       "x": 29.649,
       "y": 27.144,
+      "size": 8.6
+    },
+    {
+      "lat": 39.5645,
+      "lng": -75.597,
+      "label": "United States, Delaware, Wilmington",
+      "visits": 1,
+      "last_visit": "22-Jun-2026 04:39:17",
+      "x": 29.001,
+      "y": 28.02,
       "size": 8.6
     },
     {
