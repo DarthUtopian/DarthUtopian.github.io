@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-06-22T16:40:28+00:00",
-  "total_visits": 416,
-  "location_count": 170,
+  "updated_at": "2026-06-22T18:26:14+00:00",
+  "total_visits": 418,
+  "location_count": 171,
   "locations": [
     {
       "lat": 37.7749,
@@ -441,6 +441,16 @@
       "last_visit": "21-Jun-2026 21:40:09",
       "x": 16.056,
       "y": 23.688,
+      "size": 9.26
+    },
+    {
+      "lat": 47.6062,
+      "lng": -122.3321,
+      "label": "United States, Washington, Seattle",
+      "visits": 2,
+      "last_visit": "22-Jun-2026 16:48:20",
+      "x": 16.019,
+      "y": 23.552,
       "size": 9.26
     },
     {
@@ -1664,13 +1674,13 @@
       "size": 8.6
     },
     {
-      "lat": 47.6062,
-      "lng": -122.3321,
-      "label": "United States, Washington, Seattle",
+      "lat": 47.6801,
+      "lng": -122.1206,
+      "label": "United States, Washington, Redmond",
       "visits": 1,
-      "last_visit": "18-Jun-2026 04:12:02",
-      "x": 16.019,
-      "y": 23.552,
+      "last_visit": "22-Jun-2026 17:42:23",
+      "x": 16.078,
+      "y": 23.511,
       "size": 8.6
     },
     {
