@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-06-22T14:58:29+00:00",
-  "total_visits": 415,
-  "location_count": 169,
+  "updated_at": "2026-06-22T16:40:28+00:00",
+  "total_visits": 416,
+  "location_count": 170,
   "locations": [
     {
       "lat": 37.7749,
@@ -721,6 +721,16 @@
       "last_visit": "10-Jun-2026 22:49:09",
       "x": 52.944,
       "y": 22.454,
+      "size": 8.6
+    },
+    {
+      "lat": 52.3667,
+      "lng": 9.7167,
+      "label": "Germany, Niedersachsen, Hanover",
+      "visits": 1,
+      "last_visit": "22-Jun-2026 15:54:59",
+      "x": 52.699,
+      "y": 20.907,
       "size": 8.6
     },
     {
