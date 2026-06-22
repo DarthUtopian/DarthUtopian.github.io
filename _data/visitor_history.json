@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22T22:14:27+00:00",
+  "updated_at": "2026-06-22T23:02:46+00:00",
   "total_visits": 424,
   "location_count": 172,
   "locations": [
@@ -46,9 +46,9 @@
     {
       "lat": 33.7866,
       "lng": -118.2987,
-      "label": "United States, California, Burbank",
+      "label": "United States, California, Los Angeles",
       "visits": 9,
-      "last_visit": "21-Jun-2026 06:33:51",
+      "last_visit": "22-Jun-2026 22:54:14",
       "x": 17.139,
       "y": 31.23,
       "size": 11.8
