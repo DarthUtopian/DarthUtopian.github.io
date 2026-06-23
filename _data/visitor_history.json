@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-06-23T01:05:01+00:00",
-  "total_visits": 424,
-  "location_count": 172,
+  "updated_at": "2026-06-23T03:48:03+00:00",
+  "total_visits": 426,
+  "location_count": 173,
   "locations": [
     {
       "lat": 37.7749,
@@ -28,7 +28,7 @@
       "lng": -97.0,
       "label": "United States, ,",
       "visits": 16,
-      "last_visit": "20-Jun-2026 10:29:20",
+      "last_visit": "23-Jun-2026 02:58:21",
       "x": 23.056,
       "y": 28.889,
       "size": 13.4
@@ -151,6 +151,16 @@
       "last_visit": "15-Jun-2026 23:04:36",
       "x": 26.534,
       "y": 28.895,
+      "size": 9.77
+    },
+    {
+      "lat": 40.7209,
+      "lng": -74.0468,
+      "label": "United States, New Jersey, Jersey City",
+      "visits": 3,
+      "last_visit": "23-Jun-2026 03:21:54",
+      "x": 29.431,
+      "y": 27.377,
       "size": 9.77
     },
     {
@@ -371,16 +381,6 @@
       "last_visit": "15-Jun-2026 19:21:33",
       "x": 23.676,
       "y": 24.538,
-      "size": 9.26
-    },
-    {
-      "lat": 40.7209,
-      "lng": -74.0468,
-      "label": "United States, New Jersey, Jersey City",
-      "visits": 2,
-      "last_visit": "21-Jun-2026 22:18:05",
-      "x": 29.431,
-      "y": 27.377,
       "size": 9.26
     },
     {
@@ -641,6 +641,16 @@
       "last_visit": "19-May-2026 23:52:24",
       "x": 82.499,
       "y": 29.629,
+      "size": 8.6
+    },
+    {
+      "lat": 39.1422,
+      "lng": 117.1767,
+      "label": "China, Tianjin, Tianjin",
+      "visits": 1,
+      "last_visit": "23-Jun-2026 02:41:42",
+      "x": 82.549,
+      "y": 28.254,
       "size": 8.6
     },
     {
