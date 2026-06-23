@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22T23:02:46+00:00",
+  "updated_at": "2026-06-23T01:05:01+00:00",
   "total_visits": 424,
   "location_count": 172,
   "locations": [
@@ -588,7 +588,7 @@
       "lng": 105.0,
       "label": "China, ,",
       "visits": 1,
-      "last_visit": "22-Jun-2026 11:24:31",
+      "last_visit": "23-Jun-2026 00:53:46",
       "x": 79.167,
       "y": 30.556,
       "size": 8.6
@@ -1378,7 +1378,7 @@
       "lng": -86.9162,
       "label": "United States, Indiana, West Lafayette",
       "visits": 1,
-      "last_visit": "11-Jun-2026 15:18:21",
+      "last_visit": "22-Jun-2026 23:56:26",
       "x": 25.857,
       "y": 27.542,
       "size": 8.6
