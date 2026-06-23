@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-06-23T03:48:03+00:00",
-  "total_visits": 426,
-  "location_count": 173,
+  "updated_at": "2026-06-23T05:28:28+00:00",
+  "total_visits": 427,
+  "location_count": 174,
   "locations": [
     {
       "lat": 37.7749,
@@ -808,7 +808,7 @@
       "lng": 77.0333,
       "label": "India, Haryana, Gurgaon",
       "visits": 1,
-      "last_visit": "17-Jun-2026 01:21:39",
+      "last_visit": "23-Jun-2026 04:58:50",
       "x": 71.398,
       "y": 34.185,
       "size": 8.6
@@ -881,6 +881,16 @@
       "last_visit": "22-Jun-2026 07:25:10",
       "x": 85.203,
       "y": 29.192,
+      "size": 8.6
+    },
+    {
+      "lat": 27.7167,
+      "lng": 85.3167,
+      "label": "Nepal, , Kathmandu",
+      "visits": 1,
+      "last_visit": "23-Jun-2026 04:26:26",
+      "x": 73.699,
+      "y": 34.602,
       "size": 8.6
     },
     {
