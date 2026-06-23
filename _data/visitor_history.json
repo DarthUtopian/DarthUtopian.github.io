@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-06-23T05:28:28+00:00",
-  "total_visits": 427,
-  "location_count": 174,
+  "updated_at": "2026-06-23T06:53:09+00:00",
+  "total_visits": 431,
+  "location_count": 177,
   "locations": [
     {
       "lat": 37.7749,
@@ -264,6 +264,16 @@
       "size": 9.26
     },
     {
+      "lat": 37.8668,
+      "lng": -122.2536,
+      "label": "United States, California, Berkeley",
+      "visits": 2,
+      "last_visit": "23-Jun-2026 06:25:09",
+      "x": 16.041,
+      "y": 28.963,
+      "size": 9.26
+    },
+    {
       "lat": 37.5671,
       "lng": -122.371,
       "label": "United States, California, Burlingame",
@@ -504,6 +514,16 @@
       "size": 8.6
     },
     {
+      "lat": 60.0,
+      "lng": -95.0,
+      "label": "Canada, ,",
+      "visits": 1,
+      "last_visit": "23-Jun-2026 06:03:23",
+      "x": 23.611,
+      "y": 16.667,
+      "size": 8.6
+    },
+    {
       "lat": 51.0833,
       "lng": -114.0833,
       "label": "Canada, Alberta, Calgary",
@@ -711,6 +731,16 @@
       "last_visit": "22-Jun-2026 09:00:40",
       "x": 52.84,
       "y": 18.804,
+      "size": 8.6
+    },
+    {
+      "lat": -0.2167,
+      "lng": -78.5,
+      "label": "Ecuador, Pichincha, Quito",
+      "visits": 1,
+      "last_visit": "23-Jun-2026 05:30:24",
+      "x": 28.194,
+      "y": 50.12,
       "size": 8.6
     },
     {
@@ -1014,6 +1044,16 @@
       "size": 8.6
     },
     {
+      "lat": 33.2852,
+      "lng": -112.0376,
+      "label": "United States, Arizona, Phoenix",
+      "visits": 1,
+      "last_visit": "23-Jun-2026 06:00:43",
+      "x": 18.878,
+      "y": 31.508,
+      "size": 8.6
+    },
+    {
       "lat": 33.8161,
       "lng": -117.9794,
       "label": "United States, California, Anaheim",
@@ -1031,16 +1071,6 @@
       "last_visit": "17-Jun-2026 06:49:52",
       "x": 16.176,
       "y": 28.907,
-      "size": 8.6
-    },
-    {
-      "lat": 37.8668,
-      "lng": -122.2536,
-      "label": "United States, California, Berkeley",
-      "visits": 1,
-      "last_visit": "17-Jun-2026 06:00:05",
-      "x": 16.041,
-      "y": 28.963,
       "size": 8.6
     },
     {
