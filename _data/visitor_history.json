@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-06-23T08:16:10+00:00",
-  "total_visits": 432,
-  "location_count": 178,
+  "updated_at": "2026-06-23T09:48:18+00:00",
+  "total_visits": 433,
+  "location_count": 179,
   "locations": [
     {
       "lat": 37.7749,
@@ -931,6 +931,16 @@
       "last_visit": "23-Jun-2026 04:26:26",
       "x": 73.699,
       "y": 34.602,
+      "size": 8.6
+    },
+    {
+      "lat": 14.5667,
+      "lng": 121.0333,
+      "label": "Philippines, Manila, Makati",
+      "visits": 1,
+      "last_visit": "23-Jun-2026 09:45:57",
+      "x": 83.62,
+      "y": 41.907,
       "size": 8.6
     },
     {
