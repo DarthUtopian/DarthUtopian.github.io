@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-06-23T11:09:03+00:00",
-  "total_visits": 433,
-  "location_count": 179,
+  "updated_at": "2026-06-23T13:28:55+00:00",
+  "total_visits": 435,
+  "location_count": 181,
   "locations": [
     {
       "lat": 37.7749,
@@ -484,6 +484,16 @@
       "size": 9.26
     },
     {
+      "lat": -30.9546,
+      "lng": -58.7833,
+      "label": "Argentina, Entre Rios, Federal",
+      "visits": 1,
+      "last_visit": "23-Jun-2026 12:58:14",
+      "x": 33.671,
+      "y": 67.197,
+      "size": 8.6
+    },
+    {
       "lat": -27.0,
       "lng": 133.0,
       "label": "Australia, ,",
@@ -898,7 +908,7 @@
       "lng": 36.0,
       "label": "Jordan, ,",
       "visits": 1,
-      "last_visit": "17-Jun-2026 16:40:22",
+      "last_visit": "23-Jun-2026 12:26:07",
       "x": 60.0,
       "y": 32.778,
       "size": 8.6
@@ -931,6 +941,16 @@
       "last_visit": "23-Jun-2026 04:26:26",
       "x": 73.699,
       "y": 34.602,
+      "size": 8.6
+    },
+    {
+      "lat": 10.3111,
+      "lng": 123.8917,
+      "label": "Philippines, Cebu City, Cebu City",
+      "visits": 1,
+      "last_visit": "23-Jun-2026 11:54:04",
+      "x": 84.414,
+      "y": 44.272,
       "size": 8.6
     },
     {
