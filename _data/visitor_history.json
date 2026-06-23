@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-06-23T06:53:09+00:00",
-  "total_visits": 431,
-  "location_count": 177,
+  "updated_at": "2026-06-23T08:16:10+00:00",
+  "total_visits": 432,
+  "location_count": 178,
   "locations": [
     {
       "lat": 37.7749,
@@ -871,6 +871,16 @@
       "last_visit": "17-Jun-2026 14:08:41",
       "x": 74.315,
       "y": 36.713,
+      "size": 8.6
+    },
+    {
+      "lat": 33.0,
+      "lng": 44.0,
+      "label": "Iraq, ,",
+      "visits": 1,
+      "last_visit": "23-Jun-2026 07:38:18",
+      "x": 62.222,
+      "y": 31.667,
       "size": 8.6
     },
     {
