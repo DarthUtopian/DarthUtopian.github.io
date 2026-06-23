@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-23T18:51:20+00:00",
+  "updated_at": "2026-06-23T21:38:34+00:00",
   "total_visits": 439,
   "location_count": 184,
   "locations": [
@@ -8,7 +8,7 @@
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
       "visits": 131,
-      "last_visit": "23-Jun-2026 14:34:02",
+      "last_visit": "23-Jun-2026 21:10:47",
       "x": 15.995,
       "y": 29.014,
       "size": 18.0
@@ -1568,7 +1568,7 @@
       "lng": -85.6908,
       "label": "United States, Michigan, Kalamazoo",
       "visits": 1,
-      "last_visit": "12-Jun-2026 11:43:39",
+      "last_visit": "23-Jun-2026 21:15:35",
       "x": 26.197,
       "y": 26.504,
       "size": 8.6
