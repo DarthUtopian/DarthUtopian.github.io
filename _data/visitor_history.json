@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-06-24T04:54:30+00:00",
-  "total_visits": 442,
-  "location_count": 186,
+  "updated_at": "2026-06-24T07:47:50+00:00",
+  "total_visits": 446,
+  "location_count": 187,
   "locations": [
     {
       "lat": 37.7749,
@@ -101,6 +101,16 @@
       "last_visit": "09-Jun-2026 09:26:18",
       "x": 51.972,
       "y": 21.815,
+      "size": 10.2
+    },
+    {
+      "lat": 37.3541,
+      "lng": -121.9552,
+      "label": "United States, California, Santa Clara",
+      "visits": 4,
+      "last_visit": "24-Jun-2026 07:03:14",
+      "x": 16.124,
+      "y": 29.248,
       "size": 10.2
     },
     {
@@ -1104,6 +1114,16 @@
       "size": 8.6
     },
     {
+      "lat": 34.7706,
+      "lng": -112.4564,
+      "label": "United States, Arizona, Chino Valley",
+      "visits": 1,
+      "last_visit": "24-Jun-2026 06:25:19",
+      "x": 18.762,
+      "y": 30.683,
+      "size": 8.6
+    },
+    {
       "lat": 33.2852,
       "lng": -112.0376,
       "label": "United States, Arizona, Phoenix",
@@ -1321,16 +1341,6 @@
       "last_visit": "16-Jun-2026 16:41:24",
       "x": 16.125,
       "y": 29.251,
-      "size": 8.6
-    },
-    {
-      "lat": 37.3541,
-      "lng": -121.9552,
-      "label": "United States, California, Santa Clara",
-      "visits": 1,
-      "last_visit": "23-Jun-2026 22:10:20",
-      "x": 16.124,
-      "y": 29.248,
       "size": 8.6
     },
     {
