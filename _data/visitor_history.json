@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T09:16:25+00:00",
+  "updated_at": "2026-06-24T14:19:41+00:00",
   "total_visits": 447,
   "location_count": 188,
   "locations": [
@@ -188,7 +188,7 @@
       "lng": -80.0525,
       "label": "United States, Pennsylvania, Pittsburgh",
       "visits": 3,
-      "last_visit": "22-Jun-2026 19:26:46",
+      "last_visit": "24-Jun-2026 13:55:12",
       "x": 27.763,
       "y": 27.474,
       "size": 9.77
@@ -788,7 +788,7 @@
       "lng": 2.0,
       "label": "France, ,",
       "visits": 1,
-      "last_visit": "18-Jun-2026 20:12:33",
+      "last_visit": "24-Jun-2026 12:28:27",
       "x": 50.556,
       "y": 24.444,
       "size": 8.6
