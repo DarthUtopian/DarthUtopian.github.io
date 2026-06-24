@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-24T17:15:15+00:00",
-  "total_visits": 448,
+  "updated_at": "2026-06-24T20:10:39+00:00",
+  "total_visits": 449,
   "location_count": 189,
   "locations": [
     {
@@ -8,7 +8,7 @@
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
       "visits": 131,
-      "last_visit": "24-Jun-2026 09:15:56",
+      "last_visit": "24-Jun-2026 19:27:56",
       "x": 15.995,
       "y": 29.014,
       "size": 18.0
@@ -84,6 +84,16 @@
       "size": 10.92
     },
     {
+      "lat": 37.3541,
+      "lng": -121.9552,
+      "label": "United States, California, Santa Clara",
+      "visits": 5,
+      "last_visit": "24-Jun-2026 19:20:41",
+      "x": 16.124,
+      "y": 29.248,
+      "size": 10.58
+    },
+    {
       "lat": 40.4439,
       "lng": -79.9561,
       "label": "United States, Pennsylvania, Pittsburgh",
@@ -101,16 +111,6 @@
       "last_visit": "09-Jun-2026 09:26:18",
       "x": 51.972,
       "y": 21.815,
-      "size": 10.2
-    },
-    {
-      "lat": 37.3541,
-      "lng": -121.9552,
-      "label": "United States, California, Santa Clara",
-      "visits": 4,
-      "last_visit": "24-Jun-2026 07:03:14",
-      "x": 16.124,
-      "y": 29.248,
       "size": 10.2
     },
     {
@@ -138,7 +138,7 @@
       "lng": 126.9783,
       "label": "Korea, Republic of, Seoul-t'ukpyolsi, Seoul",
       "visits": 3,
-      "last_visit": "23-Jun-2026 10:35:45",
+      "last_visit": "24-Jun-2026 19:05:46",
       "x": 85.272,
       "y": 29.112,
       "size": 9.77
