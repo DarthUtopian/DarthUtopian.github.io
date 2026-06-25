@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-25T01:04:17+00:00",
-  "total_visits": 449,
+  "updated_at": "2026-06-25T03:48:02+00:00",
+  "total_visits": 450,
   "location_count": 189,
   "locations": [
     {
@@ -74,6 +74,16 @@
       "size": 10.92
     },
     {
+      "lat": 37.3541,
+      "lng": -121.9552,
+      "label": "United States, California, Santa Clara",
+      "visits": 6,
+      "last_visit": "25-Jun-2026 03:32:14",
+      "x": 16.124,
+      "y": 29.248,
+      "size": 10.92
+    },
+    {
       "lat": 47.0379,
       "lng": -122.9007,
       "label": "United States, Washington, Olympia",
@@ -82,16 +92,6 @@
       "x": 15.861,
       "y": 23.868,
       "size": 10.92
-    },
-    {
-      "lat": 37.3541,
-      "lng": -121.9552,
-      "label": "United States, California, Santa Clara",
-      "visits": 5,
-      "last_visit": "24-Jun-2026 19:20:41",
-      "x": 16.124,
-      "y": 29.248,
-      "size": 10.58
     },
     {
       "lat": 40.4439,
@@ -1628,7 +1628,7 @@
       "lng": -75.0307,
       "label": "United States, New Jersey, Cherry Hill",
       "visits": 1,
-      "last_visit": "16-Jun-2026 16:24:09",
+      "last_visit": "25-Jun-2026 02:44:39",
       "x": 29.158,
       "y": 27.814,
       "size": 8.6
