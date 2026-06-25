@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-25T15:30:26+00:00",
-  "total_visits": 452,
-  "location_count": 190,
+  "updated_at": "2026-06-25T17:50:44+00:00",
+  "total_visits": 457,
+  "location_count": 193,
   "locations": [
     {
       "lat": 37.7749,
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
       "visits": 131,
-      "last_visit": "24-Jun-2026 19:27:56",
+      "last_visit": "25-Jun-2026 16:46:27",
       "x": 15.995,
       "y": 29.014,
       "size": 18.0
@@ -324,6 +324,16 @@
       "size": 9.26
     },
     {
+      "lat": 36.9358,
+      "lng": -119.5634,
+      "label": "United States, California, Clovis",
+      "visits": 2,
+      "last_visit": "25-Jun-2026 16:38:00",
+      "x": 16.788,
+      "y": 29.48,
+      "size": 9.26
+    },
+    {
       "lat": 33.1192,
       "lng": -117.0864,
       "label": "United States, California, Escondido",
@@ -371,6 +381,16 @@
       "last_visit": "17-Jun-2026 16:16:16",
       "x": 16.063,
       "y": 29.212,
+      "size": 9.26
+    },
+    {
+      "lat": 37.3688,
+      "lng": -122.0363,
+      "label": "United States, California, Sunnyvale",
+      "visits": 2,
+      "last_visit": "25-Jun-2026 17:45:02",
+      "x": 16.101,
+      "y": 29.24,
       "size": 9.26
     },
     {
@@ -1751,6 +1771,16 @@
       "last_visit": "21-Jun-2026 18:47:02",
       "x": 27.771,
       "y": 27.536,
+      "size": 8.6
+    },
+    {
+      "lat": 34.7624,
+      "lng": -82.6868,
+      "label": "United States, South Carolina, Liberty",
+      "visits": 1,
+      "last_visit": "25-Jun-2026 16:42:40",
+      "x": 27.031,
+      "y": 30.688,
       "size": 8.6
     },
     {
