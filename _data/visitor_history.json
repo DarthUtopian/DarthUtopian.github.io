@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-06-25T03:48:02+00:00",
-  "total_visits": 450,
-  "location_count": 189,
+  "updated_at": "2026-06-25T05:28:50+00:00",
+  "total_visits": 451,
+  "location_count": 190,
   "locations": [
     {
       "lat": 37.7749,
@@ -18,7 +18,7 @@
       "lng": -121.895,
       "label": "United States, California, San Jose",
       "visits": 24,
-      "last_visit": "25-Jun-2026 00:05:18",
+      "last_visit": "25-Jun-2026 05:17:14",
       "x": 16.14,
       "y": 29.256,
       "size": 14.84
@@ -938,7 +938,7 @@
       "lng": 127.5,
       "label": "Korea, Republic of, ,",
       "visits": 1,
-      "last_visit": "21-Jun-2026 05:46:53",
+      "last_visit": "25-Jun-2026 05:08:41",
       "x": 85.417,
       "y": 29.444,
       "size": 8.6
@@ -1881,6 +1881,16 @@
       "last_visit": "23-Jun-2026 13:30:39",
       "x": 34.397,
       "y": 69.366,
+      "size": 8.6
+    },
+    {
+      "lat": 18.1,
+      "lng": 106.3333,
+      "label": "Vietnam, Ho Chi Minh, Dong Nai",
+      "visits": 1,
+      "last_visit": "25-Jun-2026 04:26:06",
+      "x": 79.537,
+      "y": 39.944,
       "size": 8.6
     },
     {
