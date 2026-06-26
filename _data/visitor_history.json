@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-26T08:38:47+00:00",
-  "total_visits": 462,
+  "updated_at": "2026-06-26T10:09:17+00:00",
+  "total_visits": 464,
   "location_count": 197,
   "locations": [
     {
@@ -54,6 +54,16 @@
       "size": 11.8
     },
     {
+      "lat": 37.3541,
+      "lng": -121.9552,
+      "label": "United States, California, Santa Clara",
+      "visits": 8,
+      "last_visit": "26-Jun-2026 09:45:52",
+      "x": 16.124,
+      "y": 29.248,
+      "size": 11.53
+    },
+    {
       "lat": 40.0,
       "lng": -4.0,
       "label": "Spain, ,",
@@ -71,16 +81,6 @@
       "last_visit": "17-Jun-2026 21:24:14",
       "x": 16.147,
       "y": 29.2,
-      "size": 10.92
-    },
-    {
-      "lat": 37.3541,
-      "lng": -121.9552,
-      "label": "United States, California, Santa Clara",
-      "visits": 6,
-      "last_visit": "25-Jun-2026 03:32:14",
-      "x": 16.124,
-      "y": 29.248,
       "size": 10.92
     },
     {
@@ -308,7 +308,7 @@
       "lng": -122.371,
       "label": "United States, California, Burlingame",
       "visits": 2,
-      "last_visit": "24-Jun-2026 08:49:24",
+      "last_visit": "26-Jun-2026 09:49:38",
       "x": 16.008,
       "y": 29.129,
       "size": 9.26
@@ -1458,7 +1458,7 @@
       "lng": -84.4635,
       "label": "United States, Georgia, Atlanta",
       "visits": 1,
-      "last_visit": "20-Jun-2026 06:39:43",
+      "last_visit": "26-Jun-2026 08:52:20",
       "x": 26.538,
       "y": 31.183,
       "size": 8.6
