@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-06-26T14:19:09+00:00",
-  "total_visits": 464,
-  "location_count": 197,
+  "updated_at": "2026-06-26T15:20:15+00:00",
+  "total_visits": 465,
+  "location_count": 198,
   "locations": [
     {
       "lat": 37.7749,
@@ -701,6 +701,16 @@
       "last_visit": "19-May-2026 09:41:51",
       "x": 81.42,
       "y": 34.345,
+      "size": 8.6
+    },
+    {
+      "lat": 32.0617,
+      "lng": 118.7778,
+      "label": "China, Jiangsu, Nanjing",
+      "visits": 1,
+      "last_visit": "26-Jun-2026 14:53:52",
+      "x": 82.994,
+      "y": 32.188,
       "size": 8.6
     },
     {
