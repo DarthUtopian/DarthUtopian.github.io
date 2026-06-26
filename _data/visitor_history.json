@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-25T20:45:59+00:00",
-  "total_visits": 460,
-  "location_count": 196,
+  "updated_at": "2026-06-26T01:07:06+00:00",
+  "total_visits": 461,
+  "location_count": 197,
   "locations": [
     {
       "lat": 37.7749,
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
       "visits": 131,
-      "last_visit": "25-Jun-2026 19:28:57",
+      "last_visit": "26-Jun-2026 00:47:38",
       "x": 15.995,
       "y": 29.014,
       "size": 18.0
@@ -288,7 +288,7 @@
       "lng": -1.25,
       "label": "United Kingdom, Oxfordshire, Oxford",
       "visits": 2,
-      "last_visit": "16-Jun-2026 19:09:24",
+      "last_visit": "26-Jun-2026 01:03:19",
       "x": 49.653,
       "y": 21.25,
       "size": 9.26
@@ -1388,7 +1388,7 @@
       "lng": -104.9878,
       "label": "United States, Colorado, Englewood",
       "visits": 1,
-      "last_visit": "22-Jun-2026 09:21:22",
+      "last_visit": "26-Jun-2026 00:04:06",
       "x": 20.837,
       "y": 27.973,
       "size": 8.6
@@ -1871,6 +1871,16 @@
       "last_visit": "17-Jun-2026 04:13:58",
       "x": 28.479,
       "y": 28.472,
+      "size": 8.6
+    },
+    {
+      "lat": 38.9499,
+      "lng": -77.2223,
+      "label": "United States, Virginia, Mclean",
+      "visits": 1,
+      "last_visit": "26-Jun-2026 01:02:55",
+      "x": 28.549,
+      "y": 28.361,
       "size": 8.6
     },
     {
