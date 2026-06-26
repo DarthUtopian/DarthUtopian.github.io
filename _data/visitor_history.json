@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-26T03:48:26+00:00",
-  "total_visits": 461,
+  "updated_at": "2026-06-26T05:33:37+00:00",
+  "total_visits": 462,
   "location_count": 197,
   "locations": [
     {
@@ -401,6 +401,16 @@
       "last_visit": "14-Jun-2026 07:42:35",
       "x": 15.885,
       "y": 28.591,
+      "size": 9.26
+    },
+    {
+      "lat": 39.5645,
+      "lng": -75.597,
+      "label": "United States, Delaware, Wilmington",
+      "visits": 2,
+      "last_visit": "26-Jun-2026 04:20:29",
+      "x": 29.001,
+      "y": 28.02,
       "size": 9.26
     },
     {
@@ -1421,16 +1431,6 @@
       "last_visit": "25-Jun-2026 18:31:09",
       "x": 29.573,
       "y": 27.193,
-      "size": 8.6
-    },
-    {
-      "lat": 39.5645,
-      "lng": -75.597,
-      "label": "United States, Delaware, Wilmington",
-      "visits": 1,
-      "last_visit": "22-Jun-2026 04:39:17",
-      "x": 29.001,
-      "y": 28.02,
       "size": 8.6
     },
     {
