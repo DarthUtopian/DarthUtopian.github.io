@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-06-27T01:03:05+00:00",
-  "total_visits": 466,
-  "location_count": 199,
+  "updated_at": "2026-06-27T02:23:18+00:00",
+  "total_visits": 467,
+  "location_count": 200,
   "locations": [
     {
       "lat": 37.7749,
@@ -508,7 +508,7 @@
       "lng": -95.5858,
       "label": "United States, Texas, Houston",
       "visits": 2,
-      "last_visit": "22-Jun-2026 08:43:52",
+      "last_visit": "27-Jun-2026 02:18:51",
       "x": 23.448,
       "y": 33.5,
       "size": 9.26
@@ -1191,6 +1191,16 @@
       "last_visit": "17-Jun-2026 06:49:52",
       "x": 16.176,
       "y": 28.907,
+      "size": 8.6
+    },
+    {
+      "lat": 37.3477,
+      "lng": -120.6091,
+      "label": "United States, California, Atwater",
+      "visits": 1,
+      "last_visit": "27-Jun-2026 02:16:11",
+      "x": 16.497,
+      "y": 29.251,
       "size": 8.6
     },
     {
