@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-27T05:24:17+00:00",
-  "total_visits": 469,
+  "updated_at": "2026-06-27T06:38:58+00:00",
+  "total_visits": 471,
   "location_count": 202,
   "locations": [
     {
@@ -28,7 +28,7 @@
       "lng": -97.0,
       "label": "United States, ,",
       "visits": 16,
-      "last_visit": "25-Jun-2026 08:07:10",
+      "last_visit": "27-Jun-2026 05:34:42",
       "x": 23.056,
       "y": 28.889,
       "size": 13.4
@@ -151,6 +151,16 @@
       "last_visit": "24-Jun-2026 01:12:30",
       "x": 22.462,
       "y": 39.203,
+      "size": 9.77
+    },
+    {
+      "lat": 37.3477,
+      "lng": -120.6091,
+      "label": "United States, California, Atwater",
+      "visits": 3,
+      "last_visit": "27-Jun-2026 05:57:27",
+      "x": 16.497,
+      "y": 29.251,
       "size": 9.77
     },
     {
@@ -1201,16 +1211,6 @@
       "last_visit": "17-Jun-2026 06:49:52",
       "x": 16.176,
       "y": 28.907,
-      "size": 8.6
-    },
-    {
-      "lat": 37.3477,
-      "lng": -120.6091,
-      "label": "United States, California, Atwater",
-      "visits": 1,
-      "last_visit": "27-Jun-2026 02:16:11",
-      "x": 16.497,
-      "y": 29.251,
       "size": 8.6
     },
     {
