@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-06-27T16:30:03+00:00",
-  "total_visits": 471,
-  "location_count": 202,
+  "updated_at": "2026-06-27T18:32:42+00:00",
+  "total_visits": 472,
+  "location_count": 203,
   "locations": [
     {
       "lat": 37.7749,
@@ -1251,6 +1251,16 @@
       "last_visit": "16-Jun-2026 18:39:31",
       "x": 16.114,
       "y": 29.14,
+      "size": 8.6
+    },
+    {
+      "lat": 37.5155,
+      "lng": -121.8962,
+      "label": "United States, California, Fremont",
+      "visits": 1,
+      "last_visit": "27-Jun-2026 18:12:10",
+      "x": 16.14,
+      "y": 29.158,
       "size": 8.6
     },
     {
