@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-06-27T03:47:48+00:00",
-  "total_visits": 467,
-  "location_count": 200,
+  "updated_at": "2026-06-27T05:24:17+00:00",
+  "total_visits": 469,
+  "location_count": 202,
   "locations": [
     {
       "lat": 37.7749,
@@ -681,6 +681,16 @@
       "last_visit": "20-Jun-2026 00:53:27",
       "x": 78.831,
       "y": 29.969,
+      "size": 8.6
+    },
+    {
+      "lat": 23.4833,
+      "lng": 111.3167,
+      "label": "China, Guangxi, Wuzhou",
+      "visits": 1,
+      "last_visit": "27-Jun-2026 04:49:58",
+      "x": 80.921,
+      "y": 36.954,
       "size": 8.6
     },
     {
@@ -1571,6 +1581,16 @@
       "last_visit": "22-Jun-2026 23:56:26",
       "x": 25.857,
       "y": 27.542,
+      "size": 8.6
+    },
+    {
+      "lat": 37.129,
+      "lng": -84.0833,
+      "label": "United States, Kentucky, London",
+      "visits": 1,
+      "last_visit": "27-Jun-2026 04:28:28",
+      "x": 26.644,
+      "y": 29.373,
       "size": 8.6
     },
     {
