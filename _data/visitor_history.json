@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-28T16:34:46+00:00",
-  "total_visits": 479,
+  "updated_at": "2026-06-28T19:34:57+00:00",
+  "total_visits": 481,
   "location_count": 205,
   "locations": [
     {
@@ -8,7 +8,7 @@
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
       "visits": 131,
-      "last_visit": "28-Jun-2026 01:38:47",
+      "last_visit": "28-Jun-2026 19:14:07",
       "x": 15.995,
       "y": 29.014,
       "size": 18.0
@@ -122,6 +122,16 @@
       "x": 27.779,
       "y": 27.533,
       "size": 10.2
+    },
+    {
+      "lat": 45.4167,
+      "lng": -75.7,
+      "label": "Canada, Ontario, Ottawa",
+      "visits": 3,
+      "last_visit": "28-Jun-2026 19:21:34",
+      "x": 28.972,
+      "y": 24.769,
+      "size": 9.77
     },
     {
       "lat": 55.3935,
@@ -684,16 +694,6 @@
       "size": 8.6
     },
     {
-      "lat": 45.4167,
-      "lng": -75.7,
-      "label": "Canada, Ontario, Ottawa",
-      "visits": 1,
-      "last_visit": "16-Jun-2026 20:31:51",
-      "x": 28.972,
-      "y": 24.769,
-      "size": 8.6
-    },
-    {
       "lat": 43.6667,
       "lng": -79.4167,
       "label": "Canada, Ontario, Toronto",
@@ -1168,7 +1168,7 @@
       "lng": -1.45,
       "label": "United Kingdom, Leeds, Seacroft",
       "visits": 1,
-      "last_visit": "17-Jun-2026 16:53:40",
+      "last_visit": "28-Jun-2026 19:28:14",
       "x": 49.597,
       "y": 20.102,
       "size": 8.6
