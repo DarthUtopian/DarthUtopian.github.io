@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-06-28T15:03:33+00:00",
-  "total_visits": 477,
-  "location_count": 204,
+  "updated_at": "2026-06-28T16:34:46+00:00",
+  "total_visits": 479,
+  "location_count": 205,
   "locations": [
     {
       "lat": 37.7749,
@@ -351,6 +351,16 @@
       "last_visit": "25-Jun-2026 16:38:00",
       "x": 16.788,
       "y": 29.48,
+      "size": 9.26
+    },
+    {
+      "lat": 32.9672,
+      "lng": -117.2586,
+      "label": "United States, California, Del Mar",
+      "visits": 2,
+      "last_visit": "28-Jun-2026 16:01:16",
+      "x": 17.428,
+      "y": 31.685,
       "size": 9.26
     },
     {
