@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-06-29T16:41:53+00:00",
-  "total_visits": 485,
-  "location_count": 207,
+  "updated_at": "2026-06-29T17:53:28+00:00",
+  "total_visits": 486,
+  "location_count": 208,
   "locations": [
     {
       "lat": 37.7749,
@@ -1861,6 +1861,16 @@
       "last_visit": "18-Jun-2026 16:27:06",
       "x": 27.768,
       "y": 27.599,
+      "size": 8.6
+    },
+    {
+      "lat": 40.4067,
+      "lng": -80.1108,
+      "label": "United States, Pennsylvania, Carnegie",
+      "visits": 1,
+      "last_visit": "29-Jun-2026 16:49:35",
+      "x": 27.747,
+      "y": 27.552,
       "size": 8.6
     },
     {
