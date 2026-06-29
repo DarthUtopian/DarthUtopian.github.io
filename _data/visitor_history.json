@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-06-28T22:27:45+00:00",
-  "total_visits": 482,
-  "location_count": 205,
+  "updated_at": "2026-06-29T05:43:28+00:00",
+  "total_visits": 483,
+  "location_count": 206,
   "locations": [
     {
       "lat": 37.7749,
@@ -28,7 +28,7 @@
       "lng": -97.0,
       "label": "United States, ,",
       "visits": 16,
-      "last_visit": "27-Jun-2026 05:34:42",
+      "last_visit": "29-Jun-2026 04:27:58",
       "x": 23.056,
       "y": 28.889,
       "size": 13.4
@@ -208,7 +208,7 @@
       "lng": -74.0468,
       "label": "United States, New Jersey, Jersey City",
       "visits": 3,
-      "last_visit": "26-Jun-2026 03:05:42",
+      "last_visit": "29-Jun-2026 03:56:14",
       "x": 29.431,
       "y": 27.377,
       "size": 9.77
@@ -721,6 +721,16 @@
       "last_visit": "20-Jun-2026 00:53:27",
       "x": 78.831,
       "y": 29.969,
+      "size": 8.6
+    },
+    {
+      "lat": 23.0268,
+      "lng": 113.1315,
+      "label": "China, Guangdong, Foshan",
+      "visits": 1,
+      "last_visit": "29-Jun-2026 04:20:10",
+      "x": 81.425,
+      "y": 37.207,
       "size": 8.6
     },
     {
