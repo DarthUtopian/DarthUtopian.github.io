@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-07-01T01:09:02+00:00",
-  "total_visits": 492,
-  "location_count": 209,
+  "updated_at": "2026-07-01T02:24:30+00:00",
+  "total_visits": 493,
+  "location_count": 210,
   "locations": [
     {
       "lat": 37.7749,
@@ -741,6 +741,16 @@
       "last_visit": "29-Jun-2026 04:20:10",
       "x": 81.425,
       "y": 37.207,
+      "size": 8.6
+    },
+    {
+      "lat": 22.5333,
+      "lng": 114.1333,
+      "label": "China, Guangdong, Shenzhen",
+      "visits": 1,
+      "last_visit": "01-Jul-2026 02:12:25",
+      "x": 81.704,
+      "y": 37.482,
       "size": 8.6
     },
     {
