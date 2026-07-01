@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-01T15:27:49+00:00",
-  "total_visits": 496,
+  "updated_at": "2026-07-01T18:13:25+00:00",
+  "total_visits": 498,
   "location_count": 213,
   "locations": [
     {
@@ -101,6 +101,16 @@
       "last_visit": "28-Jun-2026 14:42:50",
       "x": 27.79,
       "y": 27.531,
+      "size": 10.58
+    },
+    {
+      "lat": 21.0333,
+      "lng": 105.85,
+      "label": "Vietnam, Dac Lac, Hanoi",
+      "visits": 5,
+      "last_visit": "01-Jul-2026 17:39:11",
+      "x": 79.403,
+      "y": 38.315,
       "size": 10.58
     },
     {
@@ -231,16 +241,6 @@
       "last_visit": "24-Jun-2026 13:55:12",
       "x": 27.763,
       "y": 27.474,
-      "size": 9.77
-    },
-    {
-      "lat": 21.0333,
-      "lng": 105.85,
-      "label": "Vietnam, Dac Lac, Hanoi",
-      "visits": 3,
-      "last_visit": "12-Jun-2026 02:16:05",
-      "x": 79.403,
-      "y": 38.315,
       "size": 9.77
     },
     {
