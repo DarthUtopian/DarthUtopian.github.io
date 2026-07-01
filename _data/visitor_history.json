@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-07-01T03:48:27+00:00",
-  "total_visits": 493,
-  "location_count": 210,
+  "updated_at": "2026-07-01T07:42:01+00:00",
+  "total_visits": 494,
+  "location_count": 211,
   "locations": [
     {
       "lat": 37.7749,
@@ -1951,6 +1951,16 @@
       "last_visit": "19-Jun-2026 05:40:34",
       "x": 23.129,
       "y": 31.714,
+      "size": 8.6
+    },
+    {
+      "lat": 32.7257,
+      "lng": -97.3214,
+      "label": "United States, Texas, Fort Worth",
+      "visits": 1,
+      "last_visit": "01-Jul-2026 06:13:58",
+      "x": 22.966,
+      "y": 31.819,
       "size": 8.6
     },
     {
