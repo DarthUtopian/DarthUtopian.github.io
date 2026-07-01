@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-07-01T12:04:28+00:00",
-  "total_visits": 495,
-  "location_count": 212,
+  "updated_at": "2026-07-01T15:27:49+00:00",
+  "total_visits": 496,
+  "location_count": 213,
   "locations": [
     {
       "lat": 37.7749,
@@ -1871,6 +1871,16 @@
       "last_visit": "25-Jun-2026 18:06:05",
       "x": 28.068,
       "y": 30.43,
+      "size": 8.6
+    },
+    {
+      "lat": 40.7726,
+      "lng": -83.804,
+      "label": "United States, Ohio, Ada",
+      "visits": 1,
+      "last_visit": "01-Jul-2026 14:26:01",
+      "x": 26.721,
+      "y": 27.349,
       "size": 8.6
     },
     {
