@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-01T20:12:13+00:00",
-  "total_visits": 498,
+  "updated_at": "2026-07-01T22:02:49+00:00",
+  "total_visits": 499,
   "location_count": 213,
   "locations": [
     {
@@ -17,11 +17,11 @@
       "lat": 37.3394,
       "lng": -121.895,
       "label": "United States, California, San Jose",
-      "visits": 28,
-      "last_visit": "01-Jul-2026 00:45:52",
+      "visits": 29,
+      "last_visit": "01-Jul-2026 20:29:30",
       "x": 16.14,
       "y": 29.256,
-      "size": 15.47
+      "size": 15.62
     },
     {
       "lat": 38.0,
@@ -1498,7 +1498,7 @@
       "lng": -104.9878,
       "label": "United States, Colorado, Englewood",
       "visits": 1,
-      "last_visit": "30-Jun-2026 20:03:43",
+      "last_visit": "01-Jul-2026 20:32:49",
       "x": 20.837,
       "y": 27.973,
       "size": 8.6
