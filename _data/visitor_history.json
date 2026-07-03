@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-07-03T05:29:55+00:00",
-  "total_visits": 503,
-  "location_count": 216,
+  "updated_at": "2026-07-03T08:37:29+00:00",
+  "total_visits": 504,
+  "location_count": 217,
   "locations": [
     {
       "lat": 37.7749,
@@ -1728,7 +1728,7 @@
       "lng": -83.7133,
       "label": "United States, Michigan, Ann Arbor",
       "visits": 1,
-      "last_visit": "27-Jun-2026 18:35:06",
+      "last_visit": "03-Jul-2026 07:19:40",
       "x": 26.746,
       "y": 26.515,
       "size": 8.6
@@ -1771,6 +1771,16 @@
       "last_visit": "23-Jun-2026 21:15:35",
       "x": 26.197,
       "y": 26.504,
+      "size": 8.6
+    },
+    {
+      "lat": 42.4753,
+      "lng": -83.2845,
+      "label": "United States, Michigan, Southfield",
+      "visits": 1,
+      "last_visit": "03-Jul-2026 08:14:07",
+      "x": 26.865,
+      "y": 26.403,
       "size": 8.6
     },
     {
