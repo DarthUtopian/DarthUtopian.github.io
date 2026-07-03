@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-07-03T11:36:04+00:00",
-  "total_visits": 504,
-  "location_count": 217,
+  "updated_at": "2026-07-03T14:18:53+00:00",
+  "total_visits": 505,
+  "location_count": 218,
   "locations": [
     {
       "lat": 37.7749,
@@ -811,6 +811,16 @@
       "last_visit": "29-Jun-2026 11:12:22",
       "x": 82.204,
       "y": 34.139,
+      "size": 8.6
+    },
+    {
+      "lat": 38.4681,
+      "lng": 106.2731,
+      "label": "China, Ningxia, Yinchuan",
+      "visits": 1,
+      "last_visit": "03-Jul-2026 13:03:37",
+      "x": 79.52,
+      "y": 28.629,
       "size": 8.6
     },
     {
