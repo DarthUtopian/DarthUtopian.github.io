@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-07-02T14:11:34+00:00",
-  "total_visits": 500,
-  "location_count": 214,
+  "updated_at": "2026-07-03T01:11:04+00:00",
+  "total_visits": 502,
+  "location_count": 215,
   "locations": [
     {
       "lat": 37.7749,
@@ -261,6 +261,16 @@
       "last_visit": "23-Jun-2026 14:30:15",
       "x": 83.722,
       "y": 32.752,
+      "size": 9.26
+    },
+    {
+      "lat": 51.0,
+      "lng": 9.0,
+      "label": "Germany, ,",
+      "visits": 2,
+      "last_visit": "02-Jul-2026 23:23:05",
+      "x": 52.5,
+      "y": 21.667,
       "size": 9.26
     },
     {
@@ -914,16 +924,6 @@
       "size": 8.6
     },
     {
-      "lat": 51.0,
-      "lng": 9.0,
-      "label": "Germany, ,",
-      "visits": 1,
-      "last_visit": "01-Jul-2026 11:00:25",
-      "x": 52.5,
-      "y": 21.667,
-      "size": 8.6
-    },
-    {
       "lat": 48.15,
       "lng": 11.5833,
       "label": "Germany, Bayern, Munich",
@@ -1361,6 +1361,16 @@
       "last_visit": "29-May-2026 16:20:00",
       "x": 17.152,
       "y": 31.087,
+      "size": 8.6
+    },
+    {
+      "lat": 34.0522,
+      "lng": -118.2437,
+      "label": "United States, California, Los Angeles",
+      "visits": 1,
+      "last_visit": "03-Jul-2026 00:27:47",
+      "x": 17.155,
+      "y": 31.082,
       "size": 8.6
     },
     {
