@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-03T17:57:54+00:00",
-  "total_visits": 505,
+  "updated_at": "2026-07-03T22:34:44+00:00",
+  "total_visits": 506,
   "location_count": 218,
   "locations": [
     {
@@ -242,6 +242,16 @@
       "x": 27.763,
       "y": 27.474,
       "size": 9.77
+    },
+    {
+      "lat": 43.6667,
+      "lng": -79.4167,
+      "label": "Canada, Ontario, Toronto",
+      "visits": 2,
+      "last_visit": "03-Jul-2026 21:41:38",
+      "x": 27.94,
+      "y": 25.741,
+      "size": 9.26
     },
     {
       "lat": 35.0,
@@ -711,16 +721,6 @@
       "last_visit": "16-Jun-2026 17:05:00",
       "x": 27.875,
       "y": 25.778,
-      "size": 8.6
-    },
-    {
-      "lat": 43.6667,
-      "lng": -79.4167,
-      "label": "Canada, Ontario, Toronto",
-      "visits": 1,
-      "last_visit": "16-Jun-2026 17:04:09",
-      "x": 27.94,
-      "y": 25.741,
       "size": 8.6
     },
     {
@@ -1518,7 +1518,7 @@
       "lng": -104.9878,
       "label": "United States, Colorado, Englewood",
       "visits": 1,
-      "last_visit": "01-Jul-2026 20:32:49",
+      "last_visit": "03-Jul-2026 21:43:45",
       "x": 20.837,
       "y": 27.973,
       "size": 8.6
