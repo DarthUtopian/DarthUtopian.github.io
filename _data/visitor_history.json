@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-06T04:53:16+00:00",
+  "updated_at": "2026-07-06T09:02:26+00:00",
   "total_visits": 507,
   "location_count": 218,
   "locations": [
@@ -8,7 +8,7 @@
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
       "visits": 131,
-      "last_visit": "06-Jul-2026 03:35:56",
+      "last_visit": "06-Jul-2026 07:33:31",
       "x": 15.995,
       "y": 29.014,
       "size": 18.0
@@ -1148,7 +1148,7 @@
       "lng": 103.7647,
       "label": "Singapore, , Clementi",
       "visits": 1,
-      "last_visit": "17-Jun-2026 08:48:09",
+      "last_visit": "06-Jul-2026 05:14:43",
       "x": 78.824,
       "y": 49.269,
       "size": 8.6
