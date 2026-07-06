@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-05T18:07:11+00:00",
-  "total_visits": 506,
+  "updated_at": "2026-07-06T04:53:16+00:00",
+  "total_visits": 507,
   "location_count": 218,
   "locations": [
     {
@@ -8,7 +8,7 @@
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
       "visits": 131,
-      "last_visit": "05-Jul-2026 17:13:54",
+      "last_visit": "06-Jul-2026 03:35:56",
       "x": 15.995,
       "y": 29.014,
       "size": 18.0
@@ -311,6 +311,16 @@
       "last_visit": "01-Jul-2026 23:56:50",
       "x": 88.333,
       "y": 30.0,
+      "size": 9.26
+    },
+    {
+      "lat": 1.2931,
+      "lng": 103.8558,
+      "label": "Singapore, , Singapore",
+      "visits": 2,
+      "last_visit": "06-Jul-2026 03:38:43",
+      "x": 78.849,
+      "y": 49.282,
       "size": 9.26
     },
     {
@@ -818,7 +828,7 @@
       "lng": 106.2731,
       "label": "China, Ningxia, Yinchuan",
       "visits": 1,
-      "last_visit": "03-Jul-2026 13:03:37",
+      "last_visit": "06-Jul-2026 00:43:01",
       "x": 79.52,
       "y": 28.629,
       "size": 8.6
@@ -1141,16 +1151,6 @@
       "last_visit": "17-Jun-2026 08:48:09",
       "x": 78.824,
       "y": 49.269,
-      "size": 8.6
-    },
-    {
-      "lat": 1.2931,
-      "lng": 103.8558,
-      "label": "Singapore, , Singapore",
-      "visits": 1,
-      "last_visit": "21-Jun-2026 12:50:30",
-      "x": 78.849,
-      "y": 49.282,
       "size": 8.6
     },
     {
