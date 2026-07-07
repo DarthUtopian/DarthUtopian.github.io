@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-07-07T07:43:44+00:00",
-  "total_visits": 515,
-  "location_count": 223,
+  "updated_at": "2026-07-07T11:12:31+00:00",
+  "total_visits": 516,
+  "location_count": 224,
   "locations": [
     {
       "lat": 37.7749,
@@ -811,6 +811,16 @@
       "last_visit": "27-Jun-2026 04:49:58",
       "x": 80.921,
       "y": 36.954,
+      "size": 8.6
+    },
+    {
+      "lat": 20.0458,
+      "lng": 110.3417,
+      "label": "China, Hainan, Haikou",
+      "visits": 1,
+      "last_visit": "07-Jul-2026 11:07:58",
+      "x": 80.65,
+      "y": 38.863,
       "size": 8.6
     },
     {
