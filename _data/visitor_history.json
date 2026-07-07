@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-07-06T20:56:35+00:00",
-  "total_visits": 512,
-  "location_count": 222,
+  "updated_at": "2026-07-07T03:50:35+00:00",
+  "total_visits": 514,
+  "location_count": 223,
   "locations": [
     {
       "lat": 37.7749,
@@ -441,6 +441,16 @@
       "last_visit": "05-Jul-2026 03:10:43",
       "x": 17.456,
       "y": 31.825,
+      "size": 9.26
+    },
+    {
+      "lat": 37.7484,
+      "lng": -122.4156,
+      "label": "United States, California, San Francisco",
+      "visits": 2,
+      "last_visit": "07-Jul-2026 00:40:03",
+      "x": 15.996,
+      "y": 29.029,
       "size": 9.26
     },
     {
@@ -1454,6 +1464,16 @@
       "size": 8.6
     },
     {
+      "lat": 34.0995,
+      "lng": -117.5808,
+      "label": "United States, California, Rancho Cucamonga",
+      "visits": 1,
+      "last_visit": "07-Jul-2026 00:15:51",
+      "x": 17.339,
+      "y": 31.056,
+      "size": 8.6
+    },
+    {
       "lat": 32.8072,
       "lng": -117.1649,
       "label": "United States, California, San Diego",
@@ -1471,16 +1491,6 @@
       "last_visit": "04-Jun-2026 21:25:28",
       "x": 15.996,
       "y": 29.013,
-      "size": 8.6
-    },
-    {
-      "lat": 37.7484,
-      "lng": -122.4156,
-      "label": "United States, California, San Francisco",
-      "visits": 1,
-      "last_visit": "17-Jun-2026 22:09:58",
-      "x": 15.996,
-      "y": 29.029,
       "size": 8.6
     },
     {
@@ -1558,7 +1568,7 @@
       "lng": -104.9878,
       "label": "United States, Colorado, Englewood",
       "visits": 1,
-      "last_visit": "05-Jul-2026 17:16:34",
+      "last_visit": "07-Jul-2026 03:17:26",
       "x": 20.837,
       "y": 27.973,
       "size": 8.6
@@ -1628,7 +1638,7 @@
       "lng": -84.4635,
       "label": "United States, Georgia, Atlanta",
       "visits": 1,
-      "last_visit": "26-Jun-2026 08:52:20",
+      "last_visit": "07-Jul-2026 03:36:58",
       "x": 26.538,
       "y": 31.183,
       "size": 8.6
@@ -1978,7 +1988,7 @@
       "lng": -83.1383,
       "label": "United States, Ohio, Columbus",
       "visits": 1,
-      "last_visit": "16-Jun-2026 23:27:54",
+      "last_visit": "07-Jul-2026 02:17:48",
       "x": 26.906,
       "y": 27.797,
       "size": 8.6
