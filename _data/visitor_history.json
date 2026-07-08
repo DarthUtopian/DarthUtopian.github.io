@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-08T06:31:50+00:00",
+  "updated_at": "2026-07-08T09:28:11+00:00",
   "total_visits": 516,
   "location_count": 224,
   "locations": [
@@ -58,7 +58,7 @@
       "lng": -121.9552,
       "label": "United States, California, Santa Clara",
       "visits": 8,
-      "last_visit": "07-Jul-2026 20:25:57",
+      "last_visit": "08-Jul-2026 07:08:50",
       "x": 16.124,
       "y": 29.248,
       "size": 11.53
@@ -178,7 +178,7 @@
       "lng": 126.9783,
       "label": "Korea, Republic of, Seoul-t'ukpyolsi, Seoul",
       "visits": 3,
-      "last_visit": "05-Jul-2026 03:00:10",
+      "last_visit": "08-Jul-2026 08:26:30",
       "x": 85.272,
       "y": 29.112,
       "size": 9.77
@@ -258,7 +258,7 @@
       "lng": 105.0,
       "label": "China, ,",
       "visits": 2,
-      "last_visit": "02-Jul-2026 03:39:42",
+      "last_visit": "08-Jul-2026 08:16:03",
       "x": 79.167,
       "y": 30.556,
       "size": 9.26
@@ -338,7 +338,7 @@
       "lng": 121.525,
       "label": "Taiwan, T'ai-pei, Taipei",
       "visits": 2,
-      "last_visit": "02-Jul-2026 07:13:23",
+      "last_visit": "08-Jul-2026 08:44:18",
       "x": 83.757,
       "y": 36.089,
       "size": 9.26
@@ -368,7 +368,7 @@
       "lng": -122.2536,
       "label": "United States, California, Berkeley",
       "visits": 2,
-      "last_visit": "08-Jul-2026 05:31:11",
+      "last_visit": "08-Jul-2026 06:57:18",
       "x": 16.041,
       "y": 28.963,
       "size": 9.26
