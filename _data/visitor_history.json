@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-07-09T12:09:31+00:00",
-  "total_visits": 517,
-  "location_count": 225,
+  "updated_at": "2026-07-09T15:41:52+00:00",
+  "total_visits": 519,
+  "location_count": 227,
   "locations": [
     {
       "lat": 37.7749,
@@ -418,7 +418,7 @@
       "lng": -117.0864,
       "label": "United States, California, Escondido",
       "visits": 2,
-      "last_visit": "07-Jul-2026 04:04:22",
+      "last_visit": "09-Jul-2026 14:59:04",
       "x": 17.476,
       "y": 31.6,
       "size": 9.26
@@ -1154,6 +1154,16 @@
       "size": 8.6
     },
     {
+      "lat": 37.5333,
+      "lng": 126.9667,
+      "label": "Korea, Republic of, Seoul-t'ukpyolsi, Yongsan",
+      "visits": 1,
+      "last_visit": "09-Jul-2026 13:17:38",
+      "x": 85.269,
+      "y": 29.148,
+      "size": 8.6
+    },
+    {
       "lat": 27.7167,
       "lng": 85.3167,
       "label": "Nepal, , Kathmandu",
@@ -1341,6 +1351,16 @@
       "last_visit": "17-Jun-2026 06:49:52",
       "x": 16.176,
       "y": 28.907,
+      "size": 8.6
+    },
+    {
+      "lat": 33.288,
+      "lng": -117.1938,
+      "label": "United States, California, Bonsall",
+      "visits": 1,
+      "last_visit": "09-Jul-2026 15:30:40",
+      "x": 17.446,
+      "y": 31.507,
       "size": 8.6
     },
     {
