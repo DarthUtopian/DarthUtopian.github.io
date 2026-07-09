@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-07-09T15:41:52+00:00",
-  "total_visits": 519,
-  "location_count": 227,
+  "updated_at": "2026-07-09T17:59:57+00:00",
+  "total_visits": 521,
+  "location_count": 228,
   "locations": [
     {
       "lat": 37.7749,
@@ -178,7 +178,7 @@
       "lng": 126.9783,
       "label": "Korea, Republic of, Seoul-t'ukpyolsi, Seoul",
       "visits": 3,
-      "last_visit": "08-Jul-2026 08:26:30",
+      "last_visit": "09-Jul-2026 16:10:23",
       "x": 85.272,
       "y": 29.112,
       "size": 9.77
@@ -374,6 +374,16 @@
       "size": 9.26
     },
     {
+      "lat": 33.288,
+      "lng": -117.1938,
+      "label": "United States, California, Bonsall",
+      "visits": 2,
+      "last_visit": "09-Jul-2026 16:02:55",
+      "x": 17.446,
+      "y": 31.507,
+      "size": 9.26
+    },
+    {
       "lat": 37.5671,
       "lng": -122.371,
       "label": "United States, California, Burlingame",
@@ -438,7 +448,7 @@
       "lng": -117.1573,
       "label": "United States, California, San Diego",
       "visits": 2,
-      "last_visit": "05-Jul-2026 03:10:43",
+      "last_visit": "09-Jul-2026 16:34:02",
       "x": 17.456,
       "y": 31.825,
       "size": 9.26
@@ -728,7 +738,7 @@
       "lng": -123.1333,
       "label": "Canada, British Columbia,",
       "visits": 1,
-      "last_visit": "09-Jul-2026 08:47:22",
+      "last_visit": "09-Jul-2026 17:00:51",
       "x": 15.796,
       "y": 22.639,
       "size": 8.6
@@ -1351,16 +1361,6 @@
       "last_visit": "17-Jun-2026 06:49:52",
       "x": 16.176,
       "y": 28.907,
-      "size": 8.6
-    },
-    {
-      "lat": 33.288,
-      "lng": -117.1938,
-      "label": "United States, California, Bonsall",
-      "visits": 1,
-      "last_visit": "09-Jul-2026 15:30:40",
-      "x": 17.446,
-      "y": 31.507,
       "size": 8.6
     },
     {
@@ -2011,6 +2011,16 @@
       "last_visit": "03-Jul-2026 01:49:13",
       "x": 27.356,
       "y": 27.177,
+      "size": 8.6
+    },
+    {
+      "lat": 41.1537,
+      "lng": -81.6374,
+      "label": "United States, Ohio, Akron",
+      "visits": 1,
+      "last_visit": "09-Jul-2026 17:04:21",
+      "x": 27.323,
+      "y": 27.137,
       "size": 8.6
     },
     {
