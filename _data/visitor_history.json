@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-09T08:31:11+00:00",
+  "updated_at": "2026-07-09T12:09:31+00:00",
   "total_visits": 517,
   "location_count": 225,
   "locations": [
@@ -725,6 +725,16 @@
     },
     {
       "lat": 49.25,
+      "lng": -123.1333,
+      "label": "Canada, British Columbia,",
+      "visits": 1,
+      "last_visit": "09-Jul-2026 08:47:22",
+      "x": 15.796,
+      "y": 22.639,
+      "size": 8.6
+    },
+    {
+      "lat": 49.25,
       "lng": -122.95,
       "label": "Canada, British Columbia, Burnaby",
       "visits": 1,
@@ -741,16 +751,6 @@
       "last_visit": "16-Jun-2026 18:42:37",
       "x": 15.843,
       "y": 22.685,
-      "size": 8.6
-    },
-    {
-      "lat": 49.25,
-      "lng": -123.1333,
-      "label": "Canada, British Columbia, Vancouver",
-      "visits": 1,
-      "last_visit": "29-May-2026 17:48:50",
-      "x": 15.796,
-      "y": 22.639,
       "size": 8.6
     },
     {
@@ -978,7 +978,7 @@
       "lng": 2.0,
       "label": "France, ,",
       "visits": 1,
-      "last_visit": "01-Jul-2026 22:35:59",
+      "last_visit": "09-Jul-2026 10:24:13",
       "x": 50.556,
       "y": 24.444,
       "size": 8.6
