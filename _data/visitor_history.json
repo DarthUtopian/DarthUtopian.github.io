@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-09T23:16:16+00:00",
+  "updated_at": "2026-07-10T05:39:41+00:00",
   "total_visits": 521,
   "location_count": 228,
   "locations": [
@@ -8,7 +8,7 @@
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
       "visits": 131,
-      "last_visit": "09-Jul-2026 22:59:21",
+      "last_visit": "10-Jul-2026 01:02:37",
       "x": 15.995,
       "y": 29.014,
       "size": 18.0
@@ -28,7 +28,7 @@
       "lng": -97.0,
       "label": "United States, ,",
       "visits": 16,
-      "last_visit": "09-Jul-2026 06:32:45",
+      "last_visit": "10-Jul-2026 01:50:07",
       "x": 23.056,
       "y": 28.889,
       "size": 13.4
@@ -138,7 +138,7 @@
       "lng": -79.9959,
       "label": "United States, Pennsylvania, Pittsburgh",
       "visits": 4,
-      "last_visit": "28-Jun-2026 02:13:21",
+      "last_visit": "10-Jul-2026 02:34:57",
       "x": 27.779,
       "y": 27.533,
       "size": 10.2
@@ -368,7 +368,7 @@
       "lng": -122.2536,
       "label": "United States, California, Berkeley",
       "visits": 2,
-      "last_visit": "09-Jul-2026 05:52:39",
+      "last_visit": "10-Jul-2026 00:32:45",
       "x": 16.041,
       "y": 28.963,
       "size": 9.26
@@ -1608,7 +1608,7 @@
       "lng": -104.9878,
       "label": "United States, Colorado, Englewood",
       "visits": 1,
-      "last_visit": "07-Jul-2026 03:17:26",
+      "last_visit": "09-Jul-2026 23:41:15",
       "x": 20.837,
       "y": 27.973,
       "size": 8.6
