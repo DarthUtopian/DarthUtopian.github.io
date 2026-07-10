@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-07-10T05:39:41+00:00",
-  "total_visits": 521,
-  "location_count": 228,
+  "updated_at": "2026-07-10T12:28:04+00:00",
+  "total_visits": 522,
+  "location_count": 229,
   "locations": [
     {
       "lat": 37.7749,
@@ -1061,6 +1061,16 @@
       "last_visit": "06-Jul-2026 15:05:54",
       "x": 81.718,
       "y": 37.602,
+      "size": 8.6
+    },
+    {
+      "lat": 17.3753,
+      "lng": 78.4744,
+      "label": "India, Andhra Pradesh, Hyderabad",
+      "visits": 1,
+      "last_visit": "10-Jul-2026 10:03:14",
+      "x": 71.798,
+      "y": 40.347,
       "size": 8.6
     },
     {
