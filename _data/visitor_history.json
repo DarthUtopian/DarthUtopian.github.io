@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-07-11T02:57:33+00:00",
-  "total_visits": 526,
-  "location_count": 232,
+  "updated_at": "2026-07-11T05:46:27+00:00",
+  "total_visits": 529,
+  "location_count": 233,
   "locations": [
     {
       "lat": 37.7749,
@@ -221,6 +221,16 @@
       "last_visit": "15-Jun-2026 23:04:36",
       "x": 26.534,
       "y": 28.895,
+      "size": 9.77
+    },
+    {
+      "lat": 38.4512,
+      "lng": -90.3278,
+      "label": "United States, Missouri, Saint Louis",
+      "visits": 3,
+      "last_visit": "11-Jul-2026 04:43:50",
+      "x": 24.909,
+      "y": 28.638,
       "size": 9.77
     },
     {
