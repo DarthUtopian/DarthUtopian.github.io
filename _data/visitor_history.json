@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-12T19:42:42+00:00",
+  "updated_at": "2026-07-12T20:55:27+00:00",
   "total_visits": 530,
   "location_count": 234,
   "locations": [
@@ -8,7 +8,7 @@
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
       "visits": 131,
-      "last_visit": "12-Jul-2026 19:38:24",
+      "last_visit": "12-Jul-2026 20:30:00",
       "x": 15.995,
       "y": 29.014,
       "size": 18.0
@@ -1658,7 +1658,7 @@
       "lng": -104.9878,
       "label": "United States, Colorado, Englewood",
       "visits": 1,
-      "last_visit": "09-Jul-2026 23:41:15",
+      "last_visit": "12-Jul-2026 20:33:18",
       "x": 20.837,
       "y": 27.973,
       "size": 8.6
