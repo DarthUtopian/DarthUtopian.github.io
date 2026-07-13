@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-13T22:31:28+00:00",
-  "total_visits": 532,
-  "location_count": 236,
+  "updated_at": "2026-07-13T23:57:05+00:00",
+  "total_visits": 534,
+  "location_count": 237,
   "locations": [
     {
       "lat": 37.7749,
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
       "visits": 131,
-      "last_visit": "13-Jul-2026 21:21:03",
+      "last_visit": "13-Jul-2026 23:19:44",
       "x": 15.995,
       "y": 29.014,
       "size": 18.0
@@ -18,7 +18,7 @@
       "lng": -121.895,
       "label": "United States, California, San Jose",
       "visits": 29,
-      "last_visit": "02-Jul-2026 00:12:30",
+      "last_visit": "13-Jul-2026 22:54:05",
       "x": 16.14,
       "y": 29.256,
       "size": 15.62
@@ -531,6 +531,16 @@
       "last_visit": "26-Jun-2026 04:20:29",
       "x": 29.001,
       "y": 28.02,
+      "size": 9.26
+    },
+    {
+      "lat": 26.9335,
+      "lng": -81.1778,
+      "label": "United States, Florida, Moore Haven",
+      "visits": 2,
+      "last_visit": "13-Jul-2026 23:21:15",
+      "x": 27.451,
+      "y": 35.037,
       "size": 9.26
     },
     {
@@ -1458,7 +1468,7 @@
       "lng": -122.2687,
       "label": "United States, California, Foster City",
       "visits": 1,
-      "last_visit": "06-Jul-2026 16:43:52",
+      "last_visit": "13-Jul-2026 23:42:27",
       "x": 16.036,
       "y": 29.136,
       "size": 8.6
