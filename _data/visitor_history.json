@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-07-13T00:03:05+00:00",
-  "total_visits": 531,
-  "location_count": 235,
+  "updated_at": "2026-07-13T16:37:13+00:00",
+  "total_visits": 532,
+  "location_count": 236,
   "locations": [
     {
       "lat": 37.7749,
@@ -971,6 +971,16 @@
       "last_visit": "17-Jun-2026 07:43:51",
       "x": 54.907,
       "y": 22.657,
+      "size": 8.6
+    },
+    {
+      "lat": 56.0,
+      "lng": 10.0,
+      "label": "Denmark, ,",
+      "visits": 1,
+      "last_visit": "13-Jul-2026 13:42:43",
+      "x": 52.778,
+      "y": 18.889,
       "size": 8.6
     },
     {
