@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-07-14T20:15:40+00:00",
-  "total_visits": 535,
-  "location_count": 238,
+  "updated_at": "2026-07-14T21:31:12+00:00",
+  "total_visits": 536,
+  "location_count": 239,
   "locations": [
     {
       "lat": 37.7749,
@@ -2161,6 +2161,16 @@
       "last_visit": "18-Jun-2026 16:27:06",
       "x": 27.768,
       "y": 27.599,
+      "size": 8.6
+    },
+    {
+      "lat": 40.054,
+      "lng": -79.8934,
+      "label": "United States, Pennsylvania, California",
+      "visits": 1,
+      "last_visit": "14-Jul-2026 20:17:58",
+      "x": 27.807,
+      "y": 27.748,
       "size": 8.6
     },
     {
