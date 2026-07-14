@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-07-14T21:31:12+00:00",
-  "total_visits": 536,
-  "location_count": 239,
+  "updated_at": "2026-07-14T22:59:50+00:00",
+  "total_visits": 537,
+  "location_count": 240,
   "locations": [
     {
       "lat": 37.7749,
@@ -1471,6 +1471,16 @@
       "last_visit": "17-Jun-2026 06:24:15",
       "x": 16.118,
       "y": 28.993,
+      "size": 8.6
+    },
+    {
+      "lat": 37.7186,
+      "lng": -121.9164,
+      "label": "United States, California, Dublin",
+      "visits": 1,
+      "last_visit": "14-Jul-2026 22:08:22",
+      "x": 16.134,
+      "y": 29.045,
       "size": 8.6
     },
     {
