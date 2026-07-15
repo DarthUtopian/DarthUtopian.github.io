@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-07-15T22:05:21+00:00",
-  "total_visits": 539,
-  "location_count": 241,
+  "updated_at": "2026-07-15T23:30:21+00:00",
+  "total_visits": 540,
+  "location_count": 242,
   "locations": [
     {
       "lat": 37.7749,
@@ -2211,6 +2211,16 @@
       "last_visit": "21-Jun-2026 18:47:02",
       "x": 27.771,
       "y": 27.536,
+      "size": 8.6
+    },
+    {
+      "lat": 40.473,
+      "lng": -79.95,
+      "label": "United States, Pennsylvania, Pittsburgh",
+      "visits": 1,
+      "last_visit": "15-Jul-2026 23:13:06",
+      "x": 27.792,
+      "y": 27.515,
       "size": 8.6
     },
     {
