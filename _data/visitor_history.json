@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T06:28:49+00:00",
+  "updated_at": "2026-07-18T12:28:14+00:00",
   "total_visits": 543,
   "location_count": 243,
   "locations": [
@@ -478,7 +478,7 @@
       "lng": -117.1573,
       "label": "United States, California, San Diego",
       "visits": 2,
-      "last_visit": "16-Jul-2026 05:48:26",
+      "last_visit": "18-Jul-2026 12:23:38",
       "x": 17.456,
       "y": 31.825,
       "size": 9.26
