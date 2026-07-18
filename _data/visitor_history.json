@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-07-17T19:16:27+00:00",
-  "total_visits": 542,
-  "location_count": 242,
+  "updated_at": "2026-07-18T06:28:49+00:00",
+  "total_visits": 543,
+  "location_count": 243,
   "locations": [
     {
       "lat": 37.7749,
@@ -98,7 +98,7 @@
       "lng": -79.9561,
       "label": "United States, Pennsylvania, Pittsburgh",
       "visits": 5,
-      "last_visit": "14-Jul-2026 16:21:20",
+      "last_visit": "18-Jul-2026 01:48:35",
       "x": 27.79,
       "y": 27.531,
       "size": 10.58
@@ -278,7 +278,7 @@
       "lng": 105.0,
       "label": "China, ,",
       "visits": 2,
-      "last_visit": "12-Jul-2026 03:59:52",
+      "last_visit": "18-Jul-2026 00:03:34",
       "x": 79.167,
       "y": 30.556,
       "size": 9.26
@@ -1728,7 +1728,7 @@
       "lng": -104.9878,
       "label": "United States, Colorado, Englewood",
       "visits": 1,
-      "last_visit": "15-Jul-2026 23:33:37",
+      "last_visit": "17-Jul-2026 23:18:56",
       "x": 20.837,
       "y": 27.973,
       "size": 8.6
@@ -2291,6 +2291,16 @@
       "last_visit": "16-Jun-2026 20:22:33",
       "x": 28.517,
       "y": 28.425,
+      "size": 8.6
+    },
+    {
+      "lat": 38.9841,
+      "lng": -77.3827,
+      "label": "United States, Virginia, Herndon",
+      "visits": 1,
+      "last_visit": "18-Jul-2026 00:02:26",
+      "x": 28.505,
+      "y": 28.342,
       "size": 8.6
     },
     {
