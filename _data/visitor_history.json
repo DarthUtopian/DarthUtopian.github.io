@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-19T23:01:26+00:00",
-  "total_visits": 545,
+  "updated_at": "2026-07-20T05:07:29+00:00",
+  "total_visits": 546,
   "location_count": 244,
   "locations": [
     {
@@ -8,7 +8,7 @@
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
       "visits": 131,
-      "last_visit": "19-Jul-2026 18:21:41",
+      "last_visit": "20-Jul-2026 03:56:23",
       "x": 15.995,
       "y": 29.014,
       "size": 18.0
@@ -611,6 +611,16 @@
       "last_visit": "26-Jun-2026 17:18:06",
       "x": 23.676,
       "y": 24.538,
+      "size": 9.26
+    },
+    {
+      "lat": 39.9348,
+      "lng": -75.0307,
+      "label": "United States, New Jersey, Cherry Hill",
+      "visits": 2,
+      "last_visit": "20-Jul-2026 04:41:19",
+      "x": 29.158,
+      "y": 27.814,
       "size": 9.26
     },
     {
@@ -2031,16 +2041,6 @@
       "last_visit": "21-May-2026 13:07:22",
       "x": 30.157,
       "y": 26.103,
-      "size": 8.6
-    },
-    {
-      "lat": 39.9348,
-      "lng": -75.0307,
-      "label": "United States, New Jersey, Cherry Hill",
-      "visits": 1,
-      "last_visit": "14-Jul-2026 02:55:59",
-      "x": 29.158,
-      "y": 27.814,
       "size": 8.6
     },
     {
