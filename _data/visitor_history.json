@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-21T16:25:30+00:00",
-  "total_visits": 549,
-  "location_count": 246,
+  "updated_at": "2026-07-21T22:27:32+00:00",
+  "total_visits": 551,
+  "location_count": 247,
   "locations": [
     {
       "lat": 37.7749,
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
       "visits": 131,
-      "last_visit": "20-Jul-2026 03:56:23",
+      "last_visit": "21-Jul-2026 22:24:56",
       "x": 15.995,
       "y": 29.014,
       "size": 18.0
@@ -148,7 +148,7 @@
       "lng": -95.5858,
       "label": "United States, Texas, Houston",
       "visits": 4,
-      "last_visit": "05-Jul-2026 17:16:14",
+      "last_visit": "21-Jul-2026 22:08:16",
       "x": 23.448,
       "y": 33.5,
       "size": 10.2
@@ -301,6 +301,16 @@
       "last_visit": "21-Jul-2026 10:42:34",
       "x": 83.722,
       "y": 32.752,
+      "size": 9.26
+    },
+    {
+      "lat": 56.0,
+      "lng": 10.0,
+      "label": "Denmark, ,",
+      "visits": 2,
+      "last_visit": "21-Jul-2026 22:06:14",
+      "x": 52.778,
+      "y": 18.889,
       "size": 9.26
     },
     {
@@ -1031,16 +1041,6 @@
       "last_visit": "17-Jun-2026 07:43:51",
       "x": 54.907,
       "y": 22.657,
-      "size": 8.6
-    },
-    {
-      "lat": 56.0,
-      "lng": 10.0,
-      "label": "Denmark, ,",
-      "visits": 1,
-      "last_visit": "13-Jul-2026 13:42:43",
-      "x": 52.778,
-      "y": 18.889,
       "size": 8.6
     },
     {
@@ -2181,6 +2181,16 @@
       "last_visit": "16-Jul-2026 21:20:38",
       "x": 26.906,
       "y": 27.797,
+      "size": 8.6
+    },
+    {
+      "lat": 36.7114,
+      "lng": -95.894,
+      "label": "United States, Oklahoma, Bartlesville",
+      "visits": 1,
+      "last_visit": "21-Jul-2026 21:47:12",
+      "x": 23.363,
+      "y": 29.605,
       "size": 8.6
     },
     {
