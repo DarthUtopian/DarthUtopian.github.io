@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-21T04:24:30+00:00",
-  "total_visits": 547,
+  "updated_at": "2026-07-21T07:10:30+00:00",
+  "total_visits": 548,
   "location_count": 245,
   "locations": [
     {
@@ -158,7 +158,7 @@
       "lng": -75.7,
       "label": "Canada, Ontario, Ottawa",
       "visits": 3,
-      "last_visit": "28-Jun-2026 19:21:34",
+      "last_visit": "21-Jul-2026 04:41:24",
       "x": 28.972,
       "y": 24.769,
       "size": 9.77
@@ -604,6 +604,16 @@
       "size": 9.26
     },
     {
+      "lat": 42.38,
+      "lng": -71.1329,
+      "label": "United States, Massachusetts, Cambridge",
+      "visits": 2,
+      "last_visit": "21-Jul-2026 05:15:11",
+      "x": 30.241,
+      "y": 26.456,
+      "size": 9.26
+    },
+    {
       "lat": 45.8319,
       "lng": -94.7678,
       "label": "United States, Minnesota, Grey Eagle",
@@ -798,7 +808,7 @@
       "lng": -123.1333,
       "label": "Canada, British Columbia,",
       "visits": 1,
-      "last_visit": "09-Jul-2026 17:00:51",
+      "last_visit": "21-Jul-2026 06:50:05",
       "x": 15.796,
       "y": 22.639,
       "size": 8.6
@@ -1931,16 +1941,6 @@
       "last_visit": "02-Jul-2026 01:54:32",
       "x": 30.249,
       "y": 26.464,
-      "size": 8.6
-    },
-    {
-      "lat": 42.38,
-      "lng": -71.1329,
-      "label": "United States, Massachusetts, Cambridge",
-      "visits": 1,
-      "last_visit": "30-Jun-2026 23:39:53",
-      "x": 30.241,
-      "y": 26.456,
       "size": 8.6
     },
     {
