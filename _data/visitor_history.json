@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-21T23:31:49+00:00",
+  "updated_at": "2026-07-22T02:57:30+00:00",
   "total_visits": 551,
   "location_count": 247,
   "locations": [
@@ -298,7 +298,7 @@
       "lng": 121.3997,
       "label": "China, Shanghai, Shanghai",
       "visits": 2,
-      "last_visit": "21-Jul-2026 10:42:34",
+      "last_visit": "22-Jul-2026 02:00:29",
       "x": 83.722,
       "y": 32.752,
       "size": 9.26
@@ -738,7 +738,7 @@
       "lng": -122.3284,
       "label": "United States, Washington, Seattle",
       "visits": 2,
-      "last_visit": "16-Jul-2026 20:21:11",
+      "last_visit": "22-Jul-2026 00:51:01",
       "x": 16.02,
       "y": 23.554,
       "size": 9.26
@@ -948,7 +948,7 @@
       "lng": 118.7778,
       "label": "China, Jiangsu, Nanjing",
       "visits": 1,
-      "last_visit": "26-Jun-2026 14:53:52",
+      "last_visit": "22-Jul-2026 02:54:05",
       "x": 82.994,
       "y": 32.188,
       "size": 8.6
