@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-22T11:12:03+00:00",
-  "total_visits": 552,
-  "location_count": 248,
+  "updated_at": "2026-07-22T18:14:44+00:00",
+  "total_visits": 553,
+  "location_count": 249,
   "locations": [
     {
       "lat": 37.7749,
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
       "visits": 131,
-      "last_visit": "21-Jul-2026 22:43:46",
+      "last_visit": "22-Jul-2026 18:10:15",
       "x": 15.995,
       "y": 29.014,
       "size": 18.0
@@ -428,7 +428,7 @@
       "lng": -117.1938,
       "label": "United States, California, Bonsall",
       "visits": 2,
-      "last_visit": "09-Jul-2026 16:02:55",
+      "last_visit": "22-Jul-2026 18:07:57",
       "x": 17.446,
       "y": 31.507,
       "size": 9.26
@@ -1418,7 +1418,7 @@
       "lng": -0.13,
       "label": "United Kingdom, ,",
       "visits": 1,
-      "last_visit": "08-Jul-2026 00:21:38",
+      "last_visit": "22-Jul-2026 17:49:00",
       "x": 49.964,
       "y": 21.389,
       "size": 8.6
@@ -1631,6 +1631,16 @@
       "last_visit": "28-May-2026 03:55:27",
       "x": 16.061,
       "y": 29.192,
+      "size": 8.6
+    },
+    {
+      "lat": 37.4283,
+      "lng": -121.9066,
+      "label": "United States, California, Milpitas",
+      "visits": 1,
+      "last_visit": "22-Jul-2026 17:03:22",
+      "x": 16.137,
+      "y": 29.207,
       "size": 8.6
     },
     {
