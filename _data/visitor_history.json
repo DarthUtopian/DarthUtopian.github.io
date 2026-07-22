@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-07-22T05:56:05+00:00",
-  "total_visits": 551,
-  "location_count": 247,
+  "updated_at": "2026-07-22T11:12:03+00:00",
+  "total_visits": 552,
+  "location_count": 248,
   "locations": [
     {
       "lat": 37.7749,
@@ -1151,6 +1151,16 @@
       "last_visit": "06-Jul-2026 15:05:54",
       "x": 81.718,
       "y": 37.602,
+      "size": 8.6
+    },
+    {
+      "lat": 22.35,
+      "lng": 114.1333,
+      "label": "Hong Kong, , Kwai Chung",
+      "visits": 1,
+      "last_visit": "22-Jul-2026 07:26:08",
+      "x": 81.704,
+      "y": 37.583,
       "size": 8.6
     },
     {
