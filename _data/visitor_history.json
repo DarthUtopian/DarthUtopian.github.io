@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22T02:57:30+00:00",
+  "updated_at": "2026-07-22T05:56:05+00:00",
   "total_visits": 551,
   "location_count": 247,
   "locations": [
@@ -1778,7 +1778,7 @@
       "lng": -104.9878,
       "label": "United States, Colorado, Englewood",
       "visits": 1,
-      "last_visit": "21-Jul-2026 22:56:37",
+      "last_visit": "22-Jul-2026 04:45:11",
       "x": 20.837,
       "y": 27.973,
       "size": 8.6
@@ -2298,7 +2298,7 @@
       "lng": -95.4188,
       "label": "United States, Texas, Houston",
       "visits": 1,
-      "last_visit": "15-Jun-2026 22:02:05",
+      "last_visit": "22-Jul-2026 03:21:16",
       "x": 23.495,
       "y": 33.49,
       "size": 8.6
