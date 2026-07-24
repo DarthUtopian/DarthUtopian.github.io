@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-23T15:32:22+00:00",
-  "total_visits": 557,
-  "location_count": 250,
+  "updated_at": "2026-07-24T11:18:08+00:00",
+  "total_visits": 559,
+  "location_count": 251,
   "locations": [
     {
       "lat": 37.7749,
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
       "visits": 131,
-      "last_visit": "22-Jul-2026 23:55:52",
+      "last_visit": "24-Jul-2026 05:27:55",
       "x": 15.995,
       "y": 29.014,
       "size": 18.0
@@ -38,7 +38,7 @@
       "lng": 116.3883,
       "label": "China, Beijing, Beijing",
       "visits": 9,
-      "last_visit": "20-Jul-2026 23:50:36",
+      "last_visit": "24-Jul-2026 04:42:12",
       "x": 82.33,
       "y": 27.817,
       "size": 11.8
@@ -308,7 +308,7 @@
       "lng": 121.3997,
       "label": "China, Shanghai, Shanghai",
       "visits": 2,
-      "last_visit": "22-Jul-2026 02:00:29",
+      "last_visit": "24-Jul-2026 05:08:36",
       "x": 83.722,
       "y": 32.752,
       "size": 9.26
@@ -558,7 +558,7 @@
       "lng": -104.9878,
       "label": "United States, Colorado, Englewood",
       "visits": 2,
-      "last_visit": "23-Jul-2026 00:19:57",
+      "last_visit": "24-Jul-2026 07:43:57",
       "x": 20.837,
       "y": 27.973,
       "size": 9.26
@@ -774,6 +774,16 @@
       "size": 9.26
     },
     {
+      "lat": 21.45,
+      "lng": 105.85,
+      "label": "Vietnam, Thai Nguyen, Ph� Y�n",
+      "visits": 2,
+      "last_visit": "24-Jul-2026 00:50:44",
+      "x": 79.403,
+      "y": 38.083,
+      "size": 9.26
+    },
+    {
       "lat": -30.9546,
       "lng": -58.7833,
       "label": "Argentina, Entre Rios, Federal",
@@ -914,11 +924,21 @@
       "size": 8.6
     },
     {
+      "lat": 23.1167,
+      "lng": 113.25,
+      "label": "China, Guangdong, Guangzhou",
+      "visits": 1,
+      "last_visit": "24-Jul-2026 10:19:14",
+      "x": 81.458,
+      "y": 37.157,
+      "size": 8.6
+    },
+    {
       "lat": 22.5333,
       "lng": 114.1333,
       "label": "China, Guangdong, Shenzhen",
       "visits": 1,
-      "last_visit": "01-Jul-2026 02:12:25",
+      "last_visit": "24-Jul-2026 09:14:55",
       "x": 81.704,
       "y": 37.482,
       "size": 8.6
@@ -968,7 +988,7 @@
       "lng": 118.7778,
       "label": "China, Jiangsu, Nanjing",
       "visits": 1,
-      "last_visit": "22-Jul-2026 02:54:05",
+      "last_visit": "24-Jul-2026 07:21:42",
       "x": 82.994,
       "y": 32.188,
       "size": 8.6
@@ -1648,7 +1668,7 @@
       "lng": -122.1822,
       "label": "United States, California, Menlo Park",
       "visits": 1,
-      "last_visit": "28-May-2026 03:55:27",
+      "last_visit": "24-Jul-2026 10:40:50",
       "x": 16.061,
       "y": 29.192,
       "size": 8.6
@@ -2491,16 +2511,6 @@
       "last_visit": "25-Jun-2026 04:26:06",
       "x": 79.537,
       "y": 39.944,
-      "size": 8.6
-    },
-    {
-      "lat": 21.45,
-      "lng": 105.85,
-      "label": "Vietnam, Thai Nguyen, Ph� Y�n",
-      "visits": 1,
-      "last_visit": "19-Jul-2026 15:07:38",
-      "x": 79.403,
-      "y": 38.083,
       "size": 8.6
     }
   ]
