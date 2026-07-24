@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T18:59:34+00:00",
+  "updated_at": "2026-07-24T20:36:52+00:00",
   "total_visits": 560,
   "location_count": 252,
   "locations": [
@@ -228,7 +228,7 @@
       "lng": -121.978,
       "label": "United States, California, San Ramon",
       "visits": 3,
-      "last_visit": "27-Jun-2026 20:58:45",
+      "last_visit": "24-Jul-2026 20:27:18",
       "x": 16.117,
       "y": 29.011,
       "size": 9.77
@@ -448,7 +448,7 @@
       "lng": -122.371,
       "label": "United States, California, Burlingame",
       "visits": 2,
-      "last_visit": "26-Jun-2026 09:49:38",
+      "last_visit": "24-Jul-2026 19:56:18",
       "x": 16.008,
       "y": 29.129,
       "size": 9.26
