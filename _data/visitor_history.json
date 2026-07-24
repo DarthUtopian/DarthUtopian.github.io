@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-07-24T13:00:41+00:00",
-  "total_visits": 559,
-  "location_count": 251,
+  "updated_at": "2026-07-24T17:06:35+00:00",
+  "total_visits": 560,
+  "location_count": 252,
   "locations": [
     {
       "lat": 37.7749,
@@ -1671,6 +1671,16 @@
       "last_visit": "24-Jul-2026 10:40:50",
       "x": 16.061,
       "y": 29.192,
+      "size": 8.6
+    },
+    {
+      "lat": 37.459,
+      "lng": -122.1781,
+      "label": "United States, California, Menlo Park",
+      "visits": 1,
+      "last_visit": "24-Jul-2026 16:13:01",
+      "x": 16.062,
+      "y": 29.189,
       "size": 8.6
     },
     {
