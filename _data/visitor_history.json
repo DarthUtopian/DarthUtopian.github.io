@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-07-25T17:03:15+00:00",
-  "total_visits": 560,
-  "location_count": 252,
+  "updated_at": "2026-07-25T19:46:46+00:00",
+  "total_visits": 561,
+  "location_count": 253,
   "locations": [
     {
       "lat": 37.7749,
@@ -1541,6 +1541,16 @@
       "last_visit": "17-Jun-2026 06:49:52",
       "x": 16.176,
       "y": 28.907,
+      "size": 8.6
+    },
+    {
+      "lat": 39.7285,
+      "lng": -121.8375,
+      "label": "United States, California, Chico",
+      "visits": 1,
+      "last_visit": "25-Jul-2026 19:19:41",
+      "x": 16.156,
+      "y": 27.929,
       "size": 8.6
     },
     {
