@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-26T21:27:44+00:00",
-  "total_visits": 568,
+  "updated_at": "2026-07-26T22:32:46+00:00",
+  "total_visits": 569,
   "location_count": 257,
   "locations": [
     {
@@ -134,6 +134,16 @@
       "size": 10.2
     },
     {
+      "lat": 33.7542,
+      "lng": -118.2019,
+      "label": "United States, California, Long Beach",
+      "visits": 4,
+      "last_visit": "26-Jul-2026 21:50:56",
+      "x": 17.166,
+      "y": 31.248,
+      "size": 10.2
+    },
+    {
       "lat": 40.4406,
       "lng": -79.9959,
       "label": "United States, Pennsylvania, Pittsburgh",
@@ -201,16 +211,6 @@
       "last_visit": "23-Jul-2026 13:45:52",
       "x": 54.227,
       "y": 17.065,
-      "size": 9.77
-    },
-    {
-      "lat": 33.7542,
-      "lng": -118.2019,
-      "label": "United States, California, Long Beach",
-      "visits": 3,
-      "last_visit": "26-Jul-2026 21:18:57",
-      "x": 17.166,
-      "y": 31.248,
       "size": 9.77
     },
     {
