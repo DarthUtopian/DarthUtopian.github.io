@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-07-27T04:23:06+00:00",
-  "total_visits": 571,
-  "location_count": 259,
+  "updated_at": "2026-07-27T08:02:42+00:00",
+  "total_visits": 572,
+  "location_count": 260,
   "locations": [
     {
       "lat": 37.7749,
@@ -1921,6 +1921,16 @@
       "last_visit": "25-Jun-2026 18:31:09",
       "x": 29.573,
       "y": 27.193,
+      "size": 8.6
+    },
+    {
+      "lat": 39.746,
+      "lng": -75.5466,
+      "label": "United States, Delaware, Wilmington",
+      "visits": 1,
+      "last_visit": "27-Jul-2026 05:35:22",
+      "x": 29.015,
+      "y": 27.919,
       "size": 8.6
     },
     {
