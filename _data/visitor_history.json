@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-07-26T22:32:46+00:00",
-  "total_visits": 569,
-  "location_count": 257,
+  "updated_at": "2026-07-27T04:23:06+00:00",
+  "total_visits": 571,
+  "location_count": 259,
   "locations": [
     {
       "lat": 37.7749,
@@ -348,7 +348,7 @@
       "lng": 2.0,
       "label": "France, ,",
       "visits": 2,
-      "last_visit": "13-Jul-2026 22:23:01",
+      "last_visit": "27-Jul-2026 03:00:03",
       "x": 50.556,
       "y": 24.444,
       "size": 9.26
@@ -1648,7 +1648,7 @@
       "lng": -121.9886,
       "label": "United States, California, Fremont",
       "visits": 1,
-      "last_visit": "09-Jul-2026 01:58:17",
+      "last_visit": "26-Jul-2026 23:46:46",
       "x": 16.114,
       "y": 29.14,
       "size": 8.6
@@ -1851,6 +1851,16 @@
       "last_visit": "17-Jun-2026 22:51:51",
       "x": 16.068,
       "y": 29.063,
+      "size": 8.6
+    },
+    {
+      "lat": 37.7249,
+      "lng": -122.1561,
+      "label": "United States, California, San Leandro",
+      "visits": 1,
+      "last_visit": "26-Jul-2026 22:51:21",
+      "x": 16.068,
+      "y": 29.042,
       "size": 8.6
     },
     {
@@ -2351,6 +2361,16 @@
       "last_visit": "15-Jun-2026 02:53:51",
       "x": 27.798,
       "y": 27.475,
+      "size": 8.6
+    },
+    {
+      "lat": 40.3377,
+      "lng": -79.8428,
+      "label": "United States, Pennsylvania, Mckeesport",
+      "visits": 1,
+      "last_visit": "27-Jul-2026 03:57:38",
+      "x": 27.821,
+      "y": 27.59,
       "size": 8.6
     },
     {
