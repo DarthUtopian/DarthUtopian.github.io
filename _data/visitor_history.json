@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-27T21:41:15+00:00",
+  "updated_at": "2026-07-28T07:16:01+00:00",
   "total_visits": 572,
   "location_count": 260,
   "locations": [
@@ -158,7 +158,7 @@
       "lng": -95.5858,
       "label": "United States, Texas, Houston",
       "visits": 4,
-      "last_visit": "22-Jul-2026 23:56:28",
+      "last_visit": "28-Jul-2026 04:23:17",
       "x": 23.448,
       "y": 33.5,
       "size": 10.2
@@ -548,7 +548,7 @@
       "lng": -122.172,
       "label": "United States, California, Stanford",
       "visits": 2,
-      "last_visit": "17-Jun-2026 16:16:16",
+      "last_visit": "28-Jul-2026 04:22:42",
       "x": 16.063,
       "y": 29.212,
       "size": 9.26
@@ -1708,7 +1708,7 @@
       "lng": -122.1822,
       "label": "United States, California, Menlo Park",
       "visits": 1,
-      "last_visit": "24-Jul-2026 10:40:50",
+      "last_visit": "28-Jul-2026 05:50:44",
       "x": 16.061,
       "y": 29.192,
       "size": 8.6
