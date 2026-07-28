@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-07-28T07:16:01+00:00",
-  "total_visits": 572,
-  "location_count": 260,
+  "updated_at": "2026-07-28T16:59:56+00:00",
+  "total_visits": 578,
+  "location_count": 262,
   "locations": [
     {
       "lat": 37.7749,
@@ -92,6 +92,16 @@
       "x": 15.861,
       "y": 23.868,
       "size": 10.92
+    },
+    {
+      "lat": 40.2288,
+      "lng": -74.4551,
+      "label": "United States, New Jersey, Perrineville",
+      "visits": 5,
+      "last_visit": "28-Jul-2026 10:00:42",
+      "x": 29.318,
+      "y": 27.651,
+      "size": 10.58
     },
     {
       "lat": 40.4439,
@@ -578,7 +588,7 @@
       "lng": -104.9878,
       "label": "United States, Colorado, Englewood",
       "visits": 2,
-      "last_visit": "26-Jul-2026 21:25:38",
+      "last_visit": "28-Jul-2026 11:32:00",
       "x": 20.837,
       "y": 27.973,
       "size": 9.26
@@ -1011,6 +1021,16 @@
       "last_visit": "29-Jun-2026 11:12:22",
       "x": 82.204,
       "y": 34.139,
+      "size": 8.6
+    },
+    {
+      "lat": 41.7922,
+      "lng": 123.4328,
+      "label": "China, Liaoning, Shenyang",
+      "visits": 1,
+      "last_visit": "28-Jul-2026 11:18:41",
+      "x": 84.287,
+      "y": 26.782,
       "size": 8.6
     },
     {
@@ -1708,7 +1728,7 @@
       "lng": -122.1822,
       "label": "United States, California, Menlo Park",
       "visits": 1,
-      "last_visit": "28-Jul-2026 05:50:44",
+      "last_visit": "28-Jul-2026 11:23:24",
       "x": 16.061,
       "y": 29.192,
       "size": 8.6
@@ -1718,7 +1738,7 @@
       "lng": -122.1781,
       "label": "United States, California, Menlo Park",
       "visits": 1,
-      "last_visit": "24-Jul-2026 16:13:01",
+      "last_visit": "28-Jul-2026 13:14:06",
       "x": 16.062,
       "y": 29.189,
       "size": 8.6
