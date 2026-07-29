@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-07-29T12:30:36+00:00",
-  "total_visits": 587,
-  "location_count": 263,
+  "updated_at": "2026-07-29T15:10:04+00:00",
+  "total_visits": 588,
+  "location_count": 264,
   "locations": [
     {
       "lat": 37.7749,
@@ -911,6 +911,16 @@
       "last_visit": "14-Jul-2026 01:53:54",
       "x": 29.798,
       "y": 24.775,
+      "size": 8.6
+    },
+    {
+      "lat": 45.5,
+      "lng": -73.5833,
+      "label": "Canada, Quebec, Montr�al",
+      "visits": 1,
+      "last_visit": "29-Jul-2026 13:48:22",
+      "x": 29.56,
+      "y": 24.722,
       "size": 8.6
     },
     {
