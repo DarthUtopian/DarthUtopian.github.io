@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-29T22:29:39+00:00",
-  "total_visits": 588,
+  "updated_at": "2026-07-29T23:36:04+00:00",
+  "total_visits": 589,
   "location_count": 264,
   "locations": [
     {
@@ -731,6 +731,16 @@
       "last_visit": "17-Jun-2026 14:12:32",
       "x": 28.084,
       "y": 30.003,
+      "size": 9.26
+    },
+    {
+      "lat": 39.9649,
+      "lng": -83.1383,
+      "label": "United States, Ohio, Columbus",
+      "visits": 2,
+      "last_visit": "29-Jul-2026 22:35:57",
+      "x": 26.906,
+      "y": 27.797,
       "size": 9.26
     },
     {
@@ -2331,16 +2341,6 @@
       "last_visit": "09-Jul-2026 17:04:21",
       "x": 27.323,
       "y": 27.137,
-      "size": 8.6
-    },
-    {
-      "lat": 39.9649,
-      "lng": -83.1383,
-      "label": "United States, Ohio, Columbus",
-      "visits": 1,
-      "last_visit": "16-Jul-2026 21:20:38",
-      "x": 26.906,
-      "y": 27.797,
       "size": 8.6
     },
     {
