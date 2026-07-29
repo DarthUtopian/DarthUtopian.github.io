@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-29T00:58:35+00:00",
-  "total_visits": 578,
+  "updated_at": "2026-07-29T04:20:55+00:00",
+  "total_visits": 584,
   "location_count": 262,
   "locations": [
     {
@@ -34,11 +34,21 @@
       "size": 13.4
     },
     {
+      "lat": 40.2288,
+      "lng": -74.4551,
+      "label": "United States, New Jersey, Perrineville",
+      "visits": 11,
+      "last_visit": "29-Jul-2026 03:58:34",
+      "x": 29.318,
+      "y": 27.651,
+      "size": 12.31
+    },
+    {
       "lat": 39.9289,
       "lng": 116.3883,
       "label": "China, Beijing, Beijing",
       "visits": 9,
-      "last_visit": "27-Jul-2026 18:34:25",
+      "last_visit": "29-Jul-2026 02:38:44",
       "x": 82.33,
       "y": 27.817,
       "size": 11.8
@@ -94,21 +104,11 @@
       "size": 10.92
     },
     {
-      "lat": 40.2288,
-      "lng": -74.4551,
-      "label": "United States, New Jersey, Perrineville",
-      "visits": 5,
-      "last_visit": "28-Jul-2026 10:00:42",
-      "x": 29.318,
-      "y": 27.651,
-      "size": 10.58
-    },
-    {
       "lat": 40.4439,
       "lng": -79.9561,
       "label": "United States, Pennsylvania, Pittsburgh",
       "visits": 5,
-      "last_visit": "27-Jul-2026 20:56:10",
+      "last_visit": "29-Jul-2026 01:24:46",
       "x": 27.79,
       "y": 27.531,
       "size": 10.58
