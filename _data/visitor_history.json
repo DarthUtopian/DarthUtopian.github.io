@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-29T07:21:14+00:00",
-  "total_visits": 584,
+  "updated_at": "2026-07-29T10:09:54+00:00",
+  "total_visits": 586,
   "location_count": 262,
   "locations": [
     {
@@ -37,11 +37,11 @@
       "lat": 40.2288,
       "lng": -74.4551,
       "label": "United States, New Jersey, Perrineville",
-      "visits": 11,
-      "last_visit": "29-Jul-2026 03:58:34",
+      "visits": 13,
+      "last_visit": "29-Jul-2026 08:51:38",
       "x": 29.318,
       "y": 27.651,
-      "size": 12.31
+      "size": 12.77
     },
     {
       "lat": 39.9289,
@@ -768,7 +768,7 @@
       "lng": -122.1982,
       "label": "United States, Washington, Kent",
       "visits": 2,
-      "last_visit": "27-Jun-2026 23:08:14",
+      "last_visit": "29-Jul-2026 09:36:58",
       "x": 16.056,
       "y": 23.688,
       "size": 9.26
