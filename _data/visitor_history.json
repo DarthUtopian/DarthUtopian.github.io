@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-07-30T11:10:24+00:00",
-  "total_visits": 589,
-  "location_count": 264,
+  "updated_at": "2026-07-30T15:32:33+00:00",
+  "total_visits": 590,
+  "location_count": 265,
   "locations": [
     {
       "lat": 37.7749,
@@ -1391,6 +1391,16 @@
       "last_visit": "23-Jun-2026 04:26:26",
       "x": 73.699,
       "y": 34.602,
+      "size": 8.6
+    },
+    {
+      "lat": -41.3,
+      "lng": 174.7833,
+      "label": "New Zealand, Wellington, Wellington",
+      "visits": 1,
+      "last_visit": "30-Jul-2026 15:04:10",
+      "x": 98.551,
+      "y": 72.944,
       "size": 8.6
     },
     {
