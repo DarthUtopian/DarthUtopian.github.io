@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-07-31T07:23:07+00:00",
-  "total_visits": 593,
-  "location_count": 266,
+  "updated_at": "2026-07-31T15:02:01+00:00",
+  "total_visits": 594,
+  "location_count": 267,
   "locations": [
     {
       "lat": 37.7749,
@@ -2421,6 +2421,16 @@
       "last_visit": "15-Jun-2026 02:53:51",
       "x": 27.798,
       "y": 27.475,
+      "size": 8.6
+    },
+    {
+      "lat": 39.769,
+      "lng": -75.8002,
+      "label": "United States, Pennsylvania, Landenberg",
+      "visits": 1,
+      "last_visit": "31-Jul-2026 14:39:55",
+      "x": 28.944,
+      "y": 27.906,
       "size": 8.6
     },
     {
