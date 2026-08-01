@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-01T04:54:15+00:00",
-  "total_visits": 595,
-  "location_count": 268,
+  "updated_at": "2026-08-01T09:33:46+00:00",
+  "total_visits": 596,
+  "location_count": 269,
   "locations": [
     {
       "lat": 37.7749,
@@ -2641,6 +2641,16 @@
       "last_visit": "22-Jun-2026 17:42:23",
       "x": 16.078,
       "y": 23.511,
+      "size": 8.6
+    },
+    {
+      "lat": 47.6645,
+      "lng": -122.5101,
+      "label": "United States, Washington, Rollingbay",
+      "visits": 1,
+      "last_visit": "01-Aug-2026 05:39:57",
+      "x": 15.969,
+      "y": 23.52,
       "size": 8.6
     },
     {
