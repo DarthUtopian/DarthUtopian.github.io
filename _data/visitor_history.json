@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-01T09:33:46+00:00",
+  "updated_at": "2026-08-01T14:36:13+00:00",
   "total_visits": 596,
   "location_count": 269,
   "locations": [
@@ -818,7 +818,7 @@
       "lng": 105.85,
       "label": "Vietnam, Thai Nguyen, Ph� Y�n",
       "visits": 2,
-      "last_visit": "24-Jul-2026 00:50:44",
+      "last_visit": "01-Aug-2026 12:54:05",
       "x": 79.403,
       "y": 38.083,
       "size": 9.26
@@ -1078,7 +1078,7 @@
       "lng": 116.9972,
       "label": "China, Shandong, Jinan",
       "visits": 1,
-      "last_visit": "19-May-2026 23:52:24",
+      "last_visit": "01-Aug-2026 14:10:58",
       "x": 82.499,
       "y": 29.629,
       "size": 8.6
