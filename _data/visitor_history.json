@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-02T18:31:06+00:00",
-  "total_visits": 598,
+  "updated_at": "2026-08-03T13:43:25+00:00",
+  "total_visits": 599,
   "location_count": 271,
   "locations": [
     {
@@ -8,7 +8,7 @@
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
       "visits": 131,
-      "last_visit": "02-Aug-2026 00:06:03",
+      "last_visit": "03-Aug-2026 00:41:47",
       "x": 15.995,
       "y": 29.014,
       "size": 18.0
@@ -94,6 +94,16 @@
       "size": 10.92
     },
     {
+      "lat": 40.4439,
+      "lng": -79.9561,
+      "label": "United States, Pennsylvania, Pittsburgh",
+      "visits": 6,
+      "last_visit": "03-Aug-2026 02:53:27",
+      "x": 27.79,
+      "y": 27.531,
+      "size": 10.92
+    },
+    {
       "lat": 47.0379,
       "lng": -122.9007,
       "label": "United States, Washington, Olympia",
@@ -102,16 +112,6 @@
       "x": 15.861,
       "y": 23.868,
       "size": 10.92
-    },
-    {
-      "lat": 40.4439,
-      "lng": -79.9561,
-      "label": "United States, Pennsylvania, Pittsburgh",
-      "visits": 5,
-      "last_visit": "01-Aug-2026 19:19:33",
-      "x": 27.79,
-      "y": 27.531,
-      "size": 10.58
     },
     {
       "lat": 21.0333,
@@ -418,7 +418,7 @@
       "lng": 103.8558,
       "label": "Singapore, , Singapore",
       "visits": 2,
-      "last_visit": "06-Jul-2026 03:38:43",
+      "last_visit": "03-Aug-2026 13:20:25",
       "x": 78.849,
       "y": 49.282,
       "size": 9.26
@@ -568,7 +568,7 @@
       "lng": -122.172,
       "label": "United States, California, Stanford",
       "visits": 2,
-      "last_visit": "28-Jul-2026 04:22:42",
+      "last_visit": "03-Aug-2026 02:15:25",
       "x": 16.063,
       "y": 29.212,
       "size": 9.26
@@ -598,7 +598,7 @@
       "lng": -104.9878,
       "label": "United States, Colorado, Englewood",
       "visits": 2,
-      "last_visit": "02-Aug-2026 00:06:26",
+      "last_visit": "03-Aug-2026 00:44:43",
       "x": 20.837,
       "y": 27.973,
       "size": 9.26
