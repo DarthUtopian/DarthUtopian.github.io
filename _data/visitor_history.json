@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-04T10:43:21+00:00",
-  "total_visits": 601,
-  "location_count": 272,
+  "updated_at": "2026-08-04T15:56:25+00:00",
+  "total_visits": 602,
+  "location_count": 273,
   "locations": [
     {
       "lat": 37.7749,
@@ -178,7 +178,7 @@
       "lng": -75.7,
       "label": "Canada, Ontario, Ottawa",
       "visits": 3,
-      "last_visit": "04-Aug-2026 02:34:22",
+      "last_visit": "04-Aug-2026 12:49:58",
       "x": 28.972,
       "y": 24.769,
       "size": 9.77
@@ -2331,6 +2331,16 @@
       "last_visit": "19-Jun-2026 19:20:07",
       "x": 29.348,
       "y": 27.415,
+      "size": 8.6
+    },
+    {
+      "lat": 40.5525,
+      "lng": -74.2915,
+      "label": "United States, New Jersey, Woodbridge",
+      "visits": 1,
+      "last_visit": "04-Aug-2026 15:06:50",
+      "x": 29.363,
+      "y": 27.471,
       "size": 8.6
     },
     {
