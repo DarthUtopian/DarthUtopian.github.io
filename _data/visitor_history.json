@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04T07:42:08+00:00",
+  "updated_at": "2026-08-04T10:43:21+00:00",
   "total_visits": 601,
   "location_count": 272,
   "locations": [
@@ -198,7 +198,7 @@
       "lng": 126.9783,
       "label": "Korea, Republic of, Seoul-t'ukpyolsi, Seoul",
       "visits": 3,
-      "last_visit": "09-Jul-2026 16:10:23",
+      "last_visit": "04-Aug-2026 08:04:27",
       "x": 85.272,
       "y": 29.112,
       "size": 9.77
@@ -318,7 +318,7 @@
       "lng": -122.3321,
       "label": "United States, Washington, Seattle",
       "visits": 3,
-      "last_visit": "28-Jul-2026 22:40:35",
+      "last_visit": "04-Aug-2026 09:00:22",
       "x": 16.019,
       "y": 23.552,
       "size": 9.77
