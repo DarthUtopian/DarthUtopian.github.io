@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T06:31:27+00:00",
+  "updated_at": "2026-08-05T16:45:25+00:00",
   "total_visits": 603,
   "location_count": 274,
   "locations": [
@@ -188,7 +188,7 @@
       "lng": 10.3949,
       "label": "Denmark, Syddanmark, Odense",
       "visits": 3,
-      "last_visit": "15-Jun-2026 12:23:01",
+      "last_visit": "05-Aug-2026 16:35:49",
       "x": 52.887,
       "y": 19.226,
       "size": 9.77
