@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-06T04:15:48+00:00",
-  "total_visits": 603,
-  "location_count": 274,
+  "updated_at": "2026-08-06T10:09:44+00:00",
+  "total_visits": 605,
+  "location_count": 275,
   "locations": [
     {
       "lat": 37.7749,
@@ -88,7 +88,7 @@
       "lng": -121.8705,
       "label": "United States, California, Milpitas",
       "visits": 6,
-      "last_visit": "03-Aug-2026 14:34:16",
+      "last_visit": "06-Aug-2026 09:36:37",
       "x": 16.147,
       "y": 29.2,
       "size": 10.92
@@ -221,6 +221,16 @@
       "last_visit": "23-Jul-2026 13:45:52",
       "x": 54.227,
       "y": 17.065,
+      "size": 9.77
+    },
+    {
+      "lat": 37.8668,
+      "lng": -122.2536,
+      "label": "United States, California, Berkeley",
+      "visits": 3,
+      "last_visit": "06-Aug-2026 07:29:43",
+      "x": 16.041,
+      "y": 28.963,
       "size": 9.77
     },
     {
@@ -461,16 +471,6 @@
       "last_visit": "26-Jun-2026 01:03:19",
       "x": 49.653,
       "y": 21.25,
-      "size": 9.26
-    },
-    {
-      "lat": 37.8668,
-      "lng": -122.2536,
-      "label": "United States, California, Berkeley",
-      "visits": 2,
-      "last_visit": "05-Aug-2026 17:59:47",
-      "x": 16.041,
-      "y": 28.963,
       "size": 9.26
     },
     {
@@ -2031,6 +2031,16 @@
       "last_visit": "06-Jul-2026 12:07:58",
       "x": 27.0,
       "y": 34.463,
+      "size": 8.6
+    },
+    {
+      "lat": 30.3322,
+      "lng": -81.6556,
+      "label": "United States, Florida, Jacksonville",
+      "visits": 1,
+      "last_visit": "06-Aug-2026 08:27:17",
+      "x": 27.318,
+      "y": 33.149,
       "size": 8.6
     },
     {
