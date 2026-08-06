@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-06T00:52:01+00:00",
+  "updated_at": "2026-08-06T04:15:48+00:00",
   "total_visits": 603,
   "location_count": 274,
   "locations": [
@@ -48,7 +48,7 @@
       "lng": 116.3883,
       "label": "China, Beijing, Beijing",
       "visits": 9,
-      "last_visit": "04-Aug-2026 05:29:53",
+      "last_visit": "06-Aug-2026 03:49:52",
       "x": 82.33,
       "y": 27.817,
       "size": 11.8
@@ -338,7 +338,7 @@
       "lng": 105.0,
       "label": "China, ,",
       "visits": 2,
-      "last_visit": "25-Jul-2026 15:11:13",
+      "last_visit": "06-Aug-2026 04:00:10",
       "x": 79.167,
       "y": 30.556,
       "size": 9.26
