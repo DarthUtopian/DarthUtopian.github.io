@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-06T10:09:44+00:00",
+  "updated_at": "2026-08-07T00:25:17+00:00",
   "total_visits": 605,
   "location_count": 275,
   "locations": [
@@ -8,7 +8,7 @@
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
       "visits": 131,
-      "last_visit": "05-Aug-2026 21:54:05",
+      "last_visit": "06-Aug-2026 22:54:18",
       "x": 15.995,
       "y": 29.014,
       "size": 18.0
@@ -1088,7 +1088,7 @@
       "lng": 116.9972,
       "label": "China, Shandong, Jinan",
       "visits": 1,
-      "last_visit": "01-Aug-2026 14:10:58",
+      "last_visit": "06-Aug-2026 18:43:26",
       "x": 82.499,
       "y": 29.629,
       "size": 8.6
