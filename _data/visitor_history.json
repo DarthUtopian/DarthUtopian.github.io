@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-07T00:25:17+00:00",
-  "total_visits": 605,
+  "updated_at": "2026-08-07T05:43:11+00:00",
+  "total_visits": 606,
   "location_count": 275,
   "locations": [
     {
@@ -84,6 +84,16 @@
       "size": 11.23
     },
     {
+      "lat": 40.4439,
+      "lng": -79.9561,
+      "label": "United States, Pennsylvania, Pittsburgh",
+      "visits": 7,
+      "last_visit": "07-Aug-2026 03:41:36",
+      "x": 27.79,
+      "y": 27.531,
+      "size": 11.23
+    },
+    {
       "lat": 37.4404,
       "lng": -121.8705,
       "label": "United States, California, Milpitas",
@@ -91,16 +101,6 @@
       "last_visit": "06-Aug-2026 09:36:37",
       "x": 16.147,
       "y": 29.2,
-      "size": 10.92
-    },
-    {
-      "lat": 40.4439,
-      "lng": -79.9561,
-      "label": "United States, Pennsylvania, Pittsburgh",
-      "visits": 6,
-      "last_visit": "03-Aug-2026 20:08:16",
-      "x": 27.79,
-      "y": 27.531,
       "size": 10.92
     },
     {
@@ -168,7 +168,7 @@
       "lng": -95.5858,
       "label": "United States, Texas, Houston",
       "visits": 4,
-      "last_visit": "30-Jul-2026 17:43:17",
+      "last_visit": "07-Aug-2026 01:12:48",
       "x": 23.448,
       "y": 33.5,
       "size": 10.2
@@ -598,7 +598,7 @@
       "lng": -104.9878,
       "label": "United States, Colorado, Englewood",
       "visits": 2,
-      "last_visit": "05-Aug-2026 18:40:05",
+      "last_visit": "07-Aug-2026 02:22:10",
       "x": 20.837,
       "y": 27.973,
       "size": 9.26
@@ -1558,7 +1558,7 @@
       "lng": -0.13,
       "label": "United Kingdom, ,",
       "visits": 1,
-      "last_visit": "05-Aug-2026 03:35:47",
+      "last_visit": "07-Aug-2026 02:15:23",
       "x": 49.964,
       "y": 21.389,
       "size": 8.6
