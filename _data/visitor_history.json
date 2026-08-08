@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-08T20:34:29+00:00",
-  "total_visits": 608,
-  "location_count": 276,
+  "updated_at": "2026-08-08T22:33:15+00:00",
+  "total_visits": 609,
+  "location_count": 277,
   "locations": [
     {
       "lat": 37.7749,
@@ -2601,6 +2601,16 @@
       "last_visit": "16-Jun-2026 17:49:38",
       "x": 23.131,
       "y": 31.695,
+      "size": 8.6
+    },
+    {
+      "lat": 32.9513,
+      "lng": -96.7154,
+      "label": "United States, Texas, Richardson",
+      "visits": 1,
+      "last_visit": "08-Aug-2026 22:10:39",
+      "x": 23.135,
+      "y": 31.694,
       "size": 8.6
     },
     {
