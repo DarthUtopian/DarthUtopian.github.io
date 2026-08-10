@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T10:44:35+00:00",
+  "updated_at": "2026-08-10T11:50:30+00:00",
   "total_visits": 609,
   "location_count": 277,
   "locations": [
@@ -478,7 +478,7 @@
       "lng": -117.1938,
       "label": "United States, California, Bonsall",
       "visits": 2,
-      "last_visit": "27-Jul-2026 08:29:37",
+      "last_visit": "10-Aug-2026 11:49:45",
       "x": 17.446,
       "y": 31.507,
       "size": 9.26
@@ -488,7 +488,7 @@
       "lng": -122.371,
       "label": "United States, California, Burlingame",
       "visits": 2,
-      "last_visit": "24-Jul-2026 20:54:42",
+      "last_visit": "10-Aug-2026 11:19:36",
       "x": 16.008,
       "y": 29.129,
       "size": 9.26
