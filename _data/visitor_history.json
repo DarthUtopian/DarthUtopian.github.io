@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-10T18:25:13+00:00",
-  "total_visits": 609,
-  "location_count": 277,
+  "updated_at": "2026-08-11T02:01:17+00:00",
+  "total_visits": 610,
+  "location_count": 278,
   "locations": [
     {
       "lat": 37.7749,
@@ -378,7 +378,7 @@
       "lng": 2.0,
       "label": "France, ,",
       "visits": 2,
-      "last_visit": "27-Jul-2026 03:00:03",
+      "last_visit": "11-Aug-2026 00:05:40",
       "x": 50.556,
       "y": 24.444,
       "size": 9.26
@@ -911,6 +911,16 @@
       "last_visit": "21-Jul-2026 06:50:05",
       "x": 15.796,
       "y": 22.639,
+      "size": 8.6
+    },
+    {
+      "lat": 50.45,
+      "lng": -119.1833,
+      "label": "Canada, British Columbia, Armstrong",
+      "visits": 1,
+      "last_visit": "11-Aug-2026 00:01:47",
+      "x": 16.894,
+      "y": 21.972,
       "size": 8.6
     },
     {
