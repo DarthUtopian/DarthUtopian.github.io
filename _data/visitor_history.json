@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T04:01:37+00:00",
+  "updated_at": "2026-08-11T08:30:19+00:00",
   "total_visits": 610,
   "location_count": 278,
   "locations": [
@@ -1208,7 +1208,7 @@
       "lng": 11.5833,
       "label": "Germany, Bayern, Munich",
       "visits": 1,
-      "last_visit": "17-Jun-2026 14:00:52",
+      "last_visit": "11-Aug-2026 07:58:52",
       "x": 53.218,
       "y": 23.25,
       "size": 8.6
@@ -1268,7 +1268,7 @@
       "lng": 114.15,
       "label": "Hong Kong, , Central District",
       "visits": 1,
-      "last_visit": "29-Jul-2026 11:14:16",
+      "last_visit": "11-Aug-2026 07:41:22",
       "x": 81.708,
       "y": 37.62,
       "size": 8.6
