@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-12T02:16:43+00:00",
-  "total_visits": 611,
-  "location_count": 279,
+  "updated_at": "2026-08-12T04:22:32+00:00",
+  "total_visits": 612,
+  "location_count": 280,
   "locations": [
     {
       "lat": 37.7749,
@@ -2531,6 +2531,16 @@
       "last_visit": "27-Jul-2026 03:57:38",
       "x": 27.821,
       "y": 27.59,
+      "size": 8.6
+    },
+    {
+      "lat": 41.0285,
+      "lng": -79.3372,
+      "label": "United States, Pennsylvania, New Bethlehem",
+      "visits": 1,
+      "last_visit": "12-Aug-2026 02:25:55",
+      "x": 27.962,
+      "y": 27.206,
       "size": 8.6
     },
     {
