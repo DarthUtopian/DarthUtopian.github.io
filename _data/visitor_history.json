@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T05:17:58+00:00",
+  "updated_at": "2026-08-13T06:57:02+00:00",
   "total_visits": 612,
   "location_count": 280,
   "locations": [
@@ -368,7 +368,7 @@
       "lng": 10.0,
       "label": "Denmark, ,",
       "visits": 2,
-      "last_visit": "21-Jul-2026 22:06:14",
+      "last_visit": "13-Aug-2026 06:15:00",
       "x": 52.778,
       "y": 18.889,
       "size": 9.26
@@ -608,7 +608,7 @@
       "lng": -104.9878,
       "label": "United States, Colorado, Englewood",
       "visits": 2,
-      "last_visit": "10-Aug-2026 00:46:35",
+      "last_visit": "13-Aug-2026 06:38:24",
       "x": 20.837,
       "y": 27.973,
       "size": 9.26
