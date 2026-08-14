@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-14T16:58:58+00:00",
-  "total_visits": 614,
+  "updated_at": "2026-08-14T17:58:54+00:00",
+  "total_visits": 615,
   "location_count": 282,
   "locations": [
     {
@@ -231,6 +231,16 @@
       "last_visit": "06-Aug-2026 07:29:43",
       "x": 16.041,
       "y": 28.963,
+      "size": 9.77
+    },
+    {
+      "lat": 37.5671,
+      "lng": -122.371,
+      "label": "United States, California, Burlingame",
+      "visits": 3,
+      "last_visit": "14-Aug-2026 17:26:27",
+      "x": 16.008,
+      "y": 29.129,
       "size": 9.77
     },
     {
@@ -484,16 +494,6 @@
       "size": 9.26
     },
     {
-      "lat": 37.5671,
-      "lng": -122.371,
-      "label": "United States, California, Burlingame",
-      "visits": 2,
-      "last_visit": "14-Aug-2026 16:57:47",
-      "x": 16.008,
-      "y": 29.129,
-      "size": 9.26
-    },
-    {
       "lat": 33.1581,
       "lng": -117.3506,
       "label": "United States, California, Carlsbad",
@@ -638,7 +638,7 @@
       "lng": -84.4635,
       "label": "United States, Georgia, Atlanta",
       "visits": 2,
-      "last_visit": "12-Aug-2026 16:00:59",
+      "last_visit": "14-Aug-2026 17:57:10",
       "x": 26.538,
       "y": 31.183,
       "size": 9.26
