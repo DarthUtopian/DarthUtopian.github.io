@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-14T05:56:51+00:00",
-  "total_visits": 613,
-  "location_count": 281,
+  "updated_at": "2026-08-14T07:43:09+00:00",
+  "total_visits": 614,
+  "location_count": 282,
   "locations": [
     {
       "lat": 37.7749,
@@ -1668,7 +1668,7 @@
       "lng": -122.2728,
       "label": "United States, California, Berkeley",
       "visits": 1,
-      "last_visit": "31-Jul-2026 05:07:08",
+      "last_visit": "14-Aug-2026 07:03:49",
       "x": 16.035,
       "y": 28.96,
       "size": 8.6
@@ -2091,6 +2091,16 @@
       "last_visit": "24-Jun-2026 09:06:04",
       "x": 26.65,
       "y": 31.328,
+      "size": 8.6
+    },
+    {
+      "lat": 34.0029,
+      "lng": -84.1446,
+      "label": "United States, Georgia, Duluth",
+      "visits": 1,
+      "last_visit": "14-Aug-2026 06:55:38",
+      "x": 26.627,
+      "y": 31.11,
       "size": 8.6
     },
     {
