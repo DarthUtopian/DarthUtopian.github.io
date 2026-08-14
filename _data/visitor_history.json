@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-13T20:53:40+00:00",
-  "total_visits": 612,
-  "location_count": 280,
+  "updated_at": "2026-08-14T04:23:13+00:00",
+  "total_visits": 613,
+  "location_count": 281,
   "locations": [
     {
       "lat": 37.7749,
@@ -2391,6 +2391,16 @@
       "last_visit": "16-Jun-2026 23:29:40",
       "x": 28.755,
       "y": 26.418,
+      "size": 8.6
+    },
+    {
+      "lat": 41.0965,
+      "lng": -74.0093,
+      "label": "United States, New York, Nanuet",
+      "visits": 1,
+      "last_visit": "14-Aug-2026 03:04:59",
+      "x": 29.442,
+      "y": 27.169,
       "size": 8.6
     },
     {
