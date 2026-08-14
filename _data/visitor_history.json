@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-14T20:03:42+00:00",
-  "total_visits": 616,
-  "location_count": 283,
+  "updated_at": "2026-08-14T20:56:36+00:00",
+  "total_visits": 617,
+  "location_count": 284,
   "locations": [
     {
       "lat": 37.7749,
@@ -608,7 +608,7 @@
       "lng": -104.9878,
       "label": "United States, Colorado, Englewood",
       "visits": 2,
-      "last_visit": "13-Aug-2026 06:38:24",
+      "last_visit": "14-Aug-2026 20:15:30",
       "x": 20.837,
       "y": 27.973,
       "size": 9.26
@@ -2431,6 +2431,16 @@
       "last_visit": "10-Aug-2026 00:38:29",
       "x": 29.448,
       "y": 27.371,
+      "size": 8.6
+    },
+    {
+      "lat": 40.7214,
+      "lng": -74.0052,
+      "label": "United States, New York, New York",
+      "visits": 1,
+      "last_visit": "14-Aug-2026 20:15:25",
+      "x": 29.443,
+      "y": 27.377,
       "size": 8.6
     },
     {
