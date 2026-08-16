@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-16T11:46:48+00:00",
-  "total_visits": 620,
-  "location_count": 287,
+  "updated_at": "2026-08-16T13:33:55+00:00",
+  "total_visits": 621,
+  "location_count": 288,
   "locations": [
     {
       "lat": 37.7749,
@@ -1101,6 +1101,16 @@
       "last_visit": "06-Jul-2026 00:43:01",
       "x": 79.52,
       "y": 28.629,
+      "size": 8.6
+    },
+    {
+      "lat": 34.2583,
+      "lng": 108.9286,
+      "label": "China, Shaanxi, Xian",
+      "visits": 1,
+      "last_visit": "16-Aug-2026 13:31:16",
+      "x": 80.258,
+      "y": 30.968,
       "size": 8.6
     },
     {
