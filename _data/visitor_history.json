@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-16T06:45:55+00:00",
-  "total_visits": 619,
-  "location_count": 286,
+  "updated_at": "2026-08-16T07:34:33+00:00",
+  "total_visits": 620,
+  "location_count": 287,
   "locations": [
     {
       "lat": 37.7749,
@@ -1111,6 +1111,16 @@
       "last_visit": "06-Aug-2026 18:43:26",
       "x": 82.499,
       "y": 29.629,
+      "size": 8.6
+    },
+    {
+      "lat": 37.7269,
+      "lng": 112.4708,
+      "label": "China, Shanxi, Taiyuan",
+      "visits": 1,
+      "last_visit": "16-Aug-2026 07:31:31",
+      "x": 81.242,
+      "y": 29.041,
       "size": 8.6
     },
     {
