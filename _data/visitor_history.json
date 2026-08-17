@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-16T18:34:14+00:00",
-  "total_visits": 621,
-  "location_count": 288,
+  "updated_at": "2026-08-17T01:35:46+00:00",
+  "total_visits": 622,
+  "location_count": 289,
   "locations": [
     {
       "lat": 37.7749,
@@ -2181,6 +2181,16 @@
       "last_visit": "02-Aug-2026 00:05:10",
       "x": 25.643,
       "y": 26.634,
+      "size": 8.6
+    },
+    {
+      "lat": 41.885,
+      "lng": -87.7845,
+      "label": "United States, Illinois, Oak Park",
+      "visits": 1,
+      "last_visit": "16-Aug-2026 23:53:00",
+      "x": 25.615,
+      "y": 26.731,
       "size": 8.6
     },
     {
