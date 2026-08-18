@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-18T17:30:33+00:00",
-  "total_visits": 623,
-  "location_count": 290,
+  "updated_at": "2026-08-18T19:30:19+00:00",
+  "total_visits": 624,
+  "location_count": 291,
   "locations": [
     {
       "lat": 37.7749,
@@ -1104,6 +1104,16 @@
       "size": 8.6
     },
     {
+      "lat": 36.6167,
+      "lng": 101.7667,
+      "label": "China, Qinghai, Xining",
+      "visits": 1,
+      "last_visit": "18-Aug-2026 18:59:37",
+      "x": 78.269,
+      "y": 29.657,
+      "size": 8.6
+    },
+    {
       "lat": 34.2583,
       "lng": 108.9286,
       "label": "China, Shaanxi, Xian",
@@ -1338,7 +1348,7 @@
       "lng": 77.0333,
       "label": "India, Haryana, Gurgaon",
       "visits": 1,
-      "last_visit": "23-Jun-2026 04:58:50",
+      "last_visit": "18-Aug-2026 19:19:43",
       "x": 71.398,
       "y": 34.185,
       "size": 8.6
