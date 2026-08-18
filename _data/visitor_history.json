@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-18T05:32:59+00:00",
-  "total_visits": 622,
-  "location_count": 289,
+  "updated_at": "2026-08-18T06:49:51+00:00",
+  "total_visits": 623,
+  "location_count": 290,
   "locations": [
     {
       "lat": 37.7749,
@@ -2491,6 +2491,16 @@
       "last_visit": "14-Aug-2026 20:15:25",
       "x": 29.443,
       "y": 27.377,
+      "size": 8.6
+    },
+    {
+      "lat": 40.7168,
+      "lng": -73.9861,
+      "label": "United States, New York, New York",
+      "visits": 1,
+      "last_visit": "18-Aug-2026 06:41:23",
+      "x": 29.448,
+      "y": 27.38,
       "size": 8.6
     },
     {
