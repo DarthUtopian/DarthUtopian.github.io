@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T21:28:56+00:00",
+  "updated_at": "2026-08-19T21:53:55+00:00",
   "total_visits": 625,
   "location_count": 292,
   "locations": [
@@ -758,7 +758,7 @@
       "lng": -83.1383,
       "label": "United States, Ohio, Columbus",
       "visits": 2,
-      "last_visit": "15-Aug-2026 00:03:44",
+      "last_visit": "19-Aug-2026 21:38:43",
       "x": 26.906,
       "y": 27.797,
       "size": 9.26
