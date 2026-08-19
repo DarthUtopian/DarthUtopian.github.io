@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-19T21:53:55+00:00",
-  "total_visits": 625,
-  "location_count": 292,
+  "updated_at": "2026-08-19T22:53:51+00:00",
+  "total_visits": 626,
+  "location_count": 293,
   "locations": [
     {
       "lat": 37.7749,
@@ -901,6 +901,16 @@
       "last_visit": "01-Jun-2026 18:07:25",
       "x": 18.31,
       "y": 21.62,
+      "size": 8.6
+    },
+    {
+      "lat": 53.55,
+      "lng": -113.5,
+      "label": "Canada, Alberta, Edmonton",
+      "visits": 1,
+      "last_visit": "19-Aug-2026 22:46:11",
+      "x": 18.472,
+      "y": 20.25,
       "size": 8.6
     },
     {
