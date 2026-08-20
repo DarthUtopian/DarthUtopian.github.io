@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-19T23:26:02+00:00",
-  "total_visits": 626,
-  "location_count": 293,
+  "updated_at": "2026-08-20T03:50:08+00:00",
+  "total_visits": 628,
+  "location_count": 294,
   "locations": [
     {
       "lat": 37.7749,
@@ -484,6 +484,16 @@
       "size": 9.26
     },
     {
+      "lat": 37.8716,
+      "lng": -122.2728,
+      "label": "United States, California, Berkeley",
+      "visits": 2,
+      "last_visit": "20-Aug-2026 02:43:32",
+      "x": 16.035,
+      "y": 28.96,
+      "size": 9.26
+    },
+    {
       "lat": 33.288,
       "lng": -117.1938,
       "label": "United States, California, Bonsall",
@@ -881,6 +891,16 @@
       "last_visit": "18-Jun-2026 06:11:56",
       "x": 53.704,
       "y": 23.704,
+      "size": 8.6
+    },
+    {
+      "lat": -22.9,
+      "lng": -43.2333,
+      "label": "Brazil, Rio de Janeiro, Rio De Janeiro",
+      "visits": 1,
+      "last_visit": "20-Aug-2026 02:43:54",
+      "x": 37.991,
+      "y": 62.722,
       "size": 8.6
     },
     {
@@ -1711,16 +1731,6 @@
       "last_visit": "17-Jun-2026 06:49:52",
       "x": 16.176,
       "y": 28.907,
-      "size": 8.6
-    },
-    {
-      "lat": 37.8716,
-      "lng": -122.2728,
-      "label": "United States, California, Berkeley",
-      "visits": 1,
-      "last_visit": "14-Aug-2026 07:03:49",
-      "x": 16.035,
-      "y": 28.96,
       "size": 8.6
     },
     {
@@ -2618,7 +2628,7 @@
       "lng": -80.1842,
       "label": "United States, Pennsylvania, Coraopolis",
       "visits": 1,
-      "last_visit": "17-Jun-2026 12:54:26",
+      "last_visit": "20-Aug-2026 03:11:41",
       "x": 27.727,
       "y": 27.5,
       "size": 8.6
