@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-21T13:49:21+00:00",
-  "total_visits": 630,
+  "updated_at": "2026-08-21T16:38:44+00:00",
+  "total_visits": 631,
   "location_count": 296,
   "locations": [
     {
@@ -791,6 +791,16 @@
       "last_visit": "14-Jul-2026 13:20:52",
       "x": 27.747,
       "y": 27.552,
+      "size": 9.26
+    },
+    {
+      "lat": 40.5084,
+      "lng": -78.7846,
+      "label": "United States, Pennsylvania, Ebensburg",
+      "visits": 2,
+      "last_visit": "21-Aug-2026 15:41:00",
+      "x": 28.115,
+      "y": 27.495,
       "size": 9.26
     },
     {
@@ -2641,16 +2651,6 @@
       "last_visit": "20-Aug-2026 03:11:41",
       "x": 27.727,
       "y": 27.5,
-      "size": 8.6
-    },
-    {
-      "lat": 40.5084,
-      "lng": -78.7846,
-      "label": "United States, Pennsylvania, Ebensburg",
-      "visits": 1,
-      "last_visit": "21-Aug-2026 03:01:38",
-      "x": 28.115,
-      "y": 27.495,
       "size": 8.6
     },
     {
