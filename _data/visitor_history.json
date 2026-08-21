@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-21T16:38:44+00:00",
-  "total_visits": 631,
-  "location_count": 296,
+  "updated_at": "2026-08-21T21:28:15+00:00",
+  "total_visits": 632,
+  "location_count": 297,
   "locations": [
     {
       "lat": 37.7749,
@@ -168,7 +168,7 @@
       "lng": -95.5858,
       "label": "United States, Texas, Houston",
       "visits": 4,
-      "last_visit": "18-Aug-2026 04:52:46",
+      "last_visit": "21-Aug-2026 21:16:36",
       "x": 23.448,
       "y": 33.5,
       "size": 10.2
@@ -2711,6 +2711,16 @@
       "last_visit": "15-Jul-2026 23:13:06",
       "x": 27.792,
       "y": 27.515,
+      "size": 8.6
+    },
+    {
+      "lat": 40.431,
+      "lng": -79.9227,
+      "label": "United States, Pennsylvania, Pittsburgh",
+      "visits": 1,
+      "last_visit": "21-Aug-2026 20:33:32",
+      "x": 27.799,
+      "y": 27.538,
       "size": 8.6
     },
     {
