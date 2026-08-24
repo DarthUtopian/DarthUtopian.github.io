@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T19:32:24+00:00",
+  "updated_at": "2026-08-24T21:33:18+00:00",
   "total_visits": 637,
   "location_count": 300,
   "locations": [
@@ -8,7 +8,7 @@
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
       "visits": 131,
-      "last_visit": "24-Aug-2026 05:19:38",
+      "last_visit": "24-Aug-2026 20:46:07",
       "x": 15.995,
       "y": 29.014,
       "size": 18.0
@@ -18,7 +18,7 @@
       "lng": -121.895,
       "label": "United States, California, San Jose",
       "visits": 29,
-      "last_visit": "24-Aug-2026 00:18:39",
+      "last_visit": "24-Aug-2026 20:48:17",
       "x": 16.14,
       "y": 29.256,
       "size": 15.62
