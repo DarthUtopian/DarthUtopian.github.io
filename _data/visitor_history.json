@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-24T07:38:22+00:00",
-  "total_visits": 634,
-  "location_count": 298,
+  "updated_at": "2026-08-24T08:52:37+00:00",
+  "total_visits": 636,
+  "location_count": 299,
   "locations": [
     {
       "lat": 37.7749,
@@ -338,7 +338,7 @@
       "lng": -122.3321,
       "label": "United States, Washington, Seattle",
       "visits": 3,
-      "last_visit": "04-Aug-2026 09:00:22",
+      "last_visit": "24-Aug-2026 07:57:31",
       "x": 16.019,
       "y": 23.552,
       "size": 9.77
@@ -431,6 +431,16 @@
       "last_visit": "15-Aug-2026 17:55:16",
       "x": 88.333,
       "y": 30.0,
+      "size": 9.26
+    },
+    {
+      "lat": 48.0,
+      "lng": 68.0,
+      "label": "Kazakstan, ,",
+      "visits": 2,
+      "last_visit": "24-Aug-2026 07:59:12",
+      "x": 68.889,
+      "y": 23.333,
       "size": 9.26
     },
     {
