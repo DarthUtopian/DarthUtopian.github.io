@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T21:33:18+00:00",
+  "updated_at": "2026-08-24T22:30:16+00:00",
   "total_visits": 637,
   "location_count": 300,
   "locations": [
@@ -18,7 +18,7 @@
       "lng": -121.895,
       "label": "United States, California, San Jose",
       "visits": 29,
-      "last_visit": "24-Aug-2026 20:48:17",
+      "last_visit": "24-Aug-2026 21:49:33",
       "x": 16.14,
       "y": 29.256,
       "size": 15.62
@@ -598,7 +598,7 @@
       "lng": -122.172,
       "label": "United States, California, Stanford",
       "visits": 2,
-      "last_visit": "03-Aug-2026 02:15:25",
+      "last_visit": "24-Aug-2026 22:14:36",
       "x": 16.063,
       "y": 29.212,
       "size": 9.26
