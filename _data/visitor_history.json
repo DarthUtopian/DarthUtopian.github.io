@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-24T06:04:23+00:00",
-  "total_visits": 633,
+  "updated_at": "2026-08-24T07:38:22+00:00",
+  "total_visits": 634,
   "location_count": 298,
   "locations": [
     {
@@ -821,6 +821,16 @@
       "last_visit": "20-Aug-2026 07:30:32",
       "x": 27.823,
       "y": 27.522,
+      "size": 9.26
+    },
+    {
+      "lat": 40.431,
+      "lng": -79.9227,
+      "label": "United States, Pennsylvania, Pittsburgh",
+      "visits": 2,
+      "last_visit": "24-Aug-2026 06:12:03",
+      "x": 27.799,
+      "y": 27.538,
       "size": 9.26
     },
     {
@@ -2721,16 +2731,6 @@
       "last_visit": "15-Jul-2026 23:13:06",
       "x": 27.792,
       "y": 27.515,
-      "size": 8.6
-    },
-    {
-      "lat": 40.431,
-      "lng": -79.9227,
-      "label": "United States, Pennsylvania, Pittsburgh",
-      "visits": 1,
-      "last_visit": "21-Aug-2026 20:33:32",
-      "x": 27.799,
-      "y": 27.538,
       "size": 8.6
     },
     {
