@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-24T08:52:37+00:00",
-  "total_visits": 636,
-  "location_count": 299,
+  "updated_at": "2026-08-24T12:57:33+00:00",
+  "total_visits": 637,
+  "location_count": 300,
   "locations": [
     {
       "lat": 37.7749,
@@ -238,7 +238,7 @@
       "lng": -122.371,
       "label": "United States, California, Burlingame",
       "visits": 3,
-      "last_visit": "14-Aug-2026 17:26:27",
+      "last_visit": "24-Aug-2026 11:39:24",
       "x": 16.008,
       "y": 29.129,
       "size": 9.77
@@ -258,7 +258,7 @@
       "lng": -117.1573,
       "label": "United States, California, San Diego",
       "visits": 3,
-      "last_visit": "17-Aug-2026 06:50:09",
+      "last_visit": "24-Aug-2026 09:43:08",
       "x": 17.456,
       "y": 31.825,
       "size": 9.77
@@ -268,7 +268,7 @@
       "lng": -121.978,
       "label": "United States, California, San Ramon",
       "visits": 3,
-      "last_visit": "24-Jul-2026 20:27:18",
+      "last_visit": "24-Aug-2026 10:10:40",
       "x": 16.117,
       "y": 29.011,
       "size": 9.77
@@ -508,7 +508,7 @@
       "lng": -117.1938,
       "label": "United States, California, Bonsall",
       "visits": 2,
-      "last_visit": "10-Aug-2026 11:49:45",
+      "last_visit": "24-Aug-2026 10:40:00",
       "x": 17.446,
       "y": 31.507,
       "size": 9.26
@@ -1144,6 +1144,16 @@
       "size": 8.6
     },
     {
+      "lat": 32.2109,
+      "lng": 119.4551,
+      "label": "China, Jiangsu, Zhenjiang",
+      "visits": 1,
+      "last_visit": "24-Aug-2026 11:14:38",
+      "x": 83.182,
+      "y": 32.105,
+      "size": 8.6
+    },
+    {
       "lat": 28.55,
       "lng": 115.9333,
       "label": "China, Jiangxi, Nanchang",
@@ -1548,7 +1558,7 @@
       "lng": 5.75,
       "label": "Netherlands, ,",
       "visits": 1,
-      "last_visit": "14-Aug-2026 19:32:04",
+      "last_visit": "24-Aug-2026 10:33:55",
       "x": 51.597,
       "y": 20.833,
       "size": 8.6
