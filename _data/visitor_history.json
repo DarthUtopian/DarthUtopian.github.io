@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-25T02:42:34+00:00",
-  "total_visits": 638,
-  "location_count": 301,
+  "updated_at": "2026-08-25T03:51:43+00:00",
+  "total_visits": 639,
+  "location_count": 302,
   "locations": [
     {
       "lat": 37.7749,
@@ -358,7 +358,7 @@
       "lng": 105.0,
       "label": "China, ,",
       "visits": 2,
-      "last_visit": "06-Aug-2026 04:00:10",
+      "last_visit": "25-Aug-2026 03:00:33",
       "x": 79.167,
       "y": 30.556,
       "size": 9.26
@@ -1388,7 +1388,7 @@
       "lng": 114.15,
       "label": "Hong Kong, , Central District",
       "visits": 1,
-      "last_visit": "17-Aug-2026 04:36:58",
+      "last_visit": "25-Aug-2026 03:09:43",
       "x": 81.708,
       "y": 37.62,
       "size": 8.6
@@ -1651,6 +1651,16 @@
       "last_visit": "11-Jul-2026 02:48:14",
       "x": 52.104,
       "y": 23.579,
+      "size": 8.6
+    },
+    {
+      "lat": 47.5,
+      "lng": 8.7251,
+      "label": "Switzerland, Zurich, Winterthur",
+      "visits": 1,
+      "last_visit": "25-Aug-2026 03:44:13",
+      "x": 52.424,
+      "y": 23.611,
       "size": 8.6
     },
     {
