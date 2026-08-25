@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-25T08:48:34+00:00",
-  "total_visits": 639,
-  "location_count": 302,
+  "updated_at": "2026-08-25T20:33:06+00:00",
+  "total_visits": 640,
+  "location_count": 303,
   "locations": [
     {
       "lat": 37.7749,
@@ -2611,6 +2611,16 @@
       "last_visit": "24-Jun-2026 04:14:31",
       "x": 29.512,
       "y": 27.206,
+      "size": 8.6
+    },
+    {
+      "lat": 36.0525,
+      "lng": -79.1077,
+      "label": "United States, North Carolina, Chapel Hill",
+      "visits": 1,
+      "last_visit": "25-Aug-2026 20:06:34",
+      "x": 28.026,
+      "y": 29.971,
       "size": 8.6
     },
     {
