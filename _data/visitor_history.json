@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-28T05:33:06+00:00",
-  "total_visits": 646,
-  "location_count": 305,
+  "updated_at": "2026-08-28T18:23:28+00:00",
+  "total_visits": 648,
+  "location_count": 307,
   "locations": [
     {
       "lat": 37.7749,
@@ -1514,6 +1514,16 @@
       "size": 8.6
     },
     {
+      "lat": 36.1,
+      "lng": 137.9667,
+      "label": "Japan, Nagano, Shiojiri",
+      "visits": 1,
+      "last_visit": "28-Aug-2026 06:16:59",
+      "x": 88.324,
+      "y": 29.944,
+      "size": 8.6
+    },
+    {
       "lat": 35.685,
       "lng": 139.7514,
       "label": "Japan, Tokyo, Tokyo",
@@ -1571,6 +1581,16 @@
       "last_visit": "09-Jul-2026 13:17:38",
       "x": 85.269,
       "y": 29.148,
+      "size": 8.6
+    },
+    {
+      "lat": 47.0056,
+      "lng": 28.8575,
+      "label": "Moldova, Republic of, , Chisinau",
+      "visits": 1,
+      "last_visit": "28-Aug-2026 12:28:23",
+      "x": 58.016,
+      "y": 23.886,
       "size": 8.6
     },
     {
