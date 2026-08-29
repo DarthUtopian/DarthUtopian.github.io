@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T14:15:52+00:00",
+  "updated_at": "2026-08-29T20:42:35+00:00",
   "total_visits": 650,
   "location_count": 309,
   "locations": [
@@ -8,7 +8,7 @@
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
       "visits": 131,
-      "last_visit": "28-Aug-2026 20:29:12",
+      "last_visit": "29-Aug-2026 19:56:00",
       "x": 15.995,
       "y": 29.014,
       "size": 18.0
@@ -58,7 +58,7 @@
       "lng": -118.2987,
       "label": "United States, California, Los Angeles",
       "visits": 9,
-      "last_visit": "17-Aug-2026 18:03:14",
+      "last_visit": "29-Aug-2026 20:28:07",
       "x": 17.139,
       "y": 31.23,
       "size": 11.8
@@ -88,7 +88,7 @@
       "lng": -79.9561,
       "label": "United States, Pennsylvania, Pittsburgh",
       "visits": 7,
-      "last_visit": "26-Aug-2026 21:04:15",
+      "last_visit": "29-Aug-2026 20:21:50",
       "x": 27.79,
       "y": 27.531,
       "size": 11.23
@@ -178,7 +178,7 @@
       "lng": -95.5858,
       "label": "United States, Texas, Houston",
       "visits": 4,
-      "last_visit": "27-Aug-2026 03:57:39",
+      "last_visit": "29-Aug-2026 20:31:32",
       "x": 23.448,
       "y": 33.5,
       "size": 10.2
