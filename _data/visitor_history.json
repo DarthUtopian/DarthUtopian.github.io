@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-29T01:50:59+00:00",
-  "total_visits": 648,
-  "location_count": 307,
+  "updated_at": "2026-08-29T08:47:02+00:00",
+  "total_visits": 650,
+  "location_count": 309,
   "locations": [
     {
       "lat": 37.7749,
@@ -18,7 +18,7 @@
       "lng": -121.895,
       "label": "United States, California, San Jose",
       "visits": 29,
-      "last_visit": "27-Aug-2026 22:37:11",
+      "last_visit": "29-Aug-2026 06:19:12",
       "x": 16.14,
       "y": 29.256,
       "size": 15.62
@@ -1834,6 +1834,16 @@
       "size": 8.6
     },
     {
+      "lat": 38.0049,
+      "lng": -121.8058,
+      "label": "United States, California, Antioch",
+      "visits": 1,
+      "last_visit": "29-Aug-2026 08:36:02",
+      "x": 16.165,
+      "y": 28.886,
+      "size": 8.6
+    },
+    {
       "lat": 39.7285,
       "lng": -121.8375,
       "label": "United States, California, Chico",
@@ -2271,6 +2281,16 @@
       "last_visit": "20-Jun-2026 20:10:24",
       "x": 26.593,
       "y": 31.505,
+      "size": 8.6
+    },
+    {
+      "lat": 40.1125,
+      "lng": -88.2426,
+      "label": "United States, Illinois, Champaign",
+      "visits": 1,
+      "last_visit": "29-Aug-2026 03:37:19",
+      "x": 25.488,
+      "y": 27.715,
       "size": 8.6
     },
     {
