@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-30T01:31:37+00:00",
-  "total_visits": 650,
-  "location_count": 309,
+  "updated_at": "2026-08-30T17:59:43+00:00",
+  "total_visits": 653,
+  "location_count": 310,
   "locations": [
     {
       "lat": 37.7749,
@@ -208,7 +208,7 @@
       "lng": 126.9783,
       "label": "Korea, Republic of, Seoul-t'ukpyolsi, Seoul",
       "visits": 3,
-      "last_visit": "27-Aug-2026 00:53:08",
+      "last_visit": "30-Aug-2026 15:10:00",
       "x": 85.272,
       "y": 29.112,
       "size": 9.77
@@ -304,6 +304,16 @@
       "size": 9.77
     },
     {
+      "lat": 39.4624,
+      "lng": -77.2758,
+      "label": "United States, Maryland, Frederick",
+      "visits": 3,
+      "last_visit": "30-Aug-2026 15:35:50",
+      "x": 28.535,
+      "y": 28.076,
+      "size": 9.77
+    },
+    {
       "lat": 38.4512,
       "lng": -90.3278,
       "label": "United States, Missouri, Saint Louis",
@@ -368,7 +378,7 @@
       "lng": 105.0,
       "label": "China, ,",
       "visits": 2,
-      "last_visit": "29-Aug-2026 13:21:07",
+      "last_visit": "30-Aug-2026 17:18:01",
       "x": 79.167,
       "y": 30.556,
       "size": 9.26
