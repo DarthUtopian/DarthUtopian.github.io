@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-31T16:19:19+00:00",
-  "total_visits": 657,
-  "location_count": 312,
+  "updated_at": "2026-08-31T21:34:30+00:00",
+  "total_visits": 659,
+  "location_count": 313,
   "locations": [
     {
       "lat": 37.7749,
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
       "visits": 131,
-      "last_visit": "29-Aug-2026 19:56:00",
+      "last_visit": "31-Aug-2026 20:16:58",
       "x": 15.995,
       "y": 29.014,
       "size": 18.0
@@ -18,7 +18,7 @@
       "lng": -121.895,
       "label": "United States, California, San Jose",
       "visits": 29,
-      "last_visit": "29-Aug-2026 06:19:12",
+      "last_visit": "31-Aug-2026 17:27:35",
       "x": 16.14,
       "y": 29.256,
       "size": 15.62
@@ -88,7 +88,7 @@
       "lng": -79.9561,
       "label": "United States, Pennsylvania, Pittsburgh",
       "visits": 7,
-      "last_visit": "30-Aug-2026 19:03:03",
+      "last_visit": "31-Aug-2026 19:59:59",
       "x": 27.79,
       "y": 27.531,
       "size": 11.23
@@ -188,7 +188,7 @@
       "lng": -95.5858,
       "label": "United States, Texas, Houston",
       "visits": 4,
-      "last_visit": "29-Aug-2026 20:31:32",
+      "last_visit": "31-Aug-2026 17:27:56",
       "x": 23.448,
       "y": 33.5,
       "size": 10.2
@@ -368,7 +368,7 @@
       "lng": -122.3321,
       "label": "United States, Washington, Seattle",
       "visits": 3,
-      "last_visit": "30-Aug-2026 23:45:57",
+      "last_visit": "31-Aug-2026 20:00:34",
       "x": 16.019,
       "y": 23.552,
       "size": 9.77
@@ -668,7 +668,7 @@
       "lng": -104.9878,
       "label": "United States, Colorado, Englewood",
       "visits": 2,
-      "last_visit": "27-Aug-2026 07:34:48",
+      "last_visit": "31-Aug-2026 20:52:33",
       "x": 20.837,
       "y": 27.973,
       "size": 9.26
@@ -891,6 +891,16 @@
       "last_visit": "11-Aug-2026 23:30:31",
       "x": 16.02,
       "y": 23.554,
+      "size": 9.26
+    },
+    {
+      "lat": 47.4323,
+      "lng": -121.8034,
+      "label": "United States, Washington, Seattle",
+      "visits": 2,
+      "last_visit": "31-Aug-2026 20:03:48",
+      "x": 16.166,
+      "y": 23.649,
       "size": 9.26
     },
     {
@@ -1178,7 +1188,7 @@
       "lng": 118.7778,
       "label": "China, Jiangsu, Nanjing",
       "visits": 1,
-      "last_visit": "24-Jul-2026 07:21:42",
+      "last_visit": "31-Aug-2026 19:15:22",
       "x": 82.994,
       "y": 32.188,
       "size": 8.6
@@ -2214,6 +2224,16 @@
       "size": 8.6
     },
     {
+      "lat": 41.808,
+      "lng": -72.251,
+      "label": "United States, Connecticut, Storrs Mansfield",
+      "visits": 1,
+      "last_visit": "31-Aug-2026 20:53:05",
+      "x": 29.93,
+      "y": 26.773,
+      "size": 8.6
+    },
+    {
       "lat": 39.746,
       "lng": -75.5466,
       "label": "United States, Delaware, Wilmington",
@@ -3071,16 +3091,6 @@
       "last_visit": "01-Aug-2026 05:39:57",
       "x": 15.969,
       "y": 23.52,
-      "size": 8.6
-    },
-    {
-      "lat": 47.4323,
-      "lng": -121.8034,
-      "label": "United States, Washington, Seattle",
-      "visits": 1,
-      "last_visit": "19-May-2026 02:34:10",
-      "x": 16.166,
-      "y": 23.649,
       "size": 8.6
     },
     {
