@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-31T01:31:13+00:00",
-  "total_visits": 654,
-  "location_count": 311,
+  "updated_at": "2026-08-31T16:19:19+00:00",
+  "total_visits": 657,
+  "location_count": 312,
   "locations": [
     {
       "lat": 37.7749,
@@ -122,6 +122,16 @@
       "x": 79.403,
       "y": 38.315,
       "size": 10.58
+    },
+    {
+      "lat": 35.0,
+      "lng": 105.0,
+      "label": "China, ,",
+      "visits": 4,
+      "last_visit": "31-Aug-2026 15:13:45",
+      "x": 79.167,
+      "y": 30.556,
+      "size": 10.2
     },
     {
       "lat": 50.7333,
@@ -371,16 +381,6 @@
       "last_visit": "26-Aug-2026 00:17:09",
       "x": 27.94,
       "y": 25.741,
-      "size": 9.26
-    },
-    {
-      "lat": 35.0,
-      "lng": 105.0,
-      "label": "China, ,",
-      "visits": 2,
-      "last_visit": "30-Aug-2026 17:18:01",
-      "x": 79.167,
-      "y": 30.556,
       "size": 9.26
     },
     {
@@ -1558,7 +1558,7 @@
       "lng": 127.5,
       "label": "Korea, Republic of, ,",
       "visits": 1,
-      "last_visit": "16-Jul-2026 04:31:54",
+      "last_visit": "31-Aug-2026 06:42:55",
       "x": 85.417,
       "y": 29.444,
       "size": 8.6
@@ -2018,7 +2018,7 @@
       "lng": -122.0574,
       "label": "United States, California, Mountain View",
       "visits": 1,
-      "last_visit": "11-Aug-2026 23:39:38",
+      "last_visit": "31-Aug-2026 08:10:55",
       "x": 16.095,
       "y": 29.212,
       "size": 8.6
@@ -2321,6 +2321,16 @@
       "last_visit": "10-Jun-2026 23:19:33",
       "x": 25.623,
       "y": 26.668,
+      "size": 8.6
+    },
+    {
+      "lat": 41.85,
+      "lng": -87.65,
+      "label": "United States, Illinois, Chicago",
+      "visits": 1,
+      "last_visit": "31-Aug-2026 03:33:33",
+      "x": 25.653,
+      "y": 26.75,
       "size": 8.6
     },
     {
