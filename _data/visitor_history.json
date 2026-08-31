@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-30T20:58:21+00:00",
-  "total_visits": 653,
-  "location_count": 310,
+  "updated_at": "2026-08-31T01:31:13+00:00",
+  "total_visits": 654,
+  "location_count": 311,
   "locations": [
     {
       "lat": 37.7749,
@@ -358,7 +358,7 @@
       "lng": -122.3321,
       "label": "United States, Washington, Seattle",
       "visits": 3,
-      "last_visit": "24-Aug-2026 07:57:31",
+      "last_visit": "30-Aug-2026 23:45:57",
       "x": 16.019,
       "y": 23.552,
       "size": 9.77
@@ -2324,6 +2324,16 @@
       "size": 8.6
     },
     {
+      "lat": 42.0039,
+      "lng": -87.9703,
+      "label": "United States, Illinois, Elk Grove Village",
+      "visits": 1,
+      "last_visit": "31-Aug-2026 01:04:16",
+      "x": 25.564,
+      "y": 26.664,
+      "size": 8.6
+    },
+    {
       "lat": 41.9232,
       "lng": -87.8057,
       "label": "United States, Illinois, Elmwood Park",
@@ -2768,7 +2778,7 @@
       "lng": -80.0355,
       "label": "United States, Pennsylvania, Bethel Park",
       "visits": 1,
-      "last_visit": "18-Jun-2026 16:27:06",
+      "last_visit": "31-Aug-2026 00:14:01",
       "x": 27.768,
       "y": 27.599,
       "size": 8.6
