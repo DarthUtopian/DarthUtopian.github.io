@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T19:47:22+00:00",
+  "updated_at": "2026-09-01T22:29:06+00:00",
   "total_visits": 661,
   "location_count": 314,
   "locations": [
@@ -188,7 +188,7 @@
       "lng": -95.5858,
       "label": "United States, Texas, Houston",
       "visits": 4,
-      "last_visit": "31-Aug-2026 17:27:56",
+      "last_visit": "01-Sep-2026 22:28:34",
       "x": 23.448,
       "y": 33.5,
       "size": 10.2
@@ -1878,7 +1878,7 @@
       "lng": -117.0842,
       "label": "United States, California, Chula Vista",
       "visits": 1,
-      "last_visit": "14-Jul-2026 02:58:43",
+      "last_visit": "01-Sep-2026 20:55:41",
       "x": 17.477,
       "y": 31.867,
       "size": 8.6
