@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-01T12:27:14+00:00",
-  "total_visits": 660,
+  "updated_at": "2026-09-01T19:47:22+00:00",
+  "total_visits": 661,
   "location_count": 314,
   "locations": [
     {
@@ -114,6 +114,16 @@
       "size": 10.92
     },
     {
+      "lat": 40.4596,
+      "lng": -79.8358,
+      "label": "United States, Pennsylvania, Pittsburgh",
+      "visits": 5,
+      "last_visit": "01-Sep-2026 18:32:57",
+      "x": 27.823,
+      "y": 27.522,
+      "size": 10.58
+    },
+    {
       "lat": 21.0333,
       "lng": 105.85,
       "label": "Vietnam, Dac Lac, Hanoi",
@@ -171,16 +181,6 @@
       "last_visit": "20-Aug-2026 07:15:22",
       "x": 27.779,
       "y": 27.533,
-      "size": 10.2
-    },
-    {
-      "lat": 40.4596,
-      "lng": -79.8358,
-      "label": "United States, Pennsylvania, Pittsburgh",
-      "visits": 4,
-      "last_visit": "28-Aug-2026 00:10:15",
-      "x": 27.823,
-      "y": 27.522,
       "size": 10.2
     },
     {
@@ -248,7 +248,7 @@
       "lng": -122.2536,
       "label": "United States, California, Berkeley",
       "visits": 3,
-      "last_visit": "28-Aug-2026 22:45:00",
+      "last_visit": "01-Sep-2026 18:30:42",
       "x": 16.041,
       "y": 28.963,
       "size": 9.77
@@ -1148,7 +1148,7 @@
       "lng": 106.7167,
       "label": "China, Guizhou, Guiyang",
       "visits": 1,
-      "last_visit": "21-Aug-2026 13:05:40",
+      "last_visit": "01-Sep-2026 16:53:01",
       "x": 79.644,
       "y": 35.231,
       "size": 8.6
@@ -2968,7 +2968,7 @@
       "lng": -96.7297,
       "label": "United States, Texas, Richardson",
       "visits": 1,
-      "last_visit": "16-Jun-2026 17:49:38",
+      "last_visit": "01-Sep-2026 17:11:32",
       "x": 23.131,
       "y": 31.695,
       "size": 8.6
