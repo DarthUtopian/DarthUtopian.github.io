@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T00:28:28+00:00",
+  "updated_at": "2026-09-02T04:58:52+00:00",
   "total_visits": 662,
   "location_count": 315,
   "locations": [
@@ -18,7 +18,7 @@
       "lng": -121.895,
       "label": "United States, California, San Jose",
       "visits": 29,
-      "last_visit": "31-Aug-2026 17:27:35",
+      "last_visit": "02-Sep-2026 03:32:58",
       "x": 16.14,
       "y": 29.256,
       "size": 15.62
@@ -588,7 +588,7 @@
       "lng": -117.0864,
       "label": "United States, California, Escondido",
       "visits": 2,
-      "last_visit": "27-Aug-2026 05:26:35",
+      "last_visit": "02-Sep-2026 04:47:15",
       "x": 17.476,
       "y": 31.6,
       "size": 9.26
@@ -698,7 +698,7 @@
       "lng": -84.4635,
       "label": "United States, Georgia, Atlanta",
       "visits": 2,
-      "last_visit": "17-Aug-2026 06:20:39",
+      "last_visit": "02-Sep-2026 03:45:22",
       "x": 26.538,
       "y": 31.183,
       "size": 9.26
