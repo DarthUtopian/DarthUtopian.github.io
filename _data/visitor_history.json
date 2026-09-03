@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-03T16:07:26+00:00",
-  "total_visits": 662,
-  "location_count": 315,
+  "updated_at": "2026-09-03T19:22:38+00:00",
+  "total_visits": 663,
+  "location_count": 316,
   "locations": [
     {
       "lat": 37.7749,
@@ -368,7 +368,7 @@
       "lng": -122.3321,
       "label": "United States, Washington, Seattle",
       "visits": 3,
-      "last_visit": "31-Aug-2026 20:00:34",
+      "last_visit": "03-Sep-2026 19:08:30",
       "x": 16.019,
       "y": 23.552,
       "size": 9.77
@@ -1051,6 +1051,16 @@
       "last_visit": "16-Jun-2026 18:42:37",
       "x": 15.843,
       "y": 22.685,
+      "size": 8.6
+    },
+    {
+      "lat": 43.2561,
+      "lng": -79.8575,
+      "label": "Canada, Ontario, Hamilton",
+      "visits": 1,
+      "last_visit": "03-Sep-2026 17:39:09",
+      "x": 27.817,
+      "y": 25.969,
       "size": 8.6
     },
     {
