@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T06:19:06+00:00",
+  "updated_at": "2026-09-03T11:34:48+00:00",
   "total_visits": 662,
   "location_count": 315,
   "locations": [
@@ -138,7 +138,7 @@
       "lng": 105.0,
       "label": "China, ,",
       "visits": 4,
-      "last_visit": "31-Aug-2026 15:13:45",
+      "last_visit": "03-Sep-2026 08:28:46",
       "x": 79.167,
       "y": 30.556,
       "size": 10.2
@@ -198,7 +198,7 @@
       "lng": -75.7,
       "label": "Canada, Ontario, Ottawa",
       "visits": 3,
-      "last_visit": "29-Aug-2026 13:06:37",
+      "last_visit": "03-Sep-2026 07:04:25",
       "x": 28.972,
       "y": 24.769,
       "size": 9.77
