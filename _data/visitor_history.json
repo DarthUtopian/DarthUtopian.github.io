@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-04T08:40:59+00:00",
-  "total_visits": 665,
-  "location_count": 317,
+  "updated_at": "2026-09-04T13:19:03+00:00",
+  "total_visits": 666,
+  "location_count": 318,
   "locations": [
     {
       "lat": 37.7749,
@@ -2961,6 +2961,16 @@
       "last_visit": "27-Aug-2026 02:33:05",
       "x": 22.856,
       "y": 33.205,
+      "size": 8.6
+    },
+    {
+      "lat": 30.6131,
+      "lng": -96.3217,
+      "label": "United States, Texas, College Station",
+      "visits": 1,
+      "last_visit": "04-Sep-2026 13:02:25",
+      "x": 23.244,
+      "y": 32.993,
       "size": 8.6
     },
     {
