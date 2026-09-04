@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-03T21:50:36+00:00",
-  "total_visits": 663,
-  "location_count": 316,
+  "updated_at": "2026-09-04T08:40:59+00:00",
+  "total_visits": 665,
+  "location_count": 317,
   "locations": [
     {
       "lat": 37.7749,
@@ -48,7 +48,7 @@
       "lng": 116.3883,
       "label": "China, Beijing, Beijing",
       "visits": 9,
-      "last_visit": "16-Aug-2026 11:39:54",
+      "last_visit": "04-Sep-2026 08:07:04",
       "x": 82.33,
       "y": 27.817,
       "size": 11.8
@@ -124,6 +124,16 @@
       "size": 10.58
     },
     {
+      "lat": 29.6997,
+      "lng": -95.5858,
+      "label": "United States, Texas, Houston",
+      "visits": 5,
+      "last_visit": "04-Sep-2026 04:53:56",
+      "x": 23.448,
+      "y": 33.5,
+      "size": 10.58
+    },
+    {
       "lat": 21.0333,
       "lng": 105.85,
       "label": "Vietnam, Dac Lac, Hanoi",
@@ -181,16 +191,6 @@
       "last_visit": "20-Aug-2026 07:15:22",
       "x": 27.779,
       "y": 27.533,
-      "size": 10.2
-    },
-    {
-      "lat": 29.6997,
-      "lng": -95.5858,
-      "label": "United States, Texas, Houston",
-      "visits": 4,
-      "last_visit": "01-Sep-2026 22:28:34",
-      "x": 23.448,
-      "y": 33.5,
       "size": 10.2
     },
     {
@@ -398,7 +398,7 @@
       "lng": 10.0,
       "label": "Denmark, ,",
       "visits": 2,
-      "last_visit": "27-Aug-2026 22:03:53",
+      "last_visit": "04-Sep-2026 04:51:02",
       "x": 52.778,
       "y": 18.889,
       "size": 9.26
@@ -1674,6 +1674,16 @@
       "size": 8.6
     },
     {
+      "lat": 60.0,
+      "lng": 100.0,
+      "label": "Russian Federation, ,",
+      "visits": 1,
+      "last_visit": "04-Sep-2026 06:38:33",
+      "x": 77.778,
+      "y": 16.667,
+      "size": 8.6
+    },
+    {
       "lat": 1.3667,
       "lng": 103.8,
       "label": "Singapore, ,",
@@ -1968,7 +1978,7 @@
       "lng": -121.8962,
       "label": "United States, California, Fremont",
       "visits": 1,
-      "last_visit": "27-Jun-2026 18:12:10",
+      "last_visit": "04-Sep-2026 06:46:50",
       "x": 16.14,
       "y": 29.158,
       "size": 8.6
