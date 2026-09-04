@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T13:19:03+00:00",
+  "updated_at": "2026-09-04T23:49:39+00:00",
   "total_visits": 666,
   "location_count": 318,
   "locations": [
@@ -2488,7 +2488,7 @@
       "lng": -71.1028,
       "label": "United States, Massachusetts, Cambridge",
       "visits": 1,
-      "last_visit": "20-Aug-2026 16:53:58",
+      "last_visit": "04-Sep-2026 21:31:28",
       "x": 30.249,
       "y": 26.464,
       "size": 8.6
@@ -2858,7 +2858,7 @@
       "lng": -80.1842,
       "label": "United States, Pennsylvania, Coraopolis",
       "visits": 1,
-      "last_visit": "20-Aug-2026 03:11:41",
+      "last_visit": "04-Sep-2026 21:24:53",
       "x": 27.727,
       "y": 27.5,
       "size": 8.6
