@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-05T19:24:16+00:00",
-  "total_visits": 669,
+  "updated_at": "2026-09-05T23:39:39+00:00",
+  "total_visits": 670,
   "location_count": 319,
   "locations": [
     {
@@ -94,6 +94,16 @@
       "size": 11.23
     },
     {
+      "lat": 40.4596,
+      "lng": -79.8358,
+      "label": "United States, Pennsylvania, Pittsburgh",
+      "visits": 7,
+      "last_visit": "05-Sep-2026 22:18:19",
+      "x": 27.823,
+      "y": 27.522,
+      "size": 11.23
+    },
+    {
       "lat": 37.4404,
       "lng": -121.8705,
       "label": "United States, California, Milpitas",
@@ -101,16 +111,6 @@
       "last_visit": "01-Sep-2026 02:31:24",
       "x": 16.147,
       "y": 29.2,
-      "size": 10.92
-    },
-    {
-      "lat": 40.4596,
-      "lng": -79.8358,
-      "label": "United States, Pennsylvania, Pittsburgh",
-      "visits": 6,
-      "last_visit": "05-Sep-2026 13:16:45",
-      "x": 27.823,
-      "y": 27.522,
       "size": 10.92
     },
     {
