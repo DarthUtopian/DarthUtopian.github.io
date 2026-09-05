@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-05T11:57:40+00:00",
-  "total_visits": 667,
+  "updated_at": "2026-09-05T15:03:00+00:00",
+  "total_visits": 668,
   "location_count": 318,
   "locations": [
     {
@@ -104,6 +104,16 @@
       "size": 10.92
     },
     {
+      "lat": 40.4596,
+      "lng": -79.8358,
+      "label": "United States, Pennsylvania, Pittsburgh",
+      "visits": 6,
+      "last_visit": "05-Sep-2026 13:16:45",
+      "x": 27.823,
+      "y": 27.522,
+      "size": 10.92
+    },
+    {
       "lat": 47.0379,
       "lng": -122.9007,
       "label": "United States, Washington, Olympia",
@@ -112,16 +122,6 @@
       "x": 15.861,
       "y": 23.868,
       "size": 10.92
-    },
-    {
-      "lat": 40.4596,
-      "lng": -79.8358,
-      "label": "United States, Pennsylvania, Pittsburgh",
-      "visits": 5,
-      "last_visit": "01-Sep-2026 18:32:57",
-      "x": 27.823,
-      "y": 27.522,
-      "size": 10.58
     },
     {
       "lat": 29.6997,
