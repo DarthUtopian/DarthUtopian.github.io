@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-05T15:03:00+00:00",
-  "total_visits": 668,
-  "location_count": 318,
+  "updated_at": "2026-09-05T19:24:16+00:00",
+  "total_visits": 669,
+  "location_count": 319,
   "locations": [
     {
       "lat": 37.7749,
@@ -2601,6 +2601,16 @@
       "last_visit": "11-Aug-2026 09:12:18",
       "x": 26.837,
       "y": 26.284,
+      "size": 8.6
+    },
+    {
+      "lat": 46.5261,
+      "lng": -95.7683,
+      "label": "United States, Minnesota, Dent",
+      "visits": 1,
+      "last_visit": "05-Sep-2026 18:41:34",
+      "x": 23.398,
+      "y": 24.152,
       "size": 8.6
     },
     {
