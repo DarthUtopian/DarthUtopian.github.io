@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-05T03:45:56+00:00",
-  "total_visits": 666,
+  "updated_at": "2026-09-05T11:57:40+00:00",
+  "total_visits": 667,
   "location_count": 318,
   "locations": [
     {
@@ -8,7 +8,7 @@
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
       "visits": 131,
-      "last_visit": "03-Sep-2026 15:57:58",
+      "last_visit": "05-Sep-2026 07:20:06",
       "x": 15.995,
       "y": 29.014,
       "size": 18.0
@@ -841,6 +841,16 @@
       "last_visit": "14-Jul-2026 13:20:52",
       "x": 27.747,
       "y": 27.552,
+      "size": 9.26
+    },
+    {
+      "lat": 40.4998,
+      "lng": -80.1842,
+      "label": "United States, Pennsylvania, Coraopolis",
+      "visits": 2,
+      "last_visit": "05-Sep-2026 04:29:16",
+      "x": 27.727,
+      "y": 27.5,
       "size": 9.26
     },
     {
@@ -2851,16 +2861,6 @@
       "last_visit": "31-Aug-2026 00:14:01",
       "x": 27.768,
       "y": 27.599,
-      "size": 8.6
-    },
-    {
-      "lat": 40.4998,
-      "lng": -80.1842,
-      "label": "United States, Pennsylvania, Coraopolis",
-      "visits": 1,
-      "last_visit": "04-Sep-2026 21:24:53",
-      "x": 27.727,
-      "y": 27.5,
       "size": 8.6
     },
     {
