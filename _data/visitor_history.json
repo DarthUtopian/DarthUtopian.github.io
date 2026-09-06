@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-05T23:39:39+00:00",
-  "total_visits": 670,
+  "updated_at": "2026-09-06T03:49:29+00:00",
+  "total_visits": 671,
   "location_count": 319,
   "locations": [
     {
@@ -8,7 +8,7 @@
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
       "visits": 131,
-      "last_visit": "05-Sep-2026 07:20:06",
+      "last_visit": "06-Sep-2026 03:07:09",
       "x": 15.995,
       "y": 29.014,
       "size": 18.0
@@ -74,6 +74,16 @@
       "size": 11.53
     },
     {
+      "lat": 40.4596,
+      "lng": -79.8358,
+      "label": "United States, Pennsylvania, Pittsburgh",
+      "visits": 8,
+      "last_visit": "06-Sep-2026 03:41:27",
+      "x": 27.823,
+      "y": 27.522,
+      "size": 11.53
+    },
+    {
       "lat": 40.0,
       "lng": -4.0,
       "label": "Spain, ,",
@@ -91,16 +101,6 @@
       "last_visit": "02-Sep-2026 18:51:26",
       "x": 27.79,
       "y": 27.531,
-      "size": 11.23
-    },
-    {
-      "lat": 40.4596,
-      "lng": -79.8358,
-      "label": "United States, Pennsylvania, Pittsburgh",
-      "visits": 7,
-      "last_visit": "05-Sep-2026 22:18:19",
-      "x": 27.823,
-      "y": 27.522,
       "size": 11.23
     },
     {
@@ -148,7 +148,7 @@
       "lng": 105.0,
       "label": "China, ,",
       "visits": 4,
-      "last_visit": "03-Sep-2026 08:28:46",
+      "last_visit": "06-Sep-2026 03:34:27",
       "x": 79.167,
       "y": 30.556,
       "size": 10.2
@@ -668,7 +668,7 @@
       "lng": -104.9878,
       "label": "United States, Colorado, Englewood",
       "visits": 2,
-      "last_visit": "31-Aug-2026 20:52:33",
+      "last_visit": "06-Sep-2026 02:27:42",
       "x": 20.837,
       "y": 27.973,
       "size": 9.26
