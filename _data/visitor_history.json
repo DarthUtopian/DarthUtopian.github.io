@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-06T21:09:06+00:00",
-  "total_visits": 675,
-  "location_count": 321,
+  "updated_at": "2026-09-06T23:00:52+00:00",
+  "total_visits": 676,
+  "location_count": 322,
   "locations": [
     {
       "lat": 37.7749,
@@ -2631,6 +2631,16 @@
       "last_visit": "26-Jul-2026 04:58:09",
       "x": 24.048,
       "y": 24.974,
+      "size": 8.6
+    },
+    {
+      "lat": 44.9358,
+      "lng": -93.1631,
+      "label": "United States, Minnesota, Saint Paul",
+      "visits": 1,
+      "last_visit": "06-Sep-2026 22:24:54",
+      "x": 24.121,
+      "y": 25.036,
       "size": 8.6
     },
     {
