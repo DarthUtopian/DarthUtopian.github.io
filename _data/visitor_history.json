@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T13:22:53+00:00",
+  "updated_at": "2026-09-07T21:42:57+00:00",
   "total_visits": 676,
   "location_count": 322,
   "locations": [
@@ -128,7 +128,7 @@
       "lng": -95.5858,
       "label": "United States, Texas, Houston",
       "visits": 5,
-      "last_visit": "04-Sep-2026 04:53:56",
+      "last_visit": "07-Sep-2026 20:21:34",
       "x": 23.448,
       "y": 33.5,
       "size": 10.58
