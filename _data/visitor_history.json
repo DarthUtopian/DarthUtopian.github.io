@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-08T05:02:51+00:00",
-  "total_visits": 677,
-  "location_count": 323,
+  "updated_at": "2026-09-08T09:59:08+00:00",
+  "total_visits": 679,
+  "location_count": 325,
   "locations": [
     {
       "lat": 37.7749,
@@ -28,7 +28,7 @@
       "lng": -97.0,
       "label": "United States, ,",
       "visits": 16,
-      "last_visit": "03-Sep-2026 21:43:46",
+      "last_visit": "08-Sep-2026 06:24:12",
       "x": 23.056,
       "y": 28.889,
       "size": 13.4
@@ -1198,7 +1198,7 @@
       "lng": 114.2734,
       "label": "China, Hubei, Wuhan",
       "visits": 1,
-      "last_visit": "07-Sep-2026 10:43:42",
+      "last_visit": "08-Sep-2026 06:26:51",
       "x": 81.743,
       "y": 33.011,
       "size": 8.6
@@ -1531,6 +1531,16 @@
       "last_visit": "26-May-2026 03:49:56",
       "x": 71.5,
       "y": 37.074,
+      "size": 8.6
+    },
+    {
+      "lat": 18.975,
+      "lng": 72.8258,
+      "label": "India, Maharashtra, Mumbai",
+      "visits": 1,
+      "last_visit": "08-Sep-2026 06:59:00",
+      "x": 70.229,
+      "y": 39.458,
       "size": 8.6
     },
     {
@@ -2861,6 +2871,16 @@
       "last_visit": "09-Jul-2026 07:12:11",
       "x": 15.991,
       "y": 24.723,
+      "size": 8.6
+    },
+    {
+      "lat": 45.5181,
+      "lng": -122.6751,
+      "label": "United States, Oregon, Portland",
+      "visits": 1,
+      "last_visit": "08-Sep-2026 06:37:12",
+      "x": 15.924,
+      "y": 24.712,
       "size": 8.6
     },
     {
