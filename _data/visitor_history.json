@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-08T14:24:31+00:00",
-  "total_visits": 680,
-  "location_count": 326,
+  "updated_at": "2026-09-08T18:01:01+00:00",
+  "total_visits": 681,
+  "location_count": 327,
   "locations": [
     {
       "lat": 37.7749,
@@ -2491,6 +2491,16 @@
       "last_visit": "27-Jun-2026 04:28:28",
       "x": 26.644,
       "y": 29.373,
+      "size": 8.6
+    },
+    {
+      "lat": 39.3288,
+      "lng": -76.5967,
+      "label": "United States, Maryland, Baltimore",
+      "visits": 1,
+      "last_visit": "08-Sep-2026 14:52:34",
+      "x": 28.723,
+      "y": 28.151,
       "size": 8.6
     },
     {
