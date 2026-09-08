@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T18:01:01+00:00",
+  "updated_at": "2026-09-08T21:19:54+00:00",
   "total_visits": 681,
   "location_count": 327,
   "locations": [
@@ -8,7 +8,7 @@
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
       "visits": 131,
-      "last_visit": "06-Sep-2026 20:50:53",
+      "last_visit": "08-Sep-2026 18:35:21",
       "x": 15.995,
       "y": 29.014,
       "size": 18.0
@@ -458,7 +458,7 @@
       "lng": 53.0,
       "label": "Iran, Islamic Republic of, ,",
       "visits": 2,
-      "last_visit": "15-Aug-2026 15:37:24",
+      "last_visit": "08-Sep-2026 18:08:48",
       "x": 64.722,
       "y": 32.222,
       "size": 9.26
