@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-09T03:57:13+00:00",
-  "total_visits": 681,
-  "location_count": 327,
+  "updated_at": "2026-09-09T13:35:28+00:00",
+  "total_visits": 682,
+  "location_count": 328,
   "locations": [
     {
       "lat": 37.7749,
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
       "visits": 131,
-      "last_visit": "08-Sep-2026 18:35:21",
+      "last_visit": "09-Sep-2026 07:26:55",
       "x": 15.995,
       "y": 29.014,
       "size": 18.0
@@ -28,7 +28,7 @@
       "lng": -97.0,
       "label": "United States, ,",
       "visits": 16,
-      "last_visit": "08-Sep-2026 06:24:12",
+      "last_visit": "09-Sep-2026 09:14:39",
       "x": 23.056,
       "y": 28.889,
       "size": 13.4
@@ -48,7 +48,7 @@
       "lng": 116.3883,
       "label": "China, Beijing, Beijing",
       "visits": 9,
-      "last_visit": "04-Sep-2026 08:07:04",
+      "last_visit": "09-Sep-2026 09:33:10",
       "x": 82.33,
       "y": 27.817,
       "size": 11.8
@@ -128,7 +128,7 @@
       "lng": -95.5858,
       "label": "United States, Texas, Houston",
       "visits": 5,
-      "last_visit": "07-Sep-2026 20:21:34",
+      "last_visit": "09-Sep-2026 06:53:37",
       "x": 23.448,
       "y": 33.5,
       "size": 10.58
@@ -678,7 +678,7 @@
       "lng": -104.9878,
       "label": "United States, Colorado, Englewood",
       "visits": 2,
-      "last_visit": "07-Sep-2026 10:46:55",
+      "last_visit": "09-Sep-2026 10:37:28",
       "x": 20.837,
       "y": 27.973,
       "size": 9.26
@@ -1308,7 +1308,7 @@
       "lng": 117.1767,
       "label": "China, Tianjin, Tianjin",
       "visits": 1,
-      "last_visit": "23-Jun-2026 02:41:42",
+      "last_visit": "09-Sep-2026 06:11:56",
       "x": 82.549,
       "y": 28.254,
       "size": 8.6
@@ -2321,6 +2321,16 @@
       "last_visit": "06-Aug-2026 08:27:17",
       "x": 27.318,
       "y": 33.149,
+      "size": 8.6
+    },
+    {
+      "lat": 30.1438,
+      "lng": -81.5401,
+      "label": "United States, Florida, Jacksonville",
+      "visits": 1,
+      "last_visit": "09-Sep-2026 08:50:37",
+      "x": 27.35,
+      "y": 33.253,
       "size": 8.6
     },
     {
