@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T21:19:54+00:00",
+  "updated_at": "2026-09-09T03:57:13+00:00",
   "total_visits": 681,
   "location_count": 327,
   "locations": [
@@ -78,7 +78,7 @@
       "lng": -79.8358,
       "label": "United States, Pennsylvania, Pittsburgh",
       "visits": 8,
-      "last_visit": "06-Sep-2026 03:41:27",
+      "last_visit": "09-Sep-2026 03:00:02",
       "x": 27.823,
       "y": 27.522,
       "size": 11.53
@@ -98,7 +98,7 @@
       "lng": -79.9561,
       "label": "United States, Pennsylvania, Pittsburgh",
       "visits": 7,
-      "last_visit": "02-Sep-2026 18:51:26",
+      "last_visit": "09-Sep-2026 03:42:17",
       "x": 27.79,
       "y": 27.531,
       "size": 11.23
@@ -398,7 +398,7 @@
       "lng": 121.3997,
       "label": "China, Shanghai, Shanghai",
       "visits": 2,
-      "last_visit": "05-Aug-2026 06:29:38",
+      "last_visit": "08-Sep-2026 23:43:03",
       "x": 83.722,
       "y": 32.752,
       "size": 9.26
