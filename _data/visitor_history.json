@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-09T13:35:28+00:00",
-  "total_visits": 682,
-  "location_count": 328,
+  "updated_at": "2026-09-09T23:04:25+00:00",
+  "total_visits": 683,
+  "location_count": 329,
   "locations": [
     {
       "lat": 37.7749,
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
       "visits": 131,
-      "last_visit": "09-Sep-2026 07:26:55",
+      "last_visit": "09-Sep-2026 22:15:07",
       "x": 15.995,
       "y": 29.014,
       "size": 18.0
@@ -18,7 +18,7 @@
       "lng": -121.895,
       "label": "United States, California, San Jose",
       "visits": 29,
-      "last_visit": "06-Sep-2026 04:45:55",
+      "last_visit": "09-Sep-2026 19:16:55",
       "x": 16.14,
       "y": 29.256,
       "size": 15.62
@@ -98,7 +98,7 @@
       "lng": -79.9561,
       "label": "United States, Pennsylvania, Pittsburgh",
       "visits": 7,
-      "last_visit": "09-Sep-2026 03:42:17",
+      "last_visit": "09-Sep-2026 18:26:17",
       "x": 27.79,
       "y": 27.531,
       "size": 11.23
@@ -508,7 +508,7 @@
       "lng": 15.0,
       "label": "Sweden, ,",
       "visits": 2,
-      "last_visit": "28-Aug-2026 00:42:25",
+      "last_visit": "09-Sep-2026 22:30:46",
       "x": 54.167,
       "y": 15.556,
       "size": 9.26
@@ -1818,7 +1818,7 @@
       "lng": -0.13,
       "label": "United Kingdom, ,",
       "visits": 1,
-      "last_visit": "07-Aug-2026 13:41:46",
+      "last_visit": "09-Sep-2026 22:49:20",
       "x": 49.964,
       "y": 21.389,
       "size": 8.6
@@ -2731,6 +2731,16 @@
       "last_visit": "19-Jun-2026 10:22:04",
       "x": 29.395,
       "y": 27.179,
+      "size": 8.6
+    },
+    {
+      "lat": 40.3756,
+      "lng": -74.6597,
+      "label": "United States, New Jersey, Princeton",
+      "visits": 1,
+      "last_visit": "09-Sep-2026 22:30:51",
+      "x": 29.261,
+      "y": 27.569,
       "size": 8.6
     },
     {
