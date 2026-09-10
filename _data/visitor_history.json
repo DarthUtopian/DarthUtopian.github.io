@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T11:44:19+00:00",
+  "updated_at": "2026-09-10T16:06:33+00:00",
   "total_visits": 686,
   "location_count": 331,
   "locations": [
@@ -8,7 +8,7 @@
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
       "visits": 131,
-      "last_visit": "10-Sep-2026 09:34:50",
+      "last_visit": "10-Sep-2026 15:37:14",
       "x": 15.995,
       "y": 29.014,
       "size": 18.0
@@ -308,7 +308,7 @@
       "lng": -75.597,
       "label": "United States, Delaware, Wilmington",
       "visits": 3,
-      "last_visit": "01-Sep-2026 11:07:11",
+      "last_visit": "10-Sep-2026 15:55:29",
       "x": 29.001,
       "y": 28.02,
       "size": 9.77
