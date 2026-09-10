@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-09T23:04:25+00:00",
-  "total_visits": 683,
-  "location_count": 329,
+  "updated_at": "2026-09-10T01:19:54+00:00",
+  "total_visits": 684,
+  "location_count": 330,
   "locations": [
     {
       "lat": 37.7749,
@@ -28,7 +28,7 @@
       "lng": -97.0,
       "label": "United States, ,",
       "visits": 16,
-      "last_visit": "09-Sep-2026 09:14:39",
+      "last_visit": "09-Sep-2026 23:38:03",
       "x": 23.056,
       "y": 28.889,
       "size": 13.4
@@ -188,7 +188,7 @@
       "lng": -79.9959,
       "label": "United States, Pennsylvania, Pittsburgh",
       "visits": 4,
-      "last_visit": "20-Aug-2026 07:15:22",
+      "last_visit": "10-Sep-2026 01:15:51",
       "x": 27.779,
       "y": 27.533,
       "size": 10.2
@@ -2661,6 +2661,16 @@
       "last_visit": "05-Sep-2026 18:41:34",
       "x": 23.398,
       "y": 24.152,
+      "size": 8.6
+    },
+    {
+      "lat": 46.8488,
+      "lng": -92.2032,
+      "label": "United States, Minnesota, Duluth",
+      "visits": 1,
+      "last_visit": "10-Sep-2026 01:01:19",
+      "x": 24.388,
+      "y": 23.973,
       "size": 8.6
     },
     {
