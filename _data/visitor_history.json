@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-10T06:28:47+00:00",
-  "total_visits": 684,
-  "location_count": 330,
+  "updated_at": "2026-09-10T11:44:19+00:00",
+  "total_visits": 686,
+  "location_count": 331,
   "locations": [
     {
       "lat": 37.7749,
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
       "visits": 131,
-      "last_visit": "10-Sep-2026 02:48:16",
+      "last_visit": "10-Sep-2026 09:34:50",
       "x": 15.995,
       "y": 29.014,
       "size": 18.0
@@ -28,7 +28,7 @@
       "lng": -97.0,
       "label": "United States, ,",
       "visits": 16,
-      "last_visit": "09-Sep-2026 23:38:03",
+      "last_visit": "10-Sep-2026 07:21:29",
       "x": 23.056,
       "y": 28.889,
       "size": 13.4
@@ -724,6 +724,16 @@
       "size": 9.26
     },
     {
+      "lat": 41.8032,
+      "lng": -88.1341,
+      "label": "United States, Illinois, Naperville",
+      "visits": 2,
+      "last_visit": "10-Sep-2026 08:23:18",
+      "x": 25.518,
+      "y": 26.776,
+      "size": 9.26
+    },
+    {
       "lat": 39.2904,
       "lng": -76.6122,
       "label": "United States, Maryland, Baltimore",
@@ -1348,7 +1358,7 @@
       "lng": 15.5,
       "label": "Czech Republic, ,",
       "visits": 1,
-      "last_visit": "27-Aug-2026 03:07:21",
+      "last_visit": "10-Sep-2026 09:13:57",
       "x": 54.306,
       "y": 22.361,
       "size": 8.6
