@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T19:11:51+00:00",
+  "updated_at": "2026-09-10T21:46:39+00:00",
   "total_visits": 686,
   "location_count": 331,
   "locations": [
@@ -8,7 +8,7 @@
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
       "visits": 131,
-      "last_visit": "10-Sep-2026 18:22:27",
+      "last_visit": "10-Sep-2026 21:36:49",
       "x": 15.995,
       "y": 29.014,
       "size": 18.0
@@ -2098,7 +2098,7 @@
       "lng": -122.0574,
       "label": "United States, California, Mountain View",
       "visits": 1,
-      "last_visit": "31-Aug-2026 08:10:55",
+      "last_visit": "10-Sep-2026 21:05:06",
       "x": 16.095,
       "y": 29.212,
       "size": 8.6
