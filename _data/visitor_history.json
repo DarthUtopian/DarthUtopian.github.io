@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-11T08:46:35+00:00",
-  "total_visits": 687,
-  "location_count": 331,
+  "updated_at": "2026-09-11T13:23:51+00:00",
+  "total_visits": 688,
+  "location_count": 332,
   "locations": [
     {
       "lat": 37.7749,
@@ -478,7 +478,7 @@
       "lng": 138.0,
       "label": "Japan, ,",
       "visits": 2,
-      "last_visit": "10-Sep-2026 03:07:59",
+      "last_visit": "11-Sep-2026 09:40:39",
       "x": 88.333,
       "y": 30.0,
       "size": 9.26
@@ -1414,6 +1414,16 @@
       "size": 8.6
     },
     {
+      "lat": 48.8667,
+      "lng": 2.3333,
+      "label": "France, Ile-de-France, Paris",
+      "visits": 1,
+      "last_visit": "11-Sep-2026 09:05:24",
+      "x": 50.648,
+      "y": 22.852,
+      "size": 8.6
+    },
+    {
       "lat": 48.15,
       "lng": 11.5833,
       "label": "Germany, Bayern, Munich",
@@ -1628,7 +1638,7 @@
       "lng": 126.7317,
       "label": "Korea, Republic of, Inch'on-jikhalsi, Incheon",
       "visits": 1,
-      "last_visit": "22-Jun-2026 07:25:10",
+      "last_visit": "11-Sep-2026 12:09:38",
       "x": 85.203,
       "y": 29.192,
       "size": 8.6
