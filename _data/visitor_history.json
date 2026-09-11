@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-10T23:51:27+00:00",
-  "total_visits": 686,
+  "updated_at": "2026-09-11T03:53:09+00:00",
+  "total_visits": 687,
   "location_count": 331,
   "locations": [
     {
@@ -364,6 +364,16 @@
       "size": 9.77
     },
     {
+      "lat": 40.4998,
+      "lng": -80.1842,
+      "label": "United States, Pennsylvania, Coraopolis",
+      "visits": 3,
+      "last_visit": "11-Sep-2026 01:22:19",
+      "x": 27.727,
+      "y": 27.5,
+      "size": 9.77
+    },
+    {
       "lat": 40.5465,
       "lng": -80.0525,
       "label": "United States, Pennsylvania, Pittsburgh",
@@ -678,7 +688,7 @@
       "lng": -104.9878,
       "label": "United States, Colorado, Englewood",
       "visits": 2,
-      "last_visit": "09-Sep-2026 10:37:28",
+      "last_visit": "11-Sep-2026 01:09:16",
       "x": 20.837,
       "y": 27.973,
       "size": 9.26
@@ -864,16 +874,6 @@
       "size": 9.26
     },
     {
-      "lat": 40.4998,
-      "lng": -80.1842,
-      "label": "United States, Pennsylvania, Coraopolis",
-      "visits": 2,
-      "last_visit": "05-Sep-2026 04:29:16",
-      "x": 27.727,
-      "y": 27.5,
-      "size": 9.26
-    },
-    {
       "lat": 40.5084,
       "lng": -78.7846,
       "label": "United States, Pennsylvania, Ebensburg",
@@ -1038,7 +1038,7 @@
       "lng": -113.5,
       "label": "Canada, Alberta, Edmonton",
       "visits": 1,
-      "last_visit": "19-Aug-2026 22:46:11",
+      "last_visit": "11-Sep-2026 01:23:43",
       "x": 18.472,
       "y": 20.25,
       "size": 8.6
