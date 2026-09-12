@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T00:32:40+00:00",
+  "updated_at": "2026-09-12T09:32:30+00:00",
   "total_visits": 688,
   "location_count": 332,
   "locations": [
@@ -28,7 +28,7 @@
       "lng": -97.0,
       "label": "United States, ,",
       "visits": 16,
-      "last_visit": "11-Sep-2026 04:40:00",
+      "last_visit": "12-Sep-2026 06:48:28",
       "x": 23.056,
       "y": 28.889,
       "size": 13.4
@@ -658,7 +658,7 @@
       "lng": -122.172,
       "label": "United States, California, Stanford",
       "visits": 2,
-      "last_visit": "24-Aug-2026 22:14:36",
+      "last_visit": "12-Sep-2026 09:28:37",
       "x": 16.063,
       "y": 29.212,
       "size": 9.26
@@ -1328,7 +1328,7 @@
       "lng": 102.7183,
       "label": "China, Yunnan, Kunming",
       "visits": 1,
-      "last_visit": "04-Jun-2026 07:58:32",
+      "last_visit": "12-Sep-2026 05:15:00",
       "x": 78.533,
       "y": 36.09,
       "size": 8.6
