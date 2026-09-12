@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T09:32:30+00:00",
+  "updated_at": "2026-09-12T16:27:32+00:00",
   "total_visits": 688,
   "location_count": 332,
   "locations": [
@@ -478,7 +478,7 @@
       "lng": 138.0,
       "label": "Japan, ,",
       "visits": 2,
-      "last_visit": "11-Sep-2026 09:40:39",
+      "last_visit": "12-Sep-2026 14:41:56",
       "x": 88.333,
       "y": 30.0,
       "size": 9.26
@@ -2968,7 +2968,7 @@
       "lng": -79.824,
       "label": "United States, Pennsylvania, Belle Vernon",
       "visits": 1,
-      "last_visit": "05-Sep-2026 02:47:28",
+      "last_visit": "12-Sep-2026 14:59:11",
       "x": 27.827,
       "y": 27.686,
       "size": 8.6
