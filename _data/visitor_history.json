@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-13T21:35:35+00:00",
-  "total_visits": 690,
-  "location_count": 334,
+  "updated_at": "2026-09-13T23:58:04+00:00",
+  "total_visits": 691,
+  "location_count": 335,
   "locations": [
     {
       "lat": 37.7749,
@@ -18,7 +18,7 @@
       "lng": -121.895,
       "label": "United States, California, San Jose",
       "visits": 29,
-      "last_visit": "11-Sep-2026 23:26:30",
+      "last_visit": "13-Sep-2026 22:07:47",
       "x": 16.14,
       "y": 29.256,
       "size": 15.62
@@ -688,7 +688,7 @@
       "lng": -104.9878,
       "label": "United States, Colorado, Englewood",
       "visits": 2,
-      "last_visit": "12-Sep-2026 17:45:54",
+      "last_visit": "13-Sep-2026 21:57:31",
       "x": 20.837,
       "y": 27.973,
       "size": 9.26
@@ -2491,6 +2491,16 @@
       "last_visit": "16-Aug-2026 23:53:00",
       "x": 25.615,
       "y": 26.731,
+      "size": 8.6
+    },
+    {
+      "lat": 41.6661,
+      "lng": -87.8627,
+      "label": "United States, Illinois, Palos Park",
+      "visits": 1,
+      "last_visit": "13-Sep-2026 23:00:53",
+      "x": 25.594,
+      "y": 26.852,
       "size": 8.6
     },
     {
