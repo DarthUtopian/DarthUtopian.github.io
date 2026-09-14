@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-14T10:25:50+00:00",
-  "total_visits": 692,
-  "location_count": 336,
+  "updated_at": "2026-09-14T20:27:31+00:00",
+  "total_visits": 693,
+  "location_count": 337,
   "locations": [
     {
       "lat": 37.7749,
@@ -2301,6 +2301,16 @@
       "last_visit": "06-Jun-2026 09:08:04",
       "x": 29.649,
       "y": 27.144,
+      "size": 8.6
+    },
+    {
+      "lat": 41.3081,
+      "lng": -72.9282,
+      "label": "United States, Connecticut, New Haven",
+      "visits": 1,
+      "last_visit": "14-Sep-2026 16:51:35",
+      "x": 29.742,
+      "y": 27.051,
       "size": 8.6
     },
     {
