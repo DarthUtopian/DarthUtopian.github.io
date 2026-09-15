@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T07:27:56+00:00",
+  "updated_at": "2026-09-15T17:33:49+00:00",
   "total_visits": 693,
   "location_count": 337,
   "locations": [
@@ -98,7 +98,7 @@
       "lng": -79.9561,
       "label": "United States, Pennsylvania, Pittsburgh",
       "visits": 7,
-      "last_visit": "13-Sep-2026 21:03:33",
+      "last_visit": "15-Sep-2026 16:04:21",
       "x": 27.79,
       "y": 27.531,
       "size": 11.23
@@ -2328,7 +2328,7 @@
       "lng": -72.251,
       "label": "United States, Connecticut, Storrs Mansfield",
       "visits": 1,
-      "last_visit": "31-Aug-2026 20:53:05",
+      "last_visit": "15-Sep-2026 16:45:03",
       "x": 29.93,
       "y": 26.773,
       "size": 8.6
