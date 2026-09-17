@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-17T05:09:16+00:00",
-  "total_visits": 700,
+  "updated_at": "2026-09-17T10:18:20+00:00",
+  "total_visits": 701,
   "location_count": 341,
   "locations": [
     {
@@ -201,6 +201,16 @@
       "last_visit": "03-Sep-2026 07:04:25",
       "x": 28.972,
       "y": 24.769,
+      "size": 9.77
+    },
+    {
+      "lat": 31.0456,
+      "lng": 121.3997,
+      "label": "China, Shanghai, Shanghai",
+      "visits": 3,
+      "last_visit": "17-Sep-2026 08:21:37",
+      "x": 83.722,
+      "y": 32.752,
       "size": 9.77
     },
     {
@@ -421,16 +431,6 @@
       "last_visit": "17-Sep-2026 03:17:05",
       "x": 81.42,
       "y": 34.345,
-      "size": 9.26
-    },
-    {
-      "lat": 31.0456,
-      "lng": 121.3997,
-      "label": "China, Shanghai, Shanghai",
-      "visits": 2,
-      "last_visit": "08-Sep-2026 23:43:03",
-      "x": 83.722,
-      "y": 32.752,
       "size": 9.26
     },
     {
@@ -1758,7 +1758,7 @@
       "lng": 103.8,
       "label": "Singapore, ,",
       "visits": 1,
-      "last_visit": "19-Jun-2026 05:13:51",
+      "last_visit": "17-Sep-2026 08:47:47",
       "x": 78.833,
       "y": 49.241,
       "size": 8.6
