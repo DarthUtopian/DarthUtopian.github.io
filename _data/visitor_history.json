@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-17T00:13:16+00:00",
-  "total_visits": 699,
+  "updated_at": "2026-09-17T05:09:16+00:00",
+  "total_visits": 700,
   "location_count": 341,
   "locations": [
     {
@@ -8,7 +8,7 @@
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
       "visits": 131,
-      "last_visit": "16-Sep-2026 23:08:33",
+      "last_visit": "17-Sep-2026 04:25:53",
       "x": 15.995,
       "y": 29.014,
       "size": 18.0
@@ -18,7 +18,7 @@
       "lng": -121.895,
       "label": "United States, California, San Jose",
       "visits": 29,
-      "last_visit": "13-Sep-2026 22:07:47",
+      "last_visit": "17-Sep-2026 04:23:10",
       "x": 16.14,
       "y": 29.256,
       "size": 15.62
@@ -411,6 +411,16 @@
       "last_visit": "26-Aug-2026 00:17:09",
       "x": 27.94,
       "y": 25.741,
+      "size": 9.26
+    },
+    {
+      "lat": 28.1792,
+      "lng": 113.1136,
+      "label": "China, Hunan, Changsha",
+      "visits": 2,
+      "last_visit": "17-Sep-2026 03:17:05",
+      "x": 81.42,
+      "y": 34.345,
       "size": 9.26
     },
     {
@@ -1221,16 +1231,6 @@
       "last_visit": "08-Sep-2026 06:26:51",
       "x": 81.743,
       "y": 33.011,
-      "size": 8.6
-    },
-    {
-      "lat": 28.1792,
-      "lng": 113.1136,
-      "label": "China, Hunan, Changsha",
-      "visits": 1,
-      "last_visit": "19-May-2026 09:41:51",
-      "x": 81.42,
-      "y": 34.345,
       "size": 8.6
     },
     {
