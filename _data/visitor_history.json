@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-16T21:34:11+00:00",
-  "total_visits": 698,
-  "location_count": 340,
+  "updated_at": "2026-09-17T00:13:16+00:00",
+  "total_visits": 699,
+  "location_count": 341,
   "locations": [
     {
       "lat": 37.7749,
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
       "visits": 131,
-      "last_visit": "16-Sep-2026 03:10:33",
+      "last_visit": "16-Sep-2026 23:08:33",
       "x": 15.995,
       "y": 29.014,
       "size": 18.0
@@ -1511,6 +1511,16 @@
       "last_visit": "22-Jul-2026 07:26:08",
       "x": 81.704,
       "y": 37.583,
+      "size": 8.6
+    },
+    {
+      "lat": 20.0,
+      "lng": 77.0,
+      "label": "India, ,",
+      "visits": 1,
+      "last_visit": "16-Sep-2026 21:36:48",
+      "x": 71.389,
+      "y": 38.889,
       "size": 8.6
     },
     {
