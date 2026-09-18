@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-18T00:40:56+00:00",
-  "total_visits": 701,
-  "location_count": 341,
+  "updated_at": "2026-09-18T21:08:26+00:00",
+  "total_visits": 705,
+  "location_count": 342,
   "locations": [
     {
       "lat": 37.7749,
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
       "visits": 131,
-      "last_visit": "17-Sep-2026 22:46:17",
+      "last_visit": "18-Sep-2026 20:14:37",
       "x": 15.995,
       "y": 29.014,
       "size": 18.0
@@ -18,7 +18,7 @@
       "lng": -121.895,
       "label": "United States, California, San Jose",
       "visits": 29,
-      "last_visit": "17-Sep-2026 04:23:10",
+      "last_visit": "18-Sep-2026 21:04:26",
       "x": 16.14,
       "y": 29.256,
       "size": 15.62
@@ -102,6 +102,16 @@
       "x": 27.79,
       "y": 27.531,
       "size": 11.23
+    },
+    {
+      "lat": 31.0456,
+      "lng": 121.3997,
+      "label": "China, Shanghai, Shanghai",
+      "visits": 6,
+      "last_visit": "18-Sep-2026 18:29:20",
+      "x": 83.722,
+      "y": 32.752,
+      "size": 10.92
     },
     {
       "lat": 37.4404,
@@ -201,16 +211,6 @@
       "last_visit": "03-Sep-2026 07:04:25",
       "x": 28.972,
       "y": 24.769,
-      "size": 9.77
-    },
-    {
-      "lat": 31.0456,
-      "lng": 121.3997,
-      "label": "China, Shanghai, Shanghai",
-      "visits": 3,
-      "last_visit": "17-Sep-2026 08:21:37",
-      "x": 83.722,
-      "y": 32.752,
       "size": 9.77
     },
     {
@@ -2634,6 +2634,16 @@
       "size": 8.6
     },
     {
+      "lat": 42.3582,
+      "lng": -71.0507,
+      "label": "United States, Massachusetts, Boston",
+      "visits": 1,
+      "last_visit": "18-Sep-2026 21:04:08",
+      "x": 30.264,
+      "y": 26.468,
+      "size": 8.6
+    },
+    {
       "lat": 42.3646,
       "lng": -71.1028,
       "label": "United States, Massachusetts, Cambridge",
@@ -2838,7 +2848,7 @@
       "lng": -74.6597,
       "label": "United States, New Jersey, Princeton",
       "visits": 1,
-      "last_visit": "16-Sep-2026 07:30:48",
+      "last_visit": "18-Sep-2026 20:01:47",
       "x": 29.261,
       "y": 27.569,
       "size": 8.6
