@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T12:59:01+00:00",
+  "updated_at": "2026-09-19T16:22:15+00:00",
   "total_visits": 713,
   "location_count": 343,
   "locations": [
@@ -118,7 +118,7 @@
       "lng": -121.8705,
       "label": "United States, California, Milpitas",
       "visits": 6,
-      "last_visit": "01-Sep-2026 02:31:24",
+      "last_visit": "19-Sep-2026 14:40:57",
       "x": 16.147,
       "y": 29.2,
       "size": 10.92
@@ -318,7 +318,7 @@
       "lng": -75.597,
       "label": "United States, Delaware, Wilmington",
       "visits": 3,
-      "last_visit": "10-Sep-2026 15:55:29",
+      "last_visit": "19-Sep-2026 15:05:55",
       "x": 29.001,
       "y": 28.02,
       "size": 9.77
@@ -488,7 +488,7 @@
       "lng": 53.0,
       "label": "Iran, Islamic Republic of, ,",
       "visits": 2,
-      "last_visit": "19-Sep-2026 08:38:45",
+      "last_visit": "19-Sep-2026 14:33:29",
       "x": 64.722,
       "y": 32.222,
       "size": 9.26
