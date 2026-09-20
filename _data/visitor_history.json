@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-20T06:52:48+00:00",
-  "total_visits": 716,
-  "location_count": 344,
+  "updated_at": "2026-09-20T12:07:49+00:00",
+  "total_visits": 717,
+  "location_count": 345,
   "locations": [
     {
       "lat": 37.7749,
@@ -1131,6 +1131,16 @@
       "last_visit": "16-Jun-2026 17:05:00",
       "x": 27.875,
       "y": 25.778,
+      "size": 8.6
+    },
+    {
+      "lat": 42.3016,
+      "lng": -83.0307,
+      "label": "Canada, Ontario, Windsor",
+      "visits": 1,
+      "last_visit": "20-Sep-2026 09:45:38",
+      "x": 26.936,
+      "y": 26.499,
       "size": 8.6
     },
     {
