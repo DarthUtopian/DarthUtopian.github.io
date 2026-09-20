@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T01:28:02+00:00",
+  "updated_at": "2026-09-20T06:52:48+00:00",
   "total_visits": 716,
   "location_count": 344,
   "locations": [
@@ -18,7 +18,7 @@
       "lng": -121.895,
       "label": "United States, California, San Jose",
       "visits": 37,
-      "last_visit": "20-Sep-2026 01:01:00",
+      "last_visit": "20-Sep-2026 02:08:20",
       "x": 16.14,
       "y": 29.256,
       "size": 16.73
@@ -28,7 +28,7 @@
       "lng": -97.0,
       "label": "United States, ,",
       "visits": 16,
-      "last_visit": "17-Sep-2026 21:36:35",
+      "last_visit": "20-Sep-2026 06:24:21",
       "x": 23.056,
       "y": 28.889,
       "size": 13.4
@@ -408,7 +408,7 @@
       "lng": -122.3321,
       "label": "United States, Washington, Seattle",
       "visits": 3,
-      "last_visit": "03-Sep-2026 19:08:30",
+      "last_visit": "20-Sep-2026 06:35:02",
       "x": 16.019,
       "y": 23.552,
       "size": 9.77
@@ -3068,7 +3068,7 @@
       "lng": -79.824,
       "label": "United States, Pennsylvania, Belle Vernon",
       "visits": 1,
-      "last_visit": "12-Sep-2026 14:59:11",
+      "last_visit": "20-Sep-2026 01:40:59",
       "x": 27.827,
       "y": 27.686,
       "size": 8.6
