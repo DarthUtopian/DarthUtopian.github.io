@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T19:16:41+00:00",
+  "updated_at": "2026-09-21T22:45:04+00:00",
   "total_visits": 724,
   "location_count": 347,
   "locations": [
@@ -968,7 +968,7 @@
       "lng": -121.8034,
       "label": "United States, Washington, Seattle",
       "visits": 2,
-      "last_visit": "13-Sep-2026 01:41:50",
+      "last_visit": "21-Sep-2026 21:47:54",
       "x": 16.166,
       "y": 23.649,
       "size": 9.26
@@ -1178,7 +1178,7 @@
       "lng": -73.5667,
       "label": "Canada, Quebec, Verdun",
       "visits": 1,
-      "last_visit": "30-May-2026 07:23:03",
+      "last_visit": "21-Sep-2026 20:40:08",
       "x": 29.565,
       "y": 24.75,
       "size": 8.6
