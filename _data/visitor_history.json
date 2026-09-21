@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-21T13:57:20+00:00",
-  "total_visits": 718,
-  "location_count": 346,
+  "updated_at": "2026-09-21T19:16:41+00:00",
+  "total_visits": 724,
+  "location_count": 347,
   "locations": [
     {
       "lat": 37.7749,
@@ -121,6 +121,16 @@
       "last_visit": "19-Sep-2026 14:40:57",
       "x": 16.147,
       "y": 29.2,
+      "size": 10.92
+    },
+    {
+      "lat": 41.3081,
+      "lng": -72.9282,
+      "label": "United States, Connecticut, New Haven",
+      "visits": 6,
+      "last_visit": "21-Sep-2026 16:26:19",
+      "x": 29.742,
+      "y": 27.051,
       "size": 10.92
     },
     {
@@ -1714,6 +1724,16 @@
       "size": 8.6
     },
     {
+      "lat": 35.5372,
+      "lng": 129.3167,
+      "label": "Korea, Republic of, Ulsan-gwangyoksi, Ulsan",
+      "visits": 1,
+      "last_visit": "21-Sep-2026 14:49:03",
+      "x": 85.921,
+      "y": 30.257,
+      "size": 8.6
+    },
+    {
       "lat": 47.0056,
       "lng": 28.8575,
       "label": "Moldova, Republic of, , Chisinau",
@@ -2351,16 +2371,6 @@
       "last_visit": "06-Jun-2026 09:08:04",
       "x": 29.649,
       "y": 27.144,
-      "size": 8.6
-    },
-    {
-      "lat": 41.3081,
-      "lng": -72.9282,
-      "label": "United States, Connecticut, New Haven",
-      "visits": 1,
-      "last_visit": "14-Sep-2026 16:51:35",
-      "x": 29.742,
-      "y": 27.051,
       "size": 8.6
     },
     {
