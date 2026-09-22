@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-22T07:30:40+00:00",
-  "total_visits": 726,
-  "location_count": 349,
+  "updated_at": "2026-09-22T21:03:34+00:00",
+  "total_visits": 727,
+  "location_count": 350,
   "locations": [
     {
       "lat": 37.7749,
@@ -3101,6 +3101,16 @@
       "last_visit": "31-Aug-2026 00:14:01",
       "x": 27.768,
       "y": 27.599,
+      "size": 8.6
+    },
+    {
+      "lat": 40.1576,
+      "lng": -75.2757,
+      "label": "United States, Pennsylvania, Blue Bell",
+      "visits": 1,
+      "last_visit": "22-Sep-2026 18:34:55",
+      "x": 29.09,
+      "y": 27.69,
       "size": 8.6
     },
     {
