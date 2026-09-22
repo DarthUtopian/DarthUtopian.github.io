@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-22T01:30:32+00:00",
-  "total_visits": 724,
-  "location_count": 347,
+  "updated_at": "2026-09-22T07:30:40+00:00",
+  "total_visits": 726,
+  "location_count": 349,
   "locations": [
     {
       "lat": 37.7749,
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
       "visits": 131,
-      "last_visit": "19-Sep-2026 06:28:21",
+      "last_visit": "22-Sep-2026 05:49:19",
       "x": 15.995,
       "y": 29.014,
       "size": 18.0
@@ -28,7 +28,7 @@
       "lng": -97.0,
       "label": "United States, ,",
       "visits": 16,
-      "last_visit": "20-Sep-2026 18:58:27",
+      "last_visit": "22-Sep-2026 06:20:49",
       "x": 23.056,
       "y": 28.889,
       "size": 13.4
@@ -78,7 +78,7 @@
       "lng": -79.8358,
       "label": "United States, Pennsylvania, Pittsburgh",
       "visits": 8,
-      "last_visit": "14-Sep-2026 07:36:01",
+      "last_visit": "22-Sep-2026 02:05:17",
       "x": 27.823,
       "y": 27.522,
       "size": 11.53
@@ -3174,6 +3174,16 @@
       "size": 8.6
     },
     {
+      "lat": 40.5068,
+      "lng": -79.9536,
+      "label": "United States, Pennsylvania, Pittsburgh",
+      "visits": 1,
+      "last_visit": "22-Sep-2026 04:52:29",
+      "x": 27.791,
+      "y": 27.496,
+      "size": 8.6
+    },
+    {
       "lat": 40.1582,
       "lng": -80.2553,
       "label": "United States, Pennsylvania, Washington",
@@ -3391,6 +3401,16 @@
       "last_visit": "17-Jun-2026 05:57:40",
       "x": 16.221,
       "y": 23.83,
+      "size": 8.6
+    },
+    {
+      "lat": 47.979,
+      "lng": -122.2021,
+      "label": "United States, Washington, Everett",
+      "visits": 1,
+      "last_visit": "22-Sep-2026 02:23:07",
+      "x": 16.055,
+      "y": 23.345,
       "size": 8.6
     },
     {
