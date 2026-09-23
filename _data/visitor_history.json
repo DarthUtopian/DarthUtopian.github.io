@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-23T04:05:07+00:00",
-  "total_visits": 730,
+  "updated_at": "2026-09-23T09:26:46+00:00",
+  "total_visits": 731,
   "location_count": 350,
   "locations": [
     {
@@ -8,7 +8,7 @@
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
       "visits": 131,
-      "last_visit": "23-Sep-2026 03:42:41",
+      "last_visit": "23-Sep-2026 09:25:09",
       "x": 15.995,
       "y": 29.014,
       "size": 18.0
@@ -422,6 +422,16 @@
       "x": 16.019,
       "y": 23.552,
       "size": 9.77
+    },
+    {
+      "lat": 60.0,
+      "lng": -95.0,
+      "label": "Canada, ,",
+      "visits": 2,
+      "last_visit": "23-Sep-2026 07:25:14",
+      "x": 23.611,
+      "y": 16.667,
+      "size": 9.26
     },
     {
       "lat": 43.6667,
@@ -1051,16 +1061,6 @@
       "last_visit": "25-Aug-2026 00:46:39",
       "x": 39.704,
       "y": 56.065,
-      "size": 8.6
-    },
-    {
-      "lat": 60.0,
-      "lng": -95.0,
-      "label": "Canada, ,",
-      "visits": 1,
-      "last_visit": "22-Sep-2026 23:06:09",
-      "x": 23.611,
-      "y": 16.667,
       "size": 8.6
     },
     {
@@ -3158,7 +3158,7 @@
       "lng": -75.1968,
       "label": "United States, Pennsylvania, Philadelphia",
       "visits": 1,
-      "last_visit": "19-Sep-2026 20:26:30",
+      "last_visit": "23-Sep-2026 07:29:53",
       "x": 29.112,
       "y": 27.8,
       "size": 8.6
