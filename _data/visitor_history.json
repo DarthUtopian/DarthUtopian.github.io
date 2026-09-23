@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-23T18:32:01+00:00",
-  "total_visits": 735,
+  "updated_at": "2026-09-23T22:07:52+00:00",
+  "total_visits": 736,
   "location_count": 353,
   "locations": [
     {
@@ -18,7 +18,7 @@
       "lng": -121.895,
       "label": "United States, California, San Jose",
       "visits": 41,
-      "last_visit": "23-Sep-2026 17:28:00",
+      "last_visit": "23-Sep-2026 20:34:46",
       "x": 16.14,
       "y": 29.256,
       "size": 17.24
@@ -984,6 +984,16 @@
       "size": 9.26
     },
     {
+      "lat": 47.6597,
+      "lng": -117.4291,
+      "label": "United States, Washington, Spokane",
+      "visits": 2,
+      "last_visit": "23-Sep-2026 18:45:32",
+      "x": 17.381,
+      "y": 23.522,
+      "size": 9.26
+    },
+    {
       "lat": 47.1315,
       "lng": -122.3754,
       "label": "United States, Washington, Tacoma",
@@ -1408,7 +1418,7 @@
       "lng": 15.5,
       "label": "Czech Republic, ,",
       "visits": 1,
-      "last_visit": "10-Sep-2026 09:13:57",
+      "last_visit": "23-Sep-2026 21:15:30",
       "x": 54.306,
       "y": 22.361,
       "size": 8.6
@@ -1478,7 +1488,7 @@
       "lng": 11.5833,
       "label": "Germany, Bayern, Munich",
       "visits": 1,
-      "last_visit": "11-Aug-2026 07:58:52",
+      "last_visit": "23-Sep-2026 19:43:01",
       "x": 53.218,
       "y": 23.25,
       "size": 8.6
@@ -3501,16 +3511,6 @@
       "last_visit": "19-Aug-2026 21:03:33",
       "x": 16.036,
       "y": 23.588,
-      "size": 8.6
-    },
-    {
-      "lat": 47.6597,
-      "lng": -117.4291,
-      "label": "United States, Washington, Spokane",
-      "visits": 1,
-      "last_visit": "23-Sep-2026 18:17:17",
-      "x": 17.381,
-      "y": 23.522,
       "size": 8.6
     },
     {
