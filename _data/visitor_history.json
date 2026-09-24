@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-24T00:45:24+00:00",
-  "total_visits": 738,
-  "location_count": 355,
+  "updated_at": "2026-09-24T11:34:21+00:00",
+  "total_visits": 740,
+  "location_count": 357,
   "locations": [
     {
       "lat": 37.7749,
@@ -28,7 +28,7 @@
       "lng": -97.0,
       "label": "United States, ,",
       "visits": 16,
-      "last_visit": "23-Sep-2026 16:09:38",
+      "last_visit": "24-Sep-2026 06:34:12",
       "x": 23.056,
       "y": 28.889,
       "size": 13.4
@@ -268,7 +268,7 @@
       "lng": -122.2536,
       "label": "United States, California, Berkeley",
       "visits": 3,
-      "last_visit": "18-Sep-2026 21:47:07",
+      "last_visit": "24-Sep-2026 06:32:56",
       "x": 16.041,
       "y": 28.963,
       "size": 9.77
@@ -2494,6 +2494,16 @@
       "size": 8.6
     },
     {
+      "lat": 33.6676,
+      "lng": -84.0177,
+      "label": "United States, Georgia, Conyers",
+      "visits": 1,
+      "last_visit": "24-Sep-2026 01:37:16",
+      "x": 26.662,
+      "y": 31.296,
+      "size": 8.6
+    },
+    {
       "lat": 34.0029,
       "lng": -84.1446,
       "label": "United States, Georgia, Duluth",
@@ -3101,6 +3111,16 @@
       "last_visit": "21-Jul-2026 21:47:12",
       "x": 23.363,
       "y": 29.605,
+      "size": 8.6
+    },
+    {
+      "lat": 44.0486,
+      "lng": -123.2197,
+      "label": "United States, Oregon, Eugene",
+      "visits": 1,
+      "last_visit": "24-Sep-2026 08:09:41",
+      "x": 15.772,
+      "y": 25.529,
       "size": 8.6
     },
     {
