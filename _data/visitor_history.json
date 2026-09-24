@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-23T22:07:52+00:00",
-  "total_visits": 736,
-  "location_count": 353,
+  "updated_at": "2026-09-24T00:45:24+00:00",
+  "total_visits": 738,
+  "location_count": 355,
   "locations": [
     {
       "lat": 37.7749,
@@ -18,7 +18,7 @@
       "lng": -121.895,
       "label": "United States, California, San Jose",
       "visits": 41,
-      "last_visit": "23-Sep-2026 20:34:46",
+      "last_visit": "24-Sep-2026 00:19:19",
       "x": 16.14,
       "y": 29.256,
       "size": 17.24
@@ -698,7 +698,7 @@
       "lng": -122.172,
       "label": "United States, California, Stanford",
       "visits": 2,
-      "last_visit": "14-Sep-2026 22:47:59",
+      "last_visit": "23-Sep-2026 22:52:30",
       "x": 16.063,
       "y": 29.212,
       "size": 9.26
@@ -728,7 +728,7 @@
       "lng": -104.9878,
       "label": "United States, Colorado, Englewood",
       "visits": 2,
-      "last_visit": "22-Sep-2026 22:11:48",
+      "last_visit": "23-Sep-2026 23:59:21",
       "x": 20.837,
       "y": 27.973,
       "size": 9.26
@@ -1201,6 +1201,16 @@
       "last_visit": "19-Sep-2026 05:34:01",
       "x": 82.578,
       "y": 32.298,
+      "size": 8.6
+    },
+    {
+      "lat": 29.5628,
+      "lng": 106.5528,
+      "label": "China, Chongqing, Chongqing",
+      "visits": 1,
+      "last_visit": "23-Sep-2026 23:56:07",
+      "x": 79.598,
+      "y": 33.576,
       "size": 8.6
     },
     {
@@ -2094,6 +2104,16 @@
       "size": 8.6
     },
     {
+      "lat": 33.9164,
+      "lng": -118.4041,
+      "label": "United States, California, El Segundo",
+      "visits": 1,
+      "last_visit": "23-Sep-2026 23:43:10",
+      "x": 17.11,
+      "y": 31.158,
+      "size": 8.6
+    },
+    {
       "lat": 38.2832,
       "lng": -122.0085,
       "label": "United States, California, Fairfield",
@@ -2978,7 +2998,7 @@
       "lng": -73.9885,
       "label": "United States, New York, New York",
       "visits": 1,
-      "last_visit": "10-Aug-2026 00:38:29",
+      "last_visit": "24-Sep-2026 00:16:54",
       "x": 29.448,
       "y": 27.371,
       "size": 8.6
