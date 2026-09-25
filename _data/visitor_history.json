@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T23:19:16+00:00",
+  "updated_at": "2026-09-25T01:46:02+00:00",
   "total_visits": 740,
   "location_count": 357,
   "locations": [
@@ -168,7 +168,7 @@
       "lng": 105.0,
       "label": "China, ,",
       "visits": 4,
-      "last_visit": "21-Sep-2026 23:37:40",
+      "last_visit": "24-Sep-2026 23:37:31",
       "x": 79.167,
       "y": 30.556,
       "size": 10.2
@@ -918,7 +918,7 @@
       "lng": -80.1108,
       "label": "United States, Pennsylvania, Carnegie",
       "visits": 2,
-      "last_visit": "14-Jul-2026 13:20:52",
+      "last_visit": "25-Sep-2026 01:35:25",
       "x": 27.747,
       "y": 27.552,
       "size": 9.26
