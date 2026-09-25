@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-25T01:46:02+00:00",
-  "total_visits": 740,
+  "updated_at": "2026-09-25T07:23:33+00:00",
+  "total_visits": 741,
   "location_count": 357,
   "locations": [
     {
@@ -8,7 +8,7 @@
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
       "visits": 131,
-      "last_visit": "24-Sep-2026 20:51:15",
+      "last_visit": "25-Sep-2026 03:34:16",
       "x": 15.995,
       "y": 29.014,
       "size": 18.0
@@ -98,7 +98,7 @@
       "lng": -79.9561,
       "label": "United States, Pennsylvania, Pittsburgh",
       "visits": 7,
-      "last_visit": "20-Sep-2026 20:43:30",
+      "last_visit": "25-Sep-2026 04:49:49",
       "x": 27.79,
       "y": 27.531,
       "size": 11.23
@@ -534,6 +534,16 @@
       "size": 9.26
     },
     {
+      "lat": 10.3111,
+      "lng": 123.8917,
+      "label": "Philippines, Cebu City, Cebu",
+      "visits": 2,
+      "last_visit": "25-Sep-2026 03:23:06",
+      "x": 84.414,
+      "y": 44.272,
+      "size": 9.26
+    },
+    {
       "lat": 1.2931,
       "lng": 103.8558,
       "label": "Singapore, , Singapore",
@@ -758,7 +768,7 @@
       "lng": -84.4635,
       "label": "United States, Georgia, Atlanta",
       "visits": 2,
-      "last_visit": "02-Sep-2026 03:45:22",
+      "last_visit": "25-Sep-2026 07:18:09",
       "x": 26.538,
       "y": 31.183,
       "size": 9.26
@@ -1791,16 +1801,6 @@
       "last_visit": "30-Jul-2026 15:04:10",
       "x": 98.551,
       "y": 72.944,
-      "size": 8.6
-    },
-    {
-      "lat": 10.3111,
-      "lng": 123.8917,
-      "label": "Philippines, Cebu City, Cebu City",
-      "visits": 1,
-      "last_visit": "23-Jun-2026 11:54:04",
-      "x": 84.414,
-      "y": 44.272,
       "size": 8.6
     },
     {
