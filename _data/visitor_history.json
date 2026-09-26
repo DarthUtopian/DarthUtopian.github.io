@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T00:02:47+00:00",
+  "updated_at": "2026-09-26T05:19:15+00:00",
   "total_visits": 741,
   "location_count": 357,
   "locations": [
@@ -8,7 +8,7 @@
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
       "visits": 131,
-      "last_visit": "25-Sep-2026 23:30:43",
+      "last_visit": "26-Sep-2026 02:15:06",
       "x": 15.995,
       "y": 29.014,
       "size": 18.0
@@ -568,7 +568,7 @@
       "lng": 15.0,
       "label": "Sweden, ,",
       "visits": 2,
-      "last_visit": "09-Sep-2026 22:30:46",
+      "last_visit": "26-Sep-2026 01:09:56",
       "x": 54.167,
       "y": 15.556,
       "size": 9.26
@@ -1418,7 +1418,7 @@
       "lng": 120.1614,
       "label": "China, Zhejiang, Hangzhou",
       "visits": 1,
-      "last_visit": "08-Jun-2026 02:42:22",
+      "last_visit": "26-Sep-2026 04:45:29",
       "x": 83.378,
       "y": 33.17,
       "size": 8.6
