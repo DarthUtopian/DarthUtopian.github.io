@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-27T04:35:33+00:00",
-  "total_visits": 742,
-  "location_count": 358,
+  "updated_at": "2026-09-27T10:25:25+00:00",
+  "total_visits": 745,
+  "location_count": 359,
   "locations": [
     {
       "lat": 37.7749,
@@ -261,6 +261,16 @@
       "last_visit": "23-Jul-2026 13:45:52",
       "x": 54.227,
       "y": 17.065,
+      "size": 9.77
+    },
+    {
+      "lat": 51.5,
+      "lng": -0.13,
+      "label": "United Kingdom, ,",
+      "visits": 3,
+      "last_visit": "27-Sep-2026 09:43:12",
+      "x": 49.964,
+      "y": 21.389,
       "size": 9.77
     },
     {
@@ -1061,6 +1071,16 @@
       "last_visit": "18-Jun-2026 06:11:56",
       "x": 53.704,
       "y": 23.704,
+      "size": 8.6
+    },
+    {
+      "lat": 23.7231,
+      "lng": 90.4086,
+      "label": "Bangladesh, Dhaka, Dhaka",
+      "visits": 1,
+      "last_visit": "27-Sep-2026 09:41:46",
+      "x": 75.113,
+      "y": 36.821,
       "size": 8.6
     },
     {
@@ -1921,16 +1941,6 @@
       "last_visit": "02-Aug-2026 16:11:36",
       "x": 60.426,
       "y": 23.83,
-      "size": 8.6
-    },
-    {
-      "lat": 51.5,
-      "lng": -0.13,
-      "label": "United Kingdom, ,",
-      "visits": 1,
-      "last_visit": "17-Sep-2026 17:51:15",
-      "x": 49.964,
-      "y": 21.389,
       "size": 8.6
     },
     {
