@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-28T07:25:48+00:00",
-  "total_visits": 747,
-  "location_count": 361,
+  "updated_at": "2026-09-28T15:48:11+00:00",
+  "total_visits": 748,
+  "location_count": 362,
   "locations": [
     {
       "lat": 37.7749,
@@ -1944,6 +1944,16 @@
       "size": 8.6
     },
     {
+      "lat": 51.65,
+      "lng": 0.59999999999999,
+      "label": "United Kingdom, Essex, Woodham Ferrers",
+      "visits": 1,
+      "last_visit": "28-Sep-2026 09:59:37",
+      "x": 50.167,
+      "y": 21.306,
+      "size": 8.6
+    },
+    {
       "lat": 53.8167,
       "lng": -1.45,
       "label": "United Kingdom, Leeds, Seacroft",
@@ -3028,7 +3038,7 @@
       "lng": -73.9885,
       "label": "United States, New York, New York",
       "visits": 1,
-      "last_visit": "26-Sep-2026 18:51:33",
+      "last_visit": "28-Sep-2026 15:46:31",
       "x": 29.448,
       "y": 27.371,
       "size": 8.6
