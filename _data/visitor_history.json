@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T15:48:11+00:00",
+  "updated_at": "2026-09-28T21:42:18+00:00",
   "total_visits": 748,
   "location_count": 362,
   "locations": [
@@ -78,7 +78,7 @@
       "lng": -79.8358,
       "label": "United States, Pennsylvania, Pittsburgh",
       "visits": 8,
-      "last_visit": "22-Sep-2026 02:05:17",
+      "last_visit": "28-Sep-2026 18:31:29",
       "x": 27.823,
       "y": 27.522,
       "size": 11.53
@@ -188,7 +188,7 @@
       "lng": -120.6091,
       "label": "United States, California, Atwater",
       "visits": 4,
-      "last_visit": "28-Jun-2026 22:17:36",
+      "last_visit": "28-Sep-2026 19:08:56",
       "x": 16.497,
       "y": 29.251,
       "size": 10.2
