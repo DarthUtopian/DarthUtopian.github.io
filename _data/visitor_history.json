@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-27T19:10:42+00:00",
-  "total_visits": 745,
-  "location_count": 359,
+  "updated_at": "2026-09-28T07:25:48+00:00",
+  "total_visits": 747,
+  "location_count": 361,
   "locations": [
     {
       "lat": 37.7749,
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
       "visits": 131,
-      "last_visit": "26-Sep-2026 02:15:06",
+      "last_visit": "28-Sep-2026 04:46:16",
       "x": 15.995,
       "y": 29.014,
       "size": 18.0
@@ -28,7 +28,7 @@
       "lng": -97.0,
       "label": "United States, ,",
       "visits": 16,
-      "last_visit": "25-Sep-2026 21:20:34",
+      "last_visit": "28-Sep-2026 04:29:36",
       "x": 23.056,
       "y": 28.889,
       "size": 13.4
@@ -418,7 +418,7 @@
       "lng": -80.0525,
       "label": "United States, Pennsylvania, Pittsburgh",
       "visits": 3,
-      "last_visit": "12-Sep-2026 22:04:22",
+      "last_visit": "28-Sep-2026 03:12:53",
       "x": 27.763,
       "y": 27.474,
       "size": 9.77
@@ -668,7 +668,7 @@
       "lng": -117.0864,
       "label": "United States, California, Escondido",
       "visits": 2,
-      "last_visit": "02-Sep-2026 05:19:56",
+      "last_visit": "28-Sep-2026 04:20:03",
       "x": 17.476,
       "y": 31.6,
       "size": 9.26
@@ -718,7 +718,7 @@
       "lng": -122.172,
       "label": "United States, California, Stanford",
       "visits": 2,
-      "last_visit": "23-Sep-2026 22:52:30",
+      "last_visit": "28-Sep-2026 06:02:04",
       "x": 16.063,
       "y": 29.212,
       "size": 9.26
@@ -748,7 +748,7 @@
       "lng": -104.9878,
       "label": "United States, Colorado, Englewood",
       "visits": 2,
-      "last_visit": "26-Sep-2026 06:29:26",
+      "last_visit": "28-Sep-2026 03:31:38",
       "x": 20.837,
       "y": 27.973,
       "size": 9.26
@@ -778,7 +778,7 @@
       "lng": -84.4635,
       "label": "United States, Georgia, Atlanta",
       "visits": 2,
-      "last_visit": "26-Sep-2026 09:44:21",
+      "last_visit": "28-Sep-2026 02:48:21",
       "x": 26.538,
       "y": 31.183,
       "size": 9.26
@@ -1398,7 +1398,7 @@
       "lng": 116.9972,
       "label": "China, Shandong, Jinan",
       "visits": 1,
-      "last_visit": "06-Aug-2026 18:43:26",
+      "last_visit": "28-Sep-2026 04:26:33",
       "x": 82.499,
       "y": 29.629,
       "size": 8.6
@@ -3414,6 +3414,16 @@
       "size": 8.6
     },
     {
+      "lat": 41.6412,
+      "lng": -111.8966,
+      "label": "United States, Utah, Logan",
+      "visits": 1,
+      "last_visit": "28-Sep-2026 06:09:05",
+      "x": 18.918,
+      "y": 26.866,
+      "size": 8.6
+    },
+    {
       "lat": 38.881,
       "lng": -77.1043,
       "label": "United States, Virginia, Arlington",
@@ -3571,6 +3581,16 @@
       "last_visit": "19-Aug-2026 21:03:33",
       "x": 16.036,
       "y": 23.588,
+      "size": 8.6
+    },
+    {
+      "lat": 40.0582,
+      "lng": -80.6362,
+      "label": "United States, West Virginia, Wheeling",
+      "visits": 1,
+      "last_visit": "28-Sep-2026 02:40:22",
+      "x": 27.601,
+      "y": 27.745,
       "size": 8.6
     },
     {
