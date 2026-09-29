@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-29T08:08:12+00:00",
-  "total_visits": 751,
-  "location_count": 364,
+  "updated_at": "2026-09-29T14:59:53+00:00",
+  "total_visits": 753,
+  "location_count": 366,
   "locations": [
     {
       "lat": 37.7749,
@@ -1534,6 +1534,16 @@
       "size": 8.6
     },
     {
+      "lat": 48.5333,
+      "lng": 9.05,
+      "label": "Germany, Baden-Wurttemberg, T�bingen",
+      "visits": 1,
+      "last_visit": "29-Sep-2026 09:32:02",
+      "x": 52.514,
+      "y": 23.037,
+      "size": 8.6
+    },
+    {
       "lat": 48.15,
       "lng": 11.5833,
       "label": "Germany, Bayern, Munich",
@@ -1711,6 +1721,16 @@
       "last_visit": "23-Jun-2026 07:38:18",
       "x": 62.222,
       "y": 31.667,
+      "size": 8.6
+    },
+    {
+      "lat": 34.6913,
+      "lng": 135.183,
+      "label": "Japan, Hyogo, Kobe",
+      "visits": 1,
+      "last_visit": "29-Sep-2026 11:57:18",
+      "x": 87.551,
+      "y": 30.727,
       "size": 8.6
     },
     {
