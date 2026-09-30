@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-30T04:51:49+00:00",
-  "total_visits": 755,
-  "location_count": 367,
+  "updated_at": "2026-09-30T16:55:53+00:00",
+  "total_visits": 756,
+  "location_count": 368,
   "locations": [
     {
       "lat": 37.7749,
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
       "visits": 131,
-      "last_visit": "30-Sep-2026 02:22:24",
+      "last_visit": "30-Sep-2026 08:40:08",
       "x": 15.995,
       "y": 29.014,
       "size": 18.0
@@ -178,7 +178,7 @@
       "lng": 7.1,
       "label": "Germany, Nordrhein-Westfalen, Bonn",
       "visits": 4,
-      "last_visit": "02-Aug-2026 06:02:44",
+      "last_visit": "30-Sep-2026 10:21:42",
       "x": 51.972,
       "y": 21.815,
       "size": 10.2
@@ -2511,6 +2511,16 @@
       "last_visit": "09-Sep-2026 08:50:37",
       "x": 27.35,
       "y": 33.253,
+      "size": 8.6
+    },
+    {
+      "lat": 28.5704,
+      "lng": -81.5298,
+      "label": "United States, Florida, Ocoee",
+      "visits": 1,
+      "last_visit": "30-Sep-2026 11:26:29",
+      "x": 27.353,
+      "y": 34.128,
       "size": 8.6
     },
     {
