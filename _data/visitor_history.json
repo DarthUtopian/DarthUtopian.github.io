@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-30T16:55:53+00:00",
-  "total_visits": 756,
-  "location_count": 368,
+  "updated_at": "2026-09-30T21:20:34+00:00",
+  "total_visits": 758,
+  "location_count": 369,
   "locations": [
     {
       "lat": 37.7749,
@@ -17,18 +17,18 @@
       "lat": 37.3394,
       "lng": -121.895,
       "label": "United States, California, San Jose",
-      "visits": 42,
-      "last_visit": "29-Sep-2026 20:45:44",
+      "visits": 43,
+      "last_visit": "30-Sep-2026 19:22:36",
       "x": 16.14,
       "y": 29.256,
-      "size": 17.37
+      "size": 17.49
     },
     {
       "lat": 38.0,
       "lng": -97.0,
       "label": "United States, ,",
       "visits": 16,
-      "last_visit": "30-Sep-2026 03:00:46",
+      "last_visit": "30-Sep-2026 20:12:55",
       "x": 23.056,
       "y": 28.889,
       "size": 13.4
@@ -2851,6 +2851,16 @@
       "last_visit": "18-Jun-2026 01:06:56",
       "x": 26.746,
       "y": 26.504,
+      "size": 8.6
+    },
+    {
+      "lat": 42.3241,
+      "lng": -83.7113,
+      "label": "United States, Michigan, Ann Arbor",
+      "visits": 1,
+      "last_visit": "30-Sep-2026 20:32:48",
+      "x": 26.747,
+      "y": 26.487,
       "size": 8.6
     },
     {
