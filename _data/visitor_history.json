@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-30T21:20:34+00:00",
-  "total_visits": 758,
-  "location_count": 369,
+  "updated_at": "2026-10-01T00:44:34+00:00",
+  "total_visits": 760,
+  "location_count": 370,
   "locations": [
     {
       "lat": 37.7749,
@@ -17,11 +17,11 @@
       "lat": 37.3394,
       "lng": -121.895,
       "label": "United States, California, San Jose",
-      "visits": 43,
-      "last_visit": "30-Sep-2026 19:22:36",
+      "visits": 44,
+      "last_visit": "30-Sep-2026 21:29:14",
       "x": 16.14,
       "y": 29.256,
-      "size": 17.49
+      "size": 17.61
     },
     {
       "lat": 38.0,
@@ -98,7 +98,7 @@
       "lng": -79.9561,
       "label": "United States, Pennsylvania, Pittsburgh",
       "visits": 7,
-      "last_visit": "25-Sep-2026 04:49:49",
+      "last_visit": "01-Oct-2026 00:24:48",
       "x": 27.79,
       "y": 27.531,
       "size": 11.23
@@ -2021,6 +2021,16 @@
       "last_visit": "11-Jun-2026 14:52:11",
       "x": 49.755,
       "y": 20.972,
+      "size": 8.6
+    },
+    {
+      "lat": 32.5554,
+      "lng": -85.9335,
+      "label": "United States, Alabama, Tallassee",
+      "visits": 1,
+      "last_visit": "30-Sep-2026 21:34:10",
+      "x": 26.13,
+      "y": 31.914,
       "size": 8.6
     },
     {
