@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-01T00:44:34+00:00",
-  "total_visits": 760,
-  "location_count": 370,
+  "updated_at": "2026-10-01T07:00:49+00:00",
+  "total_visits": 762,
+  "location_count": 372,
   "locations": [
     {
       "lat": 37.7749,
@@ -118,7 +118,7 @@
       "lng": -121.8705,
       "label": "United States, California, Milpitas",
       "visits": 6,
-      "last_visit": "19-Sep-2026 14:40:57",
+      "last_visit": "01-Oct-2026 06:58:53",
       "x": 16.147,
       "y": 29.2,
       "size": 10.92
@@ -1874,6 +1874,16 @@
       "size": 8.6
     },
     {
+      "lat": 44.8186,
+      "lng": 20.4681,
+      "label": "Serbia, Serbia proper, Beograd",
+      "visits": 1,
+      "last_visit": "01-Oct-2026 03:51:58",
+      "x": 55.686,
+      "y": 25.101,
+      "size": 8.6
+    },
+    {
       "lat": 1.3667,
       "lng": 103.8,
       "label": "Singapore, ,",
@@ -3301,6 +3311,16 @@
       "last_visit": "27-Jul-2026 03:57:38",
       "x": 27.821,
       "y": 27.59,
+      "size": 8.6
+    },
+    {
+      "lat": 40.3479,
+      "lng": -79.8642,
+      "label": "United States, Pennsylvania, Mckeesport",
+      "visits": 1,
+      "last_visit": "01-Oct-2026 04:04:59",
+      "x": 27.816,
+      "y": 27.585,
       "size": 8.6
     },
     {
