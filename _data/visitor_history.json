@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-01T20:13:09+00:00",
-  "total_visits": 762,
+  "updated_at": "2026-10-02T00:03:18+00:00",
+  "total_visits": 765,
   "location_count": 372,
   "locations": [
     {
@@ -17,11 +17,11 @@
       "lat": 37.3394,
       "lng": -121.895,
       "label": "United States, California, San Jose",
-      "visits": 44,
-      "last_visit": "30-Sep-2026 21:29:14",
+      "visits": 47,
+      "last_visit": "01-Oct-2026 22:11:41",
       "x": 16.14,
       "y": 29.256,
-      "size": 17.61
+      "size": 17.97
     },
     {
       "lat": 38.0,
