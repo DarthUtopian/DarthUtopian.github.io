@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-02T06:01:54+00:00",
-  "total_visits": 765,
+  "updated_at": "2026-10-02T13:01:33+00:00",
+  "total_visits": 766,
   "location_count": 372,
   "locations": [
     {
@@ -681,6 +681,16 @@
       "last_visit": "07-Aug-2026 16:15:19",
       "x": 17.155,
       "y": 31.082,
+      "size": 9.26
+    },
+    {
+      "lat": 37.4283,
+      "lng": -121.9066,
+      "label": "United States, California, Milpitas",
+      "visits": 2,
+      "last_visit": "02-Oct-2026 10:35:24",
+      "x": 16.137,
+      "y": 29.207,
       "size": 9.26
     },
     {
@@ -1768,7 +1778,7 @@
       "lng": 127.5,
       "label": "Korea, Republic of, ,",
       "visits": 1,
-      "last_visit": "31-Aug-2026 06:42:55",
+      "last_visit": "02-Oct-2026 06:26:46",
       "x": 85.417,
       "y": 29.444,
       "size": 8.6
@@ -2271,16 +2281,6 @@
       "last_visit": "28-Jul-2026 13:14:06",
       "x": 16.062,
       "y": 29.189,
-      "size": 8.6
-    },
-    {
-      "lat": 37.4283,
-      "lng": -121.9066,
-      "label": "United States, California, Milpitas",
-      "visits": 1,
-      "last_visit": "01-Oct-2026 07:04:58",
-      "x": 16.137,
-      "y": 29.207,
       "size": 8.6
     },
     {
