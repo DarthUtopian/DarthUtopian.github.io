@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-02T18:37:29+00:00",
-  "total_visits": 767,
-  "location_count": 373,
+  "updated_at": "2026-10-03T07:48:40+00:00",
+  "total_visits": 769,
+  "location_count": 375,
   "locations": [
     {
       "lat": 37.7749,
@@ -2084,6 +2084,16 @@
       "size": 8.6
     },
     {
+      "lat": 37.7735,
+      "lng": -122.2788,
+      "label": "United States, California, Alameda",
+      "visits": 1,
+      "last_visit": "03-Oct-2026 03:48:59",
+      "x": 16.034,
+      "y": 29.015,
+      "size": 8.6
+    },
+    {
       "lat": 33.8161,
       "lng": -117.9794,
       "label": "United States, California, Anaheim",
@@ -2601,6 +2611,16 @@
       "last_visit": "14-Aug-2026 06:55:38",
       "x": 26.627,
       "y": 31.11,
+      "size": 8.6
+    },
+    {
+      "lat": 34.0408,
+      "lng": -84.1665,
+      "label": "United States, Georgia, Duluth",
+      "visits": 1,
+      "last_visit": "03-Oct-2026 03:55:06",
+      "x": 26.62,
+      "y": 31.088,
       "size": 8.6
     },
     {
@@ -3318,7 +3338,7 @@
       "lng": -79.8428,
       "label": "United States, Pennsylvania, Mckeesport",
       "visits": 1,
-      "last_visit": "27-Jul-2026 03:57:38",
+      "last_visit": "03-Oct-2026 02:45:02",
       "x": 27.821,
       "y": 27.59,
       "size": 8.6
