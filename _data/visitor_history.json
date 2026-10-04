@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-04T11:14:19+00:00",
-  "total_visits": 769,
-  "location_count": 375,
+  "updated_at": "2026-10-04T15:55:35+00:00",
+  "total_visits": 770,
+  "location_count": 376,
   "locations": [
     {
       "lat": 37.7749,
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
       "visits": 131,
-      "last_visit": "02-Oct-2026 15:58:57",
+      "last_visit": "04-Oct-2026 15:33:19",
       "x": 15.995,
       "y": 29.014,
       "size": 18.0
@@ -1194,6 +1194,16 @@
       "size": 8.6
     },
     {
+      "lat": 43.3274,
+      "lng": -79.7989,
+      "label": "Canada, Ontario, Burlington",
+      "visits": 1,
+      "last_visit": "04-Oct-2026 15:27:31",
+      "x": 27.834,
+      "y": 25.929,
+      "size": 8.6
+    },
+    {
       "lat": 43.2561,
       "lng": -79.8575,
       "label": "Canada, Ontario, Hamilton",
@@ -1388,7 +1398,7 @@
       "lng": 123.4328,
       "label": "China, Liaoning, Shenyang",
       "visits": 1,
-      "last_visit": "27-Sep-2026 00:10:06",
+      "last_visit": "04-Oct-2026 15:01:56",
       "x": 84.287,
       "y": 26.782,
       "size": 8.6
