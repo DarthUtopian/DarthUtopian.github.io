@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T23:37:26+00:00",
+  "updated_at": "2026-10-04T05:08:22+00:00",
   "total_visits": 769,
   "location_count": 375,
   "locations": [
@@ -758,7 +758,7 @@
       "lng": -104.9878,
       "label": "United States, Colorado, Englewood",
       "visits": 2,
-      "last_visit": "02-Oct-2026 13:22:41",
+      "last_visit": "04-Oct-2026 00:21:55",
       "x": 20.837,
       "y": 27.973,
       "size": 9.26
@@ -2248,7 +2248,7 @@
       "lng": -121.8962,
       "label": "United States, California, Fremont",
       "visits": 1,
-      "last_visit": "25-Sep-2026 20:31:29",
+      "last_visit": "04-Oct-2026 04:36:38",
       "x": 16.14,
       "y": 29.158,
       "size": 8.6
@@ -3228,7 +3228,7 @@
       "lng": -81.6374,
       "label": "United States, Ohio, Akron",
       "visits": 1,
-      "last_visit": "09-Jul-2026 17:04:21",
+      "last_visit": "03-Oct-2026 23:53:31",
       "x": 27.323,
       "y": 27.137,
       "size": 8.6
