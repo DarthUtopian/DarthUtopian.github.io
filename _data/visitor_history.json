@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-05T16:57:59+00:00",
-  "total_visits": 778,
+  "updated_at": "2026-10-05T23:06:39+00:00",
+  "total_visits": 779,
   "location_count": 379,
   "locations": [
     {
@@ -8,7 +8,7 @@
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
       "visits": 131,
-      "last_visit": "05-Oct-2026 10:44:23",
+      "last_visit": "05-Oct-2026 21:01:58",
       "x": 15.995,
       "y": 29.014,
       "size": 18.0
@@ -17,8 +17,8 @@
       "lat": 37.3394,
       "lng": -121.895,
       "label": "United States, California, San Jose",
-      "visits": 49,
-      "last_visit": "05-Oct-2026 03:01:18",
+      "visits": 50,
+      "last_visit": "05-Oct-2026 22:34:58",
       "x": 16.14,
       "y": 29.256,
       "size": 18.0
@@ -2848,7 +2848,7 @@
       "lng": -76.5288,
       "label": "United States, Maryland, Parkville",
       "visits": 1,
-      "last_visit": "01-Sep-2026 08:47:24",
+      "last_visit": "05-Oct-2026 17:54:04",
       "x": 28.742,
       "y": 28.116,
       "size": 8.6
