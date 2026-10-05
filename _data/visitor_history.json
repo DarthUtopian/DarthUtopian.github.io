@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-04T22:26:54+00:00",
-  "total_visits": 770,
-  "location_count": 376,
+  "updated_at": "2026-10-05T07:32:34+00:00",
+  "total_visits": 777,
+  "location_count": 378,
   "locations": [
     {
       "lat": 37.7749,
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
       "visits": 131,
-      "last_visit": "04-Oct-2026 20:44:17",
+      "last_visit": "05-Oct-2026 02:36:18",
       "x": 15.995,
       "y": 29.014,
       "size": 18.0
@@ -17,11 +17,11 @@
       "lat": 37.3394,
       "lng": -121.895,
       "label": "United States, California, San Jose",
-      "visits": 47,
-      "last_visit": "01-Oct-2026 22:11:41",
+      "visits": 49,
+      "last_visit": "05-Oct-2026 03:01:18",
       "x": 16.14,
       "y": 29.256,
-      "size": 17.97
+      "size": 18.0
     },
     {
       "lat": 38.0,
@@ -78,7 +78,7 @@
       "lng": -79.8358,
       "label": "United States, Pennsylvania, Pittsburgh",
       "visits": 8,
-      "last_visit": "28-Sep-2026 18:31:29",
+      "last_visit": "05-Oct-2026 02:21:05",
       "x": 27.823,
       "y": 27.522,
       "size": 11.53
@@ -184,11 +184,21 @@
       "size": 10.2
     },
     {
+      "lat": 15.0,
+      "lng": 100.0,
+      "label": "Thailand, ,",
+      "visits": 4,
+      "last_visit": "05-Oct-2026 05:15:09",
+      "x": 77.778,
+      "y": 41.667,
+      "size": 10.2
+    },
+    {
       "lat": 37.3477,
       "lng": -120.6091,
       "label": "United States, California, Atwater",
       "visits": 4,
-      "last_visit": "28-Sep-2026 19:08:56",
+      "last_visit": "05-Oct-2026 05:14:14",
       "x": 16.497,
       "y": 29.251,
       "size": 10.2
@@ -728,7 +738,7 @@
       "lng": -122.172,
       "label": "United States, California, Stanford",
       "visits": 2,
-      "last_visit": "28-Sep-2026 06:02:04",
+      "last_visit": "05-Oct-2026 03:26:20",
       "x": 16.063,
       "y": 29.212,
       "size": 9.26
@@ -1221,6 +1231,16 @@
       "last_visit": "16-Jun-2026 17:05:00",
       "x": 27.875,
       "y": 25.778,
+      "size": 8.6
+    },
+    {
+      "lat": 43.4476,
+      "lng": -79.6686,
+      "label": "Canada, Ontario, Oakville",
+      "visits": 1,
+      "last_visit": "05-Oct-2026 02:30:16",
+      "x": 27.87,
+      "y": 25.862,
       "size": 8.6
     },
     {
@@ -2318,7 +2338,7 @@
       "lng": -122.0574,
       "label": "United States, California, Mountain View",
       "visits": 1,
-      "last_visit": "10-Sep-2026 21:05:06",
+      "last_visit": "05-Oct-2026 02:26:43",
       "x": 16.095,
       "y": 29.212,
       "size": 8.6
