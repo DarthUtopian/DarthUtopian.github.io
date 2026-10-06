@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-06T03:14:34+00:00",
-  "total_visits": 780,
+  "updated_at": "2026-10-06T17:05:03+00:00",
+  "total_visits": 781,
   "location_count": 379,
   "locations": [
     {
@@ -8,7 +8,7 @@
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
       "visits": 131,
-      "last_visit": "06-Oct-2026 02:57:13",
+      "last_visit": "06-Oct-2026 15:16:40",
       "x": 15.995,
       "y": 29.014,
       "size": 18.0
@@ -701,6 +701,16 @@
       "last_visit": "02-Oct-2026 10:35:24",
       "x": 16.137,
       "y": 29.207,
+      "size": 9.26
+    },
+    {
+      "lat": 37.4192,
+      "lng": -122.0574,
+      "label": "United States, California, Mountain View",
+      "visits": 2,
+      "last_visit": "06-Oct-2026 16:30:41",
+      "x": 16.095,
+      "y": 29.212,
       "size": 9.26
     },
     {
@@ -2331,16 +2341,6 @@
       "last_visit": "28-Jul-2026 13:14:06",
       "x": 16.062,
       "y": 29.189,
-      "size": 8.6
-    },
-    {
-      "lat": 37.4192,
-      "lng": -122.0574,
-      "label": "United States, California, Mountain View",
-      "visits": 1,
-      "last_visit": "05-Oct-2026 02:26:43",
-      "x": 16.095,
-      "y": 29.212,
       "size": 8.6
     },
     {
