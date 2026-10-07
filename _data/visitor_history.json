@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-07T01:17:08+00:00",
-  "total_visits": 785,
-  "location_count": 380,
+  "updated_at": "2026-10-07T07:36:42+00:00",
+  "total_visits": 787,
+  "location_count": 381,
   "locations": [
     {
       "lat": 37.7749,
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
       "visits": 131,
-      "last_visit": "06-Oct-2026 21:30:10",
+      "last_visit": "07-Oct-2026 01:37:29",
       "x": 15.995,
       "y": 29.014,
       "size": 18.0
@@ -17,8 +17,8 @@
       "lat": 37.3394,
       "lng": -121.895,
       "label": "United States, California, San Jose",
-      "visits": 54,
-      "last_visit": "07-Oct-2026 00:54:19",
+      "visits": 55,
+      "last_visit": "07-Oct-2026 01:37:38",
       "x": 16.14,
       "y": 29.256,
       "size": 18.0
@@ -678,7 +678,7 @@
       "lng": -117.0864,
       "label": "United States, California, Escondido",
       "visits": 2,
-      "last_visit": "06-Oct-2026 17:45:58",
+      "last_visit": "07-Oct-2026 03:27:17",
       "x": 17.476,
       "y": 31.6,
       "size": 9.26
@@ -3271,6 +3271,16 @@
       "last_visit": "03-Oct-2026 23:53:31",
       "x": 27.323,
       "y": 27.137,
+      "size": 8.6
+    },
+    {
+      "lat": 40.0201,
+      "lng": -81.7397,
+      "label": "United States, Ohio, New Concord",
+      "visits": 1,
+      "last_visit": "07-Oct-2026 06:36:09",
+      "x": 27.295,
+      "y": 27.767,
       "size": 8.6
     },
     {
