@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-08T00:50:33+00:00",
-  "total_visits": 788,
-  "location_count": 381,
+  "updated_at": "2026-10-08T07:08:53+00:00",
+  "total_visits": 791,
+  "location_count": 382,
   "locations": [
     {
       "lat": 37.7749,
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
       "visits": 131,
-      "last_visit": "07-Oct-2026 21:05:43",
+      "last_visit": "08-Oct-2026 03:59:02",
       "x": 15.995,
       "y": 29.014,
       "size": 18.0
@@ -17,8 +17,8 @@
       "lat": 37.3394,
       "lng": -121.895,
       "label": "United States, California, San Jose",
-      "visits": 56,
-      "last_visit": "07-Oct-2026 18:29:04",
+      "visits": 58,
+      "last_visit": "08-Oct-2026 03:58:27",
       "x": 16.14,
       "y": 29.256,
       "size": 18.0
@@ -1008,7 +1008,7 @@
       "lng": -79.9227,
       "label": "United States, Pennsylvania, Pittsburgh",
       "visits": 2,
-      "last_visit": "24-Aug-2026 06:12:03",
+      "last_visit": "08-Oct-2026 04:22:23",
       "x": 27.799,
       "y": 27.538,
       "size": 9.26
@@ -2828,7 +2828,7 @@
       "lng": -76.5967,
       "label": "United States, Maryland, Baltimore",
       "visits": 1,
-      "last_visit": "01-Oct-2026 13:26:47",
+      "last_visit": "08-Oct-2026 05:23:39",
       "x": 28.723,
       "y": 28.151,
       "size": 8.6
@@ -3781,6 +3781,16 @@
       "last_visit": "05-Oct-2026 13:12:59",
       "x": 16.016,
       "y": 23.536,
+      "size": 8.6
+    },
+    {
+      "lat": 38.3633,
+      "lng": -81.8089,
+      "label": "United States, West Virginia, Saint Albans",
+      "visits": 1,
+      "last_visit": "08-Oct-2026 05:11:18",
+      "x": 27.275,
+      "y": 28.687,
       "size": 8.6
     },
     {
