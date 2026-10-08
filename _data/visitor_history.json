@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T07:08:53+00:00",
+  "updated_at": "2026-10-08T14:48:06+00:00",
   "total_visits": 791,
   "location_count": 382,
   "locations": [
@@ -8,7 +8,7 @@
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
       "visits": 131,
-      "last_visit": "08-Oct-2026 03:59:02",
+      "last_visit": "08-Oct-2026 08:57:31",
       "x": 15.995,
       "y": 29.014,
       "size": 18.0
@@ -238,7 +238,7 @@
       "lng": 10.3949,
       "label": "Denmark, Syddanmark, Odense",
       "visits": 3,
-      "last_visit": "05-Aug-2026 16:35:49",
+      "last_visit": "08-Oct-2026 09:00:34",
       "x": 52.887,
       "y": 19.226,
       "size": 9.77
@@ -778,7 +778,7 @@
       "lng": -104.9878,
       "label": "United States, Colorado, Englewood",
       "visits": 2,
-      "last_visit": "05-Oct-2026 16:37:43",
+      "last_visit": "08-Oct-2026 08:21:33",
       "x": 20.837,
       "y": 27.973,
       "size": 9.26
@@ -3818,7 +3818,7 @@
       "lng": 106.3333,
       "label": "Vietnam, Ho Chi Minh, Dong Nai",
       "visits": 1,
-      "last_visit": "24-Aug-2026 04:43:49",
+      "last_visit": "08-Oct-2026 07:38:48",
       "x": 79.537,
       "y": 39.944,
       "size": 8.6
