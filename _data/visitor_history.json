@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T06:15:09+00:00",
+  "updated_at": "2026-10-10T12:55:26+00:00",
   "total_visits": 798,
   "location_count": 389,
   "locations": [
@@ -28,7 +28,7 @@
       "lng": -97.0,
       "label": "United States, ,",
       "visits": 16,
-      "last_visit": "08-Oct-2026 20:40:08",
+      "last_visit": "10-Oct-2026 08:43:06",
       "x": 23.056,
       "y": 28.889,
       "size": 13.4
@@ -168,7 +168,7 @@
       "lng": 105.0,
       "label": "China, ,",
       "visits": 4,
-      "last_visit": "24-Sep-2026 23:37:31",
+      "last_visit": "10-Oct-2026 09:25:50",
       "x": 79.167,
       "y": 30.556,
       "size": 10.2
