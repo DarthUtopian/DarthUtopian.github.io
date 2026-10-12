@@ -405,6 +405,12 @@ body.fixed-top-nav {
   box-shadow: none !important;
 }
 
+.publications ol.bibliography li video.preview {
+  aspect-ratio: 16 / 9;
+  object-fit: contain;
+  background-color: var(--global-muted-bg-color);
+}
+
 .publications ol.bibliography li .publication-preview-link {
   display: block;
   text-decoration: none;
