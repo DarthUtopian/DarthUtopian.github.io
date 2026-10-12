@@ -1,5 +1,19 @@
 ---
 ---
+@article{Lu2026Aspire,
+  title={ASPIRE: Agentic Skills Discovery for Robotics},
+  author={Runyu Lu* and Yubo Wu* and Ethan Kou* and Haotian Lin* and Letian Fu and Wenli Xiao and Ajay Mandlekar and Yinzhen Xu and Guanya Shi and Ken Goldberg and Ang Chen and Mosharaf Chowdhury and Jan Kautz and Yuke Zhu and Linxi Fan and Guanzhi Wang},
+  year={2026},
+  selected={true},
+  annotation={* Equal contribution},
+  arxiv={2607.00272},
+  abstract={Traditional robot programming is challenging: it requires orchestrating multimodal perception, managing physical contact dynamics, and handling diverse configurations and execution failures. We introduce ASPIRE (Agentic Skill Programming through Iterative Robot Exploration), a continual learning system that autonomously writes and refines robot control programs in a code-as-policy paradigm while compounding experience into a reusable skill library. ASPIRE discovers skills that persist across tasks, simulation and real-world settings, and embodiments. It operates in an open-ended loop with three components: (1) a closed-loop robot execution engine that exposes fine-grained multimodal traces, enabling autonomous failure diagnosis, repair synthesis, and validation; (2) a continually expanding skill library that distills validated fixes into reusable, transferable knowledge; and (3) evolutionary search that generates diverse task sequences and control programs to explore beyond single-trajectory refinement. ASPIRE surpasses prior methods by up to 77% on LIBERO-Pro manipulation under perturbation, 72% on Robosuite bimanual handover, and 32% on BEHAVIOR-1K long-horizon household tasks. Its accumulated library also enables zero-shot generalization to unseen long-horizon tasks: on LIBERO-Pro Long, ASPIRE achieves 31% success versus 4% for prior methods despite their use of test-time reasoning and retries. Finally, simulation-discovered skills provide initial evidence of sim-to-real transfer, substantially reducing real-robot programming effort across different embodiments and robot APIs.},
+  preview={aspire-teaser.mp4},
+  website={https://research.nvidia.com/labs/gear/aspire/},
+  code={https://github.com/NVlabs/ASPIRE/tree/main/aspire/sim},
+  note={In submission},
+}
+
 @article{Xiao2026Enpire,
   title={ENPIRE: Agentic Robot Policy Self-Improvement in the Real World},
   author={Wenli Xiao* and Jia Xie* and Tonghe Zhang* and Haotian Lin* and Letian Fu and Haoru Xue and Jalen Lu and Yi Yang and Cunxi Dai and Zi Wang and Jimmy Wu and Guanzhi Wang and S. Shankar Sastry and Ken Goldberg and Linxi Fan and Yuke Zhu and Guanya Shi},
