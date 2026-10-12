@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-12T01:36:12+00:00",
-  "total_visits": 814,
-  "location_count": 393,
+  "updated_at": "2026-10-12T08:52:13+00:00",
+  "total_visits": 815,
+  "location_count": 394,
   "locations": [
     {
       "lat": 37.7749,
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
       "visits": 131,
-      "last_visit": "11-Oct-2026 20:58:47",
+      "last_visit": "12-Oct-2026 06:19:34",
       "x": 15.995,
       "y": 29.014,
       "size": 18.0
@@ -318,7 +318,7 @@
       "lng": -117.1573,
       "label": "United States, California, San Diego",
       "visits": 3,
-      "last_visit": "05-Oct-2026 13:51:41",
+      "last_visit": "12-Oct-2026 03:28:53",
       "x": 17.456,
       "y": 31.825,
       "size": 9.77
@@ -778,7 +778,7 @@
       "lng": -104.9878,
       "label": "United States, Colorado, Englewood",
       "visits": 2,
-      "last_visit": "11-Oct-2026 01:13:25",
+      "last_visit": "12-Oct-2026 01:53:38",
       "x": 20.837,
       "y": 27.973,
       "size": 9.26
@@ -3191,6 +3191,16 @@
       "last_visit": "19-Jun-2026 10:22:04",
       "x": 29.395,
       "y": 27.179,
+      "size": 8.6
+    },
+    {
+      "lat": 40.8597,
+      "lng": -74.4026,
+      "label": "United States, New Jersey, Parsippany",
+      "visits": 1,
+      "last_visit": "12-Oct-2026 02:49:39",
+      "x": 29.333,
+      "y": 27.3,
       "size": 8.6
     },
     {
