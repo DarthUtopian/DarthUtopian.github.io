@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T16:51:30+00:00",
+  "updated_at": "2026-10-14T20:31:00+00:00",
   "total_visits": 823,
   "location_count": 399,
   "locations": [
@@ -108,7 +108,7 @@
       "lng": -79.9561,
       "label": "United States, Pennsylvania, Pittsburgh",
       "visits": 7,
-      "last_visit": "10-Oct-2026 03:59:40",
+      "last_visit": "14-Oct-2026 16:59:52",
       "x": 27.79,
       "y": 27.531,
       "size": 11.23
@@ -1068,7 +1068,7 @@
       "lng": 105.85,
       "label": "Vietnam, Thai Nguyen, Ph� Y�n",
       "visits": 2,
-      "last_visit": "01-Aug-2026 12:54:05",
+      "last_visit": "14-Oct-2026 19:01:22",
       "x": 79.403,
       "y": 38.083,
       "size": 9.26
@@ -3218,7 +3218,7 @@
       "lng": -74.1764,
       "label": "United States, New Jersey, Mahwah",
       "visits": 1,
-      "last_visit": "19-Jun-2026 10:22:04",
+      "last_visit": "14-Oct-2026 18:49:48",
       "x": 29.395,
       "y": 27.179,
       "size": 8.6
