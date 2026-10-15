@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-15T03:57:39+00:00",
-  "total_visits": 826,
+  "updated_at": "2026-10-15T09:04:18+00:00",
+  "total_visits": 827,
   "location_count": 399,
   "locations": [
     {
@@ -8,7 +8,7 @@
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
       "visits": 131,
-      "last_visit": "15-Oct-2026 02:56:37",
+      "last_visit": "15-Oct-2026 08:45:05",
       "x": 15.995,
       "y": 29.014,
       "size": 18.0
@@ -891,6 +891,16 @@
       "last_visit": "26-Jun-2026 17:18:06",
       "x": 23.676,
       "y": 24.538,
+      "size": 9.26
+    },
+    {
+      "lat": 38.6631,
+      "lng": -90.5771,
+      "label": "United States, Missouri, Chesterfield",
+      "visits": 2,
+      "last_visit": "15-Oct-2026 04:33:06",
+      "x": 24.84,
+      "y": 28.52,
       "size": 9.26
     },
     {
@@ -3161,16 +3171,6 @@
       "last_visit": "17-Jun-2026 16:20:23",
       "x": 24.889,
       "y": 28.654,
-      "size": 8.6
-    },
-    {
-      "lat": 38.6631,
-      "lng": -90.5771,
-      "label": "United States, Missouri, Chesterfield",
-      "visits": 1,
-      "last_visit": "11-Oct-2026 01:20:13",
-      "x": 24.84,
-      "y": 28.52,
       "size": 8.6
     },
     {
