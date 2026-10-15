@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-14T23:46:39+00:00",
-  "total_visits": 824,
+  "updated_at": "2026-10-15T03:57:39+00:00",
+  "total_visits": 826,
   "location_count": 399,
   "locations": [
     {
@@ -8,7 +8,7 @@
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
       "visits": 131,
-      "last_visit": "14-Oct-2026 21:26:24",
+      "last_visit": "15-Oct-2026 02:56:37",
       "x": 15.995,
       "y": 29.014,
       "size": 18.0
@@ -17,8 +17,8 @@
       "lat": 37.3394,
       "lng": -121.895,
       "label": "United States, California, San Jose",
-      "visits": 60,
-      "last_visit": "14-Oct-2026 01:11:50",
+      "visits": 61,
+      "last_visit": "15-Oct-2026 00:39:22",
       "x": 16.14,
       "y": 29.256,
       "size": 18.0
@@ -38,7 +38,7 @@
       "lng": -97.0,
       "label": "United States, ,",
       "visits": 16,
-      "last_visit": "10-Oct-2026 08:43:06",
+      "last_visit": "15-Oct-2026 01:55:32",
       "x": 23.056,
       "y": 28.889,
       "size": 13.4
@@ -214,6 +214,16 @@
       "size": 10.2
     },
     {
+      "lat": 37.4192,
+      "lng": -122.0574,
+      "label": "United States, California, Mountain View",
+      "visits": 4,
+      "last_visit": "15-Oct-2026 02:29:14",
+      "x": 16.095,
+      "y": 29.212,
+      "size": 10.2
+    },
+    {
       "lat": 40.4406,
       "lng": -79.9959,
       "label": "United States, Pennsylvania, Pittsburgh",
@@ -301,16 +311,6 @@
       "last_visit": "24-Aug-2026 11:39:24",
       "x": 16.008,
       "y": 29.129,
-      "size": 9.77
-    },
-    {
-      "lat": 37.4192,
-      "lng": -122.0574,
-      "label": "United States, California, Mountain View",
-      "visits": 3,
-      "last_visit": "12-Oct-2026 19:34:56",
-      "x": 16.095,
-      "y": 29.212,
       "size": 9.77
     },
     {
@@ -698,7 +698,7 @@
       "lng": -117.0864,
       "label": "United States, California, Escondido",
       "visits": 2,
-      "last_visit": "07-Oct-2026 03:27:17",
+      "last_visit": "15-Oct-2026 03:32:03",
       "x": 17.476,
       "y": 31.6,
       "size": 9.26
@@ -788,7 +788,7 @@
       "lng": -104.9878,
       "label": "United States, Colorado, Englewood",
       "visits": 2,
-      "last_visit": "13-Oct-2026 17:50:17",
+      "last_visit": "15-Oct-2026 02:49:19",
       "x": 20.837,
       "y": 27.973,
       "size": 9.26
