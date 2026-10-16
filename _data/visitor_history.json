@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-16T00:37:16+00:00",
-  "total_visits": 828,
-  "location_count": 399,
+  "updated_at": "2026-10-16T05:37:16+00:00",
+  "total_visits": 836,
+  "location_count": 400,
   "locations": [
     {
       "lat": 37.7749,
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
       "visits": 131,
-      "last_visit": "15-Oct-2026 23:22:07",
+      "last_visit": "16-Oct-2026 04:24:58",
       "x": 15.995,
       "y": 29.014,
       "size": 18.0
@@ -27,18 +27,18 @@
       "lat": 37.4404,
       "lng": -121.8705,
       "label": "United States, California, Milpitas",
-      "visits": 18,
-      "last_visit": "12-Oct-2026 01:30:06",
+      "visits": 19,
+      "last_visit": "16-Oct-2026 01:26:05",
       "x": 16.147,
       "y": 29.2,
-      "size": 13.79
+      "size": 13.97
     },
     {
       "lat": 38.0,
       "lng": -97.0,
       "label": "United States, ,",
       "visits": 16,
-      "last_visit": "15-Oct-2026 01:55:32",
+      "last_visit": "16-Oct-2026 02:24:52",
       "x": 23.056,
       "y": 28.889,
       "size": 13.4
@@ -101,6 +101,16 @@
       "last_visit": "23-Jun-2026 17:43:39",
       "x": 48.889,
       "y": 27.778,
+      "size": 11.23
+    },
+    {
+      "lat": 40.6643,
+      "lng": -73.7085,
+      "label": "United States, New York, Valley Stream",
+      "visits": 7,
+      "last_visit": "16-Oct-2026 03:32:56",
+      "x": 29.525,
+      "y": 27.409,
       "size": 11.23
     },
     {
@@ -328,7 +338,7 @@
       "lng": -117.1573,
       "label": "United States, California, San Diego",
       "visits": 3,
-      "last_visit": "12-Oct-2026 03:28:53",
+      "last_visit": "16-Oct-2026 04:50:57",
       "x": 17.456,
       "y": 31.825,
       "size": 9.77
@@ -498,7 +508,7 @@
       "lng": 10.0,
       "label": "Denmark, ,",
       "visits": 2,
-      "last_visit": "11-Oct-2026 05:57:33",
+      "last_visit": "16-Oct-2026 04:33:29",
       "x": 52.778,
       "y": 18.889,
       "size": 9.26
@@ -788,7 +798,7 @@
       "lng": -104.9878,
       "label": "United States, Colorado, Englewood",
       "visits": 2,
-      "last_visit": "15-Oct-2026 02:49:19",
+      "last_visit": "16-Oct-2026 03:59:11",
       "x": 20.837,
       "y": 27.973,
       "size": 9.26
@@ -1151,6 +1161,16 @@
       "last_visit": "27-Sep-2026 09:41:46",
       "x": 75.113,
       "y": 36.821,
+      "size": 8.6
+    },
+    {
+      "lat": -5.65,
+      "lng": -37.8,
+      "label": "Brazil, Rio Grande do Norte, Apodi",
+      "visits": 1,
+      "last_visit": "16-Oct-2026 01:04:43",
+      "x": 39.5,
+      "y": 53.139,
       "size": 8.6
     },
     {
@@ -3341,16 +3361,6 @@
       "last_visit": "23-Sep-2026 15:26:07",
       "x": 29.458,
       "y": 27.344,
-      "size": 8.6
-    },
-    {
-      "lat": 40.6643,
-      "lng": -73.7085,
-      "label": "United States, New York, Valley Stream",
-      "visits": 1,
-      "last_visit": "14-Oct-2026 01:26:27",
-      "x": 29.525,
-      "y": 27.409,
       "size": 8.6
     },
     {
