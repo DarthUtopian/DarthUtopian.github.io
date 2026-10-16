@@ -32,7 +32,7 @@ latest_posts:
 
 I am a Master's student at the [Robotics Institute](https://www.ri.cmu.edu) of **Carnegie Mellon University**, advised by Prof. [Guanya Shi](https://www.gshi.me) and Prof. [Jeff Schneider](https://www.cs.cmu.edu/~schneide/). I received my Bachelor's degree from **Tsinghua University** and worked at **UC Berkeley** as a research intern with Prof. [Masayoshi Tomizuka](https://me.berkeley.edu/people/masayoshi-tomizuka/).
 
-My research focuses on **self-improving robotics and embodied agents**, and I am interested in building systems and algorithms that enable **foundation models** to improve with real-world experience.
+My research focuses on **self-improving robots and embodied agents**, and I am interested in building systems and algorithms that enable **foundation models** to improve with real-world experience.
 
 I joined NVIDIA's [GEAR Lab](https://research.nvidia.com/labs/gear/) as a research intern since summer 2026.
 
