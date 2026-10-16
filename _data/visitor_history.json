@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-16T18:57:16+00:00",
-  "total_visits": 847,
-  "location_count": 406,
+  "updated_at": "2026-10-16T21:59:01+00:00",
+  "total_visits": 850,
+  "location_count": 407,
   "locations": [
     {
       "lat": 37.7749,
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
       "visits": 131,
-      "last_visit": "16-Oct-2026 18:36:05",
+      "last_visit": "16-Oct-2026 21:51:21",
       "x": 15.995,
       "y": 29.014,
       "size": 18.0
@@ -28,7 +28,7 @@
       "lng": -121.8705,
       "label": "United States, California, Milpitas",
       "visits": 22,
-      "last_visit": "16-Oct-2026 18:08:40",
+      "last_visit": "16-Oct-2026 20:28:03",
       "x": 16.147,
       "y": 29.2,
       "size": 14.5
@@ -38,7 +38,7 @@
       "lng": -97.0,
       "label": "United States, ,",
       "visits": 16,
-      "last_visit": "16-Oct-2026 02:24:52",
+      "last_visit": "16-Oct-2026 21:36:33",
       "x": 23.056,
       "y": 28.889,
       "size": 13.4
@@ -118,7 +118,7 @@
       "lng": -79.9561,
       "label": "United States, Pennsylvania, Pittsburgh",
       "visits": 7,
-      "last_visit": "14-Oct-2026 16:59:52",
+      "last_visit": "16-Oct-2026 19:06:33",
       "x": 27.79,
       "y": 27.531,
       "size": 11.23
@@ -152,6 +152,16 @@
       "x": 15.861,
       "y": 23.868,
       "size": 10.92
+    },
+    {
+      "lat": 37.4192,
+      "lng": -122.0574,
+      "label": "United States, California, Mountain View",
+      "visits": 5,
+      "last_visit": "16-Oct-2026 20:17:03",
+      "x": 16.095,
+      "y": 29.212,
+      "size": 10.58
     },
     {
       "lat": 29.6997,
@@ -221,16 +231,6 @@
       "last_visit": "26-Jul-2026 21:50:56",
       "x": 17.166,
       "y": 31.248,
-      "size": 10.2
-    },
-    {
-      "lat": 37.4192,
-      "lng": -122.0574,
-      "label": "United States, California, Mountain View",
-      "visits": 4,
-      "last_visit": "15-Oct-2026 02:29:14",
-      "x": 16.095,
-      "y": 29.212,
       "size": 10.2
     },
     {
@@ -338,7 +338,7 @@
       "lng": -117.1573,
       "label": "United States, California, San Diego",
       "visits": 3,
-      "last_visit": "16-Oct-2026 04:50:57",
+      "last_visit": "16-Oct-2026 21:01:02",
       "x": 17.456,
       "y": 31.825,
       "size": 9.77
@@ -764,6 +764,16 @@
       "size": 9.26
     },
     {
+      "lat": 37.425,
+      "lng": -121.946,
+      "label": "United States, California, San Jose",
+      "visits": 2,
+      "last_visit": "16-Oct-2026 20:43:09",
+      "x": 16.126,
+      "y": 29.208,
+      "size": 9.26
+    },
+    {
       "lat": 37.563,
       "lng": -122.3255,
       "label": "United States, California, San Mateo",
@@ -1118,7 +1128,7 @@
       "lng": 105.85,
       "label": "Vietnam, Thai Nguyen, Ph� Y�n",
       "visits": 2,
-      "last_visit": "14-Oct-2026 19:01:22",
+      "last_visit": "16-Oct-2026 19:13:24",
       "x": 79.403,
       "y": 38.083,
       "size": 9.26
@@ -2298,7 +2308,7 @@
       "lng": -121.8375,
       "label": "United States, California, Chico",
       "visits": 1,
-      "last_visit": "10-Oct-2026 01:32:00",
+      "last_visit": "16-Oct-2026 20:18:41",
       "x": 16.156,
       "y": 27.929,
       "size": 8.6
@@ -2311,6 +2321,16 @@
       "last_visit": "01-Sep-2026 20:55:41",
       "x": 17.477,
       "y": 31.867,
+      "size": 8.6
+    },
+    {
+      "lat": 33.8959,
+      "lng": -118.2201,
+      "label": "United States, California, Compton",
+      "visits": 1,
+      "last_visit": "16-Oct-2026 20:17:42",
+      "x": 17.161,
+      "y": 31.169,
       "size": 8.6
     },
     {
@@ -2338,7 +2358,7 @@
       "lng": -121.9743,
       "label": "United States, California, Danville",
       "visits": 1,
-      "last_visit": "15-Jul-2026 06:18:08",
+      "last_visit": "16-Oct-2026 20:36:45",
       "x": 16.118,
       "y": 28.993,
       "size": 8.6
@@ -2571,16 +2591,6 @@
       "last_visit": "06-Jul-2026 20:26:32",
       "x": 16.149,
       "y": 29.238,
-      "size": 8.6
-    },
-    {
-      "lat": 37.425,
-      "lng": -121.946,
-      "label": "United States, California, San Jose",
-      "visits": 1,
-      "last_visit": "18-Jun-2026 05:24:05",
-      "x": 16.126,
-      "y": 29.208,
       "size": 8.6
     },
     {
@@ -3568,7 +3578,7 @@
       "lng": -75.2757,
       "label": "United States, Pennsylvania, Blue Bell",
       "visits": 1,
-      "last_visit": "24-Sep-2026 22:49:02",
+      "last_visit": "16-Oct-2026 19:05:11",
       "x": 29.09,
       "y": 27.69,
       "size": 8.6
