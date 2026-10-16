@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-16T11:01:47+00:00",
-  "total_visits": 836,
-  "location_count": 400,
+  "updated_at": "2026-10-16T18:57:16+00:00",
+  "total_visits": 847,
+  "location_count": 406,
   "locations": [
     {
       "lat": 37.7749,
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
       "visits": 131,
-      "last_visit": "16-Oct-2026 04:24:58",
+      "last_visit": "16-Oct-2026 18:36:05",
       "x": 15.995,
       "y": 29.014,
       "size": 18.0
@@ -27,11 +27,11 @@
       "lat": 37.4404,
       "lng": -121.8705,
       "label": "United States, California, Milpitas",
-      "visits": 19,
-      "last_visit": "16-Oct-2026 01:26:05",
+      "visits": 22,
+      "last_visit": "16-Oct-2026 18:08:40",
       "x": 16.147,
       "y": 29.2,
-      "size": 13.97
+      "size": 14.5
     },
     {
       "lat": 38.0,
@@ -78,7 +78,7 @@
       "lng": -121.9552,
       "label": "United States, California, Santa Clara",
       "visits": 8,
-      "last_visit": "20-Aug-2026 22:34:46",
+      "last_visit": "16-Oct-2026 18:01:27",
       "x": 16.124,
       "y": 29.248,
       "size": 11.53
@@ -308,7 +308,7 @@
       "lng": -122.2536,
       "label": "United States, California, Berkeley",
       "visits": 3,
-      "last_visit": "24-Sep-2026 06:32:56",
+      "last_visit": "16-Oct-2026 17:56:05",
       "x": 16.041,
       "y": 28.963,
       "size": 9.77
@@ -368,7 +368,7 @@
       "lng": -75.597,
       "label": "United States, Delaware, Wilmington",
       "visits": 3,
-      "last_visit": "19-Sep-2026 15:05:55",
+      "last_visit": "16-Oct-2026 18:28:38",
       "x": 29.001,
       "y": 28.02,
       "size": 9.77
@@ -714,6 +714,16 @@
       "size": 9.26
     },
     {
+      "lat": 33.7265,
+      "lng": -118.0069,
+      "label": "United States, California, Huntington Beach",
+      "visits": 2,
+      "last_visit": "16-Oct-2026 18:34:20",
+      "x": 17.22,
+      "y": 31.263,
+      "size": 9.26
+    },
+    {
       "lat": 34.0522,
       "lng": -118.2437,
       "label": "United States, California, Los Angeles",
@@ -864,6 +874,16 @@
       "size": 9.26
     },
     {
+      "lat": 40.1095,
+      "lng": -88.2123,
+      "label": "United States, Illinois, Urbana",
+      "visits": 2,
+      "last_visit": "16-Oct-2026 18:46:05",
+      "x": 25.497,
+      "y": 27.717,
+      "size": 9.26
+    },
+    {
       "lat": 39.2904,
       "lng": -76.6122,
       "label": "United States, Maryland, Baltimore",
@@ -988,7 +1008,7 @@
       "lng": -83.1383,
       "label": "United States, Ohio, Columbus",
       "visits": 2,
-      "last_visit": "19-Sep-2026 04:10:33",
+      "last_visit": "16-Oct-2026 18:36:09",
       "x": 26.906,
       "y": 27.797,
       "size": 9.26
@@ -2394,6 +2414,16 @@
       "size": 8.6
     },
     {
+      "lat": 38.6319,
+      "lng": -122.8971,
+      "label": "United States, California, Healdsburg",
+      "visits": 1,
+      "last_visit": "16-Oct-2026 17:47:38",
+      "x": 15.862,
+      "y": 28.538,
+      "size": 8.6
+    },
+    {
       "lat": 33.6403,
       "lng": -117.7694,
       "label": "United States, California, Irvine",
@@ -2464,6 +2494,16 @@
       "size": 8.6
     },
     {
+      "lat": 37.8309,
+      "lng": -122.2196,
+      "label": "United States, California, Oakland",
+      "visits": 1,
+      "last_visit": "16-Oct-2026 18:04:49",
+      "x": 16.05,
+      "y": 28.983,
+      "size": 8.6
+    },
+    {
       "lat": 39.9674,
       "lng": -121.0022,
       "label": "United States, California, Quincy",
@@ -2511,6 +2551,16 @@
       "last_visit": "08-Aug-2026 17:59:13",
       "x": 16.0,
       "y": 29.005,
+      "size": 8.6
+    },
+    {
+      "lat": 37.7957,
+      "lng": -122.4209,
+      "label": "United States, California, San Francisco",
+      "visits": 1,
+      "last_visit": "16-Oct-2026 17:48:19",
+      "x": 15.994,
+      "y": 29.002,
       "size": 8.6
     },
     {
@@ -2621,6 +2671,16 @@
       "last_visit": "17-Jun-2026 15:01:40",
       "x": 20.868,
       "y": 27.987,
+      "size": 8.6
+    },
+    {
+      "lat": 39.6133,
+      "lng": -105.0166,
+      "label": "United States, Colorado, Littleton",
+      "visits": 1,
+      "last_visit": "16-Oct-2026 18:52:08",
+      "x": 20.829,
+      "y": 27.993,
       "size": 8.6
     },
     {
@@ -2881,16 +2941,6 @@
       "last_visit": "13-Sep-2026 23:00:53",
       "x": 25.594,
       "y": 26.852,
-      "size": 8.6
-    },
-    {
-      "lat": 40.1095,
-      "lng": -88.2123,
-      "label": "United States, Illinois, Urbana",
-      "visits": 1,
-      "last_visit": "21-Sep-2026 04:10:39",
-      "x": 25.497,
-      "y": 27.717,
       "size": 8.6
     },
     {
@@ -3258,7 +3308,7 @@
       "lng": -74.6597,
       "label": "United States, New Jersey, Princeton",
       "visits": 1,
-      "last_visit": "05-Oct-2026 23:15:31",
+      "last_visit": "16-Oct-2026 18:22:02",
       "x": 29.261,
       "y": 27.569,
       "size": 8.6
@@ -3498,7 +3548,7 @@
       "lng": -79.824,
       "label": "United States, Pennsylvania, Belle Vernon",
       "visits": 1,
-      "last_visit": "02-Oct-2026 17:27:07",
+      "last_visit": "16-Oct-2026 18:13:44",
       "x": 27.827,
       "y": 27.686,
       "size": 8.6
@@ -3634,6 +3684,16 @@
       "size": 8.6
     },
     {
+      "lat": 33.3493,
+      "lng": -80.664,
+      "label": "United States, South Carolina, Bowman",
+      "visits": 1,
+      "last_visit": "16-Oct-2026 18:54:25",
+      "x": 27.593,
+      "y": 31.473,
+      "size": 8.6
+    },
+    {
       "lat": 34.9379,
       "lng": -82.1451,
       "label": "United States, South Carolina, Duncan",
@@ -3748,7 +3808,7 @@
       "lng": -96.7297,
       "label": "United States, Texas, Richardson",
       "visits": 1,
-      "last_visit": "01-Sep-2026 17:11:32",
+      "last_visit": "16-Oct-2026 17:45:57",
       "x": 23.131,
       "y": 31.695,
       "size": 8.6
