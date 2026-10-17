@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-17T19:06:56+00:00",
-  "total_visits": 857,
+  "updated_at": "2026-10-17T21:38:22+00:00",
+  "total_visits": 859,
   "location_count": 411,
   "locations": [
     {
@@ -8,7 +8,7 @@
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
       "visits": 131,
-      "last_visit": "17-Oct-2026 06:58:54",
+      "last_visit": "17-Oct-2026 20:48:00",
       "x": 15.995,
       "y": 29.014,
       "size": 18.0
@@ -84,6 +84,16 @@
       "size": 11.53
     },
     {
+      "lat": 40.6643,
+      "lng": -73.7085,
+      "label": "United States, New York, Valley Stream",
+      "visits": 8,
+      "last_visit": "17-Oct-2026 21:12:28",
+      "x": 29.525,
+      "y": 27.409,
+      "size": 11.53
+    },
+    {
       "lat": 40.4596,
       "lng": -79.8358,
       "label": "United States, Pennsylvania, Pittsburgh",
@@ -101,16 +111,6 @@
       "last_visit": "23-Jun-2026 17:43:39",
       "x": 48.889,
       "y": 27.778,
-      "size": 11.23
-    },
-    {
-      "lat": 40.6643,
-      "lng": -73.7085,
-      "label": "United States, New York, Valley Stream",
-      "visits": 7,
-      "last_visit": "16-Oct-2026 03:32:56",
-      "x": 29.525,
-      "y": 27.409,
       "size": 11.23
     },
     {
@@ -1021,6 +1021,16 @@
       "last_visit": "16-Oct-2026 18:36:09",
       "x": 26.906,
       "y": 27.797,
+      "size": 9.26
+    },
+    {
+      "lat": 40.1647,
+      "lng": -79.824,
+      "label": "United States, Pennsylvania, Belle Vernon",
+      "visits": 2,
+      "last_visit": "17-Oct-2026 19:08:42",
+      "x": 27.827,
+      "y": 27.686,
       "size": 9.26
     },
     {
@@ -2678,7 +2688,7 @@
       "lng": -122.7144,
       "label": "United States, California, Santa Rosa",
       "visits": 1,
-      "last_visit": "11-Oct-2026 05:48:38",
+      "last_visit": "17-Oct-2026 20:55:41",
       "x": 15.913,
       "y": 28.644,
       "size": 8.6
@@ -3591,16 +3601,6 @@
       "last_visit": "17-Jun-2026 04:18:22",
       "x": 27.789,
       "y": 27.46,
-      "size": 8.6
-    },
-    {
-      "lat": 40.1647,
-      "lng": -79.824,
-      "label": "United States, Pennsylvania, Belle Vernon",
-      "visits": 1,
-      "last_visit": "16-Oct-2026 18:13:44",
-      "x": 27.827,
-      "y": 27.686,
       "size": 8.6
     },
     {
