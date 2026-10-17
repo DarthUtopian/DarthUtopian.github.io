@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-17T04:52:06+00:00",
-  "total_visits": 855,
-  "location_count": 409,
+  "updated_at": "2026-10-17T09:05:25+00:00",
+  "total_visits": 856,
+  "location_count": 410,
   "locations": [
     {
       "lat": 37.7749,
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
       "visits": 131,
-      "last_visit": "17-Oct-2026 04:13:04",
+      "last_visit": "17-Oct-2026 06:58:54",
       "x": 15.995,
       "y": 29.014,
       "size": 18.0
@@ -38,7 +38,7 @@
       "lng": -97.0,
       "label": "United States, ,",
       "visits": 16,
-      "last_visit": "17-Oct-2026 03:54:48",
+      "last_visit": "17-Oct-2026 06:09:04",
       "x": 23.056,
       "y": 28.889,
       "size": 13.4
@@ -268,7 +268,7 @@
       "lng": 126.9783,
       "label": "Korea, Republic of, Seoul-t'ukpyolsi, Seoul",
       "visits": 3,
-      "last_visit": "07-Sep-2026 01:01:44",
+      "last_visit": "17-Oct-2026 05:58:02",
       "x": 85.272,
       "y": 29.112,
       "size": 9.77
@@ -788,7 +788,7 @@
       "lng": -122.172,
       "label": "United States, California, Stanford",
       "visits": 2,
-      "last_visit": "05-Oct-2026 03:26:20",
+      "last_visit": "17-Oct-2026 07:19:47",
       "x": 16.063,
       "y": 29.212,
       "size": 9.26
@@ -818,7 +818,7 @@
       "lng": -104.9878,
       "label": "United States, Colorado, Englewood",
       "visits": 2,
-      "last_visit": "16-Oct-2026 03:59:11",
+      "last_visit": "17-Oct-2026 07:27:59",
       "x": 20.837,
       "y": 27.973,
       "size": 9.26
@@ -908,7 +908,7 @@
       "lng": -71.2047,
       "label": "United States, Massachusetts, Burlington",
       "visits": 2,
-      "last_visit": "21-May-2026 14:34:49",
+      "last_visit": "17-Oct-2026 07:29:13",
       "x": 30.221,
       "y": 26.386,
       "size": 9.26
@@ -3114,6 +3114,16 @@
       "size": 8.6
     },
     {
+      "lat": 42.2873,
+      "lng": -71.3524,
+      "label": "United States, Massachusetts, Natick",
+      "visits": 1,
+      "last_visit": "17-Oct-2026 05:39:03",
+      "x": 30.18,
+      "y": 26.507,
+      "size": 8.6
+    },
+    {
       "lat": 42.6105,
       "lng": -71.2306,
       "label": "United States, Massachusetts, Tewksbury",
@@ -3668,7 +3678,7 @@
       "lng": -75.1968,
       "label": "United States, Pennsylvania, Philadelphia",
       "visits": 1,
-      "last_visit": "15-Oct-2026 20:50:51",
+      "last_visit": "17-Oct-2026 04:52:59",
       "x": 29.112,
       "y": 27.8,
       "size": 8.6
