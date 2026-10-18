@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-17T23:52:04+00:00",
-  "total_visits": 859,
+  "updated_at": "2026-10-18T03:50:07+00:00",
+  "total_visits": 860,
   "location_count": 411,
   "locations": [
     {
@@ -8,7 +8,7 @@
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
       "visits": 131,
-      "last_visit": "17-Oct-2026 20:48:00",
+      "last_visit": "18-Oct-2026 02:33:29",
       "x": 15.995,
       "y": 29.014,
       "size": 18.0
@@ -74,6 +74,16 @@
       "size": 11.8
     },
     {
+      "lat": 40.6643,
+      "lng": -73.7085,
+      "label": "United States, New York, Valley Stream",
+      "visits": 9,
+      "last_visit": "18-Oct-2026 00:13:23",
+      "x": 29.525,
+      "y": 27.409,
+      "size": 11.8
+    },
+    {
       "lat": 37.3541,
       "lng": -121.9552,
       "label": "United States, California, Santa Clara",
@@ -81,16 +91,6 @@
       "last_visit": "16-Oct-2026 18:01:27",
       "x": 16.124,
       "y": 29.248,
-      "size": 11.53
-    },
-    {
-      "lat": 40.6643,
-      "lng": -73.7085,
-      "label": "United States, New York, Valley Stream",
-      "visits": 8,
-      "last_visit": "17-Oct-2026 21:12:28",
-      "x": 29.525,
-      "y": 27.409,
       "size": 11.53
     },
     {
@@ -338,7 +338,7 @@
       "lng": -117.1573,
       "label": "United States, California, San Diego",
       "visits": 3,
-      "last_visit": "17-Oct-2026 03:26:31",
+      "last_visit": "18-Oct-2026 03:25:13",
       "x": 17.456,
       "y": 31.825,
       "size": 9.77
@@ -1528,7 +1528,7 @@
       "lng": 120.4586,
       "label": "China, Liaoning, Chaoyang",
       "visits": 1,
-      "last_visit": "17-Oct-2026 23:48:45",
+      "last_visit": "18-Oct-2026 02:02:32",
       "x": 83.461,
       "y": 26.905,
       "size": 8.6
@@ -2268,7 +2268,7 @@
       "lng": -112.0376,
       "label": "United States, Arizona, Phoenix",
       "visits": 1,
-      "last_visit": "23-Jun-2026 06:00:43",
+      "last_visit": "18-Oct-2026 03:18:56",
       "x": 18.878,
       "y": 31.508,
       "size": 8.6
