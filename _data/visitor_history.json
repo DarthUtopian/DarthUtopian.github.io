@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-18T08:43:18+00:00",
-  "total_visits": 862,
-  "location_count": 413,
+  "updated_at": "2026-10-18T13:05:19+00:00",
+  "total_visits": 863,
+  "location_count": 414,
   "locations": [
     {
       "lat": 37.7749,
@@ -168,7 +168,7 @@
       "lng": -95.5858,
       "label": "United States, Texas, Houston",
       "visits": 5,
-      "last_visit": "14-Oct-2026 16:17:35",
+      "last_visit": "18-Oct-2026 09:18:21",
       "x": 23.448,
       "y": 33.5,
       "size": 10.58
@@ -508,7 +508,7 @@
       "lng": 10.0,
       "label": "Denmark, ,",
       "visits": 2,
-      "last_visit": "16-Oct-2026 04:33:29",
+      "last_visit": "18-Oct-2026 09:16:01",
       "x": 52.778,
       "y": 18.889,
       "size": 9.26
@@ -818,7 +818,7 @@
       "lng": -104.9878,
       "label": "United States, Colorado, Englewood",
       "visits": 2,
-      "last_visit": "17-Oct-2026 07:27:59",
+      "last_visit": "18-Oct-2026 09:18:58",
       "x": 20.837,
       "y": 27.973,
       "size": 9.26
@@ -1361,6 +1361,16 @@
       "last_visit": "20-Sep-2026 09:45:38",
       "x": 26.936,
       "y": 26.499,
+      "size": 8.6
+    },
+    {
+      "lat": 46.8667,
+      "lng": -71.2667,
+      "label": "Canada, Quebec, Charlesbourg",
+      "visits": 1,
+      "last_visit": "18-Oct-2026 12:54:40",
+      "x": 30.204,
+      "y": 23.963,
       "size": 8.6
     },
     {
