@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-19T10:12:55+00:00",
-  "total_visits": 871,
-  "location_count": 415,
+  "updated_at": "2026-10-19T17:06:15+00:00",
+  "total_visits": 873,
+  "location_count": 417,
   "locations": [
     {
       "lat": 37.7749,
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
       "visits": 131,
-      "last_visit": "18-Oct-2026 08:02:38",
+      "last_visit": "19-Oct-2026 14:46:02",
       "x": 15.995,
       "y": 29.014,
       "size": 18.0
@@ -2124,6 +2124,16 @@
       "size": 8.6
     },
     {
+      "lat": 43.0667,
+      "lng": -2.4833,
+      "label": "Spain, Pais Vasco, Mondrag�n",
+      "visits": 1,
+      "last_visit": "19-Oct-2026 11:39:16",
+      "x": 49.31,
+      "y": 26.074,
+      "size": 8.6
+    },
+    {
       "lat": 59.5333,
       "lng": 18.0833,
       "label": "Sweden, Stockholms Lan, Vallentuna",
@@ -3458,7 +3468,7 @@
       "lng": -76.4804,
       "label": "United States, New York, Ithaca",
       "visits": 1,
-      "last_visit": "08-Sep-2026 01:17:51",
+      "last_visit": "19-Oct-2026 14:35:29",
       "x": 28.755,
       "y": 26.418,
       "size": 8.6
@@ -3511,6 +3521,16 @@
       "last_visit": "23-Sep-2026 15:26:07",
       "x": 29.458,
       "y": 27.344,
+      "size": 8.6
+    },
+    {
+      "lat": 40.7267,
+      "lng": -73.9981,
+      "label": "United States, New York, New York",
+      "visits": 1,
+      "last_visit": "19-Oct-2026 11:46:23",
+      "x": 29.445,
+      "y": 27.374,
       "size": 8.6
     },
     {
