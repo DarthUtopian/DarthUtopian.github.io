@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-19T00:00:04+00:00",
-  "total_visits": 867,
+  "updated_at": "2026-10-19T04:29:21+00:00",
+  "total_visits": 868,
   "location_count": 414,
   "locations": [
     {
@@ -368,7 +368,7 @@
       "lng": -75.597,
       "label": "United States, Delaware, Wilmington",
       "visits": 3,
-      "last_visit": "17-Oct-2026 23:13:38",
+      "last_visit": "19-Oct-2026 00:12:33",
       "x": 29.001,
       "y": 28.02,
       "size": 9.77
@@ -558,7 +558,7 @@
       "lng": 53.0,
       "label": "Iran, Islamic Republic of, ,",
       "visits": 2,
-      "last_visit": "19-Sep-2026 14:33:29",
+      "last_visit": "19-Oct-2026 02:52:56",
       "x": 64.722,
       "y": 32.222,
       "size": 9.26
@@ -714,6 +714,16 @@
       "size": 9.26
     },
     {
+      "lat": 37.5155,
+      "lng": -121.8962,
+      "label": "United States, California, Fremont",
+      "visits": 2,
+      "last_visit": "19-Oct-2026 04:20:18",
+      "x": 16.14,
+      "y": 29.158,
+      "size": 9.26
+    },
+    {
       "lat": 33.7265,
       "lng": -118.0069,
       "label": "United States, California, Huntington Beach",
@@ -848,7 +858,7 @@
       "lng": -84.4635,
       "label": "United States, Georgia, Atlanta",
       "visits": 2,
-      "last_visit": "14-Oct-2026 03:26:02",
+      "last_visit": "19-Oct-2026 03:31:02",
       "x": 26.538,
       "y": 31.183,
       "size": 9.26
@@ -2471,16 +2481,6 @@
       "last_visit": "13-Oct-2026 21:29:30",
       "x": 16.114,
       "y": 29.14,
-      "size": 8.6
-    },
-    {
-      "lat": 37.5155,
-      "lng": -121.8962,
-      "label": "United States, California, Fremont",
-      "visits": 1,
-      "last_visit": "04-Oct-2026 04:36:38",
-      "x": 16.14,
-      "y": 29.158,
       "size": 8.6
     },
     {
