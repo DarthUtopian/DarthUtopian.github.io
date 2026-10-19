@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-19T04:29:21+00:00",
-  "total_visits": 868,
-  "location_count": 414,
+  "updated_at": "2026-10-19T10:12:55+00:00",
+  "total_visits": 871,
+  "location_count": 415,
   "locations": [
     {
       "lat": 37.7749,
@@ -28,7 +28,7 @@
       "lng": -121.8705,
       "label": "United States, California, Milpitas",
       "visits": 22,
-      "last_visit": "17-Oct-2026 18:03:40",
+      "last_visit": "19-Oct-2026 06:20:20",
       "x": 16.147,
       "y": 29.2,
       "size": 14.5
@@ -48,7 +48,7 @@
       "lng": -74.4551,
       "label": "United States, New Jersey, Perrineville",
       "visits": 13,
-      "last_visit": "29-Jul-2026 08:51:38",
+      "last_visit": "19-Oct-2026 07:16:00",
       "x": 29.318,
       "y": 27.651,
       "size": 12.77
@@ -321,6 +321,16 @@
       "last_visit": "24-Aug-2026 11:39:24",
       "x": 16.008,
       "y": 29.129,
+      "size": 9.77
+    },
+    {
+      "lat": 39.7285,
+      "lng": -121.8375,
+      "label": "United States, California, Chico",
+      "visits": 3,
+      "last_visit": "19-Oct-2026 07:13:04",
+      "x": 16.156,
+      "y": 27.929,
       "size": 9.77
     },
     {
@@ -628,7 +638,7 @@
       "lng": 121.525,
       "label": "Taiwan, T'ai-pei, Taipei",
       "visits": 2,
-      "last_visit": "08-Jul-2026 08:44:18",
+      "last_visit": "19-Oct-2026 05:11:40",
       "x": 83.757,
       "y": 36.089,
       "size": 9.26
@@ -1241,6 +1251,16 @@
       "last_visit": "27-Sep-2026 09:41:46",
       "x": 75.113,
       "y": 36.821,
+      "size": 8.6
+    },
+    {
+      "lat": -10.0,
+      "lng": -55.0,
+      "label": "Brazil, ,",
+      "visits": 1,
+      "last_visit": "19-Oct-2026 09:17:44",
+      "x": 34.722,
+      "y": 55.556,
       "size": 8.6
     },
     {
@@ -1958,7 +1978,7 @@
       "lng": 127.5,
       "label": "Korea, Republic of, ,",
       "visits": 1,
-      "last_visit": "02-Oct-2026 06:26:46",
+      "last_visit": "19-Oct-2026 09:40:59",
       "x": 85.417,
       "y": 29.444,
       "size": 8.6
@@ -2371,16 +2391,6 @@
       "last_visit": "08-Sep-2026 11:19:00",
       "x": 16.087,
       "y": 29.059,
-      "size": 8.6
-    },
-    {
-      "lat": 39.7285,
-      "lng": -121.8375,
-      "label": "United States, California, Chico",
-      "visits": 1,
-      "last_visit": "16-Oct-2026 20:18:41",
-      "x": 16.156,
-      "y": 27.929,
       "size": 8.6
     },
     {
