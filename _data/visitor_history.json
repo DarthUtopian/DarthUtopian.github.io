@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T17:06:15+00:00",
+  "updated_at": "2026-10-19T21:41:21+00:00",
   "total_visits": 873,
   "location_count": 417,
   "locations": [
@@ -8,7 +8,7 @@
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
       "visits": 131,
-      "last_visit": "19-Oct-2026 14:46:02",
+      "last_visit": "19-Oct-2026 18:30:16",
       "x": 15.995,
       "y": 29.014,
       "size": 18.0
@@ -118,7 +118,7 @@
       "lng": -79.9561,
       "label": "United States, Pennsylvania, Pittsburgh",
       "visits": 7,
-      "last_visit": "17-Oct-2026 23:10:37",
+      "last_visit": "19-Oct-2026 20:04:09",
       "x": 27.79,
       "y": 27.531,
       "size": 11.23
@@ -468,7 +468,7 @@
       "lng": -122.3321,
       "label": "United States, Washington, Seattle",
       "visits": 3,
-      "last_visit": "24-Sep-2026 22:46:27",
+      "last_visit": "19-Oct-2026 17:31:27",
       "x": 16.019,
       "y": 23.552,
       "size": 9.77
@@ -518,7 +518,7 @@
       "lng": 10.0,
       "label": "Denmark, ,",
       "visits": 2,
-      "last_visit": "18-Oct-2026 09:16:01",
+      "last_visit": "19-Oct-2026 20:03:03",
       "x": 52.778,
       "y": 18.889,
       "size": 9.26
@@ -3098,7 +3098,7 @@
       "lng": -76.5967,
       "label": "United States, Maryland, Baltimore",
       "visits": 1,
-      "last_visit": "08-Oct-2026 05:23:39",
+      "last_visit": "19-Oct-2026 21:19:20",
       "x": 28.723,
       "y": 28.151,
       "size": 8.6
