@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T21:41:21+00:00",
+  "updated_at": "2026-10-20T00:58:13+00:00",
   "total_visits": 873,
   "location_count": 417,
   "locations": [
@@ -8,7 +8,7 @@
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
       "visits": 131,
-      "last_visit": "19-Oct-2026 18:30:16",
+      "last_visit": "20-Oct-2026 00:40:38",
       "x": 15.995,
       "y": 29.014,
       "size": 18.0
@@ -308,7 +308,7 @@
       "lng": -122.2536,
       "label": "United States, California, Berkeley",
       "visits": 3,
-      "last_visit": "16-Oct-2026 17:56:05",
+      "last_visit": "20-Oct-2026 00:45:41",
       "x": 16.041,
       "y": 28.963,
       "size": 9.77
@@ -1978,7 +1978,7 @@
       "lng": 127.5,
       "label": "Korea, Republic of, ,",
       "visits": 1,
-      "last_visit": "19-Oct-2026 09:40:59",
+      "last_visit": "19-Oct-2026 23:46:27",
       "x": 85.417,
       "y": 29.444,
       "size": 8.6
@@ -2788,7 +2788,7 @@
       "lng": -73.2637,
       "label": "United States, Connecticut, Fairfield",
       "visits": 1,
-      "last_visit": "06-Jun-2026 09:08:04",
+      "last_visit": "19-Oct-2026 23:28:32",
       "x": 29.649,
       "y": 27.144,
       "size": 8.6
