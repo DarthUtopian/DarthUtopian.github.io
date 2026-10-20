@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-20T00:58:13+00:00",
-  "total_visits": 873,
-  "location_count": 417,
+  "updated_at": "2026-10-20T05:53:40+00:00",
+  "total_visits": 875,
+  "location_count": 418,
   "locations": [
     {
       "lat": 37.7749,
@@ -38,7 +38,7 @@
       "lng": -97.0,
       "label": "United States, ,",
       "visits": 16,
-      "last_visit": "18-Oct-2026 04:44:26",
+      "last_visit": "20-Oct-2026 03:18:03",
       "x": 23.056,
       "y": 28.889,
       "size": 13.4
@@ -308,7 +308,7 @@
       "lng": -122.2536,
       "label": "United States, California, Berkeley",
       "visits": 3,
-      "last_visit": "20-Oct-2026 00:45:41",
+      "last_visit": "20-Oct-2026 02:17:32",
       "x": 16.041,
       "y": 28.963,
       "size": 9.77
@@ -838,7 +838,7 @@
       "lng": -104.9878,
       "label": "United States, Colorado, Englewood",
       "visits": 2,
-      "last_visit": "18-Oct-2026 09:18:58",
+      "last_visit": "20-Oct-2026 02:07:52",
       "x": 20.837,
       "y": 27.973,
       "size": 9.26
@@ -941,6 +941,16 @@
       "last_visit": "21-Jul-2026 05:15:11",
       "x": 30.241,
       "y": 26.456,
+      "size": 9.26
+    },
+    {
+      "lat": 41.9609,
+      "lng": -71.1804,
+      "label": "United States, Massachusetts, Norton",
+      "visits": 2,
+      "last_visit": "20-Oct-2026 04:03:02",
+      "x": 30.228,
+      "y": 26.688,
       "size": 9.26
     },
     {
@@ -1978,7 +1988,7 @@
       "lng": 127.5,
       "label": "Korea, Republic of, ,",
       "visits": 1,
-      "last_visit": "19-Oct-2026 23:46:27",
+      "last_visit": "20-Oct-2026 05:31:02",
       "x": 85.417,
       "y": 29.444,
       "size": 8.6
