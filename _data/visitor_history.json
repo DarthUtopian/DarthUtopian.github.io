@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-21T07:18:39+00:00",
-  "total_visits": 879,
-  "location_count": 422,
+  "updated_at": "2026-10-21T13:05:54+00:00",
+  "total_visits": 881,
+  "location_count": 423,
   "locations": [
     {
       "lat": 37.7749,
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
       "visits": 131,
-      "last_visit": "21-Oct-2026 02:50:09",
+      "last_visit": "21-Oct-2026 12:40:16",
       "x": 15.995,
       "y": 29.014,
       "size": 18.0
@@ -178,7 +178,7 @@
       "lng": 105.85,
       "label": "Vietnam, Dac Lac, Hanoi",
       "visits": 5,
-      "last_visit": "01-Jul-2026 17:39:11",
+      "last_visit": "21-Oct-2026 09:32:47",
       "x": 79.403,
       "y": 38.315,
       "size": 10.58
@@ -838,7 +838,7 @@
       "lng": -104.9878,
       "label": "United States, Colorado, Englewood",
       "visits": 2,
-      "last_visit": "20-Oct-2026 02:07:52",
+      "last_visit": "21-Oct-2026 12:27:39",
       "x": 20.837,
       "y": 27.973,
       "size": 9.26
@@ -921,6 +921,16 @@
       "last_visit": "17-Jun-2026 17:45:49",
       "x": 28.719,
       "y": 28.172,
+      "size": 9.26
+    },
+    {
+      "lat": 39.1434,
+      "lng": -77.2014,
+      "label": "United States, Maryland, Gaithersburg",
+      "visits": 2,
+      "last_visit": "21-Oct-2026 07:58:01",
+      "x": 28.555,
+      "y": 28.254,
       "size": 9.26
     },
     {
