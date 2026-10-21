@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T18:11:22+00:00",
+  "updated_at": "2026-10-21T21:54:24+00:00",
   "total_visits": 881,
   "location_count": 423,
   "locations": [
@@ -528,7 +528,7 @@
       "lng": 2.0,
       "label": "France, ,",
       "visits": 2,
-      "last_visit": "11-Aug-2026 00:05:40",
+      "last_visit": "21-Oct-2026 18:30:33",
       "x": 50.556,
       "y": 24.444,
       "size": 9.26
@@ -2858,7 +2858,7 @@
       "lng": -73.4416,
       "label": "United States, Connecticut, Norwalk",
       "visits": 1,
-      "last_visit": "14-Oct-2026 05:53:33",
+      "last_visit": "21-Oct-2026 18:45:40",
       "x": 29.6,
       "y": 27.152,
       "size": 8.6
