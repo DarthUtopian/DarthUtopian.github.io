@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-21T01:52:50+00:00",
-  "total_visits": 878,
-  "location_count": 421,
+  "updated_at": "2026-10-21T07:18:39+00:00",
+  "total_visits": 879,
+  "location_count": 422,
   "locations": [
     {
       "lat": 37.7749,
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
       "visits": 131,
-      "last_visit": "20-Oct-2026 00:40:38",
+      "last_visit": "21-Oct-2026 02:50:09",
       "x": 15.995,
       "y": 29.014,
       "size": 18.0
@@ -118,7 +118,7 @@
       "lng": -79.9561,
       "label": "United States, Pennsylvania, Pittsburgh",
       "visits": 7,
-      "last_visit": "19-Oct-2026 20:04:09",
+      "last_visit": "21-Oct-2026 03:09:12",
       "x": 27.79,
       "y": 27.531,
       "size": 11.23
@@ -2071,6 +2071,16 @@
       "last_visit": "24-Aug-2026 10:33:55",
       "x": 51.597,
       "y": 20.833,
+      "size": 8.6
+    },
+    {
+      "lat": 51.2667,
+      "lng": 6.0484,
+      "label": "Netherlands, Limburg, Beesel",
+      "visits": 1,
+      "last_visit": "21-Oct-2026 02:24:25",
+      "x": 51.68,
+      "y": 21.518,
       "size": 8.6
     },
     {
