@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T13:05:54+00:00",
+  "updated_at": "2026-10-21T18:11:22+00:00",
   "total_visits": 881,
   "location_count": 423,
   "locations": [
@@ -128,7 +128,7 @@
       "lng": 121.3997,
       "label": "China, Shanghai, Shanghai",
       "visits": 6,
-      "last_visit": "18-Sep-2026 18:29:20",
+      "last_visit": "21-Oct-2026 13:14:51",
       "x": 83.722,
       "y": 32.752,
       "size": 10.92
@@ -548,7 +548,7 @@
       "lng": 114.1667,
       "label": "Hong Kong, ,",
       "visits": 2,
-      "last_visit": "26-Aug-2026 08:02:57",
+      "last_visit": "21-Oct-2026 14:56:31",
       "x": 81.713,
       "y": 37.639,
       "size": 9.26
@@ -1058,7 +1058,7 @@
       "lng": -83.1383,
       "label": "United States, Ohio, Columbus",
       "visits": 2,
-      "last_visit": "16-Oct-2026 18:36:09",
+      "last_visit": "21-Oct-2026 15:31:01",
       "x": 26.906,
       "y": 27.797,
       "size": 9.26
@@ -4208,7 +4208,7 @@
       "lng": -80.6362,
       "label": "United States, West Virginia, Wheeling",
       "visits": 1,
-      "last_visit": "28-Sep-2026 02:40:22",
+      "last_visit": "21-Oct-2026 15:51:56",
       "x": 27.601,
       "y": 27.745,
       "size": 8.6
