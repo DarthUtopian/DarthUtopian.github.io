@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-20T23:02:44+00:00",
-  "total_visits": 877,
-  "location_count": 420,
+  "updated_at": "2026-10-21T01:52:50+00:00",
+  "total_visits": 878,
+  "location_count": 421,
   "locations": [
     {
       "lat": 37.7749,
@@ -1401,6 +1401,16 @@
       "last_visit": "17-Oct-2026 14:23:55",
       "x": 27.751,
       "y": 25.602,
+      "size": 8.6
+    },
+    {
+      "lat": 43.75,
+      "lng": -79.2,
+      "label": "Canada, Ontario, Scarborough",
+      "visits": 1,
+      "last_visit": "21-Oct-2026 01:20:09",
+      "x": 28.0,
+      "y": 25.694,
       "size": 8.6
     },
     {
