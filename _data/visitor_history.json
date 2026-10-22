@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T10:29:27+00:00",
+  "updated_at": "2026-10-22T15:34:29+00:00",
   "total_visits": 886,
   "location_count": 424,
   "locations": [
@@ -408,7 +408,7 @@
       "lng": -71.0878,
       "label": "United States, Massachusetts, Boston",
       "visits": 3,
-      "last_visit": "02-Oct-2026 00:50:58",
+      "last_visit": "22-Oct-2026 14:29:46",
       "x": 30.253,
       "y": 26.476,
       "size": 9.77
