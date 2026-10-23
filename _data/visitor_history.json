@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T01:46:51+00:00",
+  "updated_at": "2026-10-23T12:46:53+00:00",
   "total_visits": 886,
   "location_count": 424,
   "locations": [
@@ -58,7 +58,7 @@
       "lng": 116.3883,
       "label": "China, Beijing, Beijing",
       "visits": 9,
-      "last_visit": "22-Oct-2026 09:24:25",
+      "last_visit": "23-Oct-2026 12:45:21",
       "x": 82.33,
       "y": 27.817,
       "size": 11.8
@@ -298,7 +298,7 @@
       "lng": -0.13,
       "label": "United Kingdom, ,",
       "visits": 3,
-      "last_visit": "16-Oct-2026 06:50:59",
+      "last_visit": "23-Oct-2026 06:52:22",
       "x": 49.964,
       "y": 21.389,
       "size": 9.77
@@ -348,7 +348,7 @@
       "lng": -117.1573,
       "label": "United States, California, San Diego",
       "visits": 3,
-      "last_visit": "22-Oct-2026 03:21:21",
+      "last_visit": "23-Oct-2026 03:48:18",
       "x": 17.456,
       "y": 31.825,
       "size": 9.77
@@ -678,7 +678,7 @@
       "lng": -117.1938,
       "label": "United States, California, Bonsall",
       "visits": 2,
-      "last_visit": "24-Aug-2026 10:40:00",
+      "last_visit": "23-Oct-2026 03:17:23",
       "x": 17.446,
       "y": 31.507,
       "size": 9.26
@@ -868,7 +868,7 @@
       "lng": -84.4635,
       "label": "United States, Georgia, Atlanta",
       "visits": 2,
-      "last_visit": "19-Oct-2026 03:31:02",
+      "last_visit": "23-Oct-2026 02:13:06",
       "x": 26.538,
       "y": 31.183,
       "size": 9.26
@@ -2178,7 +2178,7 @@
       "lng": -2.4833,
       "label": "Spain, Pais Vasco, Mondrag�n",
       "visits": 1,
-      "last_visit": "19-Oct-2026 11:39:16",
+      "last_visit": "23-Oct-2026 11:53:04",
       "x": 49.31,
       "y": 26.074,
       "size": 8.6
