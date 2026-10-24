@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-24T04:13:56+00:00",
-  "total_visits": 888,
-  "location_count": 424,
+  "updated_at": "2026-10-24T09:01:36+00:00",
+  "total_visits": 889,
+  "location_count": 425,
   "locations": [
     {
       "lat": 37.7749,
@@ -38,7 +38,7 @@
       "lng": -97.0,
       "label": "United States, ,",
       "visits": 16,
-      "last_visit": "23-Oct-2026 01:42:03",
+      "last_visit": "24-Oct-2026 05:05:26",
       "x": 23.056,
       "y": 28.889,
       "size": 13.4
@@ -188,7 +188,7 @@
       "lng": 105.0,
       "label": "China, ,",
       "visits": 4,
-      "last_visit": "22-Oct-2026 04:01:40",
+      "last_visit": "24-Oct-2026 05:07:24",
       "x": 79.167,
       "y": 30.556,
       "size": 10.2
@@ -1688,7 +1688,7 @@
       "lng": 117.1767,
       "label": "China, Tianjin, Tianjin",
       "visits": 1,
-      "last_visit": "09-Sep-2026 06:11:56",
+      "last_visit": "24-Oct-2026 07:05:12",
       "x": 82.549,
       "y": 28.254,
       "size": 8.6
@@ -3461,6 +3461,16 @@
       "last_visit": "20-Jun-2026 01:29:19",
       "x": 29.221,
       "y": 27.342,
+      "size": 8.6
+    },
+    {
+      "lat": 40.7923,
+      "lng": -74.1001,
+      "label": "United States, New Jersey, Lyndhurst",
+      "visits": 1,
+      "last_visit": "24-Oct-2026 08:34:19",
+      "x": 29.417,
+      "y": 27.338,
       "size": 8.6
     },
     {
