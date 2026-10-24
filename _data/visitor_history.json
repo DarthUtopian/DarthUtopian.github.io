@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-24T09:01:36+00:00",
-  "total_visits": 889,
-  "location_count": 425,
+  "updated_at": "2026-10-24T13:30:04+00:00",
+  "total_visits": 890,
+  "location_count": 426,
   "locations": [
     {
       "lat": 37.7749,
@@ -2371,6 +2371,16 @@
       "last_visit": "11-Jun-2026 14:52:11",
       "x": 49.755,
       "y": 20.972,
+      "size": 8.6
+    },
+    {
+      "lat": 53.4333,
+      "lng": -1.35,
+      "label": "United Kingdom, Rotherham, Rotherham",
+      "visits": 1,
+      "last_visit": "24-Oct-2026 12:12:16",
+      "x": 49.625,
+      "y": 20.315,
       "size": 8.6
     },
     {
