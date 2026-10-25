@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-25T10:02:36+00:00",
-  "total_visits": 891,
-  "location_count": 427,
+  "updated_at": "2026-10-25T18:15:22+00:00",
+  "total_visits": 892,
+  "location_count": 428,
   "locations": [
     {
       "lat": 37.7749,
@@ -38,7 +38,7 @@
       "lng": -97.0,
       "label": "United States, ,",
       "visits": 16,
-      "last_visit": "25-Oct-2026 00:59:49",
+      "last_visit": "25-Oct-2026 16:44:16",
       "x": 23.056,
       "y": 28.889,
       "size": 13.4
@@ -1291,6 +1291,16 @@
       "last_visit": "24-Oct-2026 23:03:22",
       "x": 39.301,
       "y": 57.213,
+      "size": 8.6
+    },
+    {
+      "lat": -9.4,
+      "lng": -40.5,
+      "label": "Brazil, Pernambuco, Petrolina",
+      "visits": 1,
+      "last_visit": "25-Oct-2026 15:25:53",
+      "x": 38.75,
+      "y": 55.222,
       "size": 8.6
     },
     {
