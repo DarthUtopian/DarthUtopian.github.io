@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-25T21:07:23+00:00",
-  "total_visits": 892,
-  "location_count": 428,
+  "updated_at": "2026-10-25T23:27:57+00:00",
+  "total_visits": 894,
+  "location_count": 429,
   "locations": [
     {
       "lat": 37.7749,
@@ -931,6 +931,16 @@
       "last_visit": "21-Oct-2026 07:58:01",
       "x": 28.555,
       "y": 28.254,
+      "size": 9.26
+    },
+    {
+      "lat": 39.0046,
+      "lng": -77.0369,
+      "label": "United States, Maryland, Silver Spring",
+      "visits": 2,
+      "last_visit": "25-Oct-2026 23:03:03",
+      "x": 28.601,
+      "y": 28.331,
       "size": 9.26
     },
     {
@@ -4028,7 +4038,7 @@
       "lng": -96.7297,
       "label": "United States, Texas, Richardson",
       "visits": 1,
-      "last_visit": "16-Oct-2026 17:45:57",
+      "last_visit": "25-Oct-2026 21:45:47",
       "x": 23.131,
       "y": 31.695,
       "size": 8.6
