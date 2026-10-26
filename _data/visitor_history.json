@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-25T23:27:57+00:00",
-  "total_visits": 894,
-  "location_count": 429,
+  "updated_at": "2026-10-26T07:35:07+00:00",
+  "total_visits": 895,
+  "location_count": 430,
   "locations": [
     {
       "lat": 37.7749,
@@ -28,7 +28,7 @@
       "lng": -121.8705,
       "label": "United States, California, Milpitas",
       "visits": 22,
-      "last_visit": "19-Oct-2026 06:20:20",
+      "last_visit": "26-Oct-2026 03:31:14",
       "x": 16.147,
       "y": 29.2,
       "size": 14.5
@@ -48,7 +48,7 @@
       "lng": -74.4551,
       "label": "United States, New Jersey, Perrineville",
       "visits": 13,
-      "last_visit": "19-Oct-2026 07:16:00",
+      "last_visit": "26-Oct-2026 06:05:20",
       "x": 29.318,
       "y": 27.651,
       "size": 12.77
@@ -348,7 +348,7 @@
       "lng": -117.1573,
       "label": "United States, California, San Diego",
       "visits": 3,
-      "last_visit": "24-Oct-2026 03:02:12",
+      "last_visit": "26-Oct-2026 06:44:16",
       "x": 17.456,
       "y": 31.825,
       "size": 9.77
@@ -678,7 +678,7 @@
       "lng": -117.1938,
       "label": "United States, California, Bonsall",
       "visits": 2,
-      "last_visit": "23-Oct-2026 03:17:23",
+      "last_visit": "26-Oct-2026 07:13:55",
       "x": 17.446,
       "y": 31.507,
       "size": 9.26
@@ -3991,6 +3991,16 @@
       "last_visit": "20-Oct-2026 16:16:12",
       "x": 23.244,
       "y": 32.993,
+      "size": 8.6
+    },
+    {
+      "lat": 27.8006,
+      "lng": -97.3964,
+      "label": "United States, Texas, Corpus Christi",
+      "visits": 1,
+      "last_visit": "26-Oct-2026 04:51:05",
+      "x": 22.945,
+      "y": 34.555,
       "size": 8.6
     },
     {
