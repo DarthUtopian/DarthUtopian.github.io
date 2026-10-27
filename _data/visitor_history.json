@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-27T16:16:57+00:00",
-  "total_visits": 898,
-  "location_count": 431,
+  "updated_at": "2026-10-27T20:51:56+00:00",
+  "total_visits": 900,
+  "location_count": 433,
   "locations": [
     {
       "lat": 37.7749,
@@ -118,7 +118,7 @@
       "lng": -79.9561,
       "label": "United States, Pennsylvania, Pittsburgh",
       "visits": 7,
-      "last_visit": "26-Oct-2026 20:48:01",
+      "last_visit": "27-Oct-2026 19:56:50",
       "x": 27.79,
       "y": 27.531,
       "size": 11.23
@@ -168,7 +168,7 @@
       "lng": -95.5858,
       "label": "United States, Texas, Houston",
       "visits": 5,
-      "last_visit": "26-Oct-2026 14:20:49",
+      "last_visit": "27-Oct-2026 17:27:37",
       "x": 23.448,
       "y": 33.5,
       "size": 10.58
@@ -528,7 +528,7 @@
       "lng": 10.0,
       "label": "Denmark, ,",
       "visits": 2,
-      "last_visit": "19-Oct-2026 20:03:03",
+      "last_visit": "27-Oct-2026 17:56:40",
       "x": 52.778,
       "y": 18.889,
       "size": 9.26
@@ -838,7 +838,7 @@
       "lng": -104.9878,
       "label": "United States, Colorado, Englewood",
       "visits": 2,
-      "last_visit": "26-Oct-2026 14:26:26",
+      "last_visit": "27-Oct-2026 17:28:58",
       "x": 20.837,
       "y": 27.973,
       "size": 9.26
@@ -1138,7 +1138,7 @@
       "lng": -97.7369,
       "label": "United States, Texas, Austin",
       "visits": 2,
-      "last_visit": "18-Oct-2026 20:32:39",
+      "last_visit": "27-Oct-2026 20:39:18",
       "x": 22.851,
       "y": 33.169,
       "size": 9.26
@@ -2994,6 +2994,16 @@
       "size": 8.6
     },
     {
+      "lat": 27.2939,
+      "lng": -80.3503,
+      "label": "United States, Florida, Port Saint Lucie",
+      "visits": 1,
+      "last_visit": "27-Oct-2026 17:47:48",
+      "x": 27.68,
+      "y": 34.837,
+      "size": 8.6
+    },
+    {
       "lat": 27.9475,
       "lng": -82.4584,
       "label": "United States, Florida, Tampa",
@@ -4261,6 +4271,16 @@
       "last_visit": "05-Oct-2026 13:12:59",
       "x": 16.016,
       "y": 23.536,
+      "size": 8.6
+    },
+    {
+      "lat": 48.0656,
+      "lng": -123.0613,
+      "label": "United States, Washington, Sequim",
+      "visits": 1,
+      "last_visit": "27-Oct-2026 17:45:02",
+      "x": 15.816,
+      "y": 23.297,
       "size": 8.6
     },
     {
