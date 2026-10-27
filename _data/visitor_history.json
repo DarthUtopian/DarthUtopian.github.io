@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-27T00:01:06+00:00",
-  "total_visits": 897,
+  "updated_at": "2026-10-27T05:25:42+00:00",
+  "total_visits": 898,
   "location_count": 431,
   "locations": [
     {
@@ -8,7 +8,7 @@
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
       "visits": 131,
-      "last_visit": "24-Oct-2026 02:36:46",
+      "last_visit": "27-Oct-2026 03:20:14",
       "x": 15.995,
       "y": 29.014,
       "size": 18.0
@@ -98,7 +98,7 @@
       "lng": -79.8358,
       "label": "United States, Pennsylvania, Pittsburgh",
       "visits": 8,
-      "last_visit": "08-Oct-2026 18:17:40",
+      "last_visit": "27-Oct-2026 02:11:17",
       "x": 27.823,
       "y": 27.522,
       "size": 11.53
@@ -1141,6 +1141,16 @@
       "last_visit": "18-Oct-2026 20:32:39",
       "x": 22.851,
       "y": 33.169,
+      "size": 9.26
+    },
+    {
+      "lat": 27.8006,
+      "lng": -97.3964,
+      "label": "United States, Texas, Corpus Christi",
+      "visits": 2,
+      "last_visit": "27-Oct-2026 00:42:53",
+      "x": 22.945,
+      "y": 34.555,
       "size": 9.26
     },
     {
@@ -3991,16 +4001,6 @@
       "last_visit": "20-Oct-2026 16:16:12",
       "x": 23.244,
       "y": 32.993,
-      "size": 8.6
-    },
-    {
-      "lat": 27.8006,
-      "lng": -97.3964,
-      "label": "United States, Texas, Corpus Christi",
-      "visits": 1,
-      "last_visit": "26-Oct-2026 04:51:05",
-      "x": 22.945,
-      "y": 34.555,
       "size": 8.6
     },
     {
