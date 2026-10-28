@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-28T00:19:54+00:00",
-  "total_visits": 900,
+  "updated_at": "2026-10-28T06:06:16+00:00",
+  "total_visits": 901,
   "location_count": 433,
   "locations": [
     {
@@ -8,7 +8,7 @@
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
       "visits": 131,
-      "last_visit": "27-Oct-2026 23:29:50",
+      "last_visit": "28-Oct-2026 01:33:19",
       "x": 15.995,
       "y": 29.014,
       "size": 18.0
@@ -468,7 +468,7 @@
       "lng": -80.0525,
       "label": "United States, Pennsylvania, Pittsburgh",
       "visits": 3,
-      "last_visit": "16-Oct-2026 22:41:55",
+      "last_visit": "28-Oct-2026 03:51:25",
       "x": 27.763,
       "y": 27.474,
       "size": 9.77
@@ -524,11 +524,21 @@
       "size": 9.26
     },
     {
+      "lat": 39.1422,
+      "lng": 117.1767,
+      "label": "China, Tianjin, Tianjin",
+      "visits": 2,
+      "last_visit": "28-Oct-2026 01:17:03",
+      "x": 82.549,
+      "y": 28.254,
+      "size": 9.26
+    },
+    {
       "lat": 56.0,
       "lng": 10.0,
       "label": "Denmark, ,",
       "visits": 2,
-      "last_visit": "27-Oct-2026 17:56:40",
+      "last_visit": "28-Oct-2026 01:08:28",
       "x": 52.778,
       "y": 18.889,
       "size": 9.26
@@ -1721,16 +1731,6 @@
       "last_visit": "21-Oct-2026 23:54:26",
       "x": 78.907,
       "y": 32.963,
-      "size": 8.6
-    },
-    {
-      "lat": 39.1422,
-      "lng": 117.1767,
-      "label": "China, Tianjin, Tianjin",
-      "visits": 1,
-      "last_visit": "24-Oct-2026 07:05:12",
-      "x": 82.549,
-      "y": 28.254,
       "size": 8.6
     },
     {
