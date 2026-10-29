@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T09:39:10+00:00",
+  "updated_at": "2026-10-29T16:45:56+00:00",
   "total_visits": 904,
   "location_count": 435,
   "locations": [
@@ -198,7 +198,7 @@
       "lng": 7.1,
       "label": "Germany, Nordrhein-Westfalen, Bonn",
       "visits": 4,
-      "last_visit": "20-Oct-2026 09:36:03",
+      "last_visit": "29-Oct-2026 13:43:04",
       "x": 51.972,
       "y": 21.815,
       "size": 10.2
@@ -548,7 +548,7 @@
       "lng": 10.0,
       "label": "Denmark, ,",
       "visits": 2,
-      "last_visit": "28-Oct-2026 01:08:28",
+      "last_visit": "29-Oct-2026 12:30:21",
       "x": 52.778,
       "y": 18.889,
       "size": 9.26
@@ -1814,6 +1814,16 @@
       "size": 8.6
     },
     {
+      "lat": 47.0,
+      "lng": 8.0,
+      "label": "Europe, ,",
+      "visits": 1,
+      "last_visit": "29-Oct-2026 12:05:54",
+      "x": 52.222,
+      "y": 23.889,
+      "size": 8.6
+    },
+    {
       "lat": 48.8667,
       "lng": 2.3333,
       "label": "France, Ile-de-France, Paris",
@@ -2234,16 +2244,6 @@
       "size": 8.6
     },
     {
-      "lat": 47.0,
-      "lng": 8.0,
-      "label": "Switzerland, ,",
-      "visits": 1,
-      "last_visit": "10-Oct-2026 14:04:47",
-      "x": 52.222,
-      "y": 23.889,
-      "size": 8.6
-    },
-    {
       "lat": 47.5584,
       "lng": 7.5733,
       "label": "Switzerland, Basel-Stadt, Basel",
@@ -2508,7 +2508,7 @@
       "lng": -118.4004,
       "label": "United States, California, Beverly Hills",
       "visits": 1,
-      "last_visit": "13-Sep-2026 19:22:08",
+      "last_visit": "29-Oct-2026 10:56:03",
       "x": 17.111,
       "y": 31.07,
       "size": 8.6
