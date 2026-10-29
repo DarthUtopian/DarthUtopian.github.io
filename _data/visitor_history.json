@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T23:25:30+00:00",
+  "updated_at": "2026-10-29T02:42:34+00:00",
   "total_visits": 902,
   "location_count": 434,
   "locations": [
@@ -28,7 +28,7 @@
       "lng": -121.8705,
       "label": "United States, California, Milpitas",
       "visits": 22,
-      "last_visit": "26-Oct-2026 22:30:28",
+      "last_visit": "28-Oct-2026 23:33:43",
       "x": 16.147,
       "y": 29.2,
       "size": 14.5
@@ -818,7 +818,7 @@
       "lng": -122.172,
       "label": "United States, California, Stanford",
       "visits": 2,
-      "last_visit": "17-Oct-2026 07:19:47",
+      "last_visit": "29-Oct-2026 02:32:45",
       "x": 16.063,
       "y": 29.212,
       "size": 9.26
