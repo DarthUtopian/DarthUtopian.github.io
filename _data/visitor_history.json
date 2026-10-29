@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-29T02:42:34+00:00",
-  "total_visits": 902,
-  "location_count": 434,
+  "updated_at": "2026-10-29T09:39:10+00:00",
+  "total_visits": 904,
+  "location_count": 435,
   "locations": [
     {
       "lat": 37.7749,
@@ -28,7 +28,7 @@
       "lng": -121.8705,
       "label": "United States, California, Milpitas",
       "visits": 22,
-      "last_visit": "28-Oct-2026 23:33:43",
+      "last_visit": "29-Oct-2026 04:03:46",
       "x": 16.147,
       "y": 29.2,
       "size": 14.5
@@ -318,7 +318,7 @@
       "lng": -122.371,
       "label": "United States, California, Burlingame",
       "visits": 3,
-      "last_visit": "24-Aug-2026 11:39:24",
+      "last_visit": "29-Oct-2026 06:59:17",
       "x": 16.008,
       "y": 29.129,
       "size": 9.77
@@ -391,6 +391,16 @@
       "last_visit": "19-Oct-2026 00:12:33",
       "x": 29.001,
       "y": 28.02,
+      "size": 9.77
+    },
+    {
+      "lat": 33.871,
+      "lng": -84.4635,
+      "label": "United States, Georgia, Atlanta",
+      "visits": 3,
+      "last_visit": "29-Oct-2026 07:56:27",
+      "x": 26.538,
+      "y": 31.183,
       "size": 9.77
     },
     {
@@ -478,7 +488,7 @@
       "lng": -122.3321,
       "label": "United States, Washington, Seattle",
       "visits": 3,
-      "last_visit": "19-Oct-2026 17:31:27",
+      "last_visit": "29-Oct-2026 07:35:21",
       "x": 16.019,
       "y": 23.552,
       "size": 9.77
@@ -871,16 +881,6 @@
       "last_visit": "27-Aug-2026 13:51:49",
       "x": 26.556,
       "y": 31.235,
-      "size": 9.26
-    },
-    {
-      "lat": 33.871,
-      "lng": -84.4635,
-      "label": "United States, Georgia, Atlanta",
-      "visits": 2,
-      "last_visit": "26-Oct-2026 07:45:01",
-      "x": 26.538,
-      "y": 31.183,
       "size": 9.26
     },
     {
@@ -3148,7 +3148,7 @@
       "lng": -87.6845,
       "label": "United States, Illinois, Evanston",
       "visits": 1,
-      "last_visit": "02-Aug-2026 00:05:10",
+      "last_visit": "29-Oct-2026 02:52:47",
       "x": 25.643,
       "y": 26.634,
       "size": 8.6
@@ -3861,6 +3861,16 @@
       "last_visit": "31-Jul-2026 14:39:55",
       "x": 28.944,
       "y": 27.906,
+      "size": 8.6
+    },
+    {
+      "lat": 40.9812,
+      "lng": -76.9587,
+      "label": "United States, Pennsylvania, Lewisburg",
+      "visits": 1,
+      "last_visit": "29-Oct-2026 09:14:34",
+      "x": 28.623,
+      "y": 27.233,
       "size": 8.6
     },
     {
