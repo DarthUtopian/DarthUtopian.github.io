@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T05:16:23+00:00",
+  "updated_at": "2026-11-01T11:58:00+00:00",
   "total_visits": 909,
   "location_count": 438,
   "locations": [
@@ -58,7 +58,7 @@
       "lng": 116.3883,
       "label": "China, Beijing, Beijing",
       "visits": 9,
-      "last_visit": "25-Oct-2026 04:36:34",
+      "last_visit": "01-Nov-2026 06:14:17",
       "x": 82.33,
       "y": 27.817,
       "size": 11.8
@@ -118,7 +118,7 @@
       "lng": -79.9561,
       "label": "United States, Pennsylvania, Pittsburgh",
       "visits": 7,
-      "last_visit": "30-Oct-2026 19:40:12",
+      "last_visit": "01-Nov-2026 07:05:18",
       "x": 27.79,
       "y": 27.531,
       "size": 11.23
