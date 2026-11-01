@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-01T17:52:25+00:00",
-  "total_visits": 910,
-  "location_count": 439,
+  "updated_at": "2026-11-01T21:51:16+00:00",
+  "total_visits": 911,
+  "location_count": 440,
   "locations": [
     {
       "lat": 37.7749,
@@ -118,7 +118,7 @@
       "lng": -79.9561,
       "label": "United States, Pennsylvania, Pittsburgh",
       "visits": 7,
-      "last_visit": "01-Nov-2026 07:05:18",
+      "last_visit": "01-Nov-2026 20:37:45",
       "x": 27.79,
       "y": 27.531,
       "size": 11.23
@@ -2281,6 +2281,16 @@
       "last_visit": "20-Oct-2026 13:29:39",
       "x": 52.351,
       "y": 23.788,
+      "size": 8.6
+    },
+    {
+      "lat": 47.3954,
+      "lng": 8.6184,
+      "label": "Switzerland, Zurich, Dubendorf",
+      "visits": 1,
+      "last_visit": "01-Nov-2026 19:03:30",
+      "x": 52.394,
+      "y": 23.669,
       "size": 8.6
     },
     {
