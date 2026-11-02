@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T01:22:03+00:00",
+  "updated_at": "2026-11-02T08:03:25+00:00",
   "total_visits": 912,
   "location_count": 441,
   "locations": [
@@ -178,7 +178,7 @@
       "lng": -95.5858,
       "label": "United States, Texas, Houston",
       "visits": 5,
-      "last_visit": "27-Oct-2026 17:27:37",
+      "last_visit": "02-Nov-2026 06:45:55",
       "x": 23.448,
       "y": 33.5,
       "size": 10.58
@@ -308,7 +308,7 @@
       "lng": -0.13,
       "label": "United Kingdom, ,",
       "visits": 3,
-      "last_visit": "30-Oct-2026 02:55:36",
+      "last_visit": "02-Nov-2026 04:05:31",
       "x": 49.964,
       "y": 21.389,
       "size": 9.77
@@ -348,7 +348,7 @@
       "lng": -121.9066,
       "label": "United States, California, Milpitas",
       "visits": 3,
-      "last_visit": "30-Oct-2026 08:54:24",
+      "last_visit": "02-Nov-2026 03:01:54",
       "x": 16.137,
       "y": 29.207,
       "size": 9.77
@@ -748,7 +748,7 @@
       "lng": -117.0864,
       "label": "United States, California, Escondido",
       "visits": 2,
-      "last_visit": "15-Oct-2026 03:32:03",
+      "last_visit": "02-Nov-2026 01:28:08",
       "x": 17.476,
       "y": 31.6,
       "size": 9.26
@@ -858,7 +858,7 @@
       "lng": -104.9878,
       "label": "United States, Colorado, Englewood",
       "visits": 2,
-      "last_visit": "01-Nov-2026 01:14:44",
+      "last_visit": "02-Nov-2026 06:44:03",
       "x": 20.837,
       "y": 27.973,
       "size": 9.26
@@ -1148,7 +1148,7 @@
       "lng": -97.7369,
       "label": "United States, Texas, Austin",
       "visits": 2,
-      "last_visit": "27-Oct-2026 20:39:18",
+      "last_visit": "02-Nov-2026 02:53:27",
       "x": 22.851,
       "y": 33.169,
       "size": 9.26
@@ -2078,7 +2078,7 @@
       "lng": 127.5,
       "label": "Korea, Republic of, ,",
       "visits": 1,
-      "last_visit": "20-Oct-2026 05:31:02",
+      "last_visit": "02-Nov-2026 06:49:33",
       "x": 85.417,
       "y": 29.444,
       "size": 8.6
