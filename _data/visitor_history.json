@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-02T08:03:25+00:00",
-  "total_visits": 912,
-  "location_count": 441,
+  "updated_at": "2026-11-02T18:43:11+00:00",
+  "total_visits": 914,
+  "location_count": 442,
   "locations": [
     {
       "lat": 37.7749,
@@ -248,7 +248,7 @@
       "lng": -79.9959,
       "label": "United States, Pennsylvania, Pittsburgh",
       "visits": 4,
-      "last_visit": "27-Sep-2026 03:37:42",
+      "last_visit": "02-Nov-2026 11:12:03",
       "x": 27.779,
       "y": 27.533,
       "size": 10.2
@@ -808,7 +808,7 @@
       "lng": -121.946,
       "label": "United States, California, San Jose",
       "visits": 2,
-      "last_visit": "16-Oct-2026 20:43:09",
+      "last_visit": "02-Nov-2026 08:59:30",
       "x": 16.126,
       "y": 29.208,
       "size": 9.26
@@ -981,6 +981,16 @@
       "last_visit": "20-Oct-2026 04:03:02",
       "x": 30.228,
       "y": 26.688,
+      "size": 9.26
+    },
+    {
+      "lat": 42.2923,
+      "lng": -83.7145,
+      "label": "United States, Michigan, Ann Arbor",
+      "visits": 2,
+      "last_visit": "02-Nov-2026 16:05:05",
+      "x": 26.746,
+      "y": 26.504,
       "size": 9.26
     },
     {
@@ -2938,7 +2948,7 @@
       "lng": -73.2637,
       "label": "United States, Connecticut, Fairfield",
       "visits": 1,
-      "last_visit": "19-Oct-2026 23:28:32",
+      "last_visit": "02-Nov-2026 18:10:21",
       "x": 29.649,
       "y": 27.144,
       "size": 8.6
@@ -3258,7 +3268,7 @@
       "lng": -84.3689,
       "label": "United States, Kentucky, Lexington",
       "visits": 1,
-      "last_visit": "13-Oct-2026 08:21:36",
+      "last_visit": "02-Nov-2026 08:07:29",
       "x": 26.564,
       "y": 28.892,
       "size": 8.6
@@ -3401,16 +3411,6 @@
       "last_visit": "03-Jul-2026 07:19:40",
       "x": 26.746,
       "y": 26.515,
-      "size": 8.6
-    },
-    {
-      "lat": 42.2923,
-      "lng": -83.7145,
-      "label": "United States, Michigan, Ann Arbor",
-      "visits": 1,
-      "last_visit": "18-Jun-2026 01:06:56",
-      "x": 26.746,
-      "y": 26.504,
       "size": 8.6
     },
     {
@@ -4011,6 +4011,16 @@
       "last_visit": "22-Sep-2026 04:52:29",
       "x": 27.791,
       "y": 27.496,
+      "size": 8.6
+    },
+    {
+      "lat": 40.7934,
+      "lng": -77.86,
+      "label": "United States, Pennsylvania, State College",
+      "visits": 1,
+      "last_visit": "02-Nov-2026 14:28:21",
+      "x": 28.372,
+      "y": 27.337,
       "size": 8.6
     },
     {
