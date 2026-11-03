@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-11-03T01:28:19+00:00",
-  "total_visits": 915,
-  "location_count": 442,
+  "updated_at": "2026-11-03T08:29:55+00:00",
+  "total_visits": 916,
+  "location_count": 443,
   "locations": [
     {
       "lat": 37.7749,
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
       "visits": 131,
-      "last_visit": "02-Nov-2026 19:24:18",
+      "last_visit": "03-Nov-2026 02:56:38",
       "x": 15.995,
       "y": 29.014,
       "size": 18.0
@@ -18,7 +18,7 @@
       "lng": -121.895,
       "label": "United States, California, San Jose",
       "visits": 72,
-      "last_visit": "01-Nov-2026 01:13:42",
+      "last_visit": "03-Nov-2026 02:35:51",
       "x": 16.14,
       "y": 29.256,
       "size": 18.0
@@ -28,7 +28,7 @@
       "lng": -121.8705,
       "label": "United States, California, Milpitas",
       "visits": 22,
-      "last_visit": "02-Nov-2026 00:00:11",
+      "last_visit": "03-Nov-2026 06:25:02",
       "x": 16.147,
       "y": 29.2,
       "size": 14.5
@@ -48,7 +48,7 @@
       "lng": -74.4551,
       "label": "United States, New Jersey, Perrineville",
       "visits": 13,
-      "last_visit": "26-Oct-2026 06:05:20",
+      "last_visit": "03-Nov-2026 02:56:33",
       "x": 29.318,
       "y": 27.651,
       "size": 12.77
@@ -128,7 +128,7 @@
       "lng": 121.3997,
       "label": "China, Shanghai, Shanghai",
       "visits": 6,
-      "last_visit": "28-Oct-2026 09:15:52",
+      "last_visit": "03-Nov-2026 03:52:13",
       "x": 83.722,
       "y": 32.752,
       "size": 10.92
@@ -478,7 +478,7 @@
       "lng": -80.0525,
       "label": "United States, Pennsylvania, Pittsburgh",
       "visits": 3,
-      "last_visit": "28-Oct-2026 03:51:25",
+      "last_visit": "03-Nov-2026 05:38:30",
       "x": 27.763,
       "y": 27.474,
       "size": 9.77
@@ -538,7 +538,7 @@
       "lng": 117.1767,
       "label": "China, Tianjin, Tianjin",
       "visits": 2,
-      "last_visit": "28-Oct-2026 01:17:03",
+      "last_visit": "03-Nov-2026 02:26:23",
       "x": 82.549,
       "y": 28.254,
       "size": 9.26
@@ -638,7 +638,7 @@
       "lng": 103.8558,
       "label": "Singapore, , Singapore",
       "visits": 2,
-      "last_visit": "17-Oct-2026 03:46:40",
+      "last_visit": "03-Nov-2026 08:15:15",
       "x": 78.849,
       "y": 49.282,
       "size": 9.26
@@ -748,7 +748,7 @@
       "lng": -117.0864,
       "label": "United States, California, Escondido",
       "visits": 2,
-      "last_visit": "02-Nov-2026 01:28:08",
+      "last_visit": "03-Nov-2026 03:17:52",
       "x": 17.476,
       "y": 31.6,
       "size": 9.26
@@ -858,7 +858,7 @@
       "lng": -104.9878,
       "label": "United States, Colorado, Englewood",
       "visits": 2,
-      "last_visit": "02-Nov-2026 06:44:03",
+      "last_visit": "03-Nov-2026 07:24:11",
       "x": 20.837,
       "y": 27.973,
       "size": 9.26
@@ -1834,16 +1834,6 @@
       "size": 8.6
     },
     {
-      "lat": 47.0,
-      "lng": 8.0,
-      "label": "Europe, ,",
-      "visits": 1,
-      "last_visit": "31-Oct-2026 17:04:50",
-      "x": 52.222,
-      "y": 23.889,
-      "size": 8.6
-    },
-    {
       "lat": 48.1202,
       "lng": 2.2221,
       "label": "France, Centre, Laas",
@@ -2214,6 +2204,16 @@
       "size": 8.6
     },
     {
+      "lat": 46.0,
+      "lng": 25.0,
+      "label": "Romania, ,",
+      "visits": 1,
+      "last_visit": "03-Nov-2026 02:37:43",
+      "x": 56.944,
+      "y": 24.444,
+      "size": 8.6
+    },
+    {
       "lat": 60.0,
       "lng": 100.0,
       "label": "Russian Federation, ,",
@@ -2271,6 +2271,16 @@
       "last_visit": "23-Jun-2026 17:19:23",
       "x": 55.023,
       "y": 16.926,
+      "size": 8.6
+    },
+    {
+      "lat": 47.0,
+      "lng": 8.0,
+      "label": "Switzerland, ,",
+      "visits": 1,
+      "last_visit": "03-Nov-2026 02:42:23",
+      "x": 52.222,
+      "y": 23.889,
       "size": 8.6
     },
     {
@@ -3948,7 +3958,7 @@
       "lng": -79.8642,
       "label": "United States, Pennsylvania, Mckeesport",
       "visits": 1,
-      "last_visit": "01-Oct-2026 04:04:59",
+      "last_visit": "03-Nov-2026 03:59:04",
       "x": 27.816,
       "y": 27.585,
       "size": 8.6
