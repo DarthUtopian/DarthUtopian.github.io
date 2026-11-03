@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-03T08:29:55+00:00",
-  "total_visits": 916,
-  "location_count": 443,
+  "updated_at": "2026-11-03T16:28:44+00:00",
+  "total_visits": 918,
+  "location_count": 444,
   "locations": [
     {
       "lat": 37.7749,
@@ -58,7 +58,7 @@
       "lng": 116.3883,
       "label": "China, Beijing, Beijing",
       "visits": 9,
-      "last_visit": "01-Nov-2026 06:14:17",
+      "last_visit": "03-Nov-2026 09:07:41",
       "x": 82.33,
       "y": 27.817,
       "size": 11.8
@@ -308,7 +308,7 @@
       "lng": -0.13,
       "label": "United Kingdom, ,",
       "visits": 3,
-      "last_visit": "02-Nov-2026 04:05:31",
+      "last_visit": "03-Nov-2026 13:22:30",
       "x": 49.964,
       "y": 21.389,
       "size": 9.77
@@ -631,6 +631,16 @@
       "last_visit": "25-Sep-2026 03:23:06",
       "x": 84.414,
       "y": 44.272,
+      "size": 9.26
+    },
+    {
+      "lat": 46.0,
+      "lng": 25.0,
+      "label": "Romania, ,",
+      "visits": 2,
+      "last_visit": "03-Nov-2026 08:39:42",
+      "x": 56.944,
+      "y": 24.444,
       "size": 9.26
     },
     {
@@ -2204,16 +2214,6 @@
       "size": 8.6
     },
     {
-      "lat": 46.0,
-      "lng": 25.0,
-      "label": "Romania, ,",
-      "visits": 1,
-      "last_visit": "03-Nov-2026 02:37:43",
-      "x": 56.944,
-      "y": 24.444,
-      "size": 8.6
-    },
-    {
       "lat": 60.0,
       "lng": 100.0,
       "label": "Russian Federation, ,",
@@ -3411,6 +3411,16 @@
       "last_visit": "17-Oct-2026 05:39:03",
       "x": 30.18,
       "y": 26.507,
+      "size": 8.6
+    },
+    {
+      "lat": 42.8135,
+      "lng": -70.886,
+      "label": "United States, Massachusetts, Newburyport",
+      "visits": 1,
+      "last_visit": "03-Nov-2026 15:27:18",
+      "x": 30.309,
+      "y": 26.215,
       "size": 8.6
     },
     {
