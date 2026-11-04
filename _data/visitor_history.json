@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-04T17:51:27+00:00",
-  "total_visits": 921,
-  "location_count": 446,
+  "updated_at": "2026-11-04T23:25:54+00:00",
+  "total_visits": 922,
+  "location_count": 447,
   "locations": [
     {
       "lat": 37.7749,
@@ -118,7 +118,7 @@
       "lng": -79.9561,
       "label": "United States, Pennsylvania, Pittsburgh",
       "visits": 7,
-      "last_visit": "04-Nov-2026 02:42:52",
+      "last_visit": "04-Nov-2026 20:34:25",
       "x": 27.79,
       "y": 27.531,
       "size": 11.23
@@ -2361,6 +2361,16 @@
       "last_visit": "04-Nov-2026 13:50:25",
       "x": 52.375,
       "y": 23.685,
+      "size": 8.6
+    },
+    {
+      "lat": 24.8047,
+      "lng": 120.9714,
+      "label": "Taiwan, T'ai-wan, Hsinchu",
+      "visits": 1,
+      "last_visit": "04-Nov-2026 19:30:40",
+      "x": 83.603,
+      "y": 36.22,
       "size": 8.6
     },
     {
