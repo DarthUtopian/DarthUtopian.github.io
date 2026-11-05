@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-04T23:25:54+00:00",
-  "total_visits": 922,
-  "location_count": 447,
+  "updated_at": "2026-11-05T03:39:32+00:00",
+  "total_visits": 923,
+  "location_count": 448,
   "locations": [
     {
       "lat": 37.7749,
@@ -128,7 +128,7 @@
       "lng": 121.3997,
       "label": "China, Shanghai, Shanghai",
       "visits": 6,
-      "last_visit": "04-Nov-2026 11:59:18",
+      "last_visit": "05-Nov-2026 03:09:53",
       "x": 83.722,
       "y": 32.752,
       "size": 10.92
@@ -248,7 +248,7 @@
       "lng": -79.9959,
       "label": "United States, Pennsylvania, Pittsburgh",
       "visits": 4,
-      "last_visit": "02-Nov-2026 11:12:03",
+      "last_visit": "05-Nov-2026 03:25:04",
       "x": 27.779,
       "y": 27.533,
       "size": 10.2
@@ -318,7 +318,7 @@
       "lng": -122.2536,
       "label": "United States, California, Berkeley",
       "visits": 3,
-      "last_visit": "03-Nov-2026 23:53:12",
+      "last_visit": "05-Nov-2026 02:38:31",
       "x": 16.041,
       "y": 28.963,
       "size": 9.77
@@ -328,7 +328,7 @@
       "lng": -122.371,
       "label": "United States, California, Burlingame",
       "visits": 3,
-      "last_visit": "29-Oct-2026 06:59:17",
+      "last_visit": "05-Nov-2026 03:09:07",
       "x": 16.008,
       "y": 29.129,
       "size": 9.77
@@ -1791,6 +1791,16 @@
       "last_visit": "26-Sep-2026 04:45:29",
       "x": 83.378,
       "y": 33.17,
+      "size": 8.6
+    },
+    {
+      "lat": 29.3295,
+      "lng": 121.058,
+      "label": "China, Zhejiang, Shanghai",
+      "visits": 1,
+      "last_visit": "05-Nov-2026 00:13:44",
+      "x": 83.627,
+      "y": 33.706,
       "size": 8.6
     },
     {
