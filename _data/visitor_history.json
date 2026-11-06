@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-06T07:47:23+00:00",
-  "total_visits": 925,
-  "location_count": 450,
+  "updated_at": "2026-11-06T15:47:25+00:00",
+  "total_visits": 926,
+  "location_count": 451,
   "locations": [
     {
       "lat": 37.7749,
@@ -38,7 +38,7 @@
       "lng": -97.0,
       "label": "United States, ,",
       "visits": 16,
-      "last_visit": "06-Nov-2026 07:19:24",
+      "last_visit": "06-Nov-2026 07:49:07",
       "x": 23.056,
       "y": 28.889,
       "size": 13.4
@@ -1878,7 +1878,7 @@
       "lng": 8.0,
       "label": "Europe, ,",
       "visits": 1,
-      "last_visit": "05-Nov-2026 18:44:51",
+      "last_visit": "06-Nov-2026 12:02:28",
       "x": 52.222,
       "y": 23.889,
       "size": 8.6
@@ -2851,6 +2851,16 @@
       "last_visit": "07-Jul-2026 00:15:51",
       "x": 17.339,
       "y": 31.056,
+      "size": 8.6
+    },
+    {
+      "lat": 40.1525,
+      "lng": -123.8925,
+      "label": "United States, California, Redway",
+      "visits": 1,
+      "last_visit": "06-Nov-2026 08:20:35",
+      "x": 15.585,
+      "y": 27.693,
       "size": 8.6
     },
     {
