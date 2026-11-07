@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-07T07:39:23+00:00",
-  "total_visits": 927,
-  "location_count": 451,
+  "updated_at": "2026-11-07T19:17:24+00:00",
+  "total_visits": 928,
+  "location_count": 452,
   "locations": [
     {
       "lat": 37.7749,
@@ -1418,7 +1418,7 @@
       "lng": -113.5,
       "label": "Canada, Alberta, Edmonton",
       "visits": 1,
-      "last_visit": "11-Sep-2026 01:23:43",
+      "last_visit": "07-Nov-2026 07:54:09",
       "x": 18.472,
       "y": 20.25,
       "size": 8.6
@@ -1791,6 +1791,16 @@
       "last_visit": "12-Sep-2026 05:15:00",
       "x": 78.533,
       "y": 36.09,
+      "size": 8.6
+    },
+    {
+      "lat": 24.6719,
+      "lng": 102.1613,
+      "label": "China, Yunnan, Yimen",
+      "visits": 1,
+      "last_visit": "07-Nov-2026 11:59:47",
+      "x": 78.378,
+      "y": 36.293,
       "size": 8.6
     },
     {
