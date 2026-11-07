@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T21:23:02+00:00",
+  "updated_at": "2026-11-07T01:04:45+00:00",
   "total_visits": 926,
   "location_count": 451,
   "locations": [
@@ -128,7 +128,7 @@
       "lng": 121.3997,
       "label": "China, Shanghai, Shanghai",
       "visits": 6,
-      "last_visit": "05-Nov-2026 03:09:53",
+      "last_visit": "06-Nov-2026 23:59:50",
       "x": 83.722,
       "y": 32.752,
       "size": 10.92
