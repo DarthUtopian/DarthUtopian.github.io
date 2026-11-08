@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T22:55:06+00:00",
+  "updated_at": "2026-11-08T02:09:42+00:00",
   "total_visits": 928,
   "location_count": 452,
   "locations": [
@@ -28,7 +28,7 @@
       "lng": -121.8705,
       "label": "United States, California, Milpitas",
       "visits": 22,
-      "last_visit": "05-Nov-2026 08:31:59",
+      "last_visit": "08-Nov-2026 00:59:16",
       "x": 16.147,
       "y": 29.2,
       "size": 14.5
@@ -868,7 +868,7 @@
       "lng": -104.9878,
       "label": "United States, Colorado, Englewood",
       "visits": 2,
-      "last_visit": "06-Nov-2026 18:52:22",
+      "last_visit": "08-Nov-2026 01:05:00",
       "x": 20.837,
       "y": 27.973,
       "size": 9.26
