@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-11-09T00:38:59+00:00",
-  "total_visits": 928,
-  "location_count": 452,
+  "updated_at": "2026-11-09T07:45:51+00:00",
+  "total_visits": 929,
+  "location_count": 453,
   "locations": [
     {
       "lat": 37.7749,
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
       "visits": 131,
-      "last_visit": "08-Nov-2026 22:19:22",
+      "last_visit": "09-Nov-2026 07:29:51",
       "x": 15.995,
       "y": 29.014,
       "size": 18.0
@@ -38,7 +38,7 @@
       "lng": -97.0,
       "label": "United States, ,",
       "visits": 16,
-      "last_visit": "08-Nov-2026 23:04:01",
+      "last_visit": "09-Nov-2026 02:00:01",
       "x": 23.056,
       "y": 28.889,
       "size": 13.4
@@ -318,7 +318,7 @@
       "lng": -122.2536,
       "label": "United States, California, Berkeley",
       "visits": 3,
-      "last_visit": "05-Nov-2026 05:54:46",
+      "last_visit": "09-Nov-2026 01:49:14",
       "x": 16.041,
       "y": 28.963,
       "size": 9.77
@@ -348,7 +348,7 @@
       "lng": -117.0864,
       "label": "United States, California, Escondido",
       "visits": 3,
-      "last_visit": "07-Nov-2026 02:53:07",
+      "last_visit": "09-Nov-2026 02:58:18",
       "x": 17.476,
       "y": 31.6,
       "size": 9.77
@@ -868,7 +868,7 @@
       "lng": -104.9878,
       "label": "United States, Colorado, Englewood",
       "visits": 2,
-      "last_visit": "08-Nov-2026 01:05:00",
+      "last_visit": "09-Nov-2026 04:05:52",
       "x": 20.837,
       "y": 27.973,
       "size": 9.26
@@ -4211,6 +4211,16 @@
       "last_visit": "19-Jun-2026 05:40:34",
       "x": 23.129,
       "y": 31.714,
+      "size": 8.6
+    },
+    {
+      "lat": 32.7831,
+      "lng": -96.8067,
+      "label": "United States, Texas, Dallas",
+      "visits": 1,
+      "last_visit": "09-Nov-2026 06:47:38",
+      "x": 23.109,
+      "y": 31.787,
       "size": 8.6
     },
     {
