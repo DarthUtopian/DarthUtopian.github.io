@@ -30,11 +30,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Master's student at the [Robotics Institute](https://www.ri.cmu.edu) of **Carnegie Mellon University**, advised by Prof. [Guanya Shi](https://www.gshi.me) and Prof. [Jeff Schneider](https://www.cs.cmu.edu/~schneide/). I received my Bachelor's degree from **Tsinghua University** and worked at **UC Berkeley** as a research intern with Prof. [Masayoshi Tomizuka](https://me.berkeley.edu/people/masayoshi-tomizuka/).
+I am an incoming CS Ph.D. student at the **[University of Washington](https://www.cs.washington.edu/)**, currently taking a gap year at NVIDIA's [GEAR Lab](https://research.nvidia.com/labs/gear/), where I work with Dr. [Jim Fan](https://jimfan.me/) and Prof. [Yuke Zhu](https://yukezhu.me/). I received my Master's degree in Robotics from the **[Carnegie Mellon University Robotics Institute](https://www.ri.cmu.edu)**, advised by Prof. [Guanya Shi](https://www.gshi.me) and Prof. [Jeff Schneider](https://www.cs.cmu.edu/~schneide/). Before that, I earned my Bachelor's degree from **Tsinghua University** and was a research intern at **UC Berkeley** with Prof. [Masayoshi Tomizuka](https://me.berkeley.edu/people/masayoshi-tomizuka/).
 
-My research focuses on **self-improving robots and embodied agents**, and I am interested in building systems and algorithms that enable **foundation models** to improve with real-world experience.
-
-I joined NVIDIA's [GEAR Lab](https://research.nvidia.com/labs/gear/) as a research intern since summer 2026.
+My research focuses on **self-improving robots and embodied agents**. I am interested in building systems and algorithms that enable **foundation models** to improve through real-world experience.
 
 Outside of research, I enjoy **photography and travel**. You can find my works on [Unsplash](https://unsplash.com/@darth_u) \(Top 10% contributor\)
 
