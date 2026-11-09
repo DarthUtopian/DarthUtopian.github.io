@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-11-09T07:45:51+00:00",
-  "total_visits": 929,
-  "location_count": 453,
+  "updated_at": "2026-11-09T18:31:50+00:00",
+  "total_visits": 932,
+  "location_count": 455,
   "locations": [
     {
       "lat": 37.7749,
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
       "visits": 131,
-      "last_visit": "09-Nov-2026 07:29:51",
+      "last_visit": "09-Nov-2026 17:18:35",
       "x": 15.995,
       "y": 29.014,
       "size": 18.0
@@ -38,7 +38,7 @@
       "lng": -97.0,
       "label": "United States, ,",
       "visits": 16,
-      "last_visit": "09-Nov-2026 02:00:01",
+      "last_visit": "09-Nov-2026 17:24:59",
       "x": 23.056,
       "y": 28.889,
       "size": 13.4
@@ -498,7 +498,7 @@
       "lng": -122.3321,
       "label": "United States, Washington, Seattle",
       "visits": 3,
-      "last_visit": "29-Oct-2026 07:35:21",
+      "last_visit": "09-Nov-2026 07:59:27",
       "x": 16.019,
       "y": 23.552,
       "size": 9.77
@@ -1108,7 +1108,7 @@
       "lng": -78.8986,
       "label": "United States, North Carolina, Durham",
       "visits": 2,
-      "last_visit": "10-Aug-2026 17:10:02",
+      "last_visit": "09-Nov-2026 08:25:26",
       "x": 28.084,
       "y": 30.003,
       "size": 9.26
@@ -1201,6 +1201,16 @@
       "last_visit": "27-Oct-2026 00:42:53",
       "x": 22.945,
       "y": 34.555,
+      "size": 9.26
+    },
+    {
+      "lat": 32.7831,
+      "lng": -96.8067,
+      "label": "United States, Texas, Dallas",
+      "visits": 2,
+      "last_visit": "09-Nov-2026 18:01:23",
+      "x": 23.109,
+      "y": 31.787,
       "size": 9.26
     },
     {
@@ -1341,6 +1351,16 @@
       "last_visit": "27-Sep-2026 09:41:46",
       "x": 75.113,
       "y": 36.821,
+      "size": 8.6
+    },
+    {
+      "lat": 50.8667,
+      "lng": 4.7,
+      "label": "Belgium, Vlaams-Brabant, Heverlee",
+      "visits": 1,
+      "last_visit": "09-Nov-2026 11:22:08",
+      "x": 51.306,
+      "y": 21.741,
       "size": 8.6
     },
     {
@@ -1888,7 +1908,7 @@
       "lng": 8.0,
       "label": "Europe, ,",
       "visits": 1,
-      "last_visit": "08-Nov-2026 13:31:26",
+      "last_visit": "09-Nov-2026 12:34:33",
       "x": 52.222,
       "y": 23.889,
       "size": 8.6
@@ -2538,7 +2558,7 @@
       "lng": -0.58330000000001,
       "label": "United Kingdom, Slough, Slough",
       "visits": 1,
-      "last_visit": "02-Nov-2026 22:28:39",
+      "last_visit": "09-Nov-2026 17:12:23",
       "x": 49.838,
       "y": 21.389,
       "size": 8.6
@@ -3214,6 +3234,16 @@
       "size": 8.6
     },
     {
+      "lat": 33.1356,
+      "lng": -84.1739,
+      "label": "United States, Georgia, Milner",
+      "visits": 1,
+      "last_visit": "09-Nov-2026 15:01:06",
+      "x": 26.618,
+      "y": 31.591,
+      "size": 8.6
+    },
+    {
       "lat": 40.1125,
       "lng": -88.2426,
       "label": "United States, Illinois, Champaign",
@@ -3298,7 +3328,7 @@
       "lng": -87.6845,
       "label": "United States, Illinois, Evanston",
       "visits": 1,
-      "last_visit": "29-Oct-2026 02:52:47",
+      "last_visit": "09-Nov-2026 18:11:25",
       "x": 25.643,
       "y": 26.634,
       "size": 8.6
@@ -4211,16 +4241,6 @@
       "last_visit": "19-Jun-2026 05:40:34",
       "x": 23.129,
       "y": 31.714,
-      "size": 8.6
-    },
-    {
-      "lat": 32.7831,
-      "lng": -96.8067,
-      "label": "United States, Texas, Dallas",
-      "visits": 1,
-      "last_visit": "09-Nov-2026 06:47:38",
-      "x": 23.109,
-      "y": 31.787,
       "size": 8.6
     },
     {
