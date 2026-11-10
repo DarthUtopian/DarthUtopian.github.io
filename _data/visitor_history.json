@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-11-10T09:30:12+00:00",
-  "total_visits": 936,
-  "location_count": 458,
+  "updated_at": "2026-11-10T17:34:43+00:00",
+  "total_visits": 937,
+  "location_count": 459,
   "locations": [
     {
       "lat": 37.7749,
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
       "visits": 131,
-      "last_visit": "10-Nov-2026 08:42:30",
+      "last_visit": "10-Nov-2026 15:20:52",
       "x": 15.995,
       "y": 29.014,
       "size": 18.0
@@ -568,7 +568,7 @@
       "lng": 2.0,
       "label": "France, ,",
       "visits": 2,
-      "last_visit": "22-Oct-2026 18:28:16",
+      "last_visit": "10-Nov-2026 11:53:56",
       "x": 50.556,
       "y": 24.444,
       "size": 9.26
@@ -1918,7 +1918,7 @@
       "lng": 8.0,
       "label": "Europe, ,",
       "visits": 1,
-      "last_visit": "09-Nov-2026 12:34:33",
+      "last_visit": "10-Nov-2026 14:35:41",
       "x": 52.222,
       "y": 23.889,
       "size": 8.6
@@ -2528,7 +2528,7 @@
       "lng": -0.093099999999993,
       "label": "United Kingdom, London, City of, London",
       "visits": 1,
-      "last_visit": "04-Nov-2026 02:55:33",
+      "last_visit": "10-Nov-2026 14:05:08",
       "x": 49.974,
       "y": 21.381,
       "size": 8.6
@@ -3961,6 +3961,16 @@
       "last_visit": "10-Oct-2026 03:07:13",
       "x": 26.54,
       "y": 28.243,
+      "size": 8.6
+    },
+    {
+      "lat": 39.7589,
+      "lng": -84.1916,
+      "label": "United States, Ohio, Dayton",
+      "visits": 1,
+      "last_visit": "10-Nov-2026 16:15:00",
+      "x": 26.613,
+      "y": 27.912,
       "size": 8.6
     },
     {
