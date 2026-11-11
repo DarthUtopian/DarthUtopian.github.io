@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-10T22:59:57+00:00",
-  "total_visits": 937,
+  "updated_at": "2026-11-11T02:42:55+00:00",
+  "total_visits": 938,
   "location_count": 459,
   "locations": [
     {
@@ -561,6 +561,16 @@
       "last_visit": "10-Nov-2026 06:38:05",
       "x": 52.778,
       "y": 18.889,
+      "size": 9.26
+    },
+    {
+      "lat": 47.0,
+      "lng": 8.0,
+      "label": "Europe, ,",
+      "visits": 2,
+      "last_visit": "11-Nov-2026 02:17:00",
+      "x": 52.222,
+      "y": 23.889,
       "size": 9.26
     },
     {
@@ -1368,7 +1378,7 @@
       "lng": 4.7,
       "label": "Belgium, Vlaams-Brabant, Heverlee",
       "visits": 1,
-      "last_visit": "09-Nov-2026 11:22:08",
+      "last_visit": "10-Nov-2026 23:31:14",
       "x": 51.306,
       "y": 21.741,
       "size": 8.6
@@ -1911,16 +1921,6 @@
       "last_visit": "23-Jun-2026 05:30:24",
       "x": 28.194,
       "y": 50.12,
-      "size": 8.6
-    },
-    {
-      "lat": 47.0,
-      "lng": 8.0,
-      "label": "Europe, ,",
-      "visits": 1,
-      "last_visit": "10-Nov-2026 14:35:41",
-      "x": 52.222,
-      "y": 23.889,
       "size": 8.6
     },
     {
@@ -3428,7 +3428,7 @@
       "lng": -76.5967,
       "label": "United States, Maryland, Baltimore",
       "visits": 1,
-      "last_visit": "20-Oct-2026 18:20:02",
+      "last_visit": "10-Nov-2026 23:59:27",
       "x": 28.723,
       "y": 28.151,
       "size": 8.6
@@ -4158,7 +4158,7 @@
       "lng": -79.9536,
       "label": "United States, Pennsylvania, Pittsburgh",
       "visits": 1,
-      "last_visit": "22-Sep-2026 04:52:29",
+      "last_visit": "11-Nov-2026 02:34:17",
       "x": 27.791,
       "y": 27.496,
       "size": 8.6
