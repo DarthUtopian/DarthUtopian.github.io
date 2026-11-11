@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-11-11T10:32:16+00:00",
-  "total_visits": 939,
-  "location_count": 460,
+  "updated_at": "2026-11-11T18:29:17+00:00",
+  "total_visits": 941,
+  "location_count": 461,
   "locations": [
     {
       "lat": 37.7749,
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
       "visits": 131,
-      "last_visit": "11-Nov-2026 06:46:17",
+      "last_visit": "11-Nov-2026 17:09:33",
       "x": 15.995,
       "y": 29.014,
       "size": 18.0
@@ -271,6 +271,16 @@
       "last_visit": "08-Oct-2026 09:00:34",
       "x": 52.887,
       "y": 19.226,
+      "size": 9.77
+    },
+    {
+      "lat": 47.0,
+      "lng": 8.0,
+      "label": "Europe, ,",
+      "visits": 3,
+      "last_visit": "11-Nov-2026 18:07:05",
+      "x": 52.222,
+      "y": 23.889,
       "size": 9.77
     },
     {
@@ -561,16 +571,6 @@
       "last_visit": "10-Nov-2026 06:38:05",
       "x": 52.778,
       "y": 18.889,
-      "size": 9.26
-    },
-    {
-      "lat": 47.0,
-      "lng": 8.0,
-      "label": "Europe, ,",
-      "visits": 2,
-      "last_visit": "11-Nov-2026 03:20:38",
-      "x": 52.222,
-      "y": 23.889,
       "size": 9.26
     },
     {
@@ -2494,6 +2494,16 @@
       "size": 8.6
     },
     {
+      "lat": 52.2,
+      "lng": 0.11670000000001,
+      "label": "United Kingdom, Cambridgeshire, Cambridge",
+      "visits": 1,
+      "last_visit": "11-Nov-2026 15:04:18",
+      "x": 50.032,
+      "y": 21.0,
+      "size": 8.6
+    },
+    {
       "lat": 51.65,
       "lng": 0.59999999999999,
       "label": "United Kingdom, Essex, Woodham Ferrers",
@@ -3058,7 +3068,7 @@
       "lng": -104.8738,
       "label": "United States, Colorado, Englewood",
       "visits": 1,
-      "last_visit": "18-Oct-2026 13:24:22",
+      "last_visit": "11-Nov-2026 11:43:16",
       "x": 20.868,
       "y": 27.987,
       "size": 8.6
