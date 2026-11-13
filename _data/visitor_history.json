@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-13T03:17:29+00:00",
-  "total_visits": 941,
+  "updated_at": "2026-11-13T11:26:01+00:00",
+  "total_visits": 944,
   "location_count": 461,
   "locations": [
     {
@@ -8,7 +8,7 @@
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
       "visits": 131,
-      "last_visit": "12-Nov-2026 23:47:09",
+      "last_visit": "13-Nov-2026 10:40:09",
       "x": 15.995,
       "y": 29.014,
       "size": 18.0
@@ -388,7 +388,7 @@
       "lng": -117.1573,
       "label": "United States, California, San Diego",
       "visits": 3,
-      "last_visit": "11-Nov-2026 02:51:47",
+      "last_visit": "13-Nov-2026 10:51:00",
       "x": 17.456,
       "y": 31.825,
       "size": 9.77
@@ -511,6 +511,16 @@
       "last_visit": "09-Nov-2026 07:59:27",
       "x": 16.019,
       "y": 23.552,
+      "size": 9.77
+    },
+    {
+      "lat": 18.1,
+      "lng": 106.3333,
+      "label": "Vietnam, Ho Chi Minh, Dong Nai",
+      "visits": 3,
+      "last_visit": "13-Nov-2026 08:40:05",
+      "x": 79.537,
+      "y": 39.944,
       "size": 9.77
     },
     {
@@ -1261,6 +1271,16 @@
       "last_visit": "29-Jul-2026 09:36:58",
       "x": 16.056,
       "y": 23.688,
+      "size": 9.26
+    },
+    {
+      "lat": 47.6801,
+      "lng": -122.1206,
+      "label": "United States, Washington, Redmond",
+      "visits": 2,
+      "last_visit": "13-Nov-2026 03:58:13",
+      "x": 16.078,
+      "y": 23.511,
       "size": 9.26
     },
     {
@@ -4504,16 +4524,6 @@
       "size": 8.6
     },
     {
-      "lat": 47.6801,
-      "lng": -122.1206,
-      "label": "United States, Washington, Redmond",
-      "visits": 1,
-      "last_visit": "09-Oct-2026 20:22:13",
-      "x": 16.078,
-      "y": 23.511,
-      "size": 8.6
-    },
-    {
       "lat": 47.6645,
       "lng": -122.5101,
       "label": "United States, Washington, Rollingbay",
@@ -4601,16 +4611,6 @@
       "last_visit": "23-Jun-2026 13:30:39",
       "x": 34.397,
       "y": 69.366,
-      "size": 8.6
-    },
-    {
-      "lat": 18.1,
-      "lng": 106.3333,
-      "label": "Vietnam, Ho Chi Minh, Dong Nai",
-      "visits": 1,
-      "last_visit": "08-Oct-2026 07:38:48",
-      "x": 79.537,
-      "y": 39.944,
       "size": 8.6
     }
   ]
