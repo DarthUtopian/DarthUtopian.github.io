@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-11-13T18:41:07+00:00",
-  "total_visits": 944,
-  "location_count": 461,
+  "updated_at": "2026-11-14T00:14:58+00:00",
+  "total_visits": 945,
+  "location_count": 462,
   "locations": [
     {
       "lat": 37.7749,
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
       "visits": 131,
-      "last_visit": "13-Nov-2026 10:40:09",
+      "last_visit": "13-Nov-2026 22:40:08",
       "x": 15.995,
       "y": 29.014,
       "size": 18.0
@@ -178,7 +178,7 @@
       "lng": -95.5858,
       "label": "United States, Texas, Houston",
       "visits": 5,
-      "last_visit": "02-Nov-2026 06:45:55",
+      "last_visit": "13-Nov-2026 22:30:13",
       "x": 23.448,
       "y": 33.5,
       "size": 10.58
@@ -888,7 +888,7 @@
       "lng": -104.9878,
       "label": "United States, Colorado, Englewood",
       "visits": 2,
-      "last_visit": "11-Nov-2026 03:14:33",
+      "last_visit": "13-Nov-2026 22:30:44",
       "x": 20.837,
       "y": 27.973,
       "size": 9.26
@@ -2531,6 +2531,16 @@
       "last_visit": "28-Sep-2026 09:59:37",
       "x": 50.167,
       "y": 21.306,
+      "size": 8.6
+    },
+    {
+      "lat": 55.8333,
+      "lng": -4.25,
+      "label": "United Kingdom, Glasgow City, Glasgow",
+      "visits": 1,
+      "last_visit": "14-Nov-2026 00:04:01",
+      "x": 48.819,
+      "y": 18.981,
       "size": 8.6
     },
     {
