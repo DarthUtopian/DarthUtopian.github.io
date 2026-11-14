@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-11-14T00:14:58+00:00",
-  "total_visits": 945,
-  "location_count": 462,
+  "updated_at": "2026-11-14T06:54:26+00:00",
+  "total_visits": 948,
+  "location_count": 463,
   "locations": [
     {
       "lat": 37.7749,
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
       "visits": 131,
-      "last_visit": "13-Nov-2026 22:40:08",
+      "last_visit": "14-Nov-2026 05:01:30",
       "x": 15.995,
       "y": 29.014,
       "size": 18.0
@@ -38,7 +38,7 @@
       "lng": -97.0,
       "label": "United States, ,",
       "visits": 16,
-      "last_visit": "13-Nov-2026 16:50:32",
+      "last_visit": "14-Nov-2026 04:38:59",
       "x": 23.056,
       "y": 28.889,
       "size": 13.4
@@ -388,7 +388,7 @@
       "lng": -117.1573,
       "label": "United States, California, San Diego",
       "visits": 3,
-      "last_visit": "13-Nov-2026 10:51:00",
+      "last_visit": "14-Nov-2026 02:56:15",
       "x": 17.456,
       "y": 31.825,
       "size": 9.77
@@ -501,6 +501,16 @@
       "last_visit": "10-Nov-2026 05:04:02",
       "x": 27.763,
       "y": 27.474,
+      "size": 9.77
+    },
+    {
+      "lat": 47.6801,
+      "lng": -122.1206,
+      "label": "United States, Washington, Redmond",
+      "visits": 3,
+      "last_visit": "14-Nov-2026 04:39:49",
+      "x": 16.078,
+      "y": 23.511,
       "size": 9.77
     },
     {
@@ -894,6 +904,16 @@
       "size": 9.26
     },
     {
+      "lat": 38.9057,
+      "lng": -76.9783,
+      "label": "United States, District of Columbia, Washington",
+      "visits": 2,
+      "last_visit": "14-Nov-2026 00:49:59",
+      "x": 28.617,
+      "y": 28.386,
+      "size": 9.26
+    },
+    {
       "lat": 26.9335,
       "lng": -81.1778,
       "label": "United States, Florida, Moore Haven",
@@ -1271,16 +1291,6 @@
       "last_visit": "29-Jul-2026 09:36:58",
       "x": 16.056,
       "y": 23.688,
-      "size": 9.26
-    },
-    {
-      "lat": 47.6801,
-      "lng": -122.1206,
-      "label": "United States, Washington, Redmond",
-      "visits": 2,
-      "last_visit": "13-Nov-2026 03:58:13",
-      "x": 16.078,
-      "y": 23.511,
       "size": 9.26
     },
     {
@@ -3808,7 +3818,7 @@
       "lng": -74.6597,
       "label": "United States, New Jersey, Princeton",
       "visits": 1,
-      "last_visit": "16-Oct-2026 18:22:02",
+      "last_visit": "14-Nov-2026 03:09:46",
       "x": 29.261,
       "y": 27.569,
       "size": 8.6
