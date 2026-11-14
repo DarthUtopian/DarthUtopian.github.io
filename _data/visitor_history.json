@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T06:54:26+00:00",
+  "updated_at": "2026-11-14T13:59:56+00:00",
   "total_visits": 948,
   "location_count": 463,
   "locations": [
@@ -8,7 +8,7 @@
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
       "visits": 131,
-      "last_visit": "14-Nov-2026 05:01:30",
+      "last_visit": "14-Nov-2026 07:03:18",
       "x": 15.995,
       "y": 29.014,
       "size": 18.0
@@ -28,7 +28,7 @@
       "lng": -121.8705,
       "label": "United States, California, Milpitas",
       "visits": 22,
-      "last_visit": "08-Nov-2026 02:29:37",
+      "last_visit": "14-Nov-2026 07:05:20",
       "x": 16.147,
       "y": 29.2,
       "size": 14.5
@@ -278,7 +278,7 @@
       "lng": 8.0,
       "label": "Europe, ,",
       "visits": 3,
-      "last_visit": "13-Nov-2026 18:04:53",
+      "last_visit": "14-Nov-2026 12:47:51",
       "x": 52.222,
       "y": 23.889,
       "size": 9.77
