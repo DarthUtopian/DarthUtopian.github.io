@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-15T10:40:33+00:00",
-  "total_visits": 948,
-  "location_count": 463,
+  "updated_at": "2026-11-15T17:37:19+00:00",
+  "total_visits": 949,
+  "location_count": 464,
   "locations": [
     {
       "lat": 37.7749,
@@ -58,7 +58,7 @@
       "lng": 116.3883,
       "label": "China, Beijing, Beijing",
       "visits": 9,
-      "last_visit": "04-Nov-2026 05:52:14",
+      "last_visit": "15-Nov-2026 16:41:59",
       "x": 82.33,
       "y": 27.817,
       "size": 11.8
@@ -2234,6 +2234,16 @@
       "size": 8.6
     },
     {
+      "lat": 37.4386,
+      "lng": 127.1378,
+      "label": "Korea, Republic of, Kyonggi-do, Seongnam",
+      "visits": 1,
+      "last_visit": "15-Nov-2026 12:36:26",
+      "x": 85.316,
+      "y": 29.201,
+      "size": 8.6
+    },
+    {
       "lat": 35.1028,
       "lng": 129.0403,
       "label": "Korea, Republic of, Pusan-jikhalsi, Pusan",
@@ -2578,7 +2588,7 @@
       "lng": -0.093099999999993,
       "label": "United Kingdom, London, City of, London",
       "visits": 1,
-      "last_visit": "10-Nov-2026 14:05:08",
+      "last_visit": "15-Nov-2026 12:49:04",
       "x": 49.974,
       "y": 21.381,
       "size": 8.6
@@ -4008,7 +4018,7 @@
       "lng": -84.4569,
       "label": "United States, Ohio, Cincinnati",
       "visits": 1,
-      "last_visit": "13-Nov-2026 12:40:38",
+      "last_visit": "15-Nov-2026 11:31:59",
       "x": 26.54,
       "y": 28.243,
       "size": 8.6
