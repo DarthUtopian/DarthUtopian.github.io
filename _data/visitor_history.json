@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-11-15T22:38:28+00:00",
-  "total_visits": 950,
-  "location_count": 465,
+  "updated_at": "2026-11-16T10:49:25+00:00",
+  "total_visits": 953,
+  "location_count": 468,
   "locations": [
     {
       "lat": 37.7749,
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
       "visits": 131,
-      "last_visit": "14-Nov-2026 07:03:18",
+      "last_visit": "16-Nov-2026 04:00:41",
       "x": 15.995,
       "y": 29.014,
       "size": 18.0
@@ -278,7 +278,7 @@
       "lng": 8.0,
       "label": "Europe, ,",
       "visits": 3,
-      "last_visit": "15-Nov-2026 10:26:24",
+      "last_visit": "16-Nov-2026 02:23:40",
       "x": 52.222,
       "y": 23.889,
       "size": 9.77
@@ -368,7 +368,7 @@
       "lng": -121.9066,
       "label": "United States, California, Milpitas",
       "visits": 3,
-      "last_visit": "02-Nov-2026 03:01:54",
+      "last_visit": "16-Nov-2026 02:58:27",
       "x": 16.137,
       "y": 29.207,
       "size": 9.77
@@ -598,7 +598,7 @@
       "lng": 2.0,
       "label": "France, ,",
       "visits": 2,
-      "last_visit": "10-Nov-2026 11:53:56",
+      "last_visit": "16-Nov-2026 05:05:00",
       "x": 50.556,
       "y": 24.444,
       "size": 9.26
@@ -898,7 +898,7 @@
       "lng": -104.9878,
       "label": "United States, Colorado, Englewood",
       "visits": 2,
-      "last_visit": "14-Nov-2026 22:32:31",
+      "last_visit": "16-Nov-2026 03:04:46",
       "x": 20.837,
       "y": 27.973,
       "size": 9.26
@@ -1671,6 +1671,16 @@
       "last_visit": "20-Jun-2026 00:53:27",
       "x": 78.831,
       "y": 29.969,
+      "size": 8.6
+    },
+    {
+      "lat": 23.0333,
+      "lng": 113.7167,
+      "label": "China, Guangdong, Dongguan",
+      "visits": 1,
+      "last_visit": "16-Nov-2026 09:19:05",
+      "x": 81.588,
+      "y": 37.204,
       "size": 8.6
     },
     {
@@ -3544,6 +3554,16 @@
       "size": 8.6
     },
     {
+      "lat": 38.9907,
+      "lng": -77.0261,
+      "label": "United States, Maryland, Silver Spring",
+      "visits": 1,
+      "last_visit": "16-Nov-2026 04:12:37",
+      "x": 28.604,
+      "y": 28.338,
+      "size": 8.6
+    },
+    {
       "lat": 42.3804,
       "lng": -72.5231,
       "label": "United States, Massachusetts, Amherst",
@@ -3641,6 +3661,16 @@
       "last_visit": "17-Oct-2026 03:46:58",
       "x": 26.747,
       "y": 26.487,
+      "size": 8.6
+    },
+    {
+      "lat": 42.2668,
+      "lng": -83.8562,
+      "label": "United States, Michigan, Ann Arbor",
+      "visits": 1,
+      "last_visit": "16-Nov-2026 02:48:32",
+      "x": 26.707,
+      "y": 26.518,
       "size": 8.6
     },
     {
