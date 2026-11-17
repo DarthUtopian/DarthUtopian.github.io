@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-17T12:55:07+00:00",
-  "total_visits": 956,
+  "updated_at": "2026-11-17T21:36:46+00:00",
+  "total_visits": 957,
   "location_count": 470,
   "locations": [
     {
@@ -118,7 +118,7 @@
       "lng": -79.9561,
       "label": "United States, Pennsylvania, Pittsburgh",
       "visits": 7,
-      "last_visit": "17-Nov-2026 07:14:03",
+      "last_visit": "17-Nov-2026 18:54:17",
       "x": 27.79,
       "y": 27.531,
       "size": 11.23
@@ -278,7 +278,7 @@
       "lng": 8.0,
       "label": "Europe, ,",
       "visits": 3,
-      "last_visit": "16-Nov-2026 16:42:58",
+      "last_visit": "17-Nov-2026 16:03:07",
       "x": 52.222,
       "y": 23.889,
       "size": 9.77
@@ -301,6 +301,16 @@
       "last_visit": "24-Jun-2026 01:12:30",
       "x": 22.462,
       "y": 39.203,
+      "size": 9.77
+    },
+    {
+      "lat": 62.0,
+      "lng": 15.0,
+      "label": "Sweden, ,",
+      "visits": 3,
+      "last_visit": "17-Nov-2026 20:37:23",
+      "x": 54.167,
+      "y": 15.556,
       "size": 9.77
     },
     {
@@ -704,16 +714,6 @@
       "size": 9.26
     },
     {
-      "lat": 62.0,
-      "lng": 15.0,
-      "label": "Sweden, ,",
-      "visits": 2,
-      "last_visit": "17-Nov-2026 06:06:07",
-      "x": 54.167,
-      "y": 15.556,
-      "size": 9.26
-    },
-    {
       "lat": 25.0392,
       "lng": 121.525,
       "label": "Taiwan, T'ai-pei, Taipei",
@@ -1028,7 +1028,7 @@
       "lng": -71.2047,
       "label": "United States, Massachusetts, Burlington",
       "visits": 2,
-      "last_visit": "17-Nov-2026 01:38:18",
+      "last_visit": "17-Nov-2026 19:54:51",
       "x": 30.221,
       "y": 26.386,
       "size": 9.26
@@ -1168,7 +1168,7 @@
       "lng": -78.8986,
       "label": "United States, North Carolina, Durham",
       "visits": 2,
-      "last_visit": "13-Nov-2026 13:40:02",
+      "last_visit": "17-Nov-2026 18:33:14",
       "x": 28.084,
       "y": 30.003,
       "size": 9.26
@@ -1768,7 +1768,7 @@
       "lng": 118.7778,
       "label": "China, Jiangsu, Nanjing",
       "visits": 1,
-      "last_visit": "31-Aug-2026 19:15:22",
+      "last_visit": "17-Nov-2026 14:45:00",
       "x": 82.994,
       "y": 32.188,
       "size": 8.6
