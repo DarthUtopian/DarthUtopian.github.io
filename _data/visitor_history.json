@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-17T03:31:27+00:00",
-  "total_visits": 954,
-  "location_count": 468,
+  "updated_at": "2026-11-17T12:55:07+00:00",
+  "total_visits": 956,
+  "location_count": 470,
   "locations": [
     {
       "lat": 37.7749,
@@ -98,7 +98,7 @@
       "lng": -79.8358,
       "label": "United States, Pennsylvania, Pittsburgh",
       "visits": 8,
-      "last_visit": "27-Oct-2026 02:11:17",
+      "last_visit": "17-Nov-2026 04:27:01",
       "x": 27.823,
       "y": 27.522,
       "size": 11.53
@@ -118,7 +118,7 @@
       "lng": -79.9561,
       "label": "United States, Pennsylvania, Pittsburgh",
       "visits": 7,
-      "last_visit": "16-Nov-2026 21:22:55",
+      "last_visit": "17-Nov-2026 07:14:03",
       "x": 27.79,
       "y": 27.531,
       "size": 11.23
@@ -708,7 +708,7 @@
       "lng": 15.0,
       "label": "Sweden, ,",
       "visits": 2,
-      "last_visit": "17-Nov-2026 01:17:53",
+      "last_visit": "17-Nov-2026 06:06:07",
       "x": 54.167,
       "y": 15.556,
       "size": 9.26
@@ -1088,7 +1088,7 @@
       "lng": -90.5771,
       "label": "United States, Missouri, Chesterfield",
       "visits": 2,
-      "last_visit": "15-Oct-2026 04:33:06",
+      "last_visit": "17-Nov-2026 07:26:24",
       "x": 24.84,
       "y": 28.52,
       "size": 9.26
@@ -3574,6 +3574,16 @@
       "size": 8.6
     },
     {
+      "lat": 42.1285,
+      "lng": -71.0469,
+      "label": "United States, Massachusetts, Avon",
+      "visits": 1,
+      "last_visit": "17-Nov-2026 04:16:46",
+      "x": 30.265,
+      "y": 26.595,
+      "size": 8.6
+    },
+    {
       "lat": 42.3159,
       "lng": -71.0559,
       "label": "United States, Massachusetts, Boston",
@@ -4231,6 +4241,16 @@
       "last_visit": "17-Oct-2026 04:52:59",
       "x": 29.112,
       "y": 27.8,
+      "size": 8.6
+    },
+    {
+      "lat": 39.9523,
+      "lng": -75.1638,
+      "label": "United States, Pennsylvania, Philadelphia",
+      "visits": 1,
+      "last_visit": "17-Nov-2026 03:55:17",
+      "x": 29.121,
+      "y": 27.804,
       "size": 8.6
     },
     {
