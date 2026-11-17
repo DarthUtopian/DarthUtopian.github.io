@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-16T10:49:25+00:00",
-  "total_visits": 953,
+  "updated_at": "2026-11-17T03:31:27+00:00",
+  "total_visits": 954,
   "location_count": 468,
   "locations": [
     {
@@ -8,7 +8,7 @@
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
       "visits": 131,
-      "last_visit": "16-Nov-2026 04:00:41",
+      "last_visit": "17-Nov-2026 01:17:20",
       "x": 15.995,
       "y": 29.014,
       "size": 18.0
@@ -18,7 +18,7 @@
       "lng": -121.895,
       "label": "United States, California, San Jose",
       "visits": 72,
-      "last_visit": "15-Nov-2026 22:03:54",
+      "last_visit": "17-Nov-2026 01:25:45",
       "x": 16.14,
       "y": 29.256,
       "size": 18.0
@@ -118,7 +118,7 @@
       "lng": -79.9561,
       "label": "United States, Pennsylvania, Pittsburgh",
       "visits": 7,
-      "last_visit": "15-Nov-2026 05:59:42",
+      "last_visit": "16-Nov-2026 21:22:55",
       "x": 27.79,
       "y": 27.531,
       "size": 11.23
@@ -168,7 +168,7 @@
       "lng": -84.4635,
       "label": "United States, Georgia, Atlanta",
       "visits": 5,
-      "last_visit": "08-Nov-2026 02:56:58",
+      "last_visit": "17-Nov-2026 02:59:52",
       "x": 26.538,
       "y": 31.183,
       "size": 10.58
@@ -248,7 +248,7 @@
       "lng": -79.9959,
       "label": "United States, Pennsylvania, Pittsburgh",
       "visits": 4,
-      "last_visit": "05-Nov-2026 03:25:04",
+      "last_visit": "16-Nov-2026 21:12:50",
       "x": 27.779,
       "y": 27.533,
       "size": 10.2
@@ -278,7 +278,7 @@
       "lng": 8.0,
       "label": "Europe, ,",
       "visits": 3,
-      "last_visit": "16-Nov-2026 02:23:40",
+      "last_visit": "16-Nov-2026 16:42:58",
       "x": 52.222,
       "y": 23.889,
       "size": 9.77
@@ -708,7 +708,7 @@
       "lng": 15.0,
       "label": "Sweden, ,",
       "visits": 2,
-      "last_visit": "12-Nov-2026 23:50:46",
+      "last_visit": "17-Nov-2026 01:17:53",
       "x": 54.167,
       "y": 15.556,
       "size": 9.26
@@ -984,6 +984,16 @@
       "size": 9.26
     },
     {
+      "lat": 39.3288,
+      "lng": -76.5967,
+      "label": "United States, Maryland, Baltimore",
+      "visits": 2,
+      "last_visit": "16-Nov-2026 20:50:33",
+      "x": 28.723,
+      "y": 28.151,
+      "size": 9.26
+    },
+    {
       "lat": 39.1434,
       "lng": -77.2014,
       "label": "United States, Maryland, Gaithersburg",
@@ -1018,7 +1028,7 @@
       "lng": -71.2047,
       "label": "United States, Massachusetts, Burlington",
       "visits": 2,
-      "last_visit": "17-Oct-2026 07:29:13",
+      "last_visit": "17-Nov-2026 01:38:18",
       "x": 30.221,
       "y": 26.386,
       "size": 9.26
@@ -1168,7 +1178,7 @@
       "lng": -83.1383,
       "label": "United States, Ohio, Columbus",
       "visits": 2,
-      "last_visit": "10-Nov-2026 06:02:49",
+      "last_visit": "16-Nov-2026 20:55:51",
       "x": 26.906,
       "y": 27.797,
       "size": 9.26
@@ -3501,16 +3511,6 @@
       "last_visit": "27-Jun-2026 04:28:28",
       "x": 26.644,
       "y": 29.373,
-      "size": 8.6
-    },
-    {
-      "lat": 39.3288,
-      "lng": -76.5967,
-      "label": "United States, Maryland, Baltimore",
-      "visits": 1,
-      "last_visit": "10-Nov-2026 23:59:27",
-      "x": 28.723,
-      "y": 28.151,
       "size": 8.6
     },
     {
