@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-11-18T12:08:27+00:00",
-  "total_visits": 957,
-  "location_count": 470,
+  "updated_at": "2026-11-18T20:49:19+00:00",
+  "total_visits": 958,
+  "location_count": 471,
   "locations": [
     {
       "lat": 37.7749,
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
       "visits": 131,
-      "last_visit": "18-Nov-2026 06:02:09",
+      "last_visit": "18-Nov-2026 13:45:21",
       "x": 15.995,
       "y": 29.014,
       "size": 18.0
@@ -28,7 +28,7 @@
       "lng": -121.8705,
       "label": "United States, California, Milpitas",
       "visits": 22,
-      "last_visit": "14-Nov-2026 07:05:20",
+      "last_visit": "18-Nov-2026 20:41:25",
       "x": 16.147,
       "y": 29.2,
       "size": 14.5
@@ -98,7 +98,7 @@
       "lng": -79.8358,
       "label": "United States, Pennsylvania, Pittsburgh",
       "visits": 8,
-      "last_visit": "17-Nov-2026 04:27:01",
+      "last_visit": "18-Nov-2026 14:38:29",
       "x": 27.823,
       "y": 27.522,
       "size": 11.53
@@ -128,7 +128,7 @@
       "lng": 121.3997,
       "label": "China, Shanghai, Shanghai",
       "visits": 6,
-      "last_visit": "18-Nov-2026 03:29:39",
+      "last_visit": "18-Nov-2026 12:42:35",
       "x": 83.722,
       "y": 32.752,
       "size": 10.92
@@ -258,7 +258,7 @@
       "lng": -75.7,
       "label": "Canada, Ontario, Ottawa",
       "visits": 3,
-      "last_visit": "27-Sep-2026 01:00:36",
+      "last_visit": "18-Nov-2026 14:12:37",
       "x": 28.972,
       "y": 24.769,
       "size": 9.77
@@ -278,7 +278,7 @@
       "lng": 8.0,
       "label": "Europe, ,",
       "visits": 3,
-      "last_visit": "18-Nov-2026 06:44:33",
+      "last_visit": "18-Nov-2026 14:31:35",
       "x": 52.222,
       "y": 23.889,
       "size": 9.77
@@ -2258,7 +2258,7 @@
       "lng": 127.1378,
       "label": "Korea, Republic of, Kyonggi-do, Seongnam",
       "visits": 1,
-      "last_visit": "15-Nov-2026 12:36:26",
+      "last_visit": "18-Nov-2026 20:07:52",
       "x": 85.316,
       "y": 29.201,
       "size": 8.6
@@ -3291,6 +3291,16 @@
       "last_visit": "07-Nov-2026 21:04:39",
       "x": 26.546,
       "y": 31.246,
+      "size": 8.6
+    },
+    {
+      "lat": 33.7516,
+      "lng": -84.3915,
+      "label": "United States, Georgia, Atlanta",
+      "visits": 1,
+      "last_visit": "18-Nov-2026 14:35:40",
+      "x": 26.558,
+      "y": 31.249,
       "size": 8.6
     },
     {
