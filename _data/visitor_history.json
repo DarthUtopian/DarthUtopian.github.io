@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-11-18T20:49:19+00:00",
-  "total_visits": 958,
-  "location_count": 471,
+  "updated_at": "2026-11-19T10:39:33+00:00",
+  "total_visits": 960,
+  "location_count": 472,
   "locations": [
     {
       "lat": 37.7749,
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
       "visits": 131,
-      "last_visit": "18-Nov-2026 13:45:21",
+      "last_visit": "19-Nov-2026 06:38:09",
       "x": 15.995,
       "y": 29.014,
       "size": 18.0
@@ -28,7 +28,7 @@
       "lng": -121.8705,
       "label": "United States, California, Milpitas",
       "visits": 22,
-      "last_visit": "18-Nov-2026 20:41:25",
+      "last_visit": "18-Nov-2026 21:02:37",
       "x": 16.147,
       "y": 29.2,
       "size": 14.5
@@ -38,7 +38,7 @@
       "lng": -97.0,
       "label": "United States, ,",
       "visits": 16,
-      "last_visit": "14-Nov-2026 04:38:59",
+      "last_visit": "19-Nov-2026 01:59:25",
       "x": 23.056,
       "y": 28.889,
       "size": 13.4
@@ -118,7 +118,7 @@
       "lng": -79.9561,
       "label": "United States, Pennsylvania, Pittsburgh",
       "visits": 7,
-      "last_visit": "17-Nov-2026 18:54:17",
+      "last_visit": "18-Nov-2026 23:21:02",
       "x": 27.79,
       "y": 27.531,
       "size": 11.23
@@ -128,7 +128,7 @@
       "lng": 121.3997,
       "label": "China, Shanghai, Shanghai",
       "visits": 6,
-      "last_visit": "18-Nov-2026 12:42:35",
+      "last_visit": "19-Nov-2026 06:07:23",
       "x": 83.722,
       "y": 32.752,
       "size": 10.92
@@ -168,7 +168,7 @@
       "lng": -84.4635,
       "label": "United States, Georgia, Atlanta",
       "visits": 5,
-      "last_visit": "17-Nov-2026 02:59:52",
+      "last_visit": "19-Nov-2026 02:56:36",
       "x": 26.538,
       "y": 31.183,
       "size": 10.58
@@ -178,7 +178,7 @@
       "lng": -95.5858,
       "label": "United States, Texas, Houston",
       "visits": 5,
-      "last_visit": "17-Nov-2026 21:39:42",
+      "last_visit": "18-Nov-2026 22:02:26",
       "x": 23.448,
       "y": 33.5,
       "size": 10.58
@@ -258,9 +258,19 @@
       "lng": -75.7,
       "label": "Canada, Ontario, Ottawa",
       "visits": 3,
-      "last_visit": "18-Nov-2026 14:12:37",
+      "last_visit": "19-Nov-2026 00:17:29",
       "x": 28.972,
       "y": 24.769,
+      "size": 9.77
+    },
+    {
+      "lat": 56.0,
+      "lng": 10.0,
+      "label": "Denmark, ,",
+      "visits": 3,
+      "last_visit": "18-Nov-2026 21:58:59",
+      "x": 52.778,
+      "y": 18.889,
       "size": 9.77
     },
     {
@@ -278,7 +288,7 @@
       "lng": 8.0,
       "label": "Europe, ,",
       "visits": 3,
-      "last_visit": "18-Nov-2026 14:31:35",
+      "last_visit": "19-Nov-2026 10:02:59",
       "x": 52.222,
       "y": 23.889,
       "size": 9.77
@@ -288,7 +298,7 @@
       "lng": 126.9783,
       "label": "Korea, Republic of, Seoul-t'ukpyolsi, Seoul",
       "visits": 3,
-      "last_visit": "17-Oct-2026 05:58:02",
+      "last_visit": "19-Nov-2026 10:19:16",
       "x": 85.272,
       "y": 29.112,
       "size": 9.77
@@ -594,16 +604,6 @@
       "size": 9.26
     },
     {
-      "lat": 56.0,
-      "lng": 10.0,
-      "label": "Denmark, ,",
-      "visits": 2,
-      "last_visit": "18-Nov-2026 07:04:53",
-      "x": 52.778,
-      "y": 18.889,
-      "size": 9.26
-    },
-    {
       "lat": 46.0,
       "lng": 2.0,
       "label": "France, ,",
@@ -898,7 +898,7 @@
       "lng": -104.9878,
       "label": "United States, Colorado, Englewood",
       "visits": 2,
-      "last_visit": "17-Nov-2026 21:43:04",
+      "last_visit": "18-Nov-2026 22:01:59",
       "x": 20.837,
       "y": 27.973,
       "size": 9.26
@@ -2408,7 +2408,7 @@
       "lng": -2.4833,
       "label": "Spain, Pais Vasco, Mondrag�n",
       "visits": 1,
-      "last_visit": "01-Nov-2026 14:38:24",
+      "last_visit": "19-Nov-2026 00:02:16",
       "x": 49.31,
       "y": 26.074,
       "size": 8.6
@@ -3168,7 +3168,7 @@
       "lng": -73.2637,
       "label": "United States, Connecticut, Fairfield",
       "visits": 1,
-      "last_visit": "02-Nov-2026 18:10:21",
+      "last_visit": "18-Nov-2026 23:43:28",
       "x": 29.649,
       "y": 27.144,
       "size": 8.6
@@ -4021,6 +4021,16 @@
       "last_visit": "25-Aug-2026 20:06:34",
       "x": 28.026,
       "y": 29.971,
+      "size": 8.6
+    },
+    {
+      "lat": 35.5023,
+      "lng": -80.8391,
+      "label": "United States, North Carolina, Davidson",
+      "visits": 1,
+      "last_visit": "19-Nov-2026 01:46:04",
+      "x": 27.545,
+      "y": 30.277,
       "size": 8.6
     },
     {
