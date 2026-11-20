@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T01:24:18+00:00",
+  "updated_at": "2026-11-20T08:58:35+00:00",
   "total_visits": 960,
   "location_count": 472,
   "locations": [
@@ -38,7 +38,7 @@
       "lng": -97.0,
       "label": "United States, ,",
       "visits": 16,
-      "last_visit": "19-Nov-2026 01:59:25",
+      "last_visit": "20-Nov-2026 02:12:13",
       "x": 23.056,
       "y": 28.889,
       "size": 13.4
@@ -288,7 +288,7 @@
       "lng": 8.0,
       "label": "Europe, ,",
       "visits": 3,
-      "last_visit": "19-Nov-2026 22:25:56",
+      "last_visit": "20-Nov-2026 06:33:14",
       "x": 52.222,
       "y": 23.889,
       "size": 9.77
@@ -768,7 +768,7 @@
       "lng": -117.3506,
       "label": "United States, California, Carlsbad",
       "visits": 2,
-      "last_visit": "12-Nov-2026 02:59:01",
+      "last_visit": "20-Nov-2026 02:54:59",
       "x": 17.403,
       "y": 31.579,
       "size": 9.26
@@ -808,7 +808,7 @@
       "lng": -118.0069,
       "label": "United States, California, Huntington Beach",
       "visits": 2,
-      "last_visit": "16-Oct-2026 18:34:20",
+      "last_visit": "20-Nov-2026 04:39:59",
       "x": 17.22,
       "y": 31.263,
       "size": 9.26
