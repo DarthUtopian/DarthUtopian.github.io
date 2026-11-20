@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-11-20T08:58:35+00:00",
-  "total_visits": 960,
-  "location_count": 472,
+  "updated_at": "2026-11-20T17:42:44+00:00",
+  "total_visits": 961,
+  "location_count": 473,
   "locations": [
     {
       "lat": 37.7749,
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
       "visits": 131,
-      "last_visit": "20-Nov-2026 00:06:49",
+      "last_visit": "20-Nov-2026 16:24:36",
       "x": 15.995,
       "y": 29.014,
       "size": 18.0
@@ -128,7 +128,7 @@
       "lng": 121.3997,
       "label": "China, Shanghai, Shanghai",
       "visits": 6,
-      "last_visit": "19-Nov-2026 06:07:23",
+      "last_visit": "20-Nov-2026 11:50:33",
       "x": 83.722,
       "y": 32.752,
       "size": 10.92
@@ -288,7 +288,7 @@
       "lng": 8.0,
       "label": "Europe, ,",
       "visits": 3,
-      "last_visit": "20-Nov-2026 06:33:14",
+      "last_visit": "20-Nov-2026 10:19:44",
       "x": 52.222,
       "y": 23.889,
       "size": 9.77
@@ -338,7 +338,7 @@
       "lng": -0.13,
       "label": "United Kingdom, ,",
       "visits": 3,
-      "last_visit": "19-Nov-2026 13:31:28",
+      "last_visit": "20-Nov-2026 11:08:09",
       "x": 49.964,
       "y": 21.389,
       "size": 9.77
@@ -1754,6 +1754,16 @@
       "size": 8.6
     },
     {
+      "lat": 34.6836,
+      "lng": 113.5325,
+      "label": "China, Henan, Zhengzhou",
+      "visits": 1,
+      "last_visit": "20-Nov-2026 11:38:24",
+      "x": 81.537,
+      "y": 30.731,
+      "size": 8.6
+    },
+    {
       "lat": 30.5801,
       "lng": 114.2734,
       "label": "China, Hubei, Wuhan",
@@ -3028,7 +3038,7 @@
       "lng": -122.4017,
       "label": "United States, California, San Francisco",
       "visits": 1,
-      "last_visit": "08-Aug-2026 17:59:13",
+      "last_visit": "20-Nov-2026 15:42:53",
       "x": 16.0,
       "y": 29.005,
       "size": 8.6
