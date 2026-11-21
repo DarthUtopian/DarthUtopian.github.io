@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T23:49:22+00:00",
+  "updated_at": "2026-11-21T06:23:26+00:00",
   "total_visits": 961,
   "location_count": 473,
   "locations": [
@@ -8,7 +8,7 @@
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
       "visits": 131,
-      "last_visit": "20-Nov-2026 16:24:36",
+      "last_visit": "21-Nov-2026 05:14:35",
       "x": 15.995,
       "y": 29.014,
       "size": 18.0
@@ -28,7 +28,7 @@
       "lng": -121.8705,
       "label": "United States, California, Milpitas",
       "visits": 22,
-      "last_visit": "18-Nov-2026 21:02:37",
+      "last_visit": "21-Nov-2026 05:13:33",
       "x": 16.147,
       "y": 29.2,
       "size": 14.5
@@ -118,7 +118,7 @@
       "lng": -79.9561,
       "label": "United States, Pennsylvania, Pittsburgh",
       "visits": 7,
-      "last_visit": "18-Nov-2026 23:21:02",
+      "last_visit": "21-Nov-2026 03:10:37",
       "x": 27.79,
       "y": 27.531,
       "size": 11.23
@@ -198,7 +198,7 @@
       "lng": 105.0,
       "label": "China, ,",
       "visits": 4,
-      "last_visit": "12-Nov-2026 07:20:51",
+      "last_visit": "21-Nov-2026 04:12:07",
       "x": 79.167,
       "y": 30.556,
       "size": 10.2
@@ -228,7 +228,7 @@
       "lng": -120.6091,
       "label": "United States, California, Atwater",
       "visits": 4,
-      "last_visit": "05-Oct-2026 05:14:14",
+      "last_visit": "21-Nov-2026 06:19:59",
       "x": 16.497,
       "y": 29.251,
       "size": 10.2
@@ -378,7 +378,7 @@
       "lng": -117.0864,
       "label": "United States, California, Escondido",
       "visits": 3,
-      "last_visit": "09-Nov-2026 02:58:18",
+      "last_visit": "21-Nov-2026 02:55:35",
       "x": 17.476,
       "y": 31.6,
       "size": 9.77
@@ -518,7 +518,7 @@
       "lng": -80.0525,
       "label": "United States, Pennsylvania, Pittsburgh",
       "visits": 3,
-      "last_visit": "10-Nov-2026 05:04:02",
+      "last_visit": "21-Nov-2026 04:58:11",
       "x": 27.763,
       "y": 27.474,
       "size": 9.77
@@ -898,7 +898,7 @@
       "lng": -104.9878,
       "label": "United States, Colorado, Englewood",
       "visits": 2,
-      "last_visit": "19-Nov-2026 22:10:48",
+      "last_visit": "21-Nov-2026 05:14:58",
       "x": 20.837,
       "y": 27.973,
       "size": 9.26
