@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T14:52:41+00:00",
+  "updated_at": "2026-11-22T08:38:14+00:00",
   "total_visits": 961,
   "location_count": 473,
   "locations": [
@@ -348,7 +348,7 @@
       "lng": -122.2536,
       "label": "United States, California, Berkeley",
       "visits": 3,
-      "last_visit": "12-Nov-2026 08:24:13",
+      "last_visit": "22-Nov-2026 03:12:16",
       "x": 16.041,
       "y": 28.963,
       "size": 9.77
@@ -378,7 +378,7 @@
       "lng": -117.0864,
       "label": "United States, California, Escondido",
       "visits": 3,
-      "last_visit": "21-Nov-2026 02:55:35",
+      "last_visit": "22-Nov-2026 02:58:24",
       "x": 17.476,
       "y": 31.6,
       "size": 9.77
