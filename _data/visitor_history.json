@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-22T22:23:30+00:00",
-  "total_visits": 961,
-  "location_count": 473,
+  "updated_at": "2026-11-23T02:59:14+00:00",
+  "total_visits": 967,
+  "location_count": 474,
   "locations": [
     {
       "lat": 37.7749,
@@ -154,6 +154,16 @@
       "size": 10.92
     },
     {
+      "lat": 45.3093,
+      "lng": -74.0552,
+      "label": "Canada, Quebec, Les C�dres",
+      "visits": 5,
+      "last_visit": "23-Nov-2026 01:10:20",
+      "x": 29.429,
+      "y": 24.828,
+      "size": 10.58
+    },
+    {
       "lat": 37.4192,
       "lng": -122.0574,
       "label": "United States, California, Mountain View",
@@ -201,6 +211,16 @@
       "last_visit": "21-Nov-2026 04:12:07",
       "x": 79.167,
       "y": 30.556,
+      "size": 10.2
+    },
+    {
+      "lat": 47.0,
+      "lng": 8.0,
+      "label": "Europe, ,",
+      "visits": 4,
+      "last_visit": "23-Nov-2026 02:28:19",
+      "x": 52.222,
+      "y": 23.889,
       "size": 10.2
     },
     {
@@ -284,21 +304,11 @@
       "size": 9.77
     },
     {
-      "lat": 47.0,
-      "lng": 8.0,
-      "label": "Europe, ,",
-      "visits": 3,
-      "last_visit": "20-Nov-2026 10:19:44",
-      "x": 52.222,
-      "y": 23.889,
-      "size": 9.77
-    },
-    {
       "lat": 37.5985,
       "lng": 126.9783,
       "label": "Korea, Republic of, Seoul-t'ukpyolsi, Seoul",
       "visits": 3,
-      "last_visit": "19-Nov-2026 10:19:16",
+      "last_visit": "23-Nov-2026 02:41:48",
       "x": 85.272,
       "y": 29.112,
       "size": 9.77
@@ -538,7 +548,7 @@
       "lng": -122.3321,
       "label": "United States, Washington, Seattle",
       "visits": 3,
-      "last_visit": "09-Nov-2026 07:59:27",
+      "last_visit": "23-Nov-2026 01:14:57",
       "x": 16.019,
       "y": 23.552,
       "size": 9.77
@@ -758,7 +768,7 @@
       "lng": -117.1938,
       "label": "United States, California, Bonsall",
       "visits": 2,
-      "last_visit": "27-Oct-2026 06:47:50",
+      "last_visit": "23-Nov-2026 02:56:05",
       "x": 17.446,
       "y": 31.507,
       "size": 9.26
