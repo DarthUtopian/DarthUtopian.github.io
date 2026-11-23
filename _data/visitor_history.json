@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-23T02:59:14+00:00",
-  "total_visits": 967,
-  "location_count": 474,
+  "updated_at": "2026-11-23T12:14:00+00:00",
+  "total_visits": 970,
+  "location_count": 475,
   "locations": [
     {
       "lat": 37.7749,
@@ -18,7 +18,7 @@
       "lng": -121.895,
       "label": "United States, California, San Jose",
       "visits": 72,
-      "last_visit": "20-Nov-2026 00:55:58",
+      "last_visit": "23-Nov-2026 03:56:00",
       "x": 16.14,
       "y": 29.256,
       "size": 18.0
@@ -181,6 +181,16 @@
       "last_visit": "19-Nov-2026 02:56:36",
       "x": 26.538,
       "y": 31.183,
+      "size": 10.58
+    },
+    {
+      "lat": 40.5465,
+      "lng": -80.0525,
+      "label": "United States, Pennsylvania, Pittsburgh",
+      "visits": 5,
+      "last_visit": "23-Nov-2026 06:44:31",
+      "x": 27.763,
+      "y": 27.474,
       "size": 10.58
     },
     {
@@ -521,16 +531,6 @@
       "last_visit": "11-Sep-2026 01:22:19",
       "x": 27.727,
       "y": 27.5,
-      "size": 9.77
-    },
-    {
-      "lat": 40.5465,
-      "lng": -80.0525,
-      "label": "United States, Pennsylvania, Pittsburgh",
-      "visits": 3,
-      "last_visit": "21-Nov-2026 04:58:11",
-      "x": 27.763,
-      "y": 27.474,
       "size": 9.77
     },
     {
@@ -4471,6 +4471,16 @@
       "last_visit": "10-Nov-2026 07:58:52",
       "x": 23.503,
       "y": 33.478,
+      "size": 8.6
+    },
+    {
+      "lat": 29.7523,
+      "lng": -95.367,
+      "label": "United States, Texas, Houston",
+      "visits": 1,
+      "last_visit": "23-Nov-2026 09:43:48",
+      "x": 23.509,
+      "y": 33.471,
       "size": 8.6
     },
     {
