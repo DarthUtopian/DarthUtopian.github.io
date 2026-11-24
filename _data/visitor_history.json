@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-24T10:17:30+00:00",
-  "total_visits": 972,
-  "location_count": 477,
+  "updated_at": "2026-11-24T20:46:56+00:00",
+  "total_visits": 973,
+  "location_count": 478,
   "locations": [
     {
       "lat": 37.7749,
@@ -118,7 +118,7 @@
       "lng": -79.9561,
       "label": "United States, Pennsylvania, Pittsburgh",
       "visits": 7,
-      "last_visit": "24-Nov-2026 09:08:11",
+      "last_visit": "24-Nov-2026 20:41:05",
       "x": 27.79,
       "y": 27.531,
       "size": 11.23
@@ -228,7 +228,7 @@
       "lng": 8.0,
       "label": "Europe, ,",
       "visits": 4,
-      "last_visit": "23-Nov-2026 13:33:15",
+      "last_visit": "24-Nov-2026 13:18:10",
       "x": 52.222,
       "y": 23.889,
       "size": 10.2
@@ -238,7 +238,7 @@
       "lng": 7.1,
       "label": "Germany, Nordrhein-Westfalen, Bonn",
       "visits": 4,
-      "last_visit": "29-Oct-2026 13:43:04",
+      "last_visit": "24-Nov-2026 14:53:04",
       "x": 51.972,
       "y": 21.815,
       "size": 10.2
@@ -4571,6 +4571,16 @@
       "last_visit": "18-Jul-2026 00:02:26",
       "x": 28.505,
       "y": 28.342,
+      "size": 8.6
+    },
+    {
+      "lat": 36.8629,
+      "lng": -82.1423,
+      "label": "United States, Virginia, Lebanon",
+      "visits": 1,
+      "last_visit": "24-Nov-2026 17:57:04",
+      "x": 27.183,
+      "y": 29.521,
       "size": 8.6
     },
     {
