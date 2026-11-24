@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-11-23T12:14:00+00:00",
-  "total_visits": 970,
-  "location_count": 475,
+  "updated_at": "2026-11-24T00:13:18+00:00",
+  "total_visits": 972,
+  "location_count": 477,
   "locations": [
     {
       "lat": 37.7749,
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
       "visits": 131,
-      "last_visit": "22-Nov-2026 21:47:50",
+      "last_visit": "23-Nov-2026 16:36:31",
       "x": 15.995,
       "y": 29.014,
       "size": 18.0
@@ -18,7 +18,7 @@
       "lng": -121.895,
       "label": "United States, California, San Jose",
       "visits": 72,
-      "last_visit": "23-Nov-2026 03:56:00",
+      "last_visit": "23-Nov-2026 23:47:03",
       "x": 16.14,
       "y": 29.256,
       "size": 18.0
@@ -118,7 +118,7 @@
       "lng": -79.9561,
       "label": "United States, Pennsylvania, Pittsburgh",
       "visits": 7,
-      "last_visit": "21-Nov-2026 03:10:37",
+      "last_visit": "23-Nov-2026 21:40:18",
       "x": 27.79,
       "y": 27.531,
       "size": 11.23
@@ -198,7 +198,7 @@
       "lng": -95.5858,
       "label": "United States, Texas, Houston",
       "visits": 5,
-      "last_visit": "18-Nov-2026 22:02:26",
+      "last_visit": "23-Nov-2026 22:09:46",
       "x": 23.448,
       "y": 33.5,
       "size": 10.58
@@ -228,7 +228,7 @@
       "lng": 8.0,
       "label": "Europe, ,",
       "visits": 4,
-      "last_visit": "23-Nov-2026 02:28:19",
+      "last_visit": "23-Nov-2026 13:33:15",
       "x": 52.222,
       "y": 23.889,
       "size": 10.2
@@ -318,7 +318,7 @@
       "lng": 126.9783,
       "label": "Korea, Republic of, Seoul-t'ukpyolsi, Seoul",
       "visits": 3,
-      "last_visit": "23-Nov-2026 02:41:48",
+      "last_visit": "23-Nov-2026 15:24:19",
       "x": 85.272,
       "y": 29.112,
       "size": 9.77
@@ -338,7 +338,7 @@
       "lng": 15.0,
       "label": "Sweden, ,",
       "visits": 3,
-      "last_visit": "17-Nov-2026 20:37:23",
+      "last_visit": "23-Nov-2026 20:13:32",
       "x": 54.167,
       "y": 15.556,
       "size": 9.77
@@ -908,7 +908,7 @@
       "lng": -104.9878,
       "label": "United States, Colorado, Englewood",
       "visits": 2,
-      "last_visit": "22-Nov-2026 21:50:50",
+      "last_visit": "23-Nov-2026 22:12:43",
       "x": 20.837,
       "y": 27.973,
       "size": 9.26
@@ -2004,6 +2004,16 @@
       "size": 8.6
     },
     {
+      "lat": 48.8222,
+      "lng": 2.1221,
+      "label": "France, Ile-de-France, Le Chesnay",
+      "visits": 1,
+      "last_visit": "23-Nov-2026 17:28:39",
+      "x": 50.589,
+      "y": 22.877,
+      "size": 8.6
+    },
+    {
       "lat": 48.8667,
       "lng": 2.3333,
       "label": "France, Ile-de-France, Paris",
@@ -2498,7 +2508,7 @@
       "lng": 8.55,
       "label": "Switzerland, Zurich, Zurich",
       "visits": 1,
-      "last_visit": "04-Nov-2026 13:50:25",
+      "last_visit": "23-Nov-2026 14:21:38",
       "x": 52.375,
       "y": 23.685,
       "size": 8.6
@@ -2828,7 +2838,7 @@
       "lng": -121.9743,
       "label": "United States, California, Danville",
       "visits": 1,
-      "last_visit": "16-Oct-2026 20:36:45",
+      "last_visit": "23-Nov-2026 17:39:22",
       "x": 16.118,
       "y": 28.993,
       "size": 8.6
@@ -3921,6 +3931,16 @@
       "last_visit": "25-Jun-2026 18:17:30",
       "x": 29.373,
       "y": 27.791,
+      "size": 8.6
+    },
+    {
+      "lat": 39.5996,
+      "lng": -74.3687,
+      "label": "United States, New Jersey, Tuckerton",
+      "visits": 1,
+      "last_visit": "23-Nov-2026 19:06:50",
+      "x": 29.342,
+      "y": 28.0,
       "size": 8.6
     },
     {
