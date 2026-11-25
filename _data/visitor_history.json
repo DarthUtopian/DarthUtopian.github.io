@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-25T14:10:23+00:00",
-  "total_visits": 973,
+  "updated_at": "2026-11-25T23:13:37+00:00",
+  "total_visits": 974,
   "location_count": 478,
   "locations": [
     {
@@ -18,7 +18,7 @@
       "lng": -121.895,
       "label": "United States, California, San Jose",
       "visits": 72,
-      "last_visit": "24-Nov-2026 22:09:31",
+      "last_visit": "25-Nov-2026 21:43:44",
       "x": 16.14,
       "y": 29.256,
       "size": 18.0
@@ -228,7 +228,7 @@
       "lng": 8.0,
       "label": "Europe, ,",
       "visits": 4,
-      "last_visit": "24-Nov-2026 13:18:10",
+      "last_visit": "25-Nov-2026 15:19:38",
       "x": 52.222,
       "y": 23.889,
       "size": 10.2
@@ -298,7 +298,7 @@
       "lng": 10.0,
       "label": "Denmark, ,",
       "visits": 3,
-      "last_visit": "18-Nov-2026 21:58:59",
+      "last_visit": "25-Nov-2026 19:28:19",
       "x": 52.778,
       "y": 18.889,
       "size": 9.77
@@ -1071,6 +1071,16 @@
       "last_visit": "02-Nov-2026 16:05:05",
       "x": 26.746,
       "y": 26.504,
+      "size": 9.26
+    },
+    {
+      "lat": 42.3223,
+      "lng": -83.1763,
+      "label": "United States, Michigan, Dearborn",
+      "visits": 2,
+      "last_visit": "25-Nov-2026 21:31:04",
+      "x": 26.895,
+      "y": 26.488,
       "size": 9.26
     },
     {
@@ -3731,16 +3741,6 @@
       "last_visit": "18-Jun-2026 01:22:27",
       "x": 26.879,
       "y": 26.285,
-      "size": 8.6
-    },
-    {
-      "lat": 42.3223,
-      "lng": -83.1763,
-      "label": "United States, Michigan, Dearborn",
-      "visits": 1,
-      "last_visit": "25-Nov-2026 06:35:56",
-      "x": 26.895,
-      "y": 26.488,
       "size": 8.6
     },
     {
