@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T04:00:12+00:00",
+  "updated_at": "2026-11-25T14:10:23+00:00",
   "total_visits": 973,
   "location_count": 478,
   "locations": [
@@ -58,7 +58,7 @@
       "lng": 116.3883,
       "label": "China, Beijing, Beijing",
       "visits": 9,
-      "last_visit": "15-Nov-2026 16:41:59",
+      "last_visit": "25-Nov-2026 09:20:22",
       "x": 82.33,
       "y": 27.817,
       "size": 11.8
@@ -398,7 +398,7 @@
       "lng": -117.0864,
       "label": "United States, California, Escondido",
       "visits": 3,
-      "last_visit": "22-Nov-2026 02:58:24",
+      "last_visit": "25-Nov-2026 08:03:59",
       "x": 17.476,
       "y": 31.6,
       "size": 9.77
@@ -3078,7 +3078,7 @@
       "lng": -121.8643,
       "label": "United States, California, San Jose",
       "visits": 1,
-      "last_visit": "06-Jul-2026 20:26:32",
+      "last_visit": "25-Nov-2026 12:09:23",
       "x": 16.149,
       "y": 29.238,
       "size": 8.6
@@ -3738,7 +3738,7 @@
       "lng": -83.1763,
       "label": "United States, Michigan, Dearborn",
       "visits": 1,
-      "last_visit": "10-Oct-2026 03:17:41",
+      "last_visit": "25-Nov-2026 06:35:56",
       "x": 26.895,
       "y": 26.488,
       "size": 8.6
@@ -4128,7 +4128,7 @@
       "lng": -84.4569,
       "label": "United States, Ohio, Cincinnati",
       "visits": 1,
-      "last_visit": "15-Nov-2026 11:31:59",
+      "last_visit": "25-Nov-2026 12:01:33",
       "x": 26.54,
       "y": 28.243,
       "size": 8.6
