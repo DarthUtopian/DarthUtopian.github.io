@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-26T05:20:22+00:00",
-  "total_visits": 974,
-  "location_count": 478,
+  "updated_at": "2026-11-26T15:38:10+00:00",
+  "total_visits": 976,
+  "location_count": 479,
   "locations": [
     {
       "lat": 37.7749,
@@ -164,6 +164,16 @@
       "size": 10.58
     },
     {
+      "lat": 47.0,
+      "lng": 8.0,
+      "label": "Europe, ,",
+      "visits": 5,
+      "last_visit": "26-Nov-2026 15:22:09",
+      "x": 52.222,
+      "y": 23.889,
+      "size": 10.58
+    },
+    {
       "lat": 37.4192,
       "lng": -122.0574,
       "label": "United States, California, Mountain View",
@@ -221,16 +231,6 @@
       "last_visit": "21-Nov-2026 04:12:07",
       "x": 79.167,
       "y": 30.556,
-      "size": 10.2
-    },
-    {
-      "lat": 47.0,
-      "lng": 8.0,
-      "label": "Europe, ,",
-      "visits": 4,
-      "last_visit": "26-Nov-2026 02:36:13",
-      "x": 52.222,
-      "y": 23.889,
       "size": 10.2
     },
     {
@@ -1774,6 +1774,16 @@
       "size": 8.6
     },
     {
+      "lat": 45.75,
+      "lng": 126.65,
+      "label": "China, Heilongjiang, Harbin",
+      "visits": 1,
+      "last_visit": "26-Nov-2026 11:09:45",
+      "x": 85.181,
+      "y": 24.583,
+      "size": 8.6
+    },
+    {
       "lat": 34.6836,
       "lng": 113.5325,
       "label": "China, Henan, Zhengzhou",
@@ -1928,7 +1938,7 @@
       "lng": 120.1614,
       "label": "China, Zhejiang, Hangzhou",
       "visits": 1,
-      "last_visit": "26-Sep-2026 04:45:29",
+      "last_visit": "26-Nov-2026 09:39:28",
       "x": 83.378,
       "y": 33.17,
       "size": 8.6
