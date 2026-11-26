@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T23:13:37+00:00",
+  "updated_at": "2026-11-26T05:20:22+00:00",
   "total_visits": 974,
   "location_count": 478,
   "locations": [
@@ -178,7 +178,7 @@
       "lng": -84.4635,
       "label": "United States, Georgia, Atlanta",
       "visits": 5,
-      "last_visit": "19-Nov-2026 02:56:36",
+      "last_visit": "26-Nov-2026 02:58:49",
       "x": 26.538,
       "y": 31.183,
       "size": 10.58
@@ -228,7 +228,7 @@
       "lng": 8.0,
       "label": "Europe, ,",
       "visits": 4,
-      "last_visit": "25-Nov-2026 15:19:38",
+      "last_visit": "26-Nov-2026 02:36:13",
       "x": 52.222,
       "y": 23.889,
       "size": 10.2
@@ -2448,7 +2448,7 @@
       "lng": -2.4833,
       "label": "Spain, Pais Vasco, Mondrag�n",
       "visits": 1,
-      "last_visit": "19-Nov-2026 00:02:16",
+      "last_visit": "26-Nov-2026 00:19:32",
       "x": 49.31,
       "y": 26.074,
       "size": 8.6
