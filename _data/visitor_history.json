@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-11-26T15:38:10+00:00",
-  "total_visits": 976,
-  "location_count": 479,
+  "updated_at": "2026-11-27T08:57:35+00:00",
+  "total_visits": 978,
+  "location_count": 481,
   "locations": [
     {
       "lat": 37.7749,
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
       "visits": 131,
-      "last_visit": "24-Nov-2026 23:53:07",
+      "last_visit": "27-Nov-2026 06:03:45",
       "x": 15.995,
       "y": 29.014,
       "size": 18.0
@@ -188,7 +188,7 @@
       "lng": -84.4635,
       "label": "United States, Georgia, Atlanta",
       "visits": 5,
-      "last_visit": "26-Nov-2026 02:58:49",
+      "last_visit": "27-Nov-2026 02:53:15",
       "x": 26.538,
       "y": 31.183,
       "size": 10.58
@@ -208,7 +208,7 @@
       "lng": -95.5858,
       "label": "United States, Texas, Houston",
       "visits": 5,
-      "last_visit": "23-Nov-2026 22:09:46",
+      "last_visit": "27-Nov-2026 02:31:14",
       "x": 23.448,
       "y": 33.5,
       "size": 10.58
@@ -708,7 +708,7 @@
       "lng": 103.8558,
       "label": "Singapore, , Singapore",
       "visits": 2,
-      "last_visit": "10-Nov-2026 01:26:14",
+      "last_visit": "27-Nov-2026 02:29:14",
       "x": 78.849,
       "y": 49.282,
       "size": 9.26
@@ -2301,6 +2301,16 @@
       "last_visit": "11-Sep-2026 12:09:38",
       "x": 85.203,
       "y": 29.192,
+      "size": 8.6
+    },
+    {
+      "lat": 37.4989,
+      "lng": 126.7831,
+      "label": "Korea, Republic of, Kyonggi-do, Bucheon",
+      "visits": 1,
+      "last_visit": "27-Nov-2026 01:23:57",
+      "x": 85.218,
+      "y": 29.167,
       "size": 8.6
     },
     {
@@ -4601,6 +4611,16 @@
       "last_visit": "26-Oct-2026 08:10:46",
       "x": 28.463,
       "y": 28.236,
+      "size": 8.6
+    },
+    {
+      "lat": 37.3483,
+      "lng": -79.1571,
+      "label": "United States, Virginia, Lynchburg",
+      "visits": 1,
+      "last_visit": "27-Nov-2026 05:18:06",
+      "x": 28.012,
+      "y": 29.251,
       "size": 8.6
     },
     {
