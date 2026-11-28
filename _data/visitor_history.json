@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-11-27T08:57:35+00:00",
-  "total_visits": 978,
-  "location_count": 481,
+  "updated_at": "2026-11-28T09:58:40+00:00",
+  "total_visits": 981,
+  "location_count": 483,
   "locations": [
     {
       "lat": 37.7749,
       "lng": -122.4194,
       "label": "United States, California, San Francisco",
       "visits": 131,
-      "last_visit": "27-Nov-2026 06:03:45",
+      "last_visit": "28-Nov-2026 07:40:45",
       "x": 15.995,
       "y": 29.014,
       "size": 18.0
@@ -38,7 +38,7 @@
       "lng": -97.0,
       "label": "United States, ,",
       "visits": 16,
-      "last_visit": "24-Nov-2026 01:34:21",
+      "last_visit": "27-Nov-2026 21:48:33",
       "x": 23.056,
       "y": 28.889,
       "size": 13.4
@@ -168,7 +168,7 @@
       "lng": 8.0,
       "label": "Europe, ,",
       "visits": 5,
-      "last_visit": "26-Nov-2026 15:22:09",
+      "last_visit": "27-Nov-2026 14:10:07",
       "x": 52.222,
       "y": 23.889,
       "size": 10.58
@@ -188,7 +188,7 @@
       "lng": -84.4635,
       "label": "United States, Georgia, Atlanta",
       "visits": 5,
-      "last_visit": "27-Nov-2026 02:53:15",
+      "last_visit": "28-Nov-2026 02:53:50",
       "x": 26.538,
       "y": 31.183,
       "size": 10.58
@@ -208,7 +208,7 @@
       "lng": -95.5858,
       "label": "United States, Texas, Houston",
       "visits": 5,
-      "last_visit": "27-Nov-2026 02:31:14",
+      "last_visit": "28-Nov-2026 02:56:19",
       "x": 23.448,
       "y": 33.5,
       "size": 10.58
@@ -228,7 +228,7 @@
       "lng": 105.0,
       "label": "China, ,",
       "visits": 4,
-      "last_visit": "21-Nov-2026 04:12:07",
+      "last_visit": "28-Nov-2026 09:37:37",
       "x": 79.167,
       "y": 30.556,
       "size": 10.2
@@ -358,7 +358,7 @@
       "lng": -0.13,
       "label": "United Kingdom, ,",
       "visits": 3,
-      "last_visit": "22-Nov-2026 14:06:33",
+      "last_visit": "27-Nov-2026 23:54:01",
       "x": 49.964,
       "y": 21.389,
       "size": 9.77
@@ -708,7 +708,7 @@
       "lng": 103.8558,
       "label": "Singapore, , Singapore",
       "visits": 2,
-      "last_visit": "27-Nov-2026 02:29:14",
+      "last_visit": "27-Nov-2026 14:39:38",
       "x": 78.849,
       "y": 49.282,
       "size": 9.26
@@ -908,7 +908,7 @@
       "lng": -104.9878,
       "label": "United States, Colorado, Englewood",
       "visits": 2,
-      "last_visit": "23-Nov-2026 22:12:43",
+      "last_visit": "28-Nov-2026 02:56:38",
       "x": 20.837,
       "y": 27.973,
       "size": 9.26
@@ -1061,6 +1061,16 @@
       "last_visit": "20-Oct-2026 04:03:02",
       "x": 30.228,
       "y": 26.688,
+      "size": 9.26
+    },
+    {
+      "lat": 42.6105,
+      "lng": -71.2306,
+      "label": "United States, Massachusetts, Tewksbury",
+      "visits": 2,
+      "last_visit": "28-Nov-2026 04:27:09",
+      "x": 30.214,
+      "y": 26.327,
       "size": 9.26
     },
     {
@@ -2704,6 +2714,16 @@
       "size": 8.6
     },
     {
+      "lat": 53.5833,
+      "lng": -2.2167,
+      "label": "United Kingdom, Rochdale, Heywood",
+      "visits": 1,
+      "last_visit": "27-Nov-2026 09:28:37",
+      "x": 49.384,
+      "y": 20.232,
+      "size": 8.6
+    },
+    {
       "lat": 53.4333,
       "lng": -1.35,
       "label": "United Kingdom, Rotherham, Rotherham",
@@ -2931,6 +2951,16 @@
       "last_visit": "10-Oct-2026 04:35:35",
       "x": 16.116,
       "y": 29.129,
+      "size": 8.6
+    },
+    {
+      "lat": 37.6688,
+      "lng": -122.0808,
+      "label": "United States, California, Hayward",
+      "visits": 1,
+      "last_visit": "27-Nov-2026 21:09:34",
+      "x": 16.089,
+      "y": 29.073,
       "size": 8.6
     },
     {
@@ -3711,16 +3741,6 @@
       "last_visit": "24-Nov-2026 08:26:20",
       "x": 30.309,
       "y": 26.215,
-      "size": 8.6
-    },
-    {
-      "lat": 42.6105,
-      "lng": -71.2306,
-      "label": "United States, Massachusetts, Tewksbury",
-      "visits": 1,
-      "last_visit": "17-Jun-2026 01:11:07",
-      "x": 30.214,
-      "y": 26.327,
       "size": 8.6
     },
     {
